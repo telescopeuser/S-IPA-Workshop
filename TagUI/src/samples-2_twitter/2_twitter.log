@@ -1,0 +1,28 @@
+
+START - automation started - Wed Oct 17 2018 12:04:29 GMT+0800 (+08)
+https://twitter.com/sam_gu_zhan - 顾 瞻 Sam (@Sam_GU_Zhan) | Twitter
+
+hover ProfileAvatar
+wait 2.5
+snap page to profile_image.png
+read ProfileHeaderCard-nameLink to profile_name
+read ProfileHeaderCard-screennameLink to profile_id
+Profile Name - 顾 瞻   Sam (using double quotes for text)
+Profile Name - 顾 瞻   Sam (using single quotes for text)
+Profile Name - 顾 瞻   Sam (using + as separator instead of only space)
+Profile Name - 顾 瞻   Sam (directly write using JavaScript code)
+Profile Name - 顾 瞻   Sam, Profile ID - @Sam_GU_Zhan (using multiple variables)
+dump "Profile Name - " profile_name ", Profile ID - " profile_id " (using multiple variables)"
+dump "Profile Name - " profile_name ", Profile ID - " profile_id " (using multiple variables)" to profile.txt
+save ProfileHeaderCard-screennameLink
+save ProfileHeaderCard-screennameLink to profile_id.txt
+write 'line 1' to text_test.txt
+write 'line ' line_number to text_test.txt
+load text_test.txt to file_content
+showing file content of text_test.txt
+line 1
+line 2
+
+https://twitter.com/sam_gu_zhan - 顾 瞻 Sam (@Sam_GU_Zhan) | Twitter
+FINISH - automation finished - 7.9s
+

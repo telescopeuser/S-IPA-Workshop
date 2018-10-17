@@ -1,0 +1,73 @@
+
+START - automation started - Tue Oct 16 2018 18:49:46 GMT+0800 (+08)
+https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan - GU Zhan
+
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[1] to sam_gu_zhan/1.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[2] to sam_gu_zhan/2.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[3] to sam_gu_zhan/3.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[4] to sam_gu_zhan/4.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[5] to sam_gu_zhan/5.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[6] to sam_gu_zhan/6.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[7] to sam_gu_zhan/7.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[8] to sam_gu_zhan/8.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[9] to sam_gu_zhan/9.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[10] to sam_gu_zhan/10.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[11] to sam_gu_zhan/11.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[12] to sam_gu_zhan/12.png
+snap (//*[contains(@src,".png") or contains(@src,".jpeg") or contains(@src,".jpg")])[13] to sam_gu_zhan/13.png
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+
+https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU Zhan - GU Zhan
+FINISH - automation finished - 78.2s
+
