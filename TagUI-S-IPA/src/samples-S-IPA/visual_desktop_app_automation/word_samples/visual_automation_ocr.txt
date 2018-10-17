@@ -1,0 +1,23 @@
+// Using OCR to grab text from PDF (alternatively use Python libraries or other CLI tools), followed by typing and printing thank-you letter from MS Word. Attached images - // https://github.com/kelaberetiv/TagUI/issues/113#issuecomment-378194245
+
+word_samples.zip
+click minimize.png  
+dclick receipt.png
+wait 2 seconds
+read page.png to receipt_text
+write receipt_text to receipt.txt
+click close_pdf.png
+
+dclick letter.png
+wait 8 seconds
+dclick address.png
+type page.png as John Lim[enter]123 ABC Street[enter]Singapore 1234567[clear]
+dclick name.png
+type page.bmp as John
+dclick amount.png
+type page.png as $123.00
+click file.png
+click print.png
+click confirm.png
+click close_word.png
+click dontsave.png
