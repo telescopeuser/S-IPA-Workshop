@@ -7,7 +7,7 @@ running SikuliX: -Xmx512M -Dfile.encoding=UTF-8 -Dsikuli.FromCommandLine
 [debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment()
 [debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment().getScreenDevices()
 [debug] RunTimeINIT: ScreenDevice 0 has (0,0) --- will be primary Screen(0)
-[debug] RunTimeINIT: Monitor 0: (0, 0) 1920 x 934
+[debug] RunTimeINIT: Monitor 0: (0, 0) 1920 x 975
 [debug] RunTimeINIT: runs as sikulix.jar in: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
 [debug] RunTimeINIT: exists libs folder at: /home/iss-user/.Sikulix/SikulixLibs_201804082040
 ***** show environment for IDE (build 201804082040)
@@ -59,9 +59,7 @@ tagui.sikuli
 [debug] RunTimeIDE: loadLib: libVisionProxy.so
 [debug] Mouse: init start
 [debug] Mouse: init end
-[error] App: command wmctrl is not executable, the App features will not work
-[error] App: command xdotool is not executable, the App features will not work
-[debug] Jython: requested to use as default region: S(0)[0,0 1920x934]
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x975]
 [debug] Jython: sikuli: Sikuli: ending init
 [debug] JythonScriptRunner: running Jython 2.7.1 
 [debug] ScriptingSupport: initScriptingSupport: added: jython
@@ -69,25 +67,42 @@ tagui.sikuli
 [debug] ScriptingSupport: initScriptingSupport: exit with defaultrunner: jython (py)
 [debug] ImagePath: new BundlePath:
 /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/
-[debug] Jython: requested to use as default region: S(0)[0,0 1920x934]
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x975]
 [debug] JythonScriptRunner: runPython: running script: 
 /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
 [tagui] START  - listening for inputs
 
-[tagui] INPUT  - [1] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image-a.png
-[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image-a.png
+[tagui] INPUT  - [1] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png
 [tagui] OUTPUT - [1] SUCCESS
 
-[tagui] INPUT  - [2] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png
-[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png
-[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png)
-[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png (30 KB) (# 1 KB 30 -- 0 % of 64 MB)
-[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png to appear in S(0)[0,0 1920x934]
-[debug] Region: handleFindFailed: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png
-[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png did not appear [10473 msec]
-[tagui] OUTPUT - [2] ERROR
+[tagui] INPUT  - [2] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png
+[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (15 KB) (# 1 KB 15 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png to appear in S(0)[0,0 1920x975]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png has appeared (M[119,54 69x59]@S(S(0)[0,0 1920x975]) S:1.00 C:153,83 [1186 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png to appear in S(0)[0,0 1920x975]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png appeared (M[119,54 69x59]@S(S(0)[0,0 1920x975]) S:1.00 C:153,83 [1384 msec])
+[debug] DOUBLE CLICK on L(153,83)@S(0)[0,0 1920x975] (574 msec)
+[tagui] OUTPUT - [2] SUCCESS
+
+[tagui] INPUT  - [3] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png
+[tagui] OUTPUT - [3] SUCCESS
+
+[tagui] INPUT  - [4] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s
+[debug]  TYPE "s"
+[debug] Region:  TYPE "s"
+[tagui] OUTPUT - [4] SUCCESS
+
+[tagui] INPUT  - [5] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png
+[tagui] OUTPUT - [5] SUCCESS
 
 [tagui] FINISH - stopped listening
 [debug] RunTimeIDE: final cleanup
 [debug] FileManager: deleteFileOrFolder:
-/tmp/Sikulix_1468476243
+/tmp/Sikulix_1041272542

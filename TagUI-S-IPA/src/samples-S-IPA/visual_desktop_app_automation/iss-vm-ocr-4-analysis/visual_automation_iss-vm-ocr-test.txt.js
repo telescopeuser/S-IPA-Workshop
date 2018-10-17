@@ -1316,7 +1316,7 @@ function getTimeoutAndCheckNextStepFunction(timeout, then, methodName, defaultTi
 }
 
 // flow path for save_text and snap_image
-var flow_path = '/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip';
+var flow_path = '/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis';
 
 casper.start('about:blank', function() {
 techo('about:blank' + ' - ' + this.getTitle() + '\n');});
@@ -1324,39 +1324,39 @@ techo('about:blank' + ' - ' + this.getTitle() + '\n');});
 // Outlook
 // Helper function visible() can also be used to detect whether an image is visible.
 // https://github.com/kelaberetiv/TagUI/issues/113#issuecomment-378194245
-casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_1.png'); var fs = require('fs');
-if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_1.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png'); var fs = require('fs');
+if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png on screen').exit(); this.wait(0);}});
 
-casper.then(function() {{techo('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-desktop-workshop-i.png'); var fs = require('fs');
-if (!sikuli_step('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-desktop-workshop-i.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-desktop-workshop-i.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-desktop-workshop-i.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-desktop-workshop-i.png on screen').exit(); this.wait(0);}});
-
-casper.then(function() {techo('wait 2 seconds');});
-casper.wait(2000, function() {});
-
-casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_1b.png'); var fs = require('fs');
-if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_1b.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png'); var fs = require('fs');
+if (!sikuli_step('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png on screen').exit(); this.wait(0);}});
 
 casper.then(function() {techo('wait 2 seconds');});
 casper.wait(2000, function() {});
 
-casper.then(function() {{techo('type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png as s'); var fs = require('fs');
-if (!sikuli_step('type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png as s')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png'); var fs = require('fs');
+if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png on screen').exit(); this.wait(0);}});
 
 casper.then(function() {techo('wait 2 seconds');});
 casper.wait(2000, function() {});
 
-casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_2.png'); var fs = require('fs');
-if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image_2.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s'); var fs = require('fs');
+if (!sikuli_step('type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png on screen').exit(); this.wait(0);}});
+
+casper.then(function() {techo('wait 2 seconds');});
+casper.wait(2000, function() {});
+
+casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png'); var fs = require('fs');
+if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png on screen').exit(); this.wait(0);}});
 
 // dclick iss-vm-conda-pdf.png
 // wait 2 seconds
