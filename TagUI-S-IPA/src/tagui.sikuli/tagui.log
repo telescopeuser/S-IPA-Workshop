@@ -1,0 +1,84 @@
+running SikuliX: -Xmx512M -Dfile.encoding=UTF-8 -Dsikuli.FromCommandLine
+-jar tagui.sikuli/sikulix.jar -r tagui.sikuli -d 3
+[debug] RunTimeINIT: loadOptions: check: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src
+[debug] RunTimeINIT: loadOptions: check: /home/iss-user
+[debug] RunTimeINIT: loadOptions: check: /home/iss-user/.Sikulix/SikulixStore
+[debug] RunTimeINIT: global init: entering as: IDE
+[debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment()
+[debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment().getScreenDevices()
+[debug] RunTimeINIT: ScreenDevice 0 has (0,0) --- will be primary Screen(0)
+[debug] RunTimeINIT: Monitor 0: (0, 0) 1920 x 1080
+[debug] RunTimeINIT: runs as sikulix.jar in: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
+[debug] RunTimeINIT: exists libs folder at: /home/iss-user/.Sikulix/SikulixLibs_201804082040
+***** show environment for IDE (build 201804082040)
+user.home: /home/iss-user
+user.dir (work dir): /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src
+user.name: iss-user
+java.io.tmpdir: /tmp
+running 64Bit on Linux (4.15.0-36-generic) from a jar
+java 8-64 version 1.8 vm 25.181-b13 class 52.0 arch amd64
+app data folder: /home/iss-user/.Sikulix
+libs folder: /home/iss-user/.Sikulix/SikulixLibs_201804082040
+executing jar: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/sikulix.jar
+*** classpath dump sikulix
+  0: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/sikulix.jar
+*** classpath dump end
+***** show environment end
+[debug] RunTimeIDE: global init: leaving
+[debug] RunTimeIDE: initIDEbefore: entering
+[debug] RunTimeIDE: initIDEbefore: leaving
+[debug] RunTimeIDE: initAPI: entering
+[debug] RunTimeIDE: resourceList: enter
+[debug] RunTimeIDE: resourceLocation: (class org.sikuli.ide.SikuliIDE) /Lib/sikuli
+[debug] RunTimeIDE: resourceList: having jar: jar:file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/sikulix.jar!/Lib/sikuli
+[debug] RunTimeIDE: files exported: 7 from: Lib/sikuli to:
+ /home/iss-user/.Sikulix/Lib/sikuli
+[debug] RunTimeIDE: initAPI: leaving
+[debug] IDE: Switching to ScriptRunner with option -r, -t or -i
+[debug] Runner: commandline: 
+[debug] --- Sikuli parameters ---
+[debug] 1: -r
+[debug] 2: tagui.sikuli
+[debug] 3: -d
+[debug] 4: 3
+[debug] ScriptingSupport: givenScriptName:
+tagui.sikuli
+[debug] ScriptingSupport: Trying to run script:
+/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/tagui.py
+[debug] ScriptingSupport: initScriptingSupport: enter
+[debug] JythonSupport: init: starting
+[debug] JythonSupport: init: success
+[debug] JythonSupport: ***** Jython sys.path
+ 0: /home/iss-user/.Sikulix/Lib
+ 1: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/Lib
+ 2: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/sikulix.jar/Lib
+ 3: __classpath__
+ 4: __pyclasspath__/
+[debug] JythonSupport: ***** Jython sys.path end
+[debug] Jython: sikuli: Sikuli: starting init
+[debug] RunTimeIDE: loadLib: libVisionProxy.so
+[debug] Mouse: init start
+[debug] Mouse: init end
+[error] App: command wmctrl is not executable, the App features will not work
+[error] App: command xdotool is not executable, the App features will not work
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x1080]
+[debug] Jython: sikuli: Sikuli: ending init
+[debug] JythonScriptRunner: running Jython 2.7.1 
+[debug] ScriptingSupport: initScriptingSupport: added: jython
+[debug] ScriptingSupport: initScriptingSupport: added: JavaScript
+[debug] ScriptingSupport: initScriptingSupport: exit with defaultrunner: jython (py)
+[debug] ImagePath: new BundlePath:
+/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x1080]
+[debug] JythonScriptRunner: runPython: running script: 
+/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
+[tagui] START  - listening for inputs
+
+[tagui] INPUT  - [1] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr/ocr_image_2.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr/ocr_image_2.png
+[tagui] OUTPUT - [1] SUCCESS
+
+[tagui] FINISH - stopped listening
+[debug] RunTimeIDE: final cleanup
+[debug] FileManager: deleteFileOrFolder:
+/tmp/Sikulix_1243670019
