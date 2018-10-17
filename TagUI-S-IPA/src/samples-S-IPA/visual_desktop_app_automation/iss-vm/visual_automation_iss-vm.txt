@@ -2,7 +2,7 @@
 // Helper function visible() can also be used to detect whether an image is visible.
 // https://github.com/kelaberetiv/TagUI/issues/113#issuecomment-378194245
 
-click outlook-icon.png
+click iss-vm-files.png
 click new-email.png
 enter mail-body.png as Hi Whoever,\n\nAttached are the M1 numbers.\n\nRegards,\nKen
 enter subject-field.png as M1 Lucky Numbers
