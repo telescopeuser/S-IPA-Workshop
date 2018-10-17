@@ -1,13 +1,13 @@
 // Outlook
 // Helper function visible() can also be used to detect whether an image is visible.
 // https://github.com/kelaberetiv/TagUI/issues/113#issuecomment-378194245
-// snap page.png to ocr_image_1.png
-// dclick iss-vm-desktop-workshop-i.png
-// wait 2 seconds
-// snap page.png to ocr_image_1b.png
-// wait 2 seconds
-// type page.png as s
-// wait 2 seconds
+snap page.png to ocr_image_1.png
+dclick iss-vm-desktop-workshop-i.png
+wait 2 seconds
+snap page.png to ocr_image_1b.png
+wait 2 seconds
+type page.png as s
+wait 2 seconds
 snap page.png to ocr_image_2.png
 // dclick iss-vm-conda-pdf.png
 // wait 2 seconds
