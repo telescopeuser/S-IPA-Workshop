@@ -1,0 +1,72 @@
+// Visual Automation for Desktop KIE Applicaiton: Loan Applicaiton
+
+// =====================================
+//snap page.png to page010.png
+// =====================================
+
+// Start KIE jBPM Loan Applicaiton System Server
+//dclick png-Tool-KIE.png
+//wait 120 seconds
+
+// =====================================
+snap page.png to page020.png
+// =====================================
+
+// Start Chrome
+dclick png-iss-vm-chrome.png
+wait 5 seconds
+
+// =====================================
+snap page.png to page030.png
+// =====================================
+
+// Start KIE jBPM workbench: loan application client web portal
+click png-iss-vm-chrome-kie-wb.png
+wait 5 seconds
+
+// =====================================
+snap page.png to page040.png
+// =====================================
+
+// Login username & password
+vision type("sales-rep" + Key.TAB)
+wait 1 seconds
+
+// =====================================
+snap page.png to page050.png
+// =====================================
+
+vision type("sales-rep" + Key.ENTER)
+wait 15 seconds
+
+// =====================================
+snap page.png to page060.png
+// =====================================
+
+// KIE: click "Menu"
+click png-kie-Menu.png
+wait 1 seconds
+
+// KIE: click "Process Instances"
+click png-kie-Menu-ProcessInstances.png
+wait 3 seconds
+
+// =====================================
+snap page.png to page070.png
+// =====================================
+
+// KIE: click "New Process Instance"
+click png-kie-Menu-ProcessInstances-NewProcessInstance.png
+wait 3 seconds
+
+
+// KIE: click "Start (New Process Instance)"
+click png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
+wait 3 seconds
+
+
+// =====================================
+snap page.png to page080.png
+// =====================================
+
+

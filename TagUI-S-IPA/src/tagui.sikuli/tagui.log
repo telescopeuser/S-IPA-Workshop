@@ -7,7 +7,7 @@ running SikuliX: -Xmx512M -Dfile.encoding=UTF-8 -Dsikuli.FromCommandLine
 [debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment()
 [debug] RunTimeINIT: Accessing: GraphicsEnvironment.getLocalGraphicsEnvironment().getScreenDevices()
 [debug] RunTimeINIT: ScreenDevice 0 has (0,0) --- will be primary Screen(0)
-[debug] RunTimeINIT: Monitor 0: (0, 0) 1920 x 975
+[debug] RunTimeINIT: Monitor 0: (0, 0) 1920 x 1080
 [debug] RunTimeINIT: runs as sikulix.jar in: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
 [debug] RunTimeINIT: exists libs folder at: /home/iss-user/.Sikulix/SikulixLibs_201804082040
 ***** show environment for IDE (build 201804082040)
@@ -59,7 +59,7 @@ tagui.sikuli
 [debug] RunTimeIDE: loadLib: libVisionProxy.so
 [debug] Mouse: init start
 [debug] Mouse: init end
-[debug] Jython: requested to use as default region: S(0)[0,0 1920x975]
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x1080]
 [debug] Jython: sikuli: Sikuli: ending init
 [debug] JythonScriptRunner: running Jython 2.7.1 
 [debug] ScriptingSupport: initScriptingSupport: added: jython
@@ -67,42 +67,290 @@ tagui.sikuli
 [debug] ScriptingSupport: initScriptingSupport: exit with defaultrunner: jython (py)
 [debug] ImagePath: new BundlePath:
 /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli/
-[debug] Jython: requested to use as default region: S(0)[0,0 1920x975]
+[debug] Jython: requested to use as default region: S(0)[0,0 1920x1080]
 [debug] JythonScriptRunner: runPython: running script: 
 /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
 [tagui] START  - listening for inputs
 
-[tagui] INPUT  - [1] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png
-[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1.png
+[tagui] INPUT  - [1] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page020.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page020.png
 [tagui] OUTPUT - [1] SUCCESS
 
-[tagui] INPUT  - [2] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png
-[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png
-[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png)
-[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (15 KB) (# 1 KB 15 -- 0 % of 64 MB)
-[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png to appear in S(0)[0,0 1920x975]
-[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png has appeared (M[119,54 69x59]@S(S(0)[0,0 1920x975]) S:1.00 C:153,83 [1186 msec])
-[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png)
-[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png to appear in S(0)[0,0 1920x975]
-[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/iss-vm-desktop-workshop-i.png appeared (M[119,54 69x59]@S(S(0)[0,0 1920x975]) S:1.00 C:153,83 [1384 msec])
-[debug] DOUBLE CLICK on L(153,83)@S(0)[0,0 1920x975] (574 msec)
+[tagui] INPUT  - [2] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png
+[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png (10 KB) (# 1 KB 10 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png has appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:0.85 C:32,351 [1763 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:0.85 C:32,351 [1501 msec])
+[debug] DOUBLE CLICK on L(32,351)@S(0)[0,0 1920x1080] (567 msec)
 [tagui] OUTPUT - [2] SUCCESS
 
-[tagui] INPUT  - [3] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png
-[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_1b.png
+[tagui] INPUT  - [3] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page030.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page030.png
 [tagui] OUTPUT - [3] SUCCESS
 
-[tagui] INPUT  - [4] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s
-[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png as s
-[debug]  TYPE "s"
-[debug] Region:  TYPE "s"
+[tagui] INPUT  - [4] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png (8 KB) (# 2 KB 18 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png has appeared (M[1100,97 82x37]@S(S(0)[0,0 1920x1080]) S:1.00 C:1141,115 [432 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png appeared (M[1100,97 82x37]@S(S(0)[0,0 1920x1080]) S:1.00 C:1141,115 [454 msec])
+[debug] CLICK on L(1141,115)@S(0)[0,0 1920x1080] (558 msec)
 [tagui] OUTPUT - [4] SUCCESS
 
-[tagui] INPUT  - [5] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png
-[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-4-analysis/ocr_image_2.png
+[tagui] INPUT  - [5] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page040.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page040.png
 [tagui] OUTPUT - [5] SUCCESS
+
+[tagui] INPUT  - [6] vision type("sales-rep" + Key.TAB)
+[tagui] ACTION - type("sales-rep" + Key.TAB)
+[debug]  TYPE "sales-rep#TAB."
+[debug] Region:  TYPE "sales-rep#TAB."
+[tagui] OUTPUT - [6] SUCCESS
+
+[tagui] INPUT  - [7] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page050.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page050.png
+[tagui] OUTPUT - [7] SUCCESS
+
+[tagui] INPUT  - [8] vision type("sales-rep" + Key.ENTER)
+[tagui] ACTION - type("sales-rep" + Key.ENTER)
+[debug]  TYPE "sales-rep#ENTER."
+[debug] Region:  TYPE "sales-rep#ENTER."
+[tagui] OUTPUT - [8] SUCCESS
+
+[tagui] INPUT  - [9] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page060.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page060.png
+[tagui] OUTPUT - [9] SUCCESS
+
+[tagui] INPUT  - [10] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png (12 KB) (# 3 KB 31 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png has appeared (M[273,139 72x61]@S(S(0)[0,0 1920x1080]) S:1.00 C:309,169 [683 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png appeared (M[273,139 72x61]@S(S(0)[0,0 1920x1080]) S:1.00 C:309,169 [426 msec])
+[debug] CLICK on L(309,169)@S(0)[0,0 1920x1080] (555 msec)
+[tagui] OUTPUT - [10] SUCCESS
+
+[tagui] INPUT  - [11] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png (7 KB) (# 4 KB 38 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png has appeared (M[511,304 111x22]@S(S(0)[0,0 1920x1080]) S:0.95 C:566,315 [444 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png appeared (M[511,304 111x22]@S(S(0)[0,0 1920x1080]) S:0.95 C:566,315 [451 msec])
+[debug] CLICK on L(566,315)@S(0)[0,0 1920x1080] (554 msec)
+[tagui] OUTPUT - [11] SUCCESS
+
+[tagui] INPUT  - [12] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page070.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page070.png
+[tagui] OUTPUT - [12] SUCCESS
+
+[tagui] INPUT  - [13] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png (12 KB) (# 5 KB 51 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png has appeared (M[1604,236 144x30]@S(S(0)[0,0 1920x1080]) S:1.00 C:1676,251 [495 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png appeared (M[1604,236 144x30]@S(S(0)[0,0 1920x1080]) S:1.00 C:1676,251 [509 msec])
+[debug] CLICK on L(1676,251)@S(0)[0,0 1920x1080] (528 msec)
+[tagui] OUTPUT - [13] SUCCESS
+
+[tagui] INPUT  - [14] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png (6 KB) (# 6 KB 57 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png has appeared (M[1291,320 68x31]@S(S(0)[0,0 1920x1080]) S:0.98 C:1325,335 [409 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png appeared (M[1291,320 68x31]@S(S(0)[0,0 1920x1080]) S:0.98 C:1325,335 [395 msec])
+[debug] CLICK on L(1325,335)@S(0)[0,0 1920x1080] (545 msec)
+[tagui] OUTPUT - [14] SUCCESS
+
+[tagui] INPUT  - [15] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page080.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page080.png
+[tagui] OUTPUT - [15] SUCCESS
+
+[tagui] INPUT  - [16] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png (13 KB) (# 7 KB 70 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png has appeared (M[512,375 121x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:572,393 [428 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png appeared (M[512,375 121x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:572,393 [438 msec])
+[debug] CLICK on L(572,393)@S(0)[0,0 1920x1080] (541 msec)
+[tagui] OUTPUT - [16] SUCCESS
+
+[tagui] INPUT  - [17] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+[debug]  TYPE "50000"
+[debug] Region:  TYPE "50000"
+[tagui] OUTPUT - [17] SUCCESS
+
+[tagui] INPUT  - [18] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png (15 KB) (# 8 KB 86 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png has appeared (M[910,375 144x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:982,393 [480 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png appeared (M[910,375 144x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:982,393 [497 msec])
+[debug] CLICK on L(982,393)@S(0)[0,0 1920x1080] (544 msec)
+[tagui] OUTPUT - [18] SUCCESS
+
+[tagui] INPUT  - [19] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 20
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 20
+[debug]  TYPE "20"
+[debug] Region:  TYPE "20"
+[tagui] OUTPUT - [19] SUCCESS
+
+[tagui] INPUT  - [20] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png (9 KB) (# 9 KB 96 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png has appeared (M[512,494 96x34]@S(S(0)[0,0 1920x1080]) S:0.94 C:560,511 [577 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png appeared (M[512,494 96x34]@S(S(0)[0,0 1920x1080]) S:0.94 C:560,511 [524 msec])
+[debug] CLICK on L(560,511)@S(0)[0,0 1920x1080] (558 msec)
+[tagui] OUTPUT - [20] SUCCESS
+
+[tagui] INPUT  - [21] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as Sam GU Zhan
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as Sam GU Zhan
+[debug]  TYPE "Sam GU Zhan"
+[debug] Region:  TYPE "Sam GU Zhan"
+[tagui] OUTPUT - [21] SUCCESS
+
+[tagui] INPUT  - [22] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png (12 KB) (# 10 KB 108 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png has appeared (M[511,560 112x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:567,578 [517 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png appeared (M[511,560 112x37]@S(S(0)[0,0 1920x1080]) S:0.91 C:567,578 [503 msec])
+[debug] CLICK on L(567,578)@S(0)[0,0 1920x1080] (545 msec)
+[tagui] OUTPUT - [22] SUCCESS
+
+[tagui] INPUT  - [23] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+[debug]  TYPE "50000"
+[debug] Region:  TYPE "50000"
+[tagui] OUTPUT - [23] SUCCESS
+
+[tagui] INPUT  - [24] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page090.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page090.png
+[tagui] OUTPUT - [24] SUCCESS
+
+[tagui] INPUT  - [25] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png (11 KB) (# 11 KB 120 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png has appeared (M[513,747 120x34]@S(S(0)[0,0 1920x1080]) S:0.92 C:573,764 [772 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png appeared (M[513,678 120x34]@S(S(0)[0,0 1920x1080]) S:0.92 C:573,695 [515 msec])
+[debug] Device: Mouse: moved externally: now (1830,730) was (1919,740) (mouseMovedResponse 0)
+[debug] CLICK on L(573,695)@S(0)[0,0 1920x1080] (568 msec)
+[tagui] OUTPUT - [25] SUCCESS
+
+[tagui] INPUT  - [26] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 3
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 3
+[debug]  TYPE "3"
+[debug] Region:  TYPE "3"
+[tagui] OUTPUT - [26] SUCCESS
+
+[tagui] INPUT  - [27] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png (13 KB) (# 12 KB 133 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png has appeared (M[513,743 130x35]@S(S(0)[0,0 1920x1080]) S:0.91 C:578,760 [517 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png appeared (M[513,743 130x35]@S(S(0)[0,0 1920x1080]) S:0.91 C:578,760 [534 msec])
+[debug] Device: Mouse: moved externally: now (1871,499) was (1901,518) (mouseMovedResponse 0)
+[debug] CLICK on L(578,760)@S(0)[0,0 1920x1080] (536 msec)
+[tagui] OUTPUT - [27] SUCCESS
+
+[tagui] INPUT  - [28] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 25 Heng Mui Keng Terrace, Singapore 119615
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 25 Heng Mui Keng Terrace, Singapore 119615
+[debug]  TYPE "25 Heng Mui Keng Terrace, Singapore 119615"
+[debug] Region:  TYPE "25 Heng Mui Keng Terrace, Singapore 119615"
+[tagui] OUTPUT - [28] SUCCESS
+
+[tagui] INPUT  - [29] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png (7 KB) (# 13 KB 140 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png has appeared (M[512,811 71x35]@S(S(0)[0,0 1920x1080]) S:0.93 C:547,828 [473 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png appeared (M[512,811 71x35]@S(S(0)[0,0 1920x1080]) S:0.93 C:547,828 [693 msec])
+[debug] CLICK on L(547,828)@S(0)[0,0 1920x1080] (543 msec)
+[tagui] OUTPUT - [29] SUCCESS
+
+[tagui] INPUT  - [30] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as URBAN
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as URBAN
+[debug]  TYPE "URBAN"
+[debug] Region:  TYPE "URBAN"
+[tagui] OUTPUT - [30] SUCCESS
+
+[tagui] INPUT  - [31] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png (8 KB) (# 14 KB 149 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png has appeared (M[513,878 82x35]@S(S(0)[0,0 1920x1080]) S:0.93 C:554,895 [492 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png appeared (M[513,878 82x35]@S(S(0)[0,0 1920x1080]) S:0.93 C:554,895 [746 msec])
+[debug] CLICK on L(554,895)@S(0)[0,0 1920x1080] (550 msec)
+[tagui] OUTPUT - [31] SUCCESS
+
+[tagui] INPUT  - [32] type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 250000
+[tagui] ACTION - type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 250000
+[debug]  TYPE "250000"
+[debug] Region:  TYPE "250000"
+[tagui] OUTPUT - [32] SUCCESS
+
+[tagui] INPUT  - [33] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png (5 KB) (# 15 KB 154 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png has appeared (M[1286,998 67x28]@S(S(0)[0,0 1920x1080]) S:0.92 C:1319,1012 [531 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png appeared (M[1286,998 67x28]@S(S(0)[0,0 1920x1080]) S:0.92 C:1319,1012 [491 msec])
+[debug] CLICK on L(1319,1012)@S(0)[0,0 1920x1080] (561 msec)
+[tagui] OUTPUT - [33] SUCCESS
+
+[tagui] INPUT  - [34] snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page100.png
+[tagui] ACTION - snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page100.png
+[tagui] OUTPUT - [34] SUCCESS
 
 [tagui] FINISH - stopped listening
 [debug] RunTimeIDE: final cleanup
 [debug] FileManager: deleteFileOrFolder:
-/tmp/Sikulix_1041272542
+/tmp/Sikulix_2012442266
