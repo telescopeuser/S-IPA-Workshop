@@ -149,8 +149,6 @@ snap page.png to page100.png
 // =====================================
 click png-kie-Menu-ProcessInstances-NewProcessInstance.png
 wait 2 seconds
-click png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
-wait 2 seconds
 // =====================================
 // KIE: click "x (Cancel New Process Instance)"
 // =====================================
