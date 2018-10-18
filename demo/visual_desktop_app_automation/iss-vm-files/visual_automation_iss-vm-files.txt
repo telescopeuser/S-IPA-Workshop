@@ -1,7 +1,0 @@
-// Outlook 
-// Helper function visible() can also be used to detect whether an image is visible.
-// https://github.com/kelaberetiv/TagUI/issues/113#issuecomment-378194245
-
-click iss-vm-files.png
-rclick iss-vm-files.png
-

@@ -1,7 +1,0 @@
-[starting sikuli process]
-
-START - automation started - Wed Oct 17 2018 20:10:57 GMT+0800 (+08)
-
-snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/ocr_image-a.png
-dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png
-ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/samples-S-IPA/visual_desktop_app_automation/iss-vm-ocr-wip/iss-vm-conda-pdf.png on screen
