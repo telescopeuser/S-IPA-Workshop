@@ -1,0 +1,62 @@
+[starting sikuli process]
+
+START - automation started - Thu Oct 18 2018 12:46:21 GMT+0800 (+08)
+
+dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-Tool-KIE.png
+wait 120 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page020.png
+dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome.png
+wait 3 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page030.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-iss-vm-chrome-kie-wb.png
+wait 3 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page040.png
+vision type("sales-rep" + Key.TAB)
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page050.png
+vision type("sales-rep" + Key.ENTER)
+wait 15 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page060.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu.png
+wait 1 seconds
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances.png
+wait 2 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page070.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png
+wait 2 seconds
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
+wait 2 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page080.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-DownPayment.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-YearsOfAmortization.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 20
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantName.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as Sam GU Zhan
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-ApplicantAnnualIncome.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 50000
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page090.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAge.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 3
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyAddress.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 25 Heng Mui Keng Terrace, Singapore 119615
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertyLocale.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as URBAN
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-PropertySalePrice.png
+type /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png as 250000
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-loan-form-Submit.png
+wait 3 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page100.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-Menu-ProcessInstances-NewProcessInstance.png
+wait 2 seconds
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-x-cancel.png
+wait 2 seconds
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-UserProfile.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-kie-UserProfile-LogOut.png
+wait 1 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page110.png
+click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/png-ubuntu-close.png
+wait 1 seconds
+snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton/page120.png
+
+FINISH - automation finished - 233.3s
+
