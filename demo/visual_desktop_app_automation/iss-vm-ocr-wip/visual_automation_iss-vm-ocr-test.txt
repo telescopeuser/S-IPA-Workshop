@@ -1,0 +1,15 @@
+snap page.png to ocr_image-a.png
+
+dclick iss-vm-conda-pdf.png
+
+wait 2 seconds
+
+// capture image for OCR
+snap page.png to ocr_image-b.png
+
+// execute OCR
+read page.png to ocr_result
+
+// write OCR textual result
+write ocr_resultt to ocr_result.txt
+
