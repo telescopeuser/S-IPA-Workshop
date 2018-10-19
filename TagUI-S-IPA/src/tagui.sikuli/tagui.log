@@ -72,167 +72,98 @@ tagui.sikuli
 /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/TagUI-S-IPA/src/tagui.sikuli
 [tagui] START  - listening for inputs
 
-[tagui] INPUT  - [1] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png
-[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png
-[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png)
-[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png (23 KB) (# 1 KB 23 -- 0 % of 64 MB)
-[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png has appeared (M[424,631 81x101]@S(S(0)[0,0 1920x1080]) S:0.91 C:464,681 [1013 msec])
-[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png)
-[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_IC.png appeared (M[424,631 81x101]@S(S(0)[0,0 1920x1080]) S:0.91 C:464,681 [740 msec])
-[debug] DOUBLE CLICK on L(464,681)@S(0)[0,0 1920x1080] (597 msec)
+[tagui] INPUT  - [1] dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png
+[tagui] ACTION - dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png (23 KB) (# 1 KB 23 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png has appeared (M[421,620 81x101]@S(S(0)[0,0 1920x1080]) S:0.91 C:461,670 [1184 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png appeared (M[421,620 81x101]@S(S(0)[0,0 1920x1080]) S:0.91 C:461,670 [846 msec])
+[debug] DOUBLE CLICK on L(461,670)@S(0)[0,0 1920x1080] (617 msec)
 [tagui] OUTPUT - [1] SUCCESS
 
-[tagui] INPUT  - [2] read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_IC_ocr_text
-[tagui] ACTION - read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_IC_ocr_text
+[tagui] INPUT  - [2] read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png to pdf_IC_ocr_text
+[tagui] ACTION - read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png to pdf_IC_ocr_text
 [debug] TextRecognizer: init OK: using as data folder:
 /home/iss-user/.Sikulix/SikulixTesseract
-[debug] Region: text: #(t;m 11)) Thu15:13 {bissAuser 
+[debug] Region: text: #(t;a do) Fri10:zz ibissAuser 
  7‘59 File Edit View Go Bookmarks Help 
- Thumbnails 
- u—.—— 7."..— 
- 5* 
- * 
- .—,—.——.— -. ..‘. 
- ——v—" 
- u, “1‘.- --L.‘_ -. l' . 
- I"? 
- v-v— -‘."— 
- V 
- .7 
- a: 
- L 
- A- 
- — l. 
- -lJA; 
- II 
- L" 1"! 
- O 
- ﬂ: :1: 
- IDENTIFY CARD NO 
- LA 
- ‘- u. 
- 5'55 
- LL. 
- WM 
- [1‘1 
- i 
- 7'“ 
- P. 
- ._ , I 
- L 
- r 
- Gm. 
- ls 
- A»: 
- .‘Lﬁ’ 
- L 
- L... 
- Emma: 
+ W 
+ W ‘_ v- .-1.. - 
  m 
- G 
- ("v—’1 
- L I 
- :1: 
- ¢~ 
- 70 
- {‘45 
- 04-03-1979 
- ‘- 
- B 
- ”in 
- 'J 
- W- 
- .‘1 
+ W 
+ t ' _ 1“. «3:1» . 
+ w _- '..._ 
+ A 
+ W‘ 
+ 'I' 
+ L‘s- 
+ REPUBLIC OF SINGAPORE 
+ ‘5 O 
+ IDENHTV (All) NO 
+ 5‘5 
+ WW 
+ '4 
+ Xi; 
+ .1 
+ “ 
+ ‘ 
+ "‘ 
+ ‘5'. 
+ .__d 
+ ELI 
+ D'W-Z. JR." 
+ Li 
+ n 
+ CHINESE 
+ m 
+ Ol-03-1979 
+ 3.3 
+ Can-710m 
  SINGAPORE 
- Inn- 
- 1'. 
+ W'Q'TF 
+ 7 
+ I" 
+ h I 
+ L.— 
+ 3 
+ 'u'D 
+ L. 
+ Lt. 
+ _- 
+ "em "— ,_. Jule; 
+ I] 
+ bi 
+ —'_" 
+ "ﬁ 
+ Ll 
+ V 
+ SAMPLE 
+ F‘ 
+ 'L 
+ f1 
+ r— ,__ .————- 
+ [p v. 
+ c‘ﬁ‘ — -J 
  m 
- w 
- w- m mv‘v‘n z - a 7mm . 1“ _ -)#
+ —.._.. _. M. _. _ #)#
 [tagui] OUTPUT - [2] SUCCESS
 
-[tagui] INPUT  - [3] read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_IC_ocr_text
-[tagui] ACTION - read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_IC_ocr_text
-[debug] Region: text: #(t;m 11)) Thu15:13 {bissAuser 
- 7‘59 File Edit View Go Bookmarks Help 
- Thumbnails 
- u—.—— 7."..— 
- 5* 
- * 
- .—,—.——.— -. ..‘. 
- ——v—" 
- u, “1‘.- --L.‘_ -. l' . 
- I"? 
- v-v— -‘."— 
- V 
- .7 
- a: 
- L 
- A- 
- — l. 
- -lJA; 
- II 
- L" 1"! 
- O 
- ﬂ: :1: 
- IDENTIFY CARD NO 
- LA 
- ‘- u. 
- 5'55 
- LL. 
- WM 
- [1‘1 
- i 
- 7'“ 
- P. 
- ._ , I 
- L 
- r 
- Gm. 
- ls 
- A»: 
- .‘Lﬁ’ 
- L 
- L... 
- Emma: 
- m 
- G 
- ("v—’1 
- L I 
- :1: 
- ¢~ 
- 70 
- {‘45 
- 04-03-1979 
- ‘- 
- B 
- ”in 
- 'J 
- W- 
- .‘1 
- SINGAPORE 
- Inn- 
- 1'. 
- m 
- w 
- w- m “igu g n z -a7 m m.1“ _ -)#
+[tagui] INPUT  - [3] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png
+[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png
+[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png)
+[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png (1 KB) (# 2 KB 25 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png has appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [434 msec])
+[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png)
+[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [438 msec])
+[debug] CLICK on L(13,11)@S(0)[0,0 1920x1080] (546 msec)
 [tagui] OUTPUT - [3] SUCCESS
-
-[tagui] INPUT  - [4] click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png
-[tagui] ACTION - click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png
-[debug] Image: loaded: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png)
-[debug] Image: cached: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png (1 KB) (# 2 KB 25 -- 0 % of 64 MB)
-[debug] Region: exists: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: exists: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png has appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [351 msec])
-[debug] Image: reused: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png (file:/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png)
-[debug] Region: wait: waiting 10.0 secs for /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: wait: /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [677 msec])
-[debug] CLICK on L(13,11)@S(0)[0,0 1920x1080] (527 msec)
-[tagui] OUTPUT - [4] SUCCESS
 
 [tagui] FINISH - stopped listening
 [debug] RunTimeIDE: final cleanup
 [debug] FileManager: deleteFileOrFolder:
-/tmp/Sikulix_151615069
+/tmp/Sikulix_503278013

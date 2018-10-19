@@ -1316,7 +1316,7 @@ function getTimeoutAndCheckNextStepFunction(timeout, then, methodName, defaultTi
 }
 
 // flow path for save_text and snap_image
-var flow_path = '/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR';
+var flow_path = '/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic';
 
 casper.start('about:blank', function() {
 techo('about:blank' + ' - ' + this.getTitle() + '\n');});
@@ -1328,42 +1328,27 @@ techo('about:blank' + ' - ' + this.getTitle() + '\n');});
 //snap page.png to page010.png
 // =====================================
 // =====================================
-// Open scanned pdf file
+// Open scanned IC pdf file
 // =====================================
-casper.then(function() {{techo('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-pdf-payslip.png'); var fs = require('fs');
-if (!sikuli_step('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-pdf-payslip.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-pdf-payslip.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-pdf-payslip.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-pdf-payslip.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png'); var fs = require('fs');
+if (!sikuli_step('dclick /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC.png on screen').exit(); this.wait(0);}});
 
 casper.then(function() {techo('wait 2 seconds');});
 casper.wait(2000, function() {});
 
 // =====================================
-casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page020.png'); var fs = require('fs');
-if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page020.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png on screen').exit(); this.wait(0);}});
-
+//snap page.png to page020.png
 // =====================================
 // =====================================
 // Execute OCR
 // =====================================
-casper.then(function() {{techo('read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_ocr_text'); var fs = require('fs');
-if (!sikuli_step('read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to pdf_ocr_text')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png on screen').exit(); this.wait(0);
-pdf_ocr_text = fetch_sikuli_text(); clear_sikuli_text();}});
-
-casper.then(function() {techo('wait 2 seconds');});
-casper.wait(2000, function() {});
-
-// =====================================
-// Close scanned pdf file
-// =====================================
-casper.then(function() {{techo('click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png'); var fs = require('fs');
-if (!sikuli_step('click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/png-ubuntu-close.png on screen').exit(); this.wait(0);}});
+casper.then(function() {{techo('read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png to pdf_IC_ocr_text'); var fs = require('fs');
+if (!sikuli_step('read /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png to pdf_IC_ocr_text')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/page.png on screen').exit(); this.wait(0);
+pdf_IC_ocr_text = fetch_sikuli_text(); clear_sikuli_text();}});
 
 casper.then(function() {techo('wait 2 seconds');});
 casper.wait(2000, function() {});
@@ -1371,19 +1356,28 @@ casper.wait(2000, function() {});
 // =====================================
 // Write extracted text to file
 // =====================================
-//write pdf_ocr_text to pdf_ocr_text.txt
-casper.then(function() {{techo('dump pdf_ocr_text to pdf_ocr_text.txt');
-save_text('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/pdf_ocr_text.txt',pdf_ocr_text);}});
+casper.then(function() {{techo('dump pdf_IC_ocr_text to pdf_IC_ocr_text.txt');
+save_text('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/pdf_IC_ocr_text.txt',pdf_IC_ocr_text);}});
 
 casper.then(function() {techo('wait 2 seconds');});
 casper.wait(2000, function() {});
 
 // =====================================
-casper.then(function() {{techo('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page030.png'); var fs = require('fs');
-if (!sikuli_step('snap /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png to /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page030.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png'))
-this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png').exit(); else
-this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR/page.png on screen').exit(); this.wait(0);}});
+//snap page.png to page030.png
+// =====================================
+// =====================================
+// Close scanned IC pdf file
+// =====================================
+casper.then(function() {{techo('click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png'); var fs = require('fs');
+if (!sikuli_step('click /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png')) if (!fs.exists('/home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png'))
+this.echo('ERROR - cannot find image file /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png').exit(); else
+this.echo('ERROR - cannot find /home/iss-user/iss-vm-program/is-intelligent-process-automation/S-IPA-Workshop/demo/visual_desktop_app_automation/KIE-Loan-Applicaiton-OCR-ic/png-ubuntu-close.png on screen').exit(); this.wait(0);}});
 
+casper.then(function() {techo('wait 2 seconds');});
+casper.wait(2000, function() {});
+
+// =====================================
+//snap page.png to page120.png
 // =====================================
 casper.then(function() {techo('\n' + this.getCurrentUrl() + ' - ' + this.getTitle());
 techo('FINISH - automation finished - ' + ((Date.now()-automation_start_time)/1000).toFixed(1) + 's\n');});

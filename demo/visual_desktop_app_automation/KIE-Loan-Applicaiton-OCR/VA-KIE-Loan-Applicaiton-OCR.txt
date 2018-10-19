@@ -7,43 +7,40 @@
 // =====================================
 
 // =====================================
-// Open scanned IC pdf file
+// Open scanned pdf file
 // =====================================
 
-dclick pdf_IC.png
+dclick png-pdf-payslip.png
 wait 2 seconds
 
 // =====================================
-//snap page.png to page020.png
+snap page.png to page020.png
 // =====================================
 
 // =====================================
 // Execute OCR
 // =====================================
 
-read page.png to pdf_IC_ocr_text
+read page.png to pdf_ocr_text
 wait 2 seconds
 
-// =====================================
-// Write extracted text to file
-// =====================================
-
-read page.png to pdf_IC_ocr_text
-write pdf_IC_ocr_text to pdf_IC_ocr_text.txt
-wait 2 seconds
 
 // =====================================
-//snap page.png to page030.png
-// =====================================
-
-// =====================================
-// Close scanned IC pdf file
+// Close scanned pdf file
 // =====================================
 
 click png-ubuntu-close.png
 wait 2 seconds
 
 // =====================================
-//snap page.png to page120.png
+// Write extracted text to file
+// =====================================
+
+//write pdf_ocr_text to pdf_ocr_text.txt
+dump pdf_ocr_text to pdf_ocr_text.txt
+wait 2 seconds
+
+// =====================================
+snap page.png to page030.png
 // =====================================
 
