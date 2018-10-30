@@ -4,7 +4,7 @@
 
 
 // =====================================
-// SClick to show "Desktop"
+// Click to show "Desktop"
 // =====================================
 click png-iss-vm-desktop.png
 wait 1 seconds

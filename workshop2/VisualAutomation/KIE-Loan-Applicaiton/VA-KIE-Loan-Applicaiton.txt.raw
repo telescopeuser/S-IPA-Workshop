@@ -2,6 +2,11 @@
 // Visual Automation for Desktop KIE Applicaiton: Loan Applicaiton
 // =====================================
 // =====================================
+// Click to show "Desktop"
+// =====================================
+click png-iss-vm-desktop.png
+wait 1 seconds
+// =====================================
 // snap page.png to page010.png
 // =====================================
 // =====================================
@@ -16,7 +21,7 @@ snap page.png to page020.png
 // Start Chrome
 // =====================================
 dclick png-iss-vm-chrome.png
-wait 3 seconds
+wait 5 seconds
 // =====================================
 snap page.png to page030.png
 // =====================================
@@ -47,7 +52,7 @@ snap page.png to page060.png
 // KIE: click "Menu"
 // =====================================
 click png-kie-Menu.png
-wait 1 seconds
+//wait 1 seconds
 // =====================================
 // KIE: click "Process Instances"
 // =====================================
@@ -60,12 +65,12 @@ snap page.png to page070.png
 // KIE: click "New Process Instance"
 // =====================================
 click png-kie-Menu-ProcessInstances-NewProcessInstance.png
-wait 2 seconds
+wait 1 seconds
 // =====================================
 // KIE: click "Start (New Process Instance)"
 // =====================================
 click png-kie-Menu-ProcessInstances-NewProcessInstance-Start.png
-wait 2 seconds
+wait 1 seconds
 // =====================================
 snap page.png to page080.png
 // =====================================
