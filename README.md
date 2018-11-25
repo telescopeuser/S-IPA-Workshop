@@ -1,6 +1,6 @@
 ﻿<img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=25%>
 
-# Intelligent Process Automation Workshops & References
+## Intelligent Process Automation Workshops & References
 
 **This [Intelligent Process Automation (IPA)](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process-automation "Intelligent Process Automation") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Software Agents (ISA)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Software Agents") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
