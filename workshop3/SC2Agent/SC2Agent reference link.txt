@@ -1,0 +1,5 @@
+https://soygema.github.io/starcraftII_machine_learning/#0
+
+https://github.com/SoyGema/pysc2_StarcraftII_codelab
+
+https://github.com/SoyGema/Startcraft_pysc2_minigames/tree/master/Agents

@@ -1,0 +1,15 @@
+https://hub.packtpub.com/build-reinforcement-learning-agent-in-keras-tutorial/
+
+
+Agent
+With a model, memory, and policy defined, we’re now ready to create a deep Q network Agent and send that agent those objects. Keras-RL provides an agent class called rl.agents.dqn.DQNAgent that we can use for this, as shown in the following code:
+
+dqn = DQNAgent(model=model, nb_actions=num_actions, memory=memory, nb_steps_warmup=10,
+               target_model_update=1e-2, policy=policy)
+dqn.compile(Adam(lr=1e-3), metrics=['mae'])
+Copy
+Two of these parameters are probably unfamiliar at this point, target_model_update and nb_steps_warmup:
+
+nb_steps_warmup: Determines how long we wait before we start doing experience replay, which if you recall, is when we actually start training the network. This lets us build up enough experience to build a proper minibatch. If you choose a value for this parameter that’s smaller than your batch size, Keras RL will sample with a replacement.
+target_model_update: The Q function is recursive and when the agent updates it’s network for Q(s,a) that update also impacts the prediction it will make for Q(s’, a). This can make for a very unstable network. The way most deep Q network implementations address this limitation is by using a target network, which is a copy of the deep Q network that isn’t trained, but rather replaced with a fresh copy every so often. The target_model_update parameter controls how often this happens.
+
