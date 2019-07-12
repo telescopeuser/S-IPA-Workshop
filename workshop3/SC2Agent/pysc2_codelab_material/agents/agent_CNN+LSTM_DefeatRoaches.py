@@ -57,7 +57,7 @@ observation_cur = None
 # Configure Flags for executing model from console
  
 FLAGS = flags.FLAGS
-flags.DEFINE_string("mini-game", "ForceField", "Name of the minigame")
+flags.DEFINE_string("mini-game", "DefeatRoaches", "Name of the minigame")
 flags.DEFINE_string("algorithm", "deepq", "RL algorithm to use")
 flags.DEFINE_integer("screen_size", "64", "Resolution for screen actions.")
 flags.DEFINE_integer("minimap_size", "32", "Resolution for minimap actions.")
@@ -168,7 +168,7 @@ def neural_network_model(input, actions):
  
  
 def training_game():
-    env = Environment(map_name="ForceField", visualize=True, game_steps_per_episode=150,
+    env = Environment(map_name="DefeatRoaches", visualize=True, game_steps_per_episode=150,
                       agent_interface_format=features.AgentInterfaceFormat(
                           feature_dimensions=features.Dimensions(screen=64, minimap=32)
                       ))
