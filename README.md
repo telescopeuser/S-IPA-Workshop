@@ -1,4 +1,4 @@
-<img align="right" src='https://mysurvey.nus.edu.sg/EFM/surveys/1413211586/21d35e1f/img001.jpg' width=25%>
+<img align="right" src='nus-iss-logo.jpg' width=25%>
 
 ## Intelligent Process Automation Workshops & References
 
