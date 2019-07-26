@@ -27,7 +27,7 @@ wait 0.5 seconds
 // Go to parcel enquiry web site
 // =====================================
 vision type("http://qexpress.co.nz/tracking.aspx?orderNumber=" + "DZ140053181NZ" + Key.ENTER)
-wait 12 seconds
+wait 14 seconds
 
 // =====================================
 snap page.png to results/page050.png
