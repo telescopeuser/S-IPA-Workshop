@@ -1,0 +1,303 @@
+[tagui] START  - listening for inputs
+
+[tagui] INPUT  - [1] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/1.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/1.png"
+[tagui] OUTPUT - [1] SUCCESS
+
+[tagui] INPUT  - [2] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+0
+[tagui] OUTPUT - [2] SUCCESS
+
+[tagui] INPUT  - [3] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/2.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/2.png"
+[tagui] OUTPUT - [3] SUCCESS
+
+[tagui] INPUT  - [4] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+0
+[tagui] OUTPUT - [4] SUCCESS
+
+[tagui] INPUT  - [5] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/3.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/3.png"
+[tagui] OUTPUT - [5] SUCCESS
+
+[tagui] INPUT  - [6] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [6] SUCCESS
+
+[tagui] INPUT  - [7] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/4.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/4.png"
+[tagui] OUTPUT - [7] SUCCESS
+
+[tagui] INPUT  - [8] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [8] SUCCESS
+
+[tagui] INPUT  - [9] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/5.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/5.png"
+[tagui] OUTPUT - [9] SUCCESS
+
+[tagui] INPUT  - [10] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [10] SUCCESS
+
+[tagui] INPUT  - [11] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/6.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/6.png"
+[tagui] OUTPUT - [11] SUCCESS
+
+[tagui] INPUT  - [12] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [12] SUCCESS
+
+[tagui] INPUT  - [13] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/7.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/7.png"
+[tagui] OUTPUT - [13] SUCCESS
+
+[tagui] INPUT  - [14] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [14] SUCCESS
+
+[tagui] INPUT  - [15] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/8.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/8.png"
+[tagui] OUTPUT - [15] SUCCESS
+
+[tagui] INPUT  - [16] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [16] SUCCESS
+
+[tagui] INPUT  - [17] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/9.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/9.png"
+[tagui] OUTPUT - [17] SUCCESS
+
+[tagui] INPUT  - [18] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [18] SUCCESS
+
+[tagui] INPUT  - [19] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/10.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/10.png"
+[tagui] OUTPUT - [19] SUCCESS
+
+[tagui] INPUT  - [20] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [20] SUCCESS
+
+[tagui] INPUT  - [21] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/11.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/11.png"
+[tagui] OUTPUT - [21] SUCCESS
+
+[tagui] INPUT  - [22] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [22] SUCCESS
+
+[tagui] INPUT  - [23] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/12.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/12.png"
+[tagui] OUTPUT - [23] SUCCESS
+
+[tagui] INPUT  - [24] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+8
+[tagui] OUTPUT - [24] SUCCESS
+
+[tagui] INPUT  - [25] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/13.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/13.png"
+[tagui] OUTPUT - [25] SUCCESS
+
+[tagui] INPUT  - [26] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [26] SUCCESS
+
+[tagui] INPUT  - [27] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/14.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/14.png"
+[tagui] OUTPUT - [27] SUCCESS
+
+[tagui] INPUT  - [28] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [28] SUCCESS
+
+[tagui] INPUT  - [29] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/15.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/15.png"
+[tagui] OUTPUT - [29] SUCCESS
+
+[tagui] INPUT  - [30] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [30] SUCCESS
+
+[tagui] INPUT  - [31] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/16.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/16.png"
+[tagui] OUTPUT - [31] SUCCESS
+
+[tagui] INPUT  - [32] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [32] SUCCESS
+
+[tagui] INPUT  - [33] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/17.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/17.png"
+[tagui] OUTPUT - [33] SUCCESS
+
+[tagui] INPUT  - [34] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [34] SUCCESS
+
+[tagui] INPUT  - [35] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/18.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/18.png"
+[tagui] OUTPUT - [35] SUCCESS
+
+[tagui] INPUT  - [36] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [36] SUCCESS
+
+[tagui] INPUT  - [37] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/19.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/19.png"
+[tagui] OUTPUT - [37] SUCCESS
+
+[tagui] INPUT  - [38] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [38] SUCCESS
+
+[tagui] INPUT  - [39] py image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/20.png"
+[tagui] ACTION - image_file = "/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/LocalAI/IPA_a_facedetect/nus_iss_is/20.png"
+[tagui] OUTPUT - [39] SUCCESS
+
+[tagui] INPUT  - [40] py import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+[tagui] ACTION - import face_recognition
+image = face_recognition.load_image_file(image_file)
+face_locations = face_recognition.face_locations(image)
+print(len(face_locations))
+1
+[tagui] OUTPUT - [40] SUCCESS
+
+[tagui] FINISH - stopped listening

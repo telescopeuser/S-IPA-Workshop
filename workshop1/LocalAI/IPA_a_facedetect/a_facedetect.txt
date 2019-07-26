@@ -1,4 +1,5 @@
-https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan
+https://www.iss.nus.edu.sg/about-us/iss-team/teaching-staff/analytics-intelligent-systems
+//https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan
 // http://www6.cityu.edu.hk/stfprofile/kaytan.htm
 // automation flow files usually start with an URL to tell TagUI where to go
 // files can also start with // for comments, or no URL if it's not web-related
@@ -9,7 +10,7 @@ https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan
 // https://github.com/kelaberetiv/TagUI#cheat-sheet
 
 // form filename from name
-profile_name = 'Sam GU Zhan'
+profile_name = 'NUS ISS IS'
 profile_name = profile_name.trim().toLowerCase();
 profile_name = profile_name.replace(/ /g,"_");
 
