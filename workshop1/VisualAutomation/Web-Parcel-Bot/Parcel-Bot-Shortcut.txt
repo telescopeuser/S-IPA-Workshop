@@ -5,55 +5,70 @@
 // =====================================
 // Click to show "Desktop"
 // =====================================
-//click resources\png-iss-vm-desktop.png
-//wait 1 seconds
+//click resources/png-iss-vm-desktop.png
+//wait 2 seconds
 
 // =====================================
-snap page.png to results\page010.png
+snap page.png to results/page010.png
 // =====================================
 
 // =====================================
 // Start web browser
 // =====================================
-click resources\png-iss-vm-chrome.png
-wait 5 seconds
+click resources/png-iss-vm-chrome.png
+wait 8 seconds
 
 // =====================================
-snap page.png to results\page020.png
+snap page.png to results/page020.png
+wait 0.5 seconds
 // =====================================
 
 // =====================================
 // Go to parcel enquiry web site
 // =====================================
-vision type("http://qexpress.co.nz/tracking.aspx?orderNumber=" + "DZ140053180NZ" + Key.ENTER)
-wait 5 seconds
+vision type("http://qexpress.co.nz/tracking.aspx?orderNumber=" + "DZ140053181NZ" + Key.ENTER)
+wait 12 seconds
 
 // =====================================
-snap page.png to results\page050.png
+snap page.png to results/page050.png
+wait 0.5 seconds
 // =====================================
 
 // =====================================
 // Mouse scroll down to bottom
 // =====================================
 vision type("" + Key.END)
-wait 5 seconds
+vision type("" + Key.END)
+wait 2 seconds
 
 // =====================================
-snap page.png to results\page060.png
+snap page.png to results/page060.png
+wait 0.5 seconds
 // =====================================
 
 // =====================================
-// snap page.png to results\page_text.pdf
+// Translation
+// =====================================
+click resources/translate_button.png
+wait 4 seconds
+
+// =====================================
+snap page.png to results/page070.png
+wait 0.5 seconds
 // =====================================
 
 // =====================================
-// save page to results\page_text.txt
+// snap page.png to results/page_text.pdf
+// =====================================
+
+// =====================================
+// save page to results/page_text.txt
 // =====================================
 
 // =====================================
 // Close web broswer
 // =====================================
-click resources\png-ubuntu-close.png
+click resources/png-ubuntu-close.png
 
 
 
