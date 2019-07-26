@@ -84,78 +84,94 @@ tagui.sikuli
 [debug] Image: loaded: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png)
 [debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png (10 KB) (# 1 KB 10 -- 0 % of 64 MB)
 [debug] Region: exists: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png has appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:32,351 [1266 msec])
+[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png has appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:32,351 [834 msec])
 [debug] Image: reused: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png)
 [debug] Region: wait: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:32,351 [723 msec])
-[debug] CLICK on L(32,351)@S(0)[0,0 1920x1080] (548 msec)
+[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-iss-vm-chrome.png appeared (M[3,322 59x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:32,351 [799 msec])
+[debug] CLICK on L(32,351)@S(0)[0,0 1920x1080] (528 msec)
 [tagui] OUTPUT - [2] SUCCESS
 
 [tagui] INPUT  - [3] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page020.png
 [tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page020.png
 [tagui] OUTPUT - [3] SUCCESS
 
-[tagui] INPUT  - [4] vision type("http://qexpress.co.nz/tracking.aspx?orderNumber=" + "DZ140053181NZ" + Key.ENTER)
-[tagui] ACTION - type("http://qexpress.co.nz/tracking.aspx?orderNumber=" + "DZ140053181NZ" + Key.ENTER)
-[debug]  TYPE "http://qexpress.co.nz/tracking.aspx?orderNumber=DZ140053181NZ#ENTER."
-[debug] Region:  TYPE "http://qexpress.co.nz/tracking.aspx?orderNumber=DZ140053181NZ#ENTER."
+[tagui] INPUT  - [4] vision type("http://qexpress.co.nz" + Key.ENTER)
+[tagui] ACTION - type("http://qexpress.co.nz" + Key.ENTER)
+[debug]  TYPE "http://qexpress.co.nz#ENTER."
+[debug] Region:  TYPE "http://qexpress.co.nz#ENTER."
 [tagui] OUTPUT - [4] SUCCESS
 
-[tagui] INPUT  - [5] vision type(Key.ENTER)
-[tagui] ACTION - type(Key.ENTER)
-[debug]  TYPE "#ENTER."
-[debug] Region:  TYPE "#ENTER."
+[tagui] INPUT  - [5] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page030.png
+[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page030.png
 [tagui] OUTPUT - [5] SUCCESS
 
-[tagui] INPUT  - [6] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page050.png
-[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page050.png
+[tagui] INPUT  - [6] click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png
+[tagui] ACTION - click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png
+[debug] Image: loaded: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png)
+[debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png (229 KB) (# 2 KB 239 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png has appeared (M[454,558 274x214]@S(S(0)[0,0 1920x1080]) S:0.90 C:591,665 [542 msec])
+[debug] Image: reused: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png)
+[debug] Region: wait: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_box.png appeared (M[454,558 274x214]@S(S(0)[0,0 1920x1080]) S:0.90 C:591,665 [673 msec])
+[debug] CLICK on L(591,665)@S(0)[0,0 1920x1080] (556 msec)
 [tagui] OUTPUT - [6] SUCCESS
 
-[tagui] INPUT  - [7] vision type("" + Key.END)
-[tagui] ACTION - type("" + Key.END)
-[debug]  TYPE "#END."
-[debug] Region:  TYPE "#END."
+[tagui] INPUT  - [7] type /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png as DZ140053181NZ
+[tagui] ACTION - type /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png as DZ140053181NZ
+[debug]  TYPE "DZ140053181NZ"
+[debug] Region:  TYPE "DZ140053181NZ"
 [tagui] OUTPUT - [7] SUCCESS
 
-[tagui] INPUT  - [8] vision type("" + Key.END)
+[tagui] INPUT  - [8] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page040.png
+[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page040.png
+[tagui] OUTPUT - [8] SUCCESS
+
+[tagui] INPUT  - [9] click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png
+[tagui] ACTION - click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png
+[debug] Image: loaded: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png)
+[debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png (6 KB) (# 3 KB 245 -- 0 % of 64 MB)
+[debug] Region: exists: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png has appeared (M[663,694 54x29]@S(S(0)[0,0 1920x1080]) S:1.00 C:690,708 [848 msec])
+[debug] Image: reused: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png)
+[debug] Region: wait: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png to appear in S(0)[0,0 1920x1080]
+[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/enquiry_button_search.png appeared (M[663,694 54x29]@S(S(0)[0,0 1920x1080]) S:1.00 C:690,708 [1018 msec])
+[debug] CLICK on L(690,708)@S(0)[0,0 1920x1080] (584 msec)
+[tagui] OUTPUT - [9] SUCCESS
+
+[tagui] INPUT  - [10] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page050.png
+[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page050.png
+[tagui] OUTPUT - [10] SUCCESS
+
+[tagui] INPUT  - [11] vision type("" + Key.END)
 [tagui] ACTION - type("" + Key.END)
 [debug]  TYPE "#END."
 [debug] Region:  TYPE "#END."
-[tagui] OUTPUT - [8] SUCCESS
-
-[tagui] INPUT  - [9] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page060.png
-[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page060.png
-[tagui] OUTPUT - [9] SUCCESS
-
-[tagui] INPUT  - [10] click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png
-[tagui] ACTION - click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png
-[debug] Image: loaded: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png)
-[debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png (25 KB) (# 2 KB 35 -- 0 % of 64 MB)
-[debug] Region: exists: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png has appeared (M[1639,124 112x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:1695,153 [486 msec])
-[debug] Image: reused: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png)
-[debug] Region: wait: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/translate_button.png appeared (M[1639,124 112x58]@S(S(0)[0,0 1920x1080]) S:1.00 C:1695,153 [745 msec])
-[debug] CLICK on L(1695,153)@S(0)[0,0 1920x1080] (564 msec)
-[tagui] OUTPUT - [10] SUCCESS
-
-[tagui] INPUT  - [11] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page070.png
-[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page070.png
 [tagui] OUTPUT - [11] SUCCESS
 
-[tagui] INPUT  - [12] click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png
+[tagui] INPUT  - [12] vision type("" + Key.END)
+[tagui] ACTION - type("" + Key.END)
+[debug]  TYPE "#END."
+[debug] Region:  TYPE "#END."
+[tagui] OUTPUT - [12] SUCCESS
+
+[tagui] INPUT  - [13] snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page060.png
+[tagui] ACTION - snap /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/page.png to /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/results/page060.png
+[tagui] OUTPUT - [13] SUCCESS
+
+[tagui] INPUT  - [14] click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png
 [tagui] ACTION - click /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png
 [debug] Image: loaded: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png)
-[debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png (1 KB) (# 3 KB 36 -- 0 % of 64 MB)
+[debug] Image: cached: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png (1 KB) (# 4 KB 246 -- 0 % of 64 MB)
 [debug] Region: exists: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png has appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [602 msec])
+[debug] Region: exists: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png has appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [491 msec])
 [debug] Image: reused: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png (file:/media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png)
 [debug] Region: wait: waiting 10.0 secs for /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png to appear in S(0)[0,0 1920x1080]
-[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [601 msec])
-[debug] CLICK on L(13,11)@S(0)[0,0 1920x1080] (568 msec)
-[tagui] OUTPUT - [12] SUCCESS
+[debug] Region: wait: /media/sf_vm_shared_folder/git/S-IPA-Workshop/workshop1/VisualAutomation/Web-Parcel-Bot/resources/png-ubuntu-close.png appeared (M[3,1 21x21]@S(S(0)[0,0 1920x1080]) S:1.00 C:13,11 [811 msec])
+[debug] CLICK on L(13,11)@S(0)[0,0 1920x1080] (544 msec)
+[tagui] OUTPUT - [14] SUCCESS
 
 [tagui] FINISH - stopped listening
 [debug] RunTimeIDE: final cleanup
 [debug] FileManager: deleteFileOrFolder:
-/tmp/Sikulix_59325212
+/tmp/Sikulix_1692410175

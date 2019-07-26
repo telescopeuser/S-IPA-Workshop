@@ -5,21 +5,21 @@
 // =====================================
 // Click to show "Desktop"
 // =====================================
-//click resources\png-iss-vm-desktop.png
+//click resources/png-iss-vm-desktop.png
 //wait 1 seconds
 
 // =====================================
-snap page.png to results\page010.png
+snap page.png to results/page010.png
 // =====================================
 
 // =====================================
 // Start web browser
 // =====================================
-click resources\png-iss-vm-chrome.png
-wait 5 seconds
+click resources/png-iss-vm-chrome.png
+wait 8 seconds
 
 // =====================================
-snap page.png to results\page020.png
+snap page.png to results/page020.png
 // =====================================
 
 // =====================================
@@ -29,57 +29,58 @@ vision type("http://qexpress.co.nz" + Key.ENTER)
 wait 5 seconds
 
 // =====================================
-snap page.png to results\page030.png
+snap page.png to results/page030.png
 // =====================================
 
 // =====================================
 // Click enquiry_box
 // =====================================
-click resources\enquiry_box.png
+click resources/enquiry_box.png
 wait 1 seconds
 
 // =====================================
 // Key in parcel_id
 // =====================================
-type page.png as DZ140053180NZ
+type page.png as DZ140053181NZ
 wait 1 seconds
 
 // =====================================
-snap page.png to results\page040.png
+snap page.png to results/page040.png
 // =====================================
 
 // =====================================
 // Click search button
 // =====================================
-click resources\enquiry_button_search.png
-wait 5 seconds
+click resources/enquiry_button_search.png
+wait 12 seconds
 
 // =====================================
-snap page.png to results\page050.png
+snap page.png to results/page050.png
 // =====================================
 
 // =====================================
 // Mouse scroll down to bottom
 // =====================================
 vision type("" + Key.END)
-wait 5 seconds
+vision type("" + Key.END)
+wait 2 seconds
 
 // =====================================
-snap page.png to results\page060.png
-// =====================================
-
-// =====================================
-// snap page.png to results\page_text.pdf
+snap page.png to results/page060.png
 // =====================================
 
 // =====================================
-// save page to results\page_text.txt
+// snap page.png to results/page_text.pdf
+// =====================================
+
+// =====================================
+// save page to results/page_text.txt
 // =====================================
 
 // =====================================
 // Close web broswer
 // =====================================
-click resources\png-ubuntu-close.png
+click resources/png-ubuntu-close.png
 
 
 
