@@ -1,0 +1,18 @@
+======================
+Installation guide:
+======================
+1. Download code from: https://github.com/telescopeuser/Machine-Learning-Flappy-Bird
+2. From the directory containing index.html
+3. Open a terminal in iss-vm
+4. Run: source activate iss-env-py3
+5. Run: python -m http.server
+6. Open browser: http://localhost:8000
+
+======================
+Workshop Enhancements: 
+======================
+1. Neural Net architecture, e.g. hidden nodes, and hidden layers; 
+2. Genetic Algorithm, e.g. population, selection, cross over, and mutation;
+
+
+Reference: https://github.com/ssusnic/Machine-Learning-Flappy-Bird/issues/1
