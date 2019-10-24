@@ -1,5 +1,5 @@
 
-## IPA Installation guide:
+## IPA Installation Guide:
 
 1. Download code from: https://github.com/telescopeuser/Machine-Learning-Flappy-Bird
 2. From the directory containing index.html
