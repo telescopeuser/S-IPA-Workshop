@@ -1,5 +1,0 @@
-References:
-
-https://github.com/Chakazul/Lenia
-
-https://github.com/topics/artificial-life
