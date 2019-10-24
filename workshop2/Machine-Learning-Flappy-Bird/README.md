@@ -1,6 +1,6 @@
-======================
-Installation guide:
-======================
+
+## IPA Installation guide:
+
 1. Download code from: https://github.com/telescopeuser/Machine-Learning-Flappy-Bird
 2. From the directory containing index.html
 3. Open a terminal in iss-vm
@@ -8,9 +8,9 @@ Installation guide:
 5. Run: python -m http.server
 6. Open browser: http://localhost:8000
 
-======================
-Workshop Enhancements: 
-======================
+
+## IPA Workshop Enhancements: 
+
 1. Neural Net architecture, e.g. hidden nodes, and hidden layers; 
 2. Genetic Algorithm, e.g. population, selection, cross over, and mutation;
 
