@@ -1,0 +1,6 @@
+- Supervises the GSM network, maintain and provide technical advise for the network. 
+         - Collects 
+         data using optimization equipment such as GPS, INS, Antenna. 
+         - Analyses and executes 
+         data using optimization software such as TEMS, Map Info. 
+         - Improves the performance of the network according to service to the user.

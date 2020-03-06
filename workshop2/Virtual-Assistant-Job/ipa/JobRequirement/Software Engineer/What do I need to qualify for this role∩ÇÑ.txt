@@ -1,0 +1,7 @@
+University degree in an appropriate area (e.g. informatics)
+At least 2 years of relevant work experience
+Experience with modern big data technologies like Hadoop, MapReduce, Kafka, Hive, Presto, Spark, etc.
+Experience with cloud solutions like AWS
+Experience with programming languages like SQL, Scala, Python, Java
+Experience with enterprise application integration and with ETL approaches in one of the leading tool suites (e.g. Informatica, Talend)
+Creativity and lateral thinking

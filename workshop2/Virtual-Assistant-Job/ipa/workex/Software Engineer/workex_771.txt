@@ -1,0 +1,70 @@
+Permanent Role 
+          
+         Role 
+         • Self-managed delivery of analytical projects 
+         • Built 
+         Big 
+         Data Analytics stack for video streams analytics 
+         • Code with the ability to scale with large 
+         data in the nearest real-time 
+         • Manage and own the entire end-to-end lifecycle of building Analytics along with their 
+         deployment and maintenance 
+         • Develop, define and govern spuul Business Intelligence (BI), 
+         data management and reporting architecture, guidelines and roadmap 
+         • Build up new capabilities for BI and 
+         Data Warehouse and Operational Reporting to support business initiatives 
+         • Build and maintain dashboards for model performance KPIs. 
+         • manage whole spuul 
+         data solution projects 
+          
+         Responsibilities 
+         • Extract, transform, and load 
+         data from a wide variety of 
+         data sources using AWS 
+         big 
+         
+         data technologies. 
+         • Creation of real-time 
+         data pipelines built on AWS technologies including EMR, Glue, 
+         Kinesis, Redshift/Spectrum, Athena and QuickSight 
+          
+         • Design, implement, and manage 
+         data pipelines from end-to-end using server less 
+         frameworks 
+         • Design and Develop ETL Processes in AWS Glue using PySpark 
+         • Create external tables/views with partitions using AWS Athena, AWS 
+         Redshift/Spectrum 
+         • Design, prepare and distribute timely and accurate reporting and dashboards using 
+         Tableau 
+         • Exploring 
+         data to find actionable insights using funnels, Cohort analyses and Churn 
+         analysis 
+         • Created and automated multiple KPI reports and dashboards by incorporating 
+         data from different sources 
+         • Developed personalized content recommendations engine using AWS ML 
+         • Mine 
+         data to identify trends, patterns and correlations using Amazon SageMaker 
+         • Deploying the machine learning models and integrate the models into different 
+         systems 
+         • Extract meaningful 
+         data by using 
+         data mining techniques, including pattern detection, 
+         graph analysis or statistical analysis 
+         • Utilize Google Analytics to track visitor flow and interaction throughout the company 
+         website 
+         • Setting up and optimizing Google Analytics properties and views in line with current 
+         product structure 
+         • Worked with various versions in tableau: Tableau Server, Tableau Public, Tableau 
+         Reader and Tableau Online 
+         • Elasticsearch and Logstash performance and configuration tuning. 
+         • Used Elasticsearch for powering not only Search but using ELK stack for logging and monitoring our systems end to end Using Beats 
+         • Build visualization and Dashboards using kibana 
+         • Creating automated anomaly detection systems and constant tracking of its 
+         performance 
+         • Training of non-analytical department members in best practice use of BI tool 
+         analysis techniques and correct interpretation of results 
+         • Driving initiative to automate the recurring manual activities for monitoring and operations using Scripting languages 
+         • Working closely with Business and Development teams to assess, collect and define 
+         requirements. Translating business definitions into 
+         data speak 
+         • Created Architecture Design documents and Technical Specifications Documents

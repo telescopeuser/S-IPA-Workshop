@@ -1,0 +1,17 @@
+Efficiently managed both Agile and Waterfall projects 
+         Successfully delivered end to end IT testing project for Partner Management domain(SFDC) which is a significant part of the $100M dollar program to provide end to end testing services for MicroFocus (Client) 
+         Successfully delivered $1M Next-Gen IT (Digital Transformation) project for Enterprise Analytics domain under a multi-million dollar IT transformation program of Hewlett-Packard Enterprise(Client) 
+         Managed off-shore 
+         Big 
+         data development team in developing solutions in HDFS, MapReduce, Pig, Hive, Spark, Oozie 
+         Successfully delivered end to end IT testing project for Partner Management domain(SFDC) which is a 
+         big part of the multi-million dollar program to provide end to end testing services for MicroFocus (Client) 
+         Responsible for project/sprint planning & tracking the project milestones end to end that involves multiple third-party systems integrator(s) 
+         Organizing Sprint planning, User story grooming, Scrum of Scrum sessions 
+         Efficiently worked with cross-domain & cross-functional teams to resolve the sprint impediments and blockers 
+         Responsible for communication & coordination between Client, Project teams, third-party SI`s, PMO & Account leadership 
+         Responsible for forecasting and reviewing budgets across all multiple teams involved in the project life cycle and post-go-live support activities 
+         Proficient in using project life cycle management tools Jira / Agile Manager / ALM / HPSM / MS Project 
+         Identifying risks, analyzing & mitigation planning proactively 
+         Responsible for a successful end to end testing and implementation 
+         Strong emphasis on Test-Driven Development(TDD) approach

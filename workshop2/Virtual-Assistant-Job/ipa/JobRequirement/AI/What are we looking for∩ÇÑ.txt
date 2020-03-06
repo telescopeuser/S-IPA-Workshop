@@ -1,0 +1,6 @@
+Solid practical experience with ETL, data processing and data analytics
+Proficiency and hands-on experience in machine learning, including data mining, statistical analysis, pattern recognition and predictive modeling.
+Extensive experience in software development cycles and excellent programming skill with scripting languages e.g. Python, Java, Scala, R.
+Familiar with state-of-the-art big data technologies, e.g. Apache Hadoop, Spark, Kafka, MongoDB, lambda architecture. Prior experience with AWS framework is preferred.
+Background in medical sciences an asset.
+Prior startup or entrepreneurial experience would be a bonus.

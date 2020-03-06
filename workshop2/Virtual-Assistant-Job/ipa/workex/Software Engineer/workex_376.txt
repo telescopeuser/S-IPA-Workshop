@@ -1,0 +1,27 @@
+CMC Limited was an information technology services, consulting and software company having its headquarters in New Delhi, India. CMC is part of the TATA Group and is owned by Tata Consultancy Services. 
+          
+         Responsibilities: 
+         • Maintenance of Oracle production and development databases. 
+         • Capacity and Storage planning for future storage requirements 
+         • Managing Database Structure, Storage Allocation, Table/Index segments, Rollback segments, Constraints, Database Access, Roles and Privileges. 
+         • Working with HR and Finance teams to develop and troubleshoot various internal applications. 
+          
+         Projects Handled: 
+         Employee Exit Clearance Application 
+         Salary System for contractual staff 
+         Employee Self Service 
+          
+         Responsibilities as Project Trainee: 
+         • Application and Database design as per user requirement. 
+         • Application development with front end in JSP and backend logic in PL/SQL. 
+         • Load and User acceptance testing of the application 
+          
+         Awards/ Achievements 
+         ❑ Designated Expert 
+         Engineer (E2) in JP Morgan Chase. 
+         ❑ GTI WOW Award from JP Morgan Chase N.A, in 2015 
+         ❑ Awarded Outstanding contributor for Q2, 2013, from Cognizant Technology Solutions 
+         ❑ Awarded Outstanding contributor for Q3, 2012, from Dell Services. 
+         ❑ Awarded Outstanding System Admin award from UBS for month of Oct, 2011. 
+         ❑ Awarded 7 times outstanding contributor in quarter and 2 times outstanding team award in quarter by Oracle Corporation. 
+         ❑ Awarded appreciation award for outstanding performance in year 2005-2006 by CMC Ltd.

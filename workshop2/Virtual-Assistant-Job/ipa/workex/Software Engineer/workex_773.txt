@@ -1,0 +1,7 @@
+Telecom Domain Support is the primary business of Knot Solutions. Knot Solutions manages and supports the web based products for their Telecom client- StarHub. 
+         Responsibilities & Development activities include 
+         • Application Design & Development - Enhanced the user interface, Java Application design and design and development of the new Modules to support the new business requirements in the Spring Boot, Micro Services Framework. 
+         • Database Design & Development - Enhanced the Oracle database design by fine tuning the queries and DB Objects to support the new business requirements 
+          
+         Technologies: 
+         • JAVA 8, Oracle 12.x, Spring Boot, MVC Framework , JQuery, JavaScript, HTML/CSS, JUnit, Servlets, JSP, WebLogic Server 12.x above, Apache/Tomcat

@@ -1,0 +1,8 @@
+(Short contract) 
+         Joined a team of five at Mastercard Labs to build a prototype in the provenance space. The main purpose of the prototype is to prove origin and authenticity of goods. 
+          
+          ● Development of SpringBoot web services which exposed REST-APIs to be consumed by connected devices. 
+         ● Swagger API documentation and generated clients. 
+         ● Light Android work and integration with web services. 
+         ● Facilitated Kanban. 
+         ● Managed Heroku deployments.

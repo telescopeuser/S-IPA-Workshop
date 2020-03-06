@@ -1,0 +1,51 @@
+Jun 2007 to - Dec 2010 (Customer - One of the leading Banks in Singapore) 
+          
+         I have been managing various service supports which include service desk, incident management, and service level management. My responsibilities include but not limited to the following 
+          
+         Service Desk 
+         • Functionally managed a team of 30 members responsible for handling first level of support for 
+         IT related issues to end users for a reputed client. 
+         • The 
+         IT service desk managed by me was a centralized help desk to provide support for Singapore, Hong Kong, China, Indonesia and Taiwan users. 
+         • Managed the performance, service level targets, escalations, customer relationship, and service improvement initiatives for service desk function. 
+         • Successfully achieved agreed service level attainments through effective utilization of available resources and process and resource capability improvements. 
+         • Involved in service level negotiation for service desk, team sizing and volume forecasting initiatives. 
+         • Performed trend analysis and improved first call resolution percentage, Average speed of answering (ASA), Average handling time (AHT), Repeat incidents reduction, customer satisfaction, etc. 
+         • Successfully migrated local help desk for Taiwan in to a centralized help desk support model. 
+         • Developed effective standard operating procedures (SOP) to help desk agents for effective handling skills and resolution. 
+         • Obtained score of 9 out of 10 in a customer satisfaction survey for help desk during the year 2008. 
+         • Introduced 
+         IT clinic forums to bring awareness on basic technical issues resolution for end users and there by reduced considerable amount of calls to 
+         IT service desk. 
+         • Introduced self service tool for users to check the status of the issues and for escalation if necessary. 
+         • Rostered the team on a need basis based on the volume during peak hours. 
+          
+         Incident Management 
+          
+         Responsibilities 
+         • Incident management team comprise of 4 duty incident 
+         managers responsible for handling major incidents to ensure services are restored as quick as possible to minimize the impact of incident to the business. 
+         • My incident management team was operated under 24/7 operations model and handles approximately 50 major incidents in a month. 
+         • Always ensured the services are restored within agreed time frame. 
+         • Conducted post incident reviews for incidents which are not resolved within agreed timeframe to identify gaps and areas of improvement to avoid further misses on restoration turn around time in future. 
+         • Acted as an escalation point for complex major incidents which require involvement of multiple technical teams and thus require effective call management to avoid delays from support team on service recovery. 
+         • Provided inputs to problem management team for conducting post portem reviews. 
+         • Performed trend anaysis to identify repeat major incidents and instigated service improvement initiatives with support teams for permanent fix. 
+         • Maintained known error database (KEDB) for quicker resolution for known errors. 
+         • Involved in major incidents to ensure services are restored as quick as possible. Driving the efficiency and effectiveness of the incident management process 
+         • Monitored the effectiveness of incident management and making recommendations for improvement. 
+         • Produced management information, including KPIs and reports. 
+         • Developed and maintained the incident management process flow and standard operating procedures. 
+         • Reviewed and performed internal audits for assessment of incident management process. 
+         • Acted as a point of contact for external audits for service desk and incident management process. (MAS, KPMG, Pink Elephant, E&Y & PWC) 
+         • Ensured that all 
+         IT support teams follow the incident management process for every incident. 
+         • Developed and implemented robust processes in accordance within an ITIL governance framework to ensure high service standards are provided to customers. 
+          
+         Service Level Management 
+         Service Level Management for service desk and Incident Management 
+          
+         • I am responsible for management of service levels to service desk and incident management processes. 
+         • Managed service levels effectively via attainment of key critical service levels including MTTR, FCR, ASA, AHT, etc. 
+         • Performed service level monthly resporting for service desk and incident management processes. 
+         • Performed weekly SLA reports aimed to provide a forecasting on a monthly service level attainment in order to fine tune the gaps which may lead to service level misses.

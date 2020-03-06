@@ -1,0 +1,7 @@
+Taiwan 
+         ● Business logic implementation in node.js and Express 
+         ● Built Continuous Integration (CI) pipeline environment by using Jenkins and integrating with bitbucket service 
+         ● Collaborated with Microsoft team on platform deployment on Azure as a service for individual and industrial customers. For instance, distributed image processing with 
+         RabbitMQ, Redis cache for the read-heavy request and MongoDB cluster for high 
+         availability. 
+         ● Maintained Amazon EC2 and Route 53 for load balance.

@@ -1,0 +1,10 @@
+5+ years of continuous experience with a major programming language on server side e.g. Java or Python
+5+ years of experience using SQL databases
+Strong experience with Typescript/Javascript/ES6
+Vue.Js or similar client-side framework
+Demonstrated experience formulating technology strategy and architecture
+SOLID/DDD/CQRS patterns knowledge
+Excellent communication skills, both written and verbal
+Ability to work unsupervised
+Self-motivated with the ability to work in a fast-moving environment
+You are equally excited to build a minimum viable product as you are cementing a feature in maintainable and tested code #

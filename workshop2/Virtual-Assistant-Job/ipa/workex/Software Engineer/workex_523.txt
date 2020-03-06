@@ -1,0 +1,3 @@
+* Worked as pre-sales architect for portal & content management products. 
+         * Led the team of 4 members and developed portal content management system for Wyeth Pharmaceuticals on Liferay portal and Documntum ECP 
+         * Led the team of 3 members and built client server application on Java AWT/Swing

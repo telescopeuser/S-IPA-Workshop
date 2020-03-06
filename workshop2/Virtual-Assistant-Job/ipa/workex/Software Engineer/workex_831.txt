@@ -1,0 +1,13 @@
+Environment: PeopleSoft HCM 9.2, People Tools 8.56, MS SQL Server 2017 
+         Duration: July 2019 to Till Date 
+          
+         Project Description: They are currently using PeopleSoft HCM and ELM. They have requirements for enhancement changes in both HCM & ELM and support as well. 
+          
+         Roles and Responsibilities: 
+         ❑ Currently working on Creating Fluid pages, dashboard, tiles, Classic plus pages and Fluid Configuration. 
+         ❑ Bug fixing in ELM for Roaster button issue when Course Code applied by External & Internal Users. 
+         ❑ Requirement gathering in Career Planning and User want to design custom page for Mentor. 
+         ❑ Developed reports using Pivot Grid. 
+         ❑ Working in Career Planning module and preparing mock-up pages for Mentee & Mentor pages, email notifications and CV/Resume pages using HTML, CSS and PeopleCode. 
+          
+         PROJECT EXPERIENCE #14

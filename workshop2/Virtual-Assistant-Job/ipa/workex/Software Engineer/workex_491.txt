@@ -1,0 +1,29 @@
+Integrated Advisory Solution (IAS) will identify the customer's financial objectives and shortlist suitable investment and insurance products that will best meet the objectives. Back to front of host systems will flow to IAS to enrich IAS with client and product 
+         data on a daily basis, so that FA Reps have access to the up-to-date with clients 'financial situations. It organizes the whole communication workflow between clients, relationship managers, and traders, automating the front-to-back chain whenever possible, and making the sales process more efficient. 
+          
+         Java using Full Stack: 
+          
+         Back-End: JAVA 1.8, Spring Boot v4.2, Microservices, JPA, REST API. 
+         Front-End & JavaScript Lib: ReactJS, RedUX, Materializecss, Bootstarp, jQuery, lodash, react-moment, icons, babel-loader, babel-preset-es2015/react, html-webpack-plugin, webpack development server. 
+         Message Brokers and Middleware: Kafka, ActiveMQ, Zookeeper, Apache Camel. 
+         Streaming & Serialization: Java 1.8, Storm & Protocol Buffer. 
+         Build tool and CI: Jenkins, Maven, GitHub, RTC. 
+         IDE, Container: Eclipse & Visual Studio Code, npm, yarn, Docker Hub & images. 
+         In-Memory 
+         Data & Caching: Hazelcast. 
+         SQL DB & No SQL: MS-SQL, Oracle & MongoDB. 
+         WEB & Application servers: Apache & JBOSS 7.0 
+         Concurrency: Akka 
+          
+         Roles & Responsibilities: 
+         ➢ Designing core technologies for the bank which are based on distributed systems using agile environment and Micro services with 12-factor methodologies. 
+         ➢ Engaging with different back-end (host) teams on end-to-end delivery for the platform. 
+         ➢ Implementing back to front transactions of BWCIF, SIBS, UTMS Systems. 
+         ➢ Development of interface EOD batch jobs using Spring Batch. 
+         ➢ Development of UI components to enquire client CIF and customer address details via JMS with Active MQ. 
+         ➢ Development of REST APIs to connect Etiqa insurance system to fetch INSURANCE product using JSON format and submitting trade to Etiqa. 
+         ➢ Full stack development with Micro service pattern. 
+         ➢ Development of STP for insurance and structured deposit products and promote productivity. 
+         ➢ Product Change Request enhancement and development. 
+         ➢ Development of Fixbridge adapter tool for Direct Market Access orders via TCP to Bloomberg server. 
+         ➢ Involved design, develop, and implement smart order routing, order execution for FX trade capture(FX Spot, forward, Swaps and Options) for Maybank Kim Eng securities using C++ (Backend server with quant lib) and JAVA as front-end application for straight through processing to place the orders to direct market(SGX, HKEx, NYSE, Shanghai-Hong Kong Stock Connect, Thailand & Malaysia).

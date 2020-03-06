@@ -1,0 +1,16 @@
+• Managing a team of 18 members [9 development teams] 
+         • Plans development projects from a technical and resourcing perspective; with a focus on estimating project timelines 
+         • Provides clear direction, setting targets/prioritizing tasks, assigning responsibility, and monitoring workflow 
+         • Motivates development team to achieve and exceed on project objectives 
+         • Understands the role these projects play in the larger company objective and works toward achieving company goals 
+         • Works collaboratively with project managers, QA, Product Management, and Sales so that all teams are working to the same schedule and goals 
+         • Is willing and able to revise plans on short notice when customer plans and requirements change 
+         • Facilitates communication upward and across project teams as a means of ensuring project success 
+         • Works with various programming and product groups within the company to ensure that required features and modifications are included in the appropriate releases to support cross-product features 
+         • Works with third party vendors to develop software and/or integrate the third party software into the product 
+         • Works with product architects to ensure that implementation is maintainable and extensible to accommodate future development and maintenance 
+         • Ensures that the team follows the established development process and implements changes to the process when necessary 
+         • Ensures that the implementation of the product satisfies the product specifications and follows established coding standards 
+         • Gathers and analyzes metrics on team performance as a means of identifying strengths and improving on weaknesses 
+         • Actively develops staff within own function; supports department's succession plan 
+         • Interviews and hires new developers and designers as needed

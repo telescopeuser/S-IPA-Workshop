@@ -1,0 +1,21 @@
+PROJECT: SMALLCELL WIRELESS TECHNICAL LEAD (MICRO SITES - IBS & Outdoor Sites) 
+         POSITION:Wireless 
+         Engineer (Philippine Network Technology Department) 
+         DESCRIPTION: Working on the market's Small cell product deployment. Provide technical support for implementation of Micro sites/Small cell like Atomcell/Easymacro/Lampsite of HUAWEI product equipment 
+         DURATION: August 2016 - August 2018 
+          
+         Key Contributions: 
+         ● Provide technical solutions, plan, updates and progress of project rollout 
+         ● Solve technical issues of Wireless product, sum up cases, service requirements and deliver excellent customer service 
+         ● Supervise a group of site staff, 
+         engineers and subcontractors. Plan and organize daily execution of projects, prepare project schedule, milestone reports and submission 
+         ● Leading the project team to achieve business objectives in aspects like baselines, efficiency, quality or competitiveness 
+         ● Address issues that may affect the network performance and make sure that the issues are resolved in a timely manner 
+         ● Coordinating with customers regarding project plan, preparation on implementation and during rollout 
+         ● Highly proficient in operation, maintenance and technical support of Huawei NodeB's and eNodeB's 
+         ● Alarm clearance and rectification via remote restoration using NMS Server U2000 
+         ● Provide level 2 support and participation in emergency support activities. 
+         ● Work with different teams like RF 
+         engineer, Transmission team to make sure that the site solution is the best implementable 
+         ● Technical knowledge sharing for cadet 
+         engineers with the company's vision, ideals, projects, and needed requirements for project implementation.

@@ -1,0 +1,28 @@
+june2018 
+         Description: 
+         • Predicting purchase power of BLACK FRIDAY DAY. 
+         • Used ML Algorithms to predict the purchase rate. 
+         • Useful for predicting purchase rate. 
+          
+         TAKEN MIND, BANGLORE 
+         TOPIC: 
+         Data analytics using python 
+         DAYS: 1st march - 27th march (27 days) 
+         DESCRIPTION: Worked on python projects provided by the company and tasks on 
+         DATA ANALYTICS. 
+          
+         LINUX WORLD INFORMATICS PRIVATE LTD. 
+         DAYS: 12th june-25th july (6 weeks) 
+         MENTOR: Mr. VIMAL DAGA 
+         DESCRIPTION: The project aims at developing a market-ready web service for RHEL Clients which can be used to provide number of services in a safe and secure way. The services include: 
+         • Providing CLOUD SERVICES aiming the client means for CLOUD COMPUTING. 
+         • Implementation of Distributed Storage using Hadoop framework to resolve the issue of 
+         
+         BIG 
+         DATA. 
+         • It also includes NLP for implementing number of services. 
+         • Implementation of distributed computing using Map Reduce framework 
+         • It involves SHELL IN A BOX which provides user a desired OS terminal on the web. 
+         • This web service also involves managing DOCKER (launching Docker, stopping Docker, 
+         Removing any Docker Image) 
+         • Managing Firewall of the OS. (Blocking or unblocking any particular IP

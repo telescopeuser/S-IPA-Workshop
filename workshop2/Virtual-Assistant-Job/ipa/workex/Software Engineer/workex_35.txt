@@ -1,0 +1,15 @@
+Mecomm, Merck Role: Project Lead 
+         Mecomm is an online ecommerce System that enable the Merck Customers to place orders online for Merck products. Mecomm integrates with ERP packages like Pronto, Scala and SAP for the different CMGs of the Merck. Responsible for the requirement gathering and implementation of the Merck online ecommerce System using J2EE, Java, JSP, Servlets, JRun 4 and MS SQL Server for countries Australia and Hungary. 
+          
+         IBM Global Services Ltd, Bangalore, India Role: Application Programmer Period: Jul 2004 - Jul 2006 
+          
+         Specialty Pharmacy Electronic Claim System (SPECS), CAREMARK Inc, US 
+         Specialty Pharmacy Electronic Claim System (SPECS) was developed to meet the daily pharmacy benefit management operations of Caremark and replace its existing legacy systems AMOSRX & CATS. Caremark was a leading pharmacy benefit management (PBM) company in USA providing comprehensive drug benefit services, disease management programs, and specialty therapeutic services and programs to over 2000 health plan sponsors. SPECS consists of modules like Admissions containing Enrollment and Benefit Verification, Pharmacy containing Rx Management, Participant Contact and Order Fulfillment, Reimbursement containing Medical Billing, Cash Application & Collections and Contract & Pricing. 
+         • Responsible for requirements analysis, design and development of RX Module in SPECS Project. 
+         • Technologies used: J2EE, DB2 8.1, WSAD 5.1.2, Websphere 5.0, WebSphere MQ 5.3, MQ Workflow 3.6, TCF framework, XML, AJAX 
+          
+         KANA Resolution, KANA, US 
+         KANA Resolution was a Service Resolution Management (SRM) product which automates and enhances the steps in finding a resolution for the Call Centers using external CRM systems like Siebel, JD Edwards, KANA Contact Center. It was developed on top of existing KANA iCare Architecture and KANA IQ Knowledgebase. 
+         • Responsible for functional requirements analysis and design for Resolution Flow engine and Service Invocation Framework Modules. 
+         • Implemented the web services using Apache Axis and WSIF. Implemented the cache for the SIF Subsystem based on the KANA ICare Framework. Setup the SCM - Source repository and build the ant scripts for build process of the project which was shared between IBM, Accenture and HCL teams. 
+         • Technologies used: J2EE, KANA iCare Framework, XML, WBI 4.2.2, KANA IQ, DB2 UDB 8.1, WebSphere MQ 5.3, Apache Axis, WSIF, EJB, Struts, JUnit

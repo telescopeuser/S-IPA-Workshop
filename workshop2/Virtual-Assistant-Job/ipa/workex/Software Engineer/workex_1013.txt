@@ -1,0 +1,40 @@
+Accomplishments: 
+         • Worked closely with senior management, scrum teams and product/business teams in an scaled agile set-up and ensured alignments 
+         • Established strong working relationship with the Product Team Members (Product Lead, Product Managers and Product Owners) and stakeholders to deliver innovation and value to clients 
+         • Worked with other program members to develop release management strategies (planning, testing, dependency management) that address the risks and issues resulting from the complexities of scaling agile 
+         • Provided metrics to PMO and stakeholders and assesed Agile Maturity 
+         • Supported the Product organization in delivering incremental value throughout the program by having a good understanding of the business roadmap 
+         • Worked with Product to have a graduated, ranked, and value structured backlog which ensures that there are enough stories to work on in each sprint, and to be able to report on the value stream of the team 
+         • Facilitated Sprint Planning, Sprint Planning II, Daily Stand Up, Sprint Refinement, Sprint Review, Sprint Retrospective, Overall Sprint Retrospective and Scrum of Scrums 
+         • Heavily promoted feedback cycle necessary through Sprint Reviews 
+         • Helped the Scrum teams to work with DevOps to manage the dependencies and have a faster delivery with quality 
+         • Guided the team on creation and update of a Working Agreement which is published to reflect the teams operating procedures 
+         • Supported product owners in being evangelists of agile, and training and supporting the stakeholder community 
+         • Worked as a mentor to focus on challenging each other for growth 
+         • Conducted and facilitated Agility Health for teams' assessment and identify growth plans 
+         • Built a safe environment where team members are able to raise their concerns, ask questions, give constructive feedback and challenge each other constructively without hesitation 
+         • Built an environment that supports continuous improvement where scrum team members and outside the scrum team suggests and facilitate topics that would benefit the entire team 
+         • Built an environment where program issues, risks, impediments or requests are ecalated by team members to program management, other scrum masters, product team managers or any appropriate resources who need to be notified are to reduce waste, and encourage program synergies 
+         • Built an environment where teams are managing their own time effectively through focus on completion of the most important work first, and meeting the sprint commitments set by themselves 
+         • Built an environment where any change to the sprint backlog from outside the team during a sprint is strongly evaluated, and resisted unless there is a very strong business necessary 
+         • Led and coached other scrum masters in the company in their Agile journey 
+         • Facilitated Agile and Scrum Master Community of Practice (CoP) and share learnings with the scrum teams 
+         • Facilitated Release Plannings and project kick-offs 
+         • Ensured teams understand the aligned boundaries of selfmanagement, and can demonstrate the alignment to their own goals and practices 
+         • Conducted interviews and made recommendations 
+          
+         PROJECT: 
+         Role: Scrum Master 
+         Project size: 42 members 
+         Scrum Team number: 6 
+         Scrum Team size: 7 
+         Project: Employee Engagement Software 
+         Project Description: It is a web-based application that deliver insights and enable actions that enhance employee engagement, company culture, and business performance to corporate clients like banks, insurance companies and e-commerce companies. Scrum Teams are located in Manila, Melbourne, Denver, Chicago and London. Developed in .NET, Angular and Oracle 
+          
+         PROJECT: 
+         Role: Scrum Master 
+         Project size: 45 members 
+         Scrum Team number: 6 
+         Scrum Team size: 7 
+         Project: Compensation Planning Software 
+         Project Description: It is a HR web-based application which is part of an ERP system that focuses in human resources solutions for corporate clients like banks, insurance companies and e-commerce companies. Scrum Teams are located in Manila, Denver and London. Developed in .NET, Angular and Oracle

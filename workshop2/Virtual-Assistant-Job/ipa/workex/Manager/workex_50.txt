@@ -1,0 +1,9 @@
+Roles and Responsibilities 
+         ✓ Raising tickets for the incident/problems in HP service 
+         manager (ticketing system) and assigning the tickets to concern person or group if needed. 
+         ✓ Provides the support needed internally and coordinates with other departments to resolve problems. 
+         ✓ Managing Active directory services such as creating, modifying objects like users, group etc.Roles and Responsibilities 
+         ✓ Raising tickets for the incident/problems in HP service 
+         manager (ticketing system) and assigning the tickets to concern person or group if needed. 
+         ✓ Provides the support needed internally and coordinates with other departments to resolve problems. 
+         ✓ Managing Active directory services such as creating, modifying objects like users, group etc.

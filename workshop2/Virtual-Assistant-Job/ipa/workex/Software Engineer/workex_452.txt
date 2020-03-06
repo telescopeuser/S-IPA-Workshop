@@ -1,0 +1,5 @@
+Project: AMDOC Smart Billing System 
+         • Creating Tuxedo service using Tuxedo in IBM AIX system. 
+         • Developing business logic for price structure using C++ environment. 
+         • Contribution is writing SIT and UAT test case for user testing. 
+         • Coordinating with other team members.

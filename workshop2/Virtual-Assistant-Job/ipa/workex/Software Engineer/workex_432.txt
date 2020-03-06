@@ -1,0 +1,26 @@
+Job Scope: 
+         • L3 Database platform APAC/Redbox team Lead, service owner (Assistant Director), manage 2000+ SQL servers with 14 years DBA experience. Resolved 5000+ incident and change request tickets. 
+         • Lead two teams (SQL APAC/Redbox team and SQL build team) in parallel 
+         • Principal DBA on large database (TB level). Solid understanding of SQL server architecture and database internals. Proficient on performance tuning and troubleshooting, T-SQL scripting, 
+         Data analysis. MCSE certificates owner. 
+         • Build a new dedicated SQL installation team to cover 3 shifts and realize 24X5. Lead team to complete 2310 SQL builds and configurations on all types of platforms including on-premise and public cloud (MS Azure IaaS/PaaS), deliver global DB build service and achieve to meet 100% SLA. Improved installation 30% SLA proficiency. 
+         • Familiar with advanced IT management methodology (DevOps, Agile, CI/CD). Certificates of Scrum and ITIL. 
+         • Lead global DB Service Automation Process, develop PowerShell automation tools to save 4000+ DBA hours cost. Define DBA business process for EY global 'Cloud First' strategy. 
+         • Proficient on High-Availability architecture (AlwaysOn, Failover cluster, mirroring, replication, log shipping) and BI deployment (Load balanced SSRS, Clustered SSAS, SSIS package). TDE+TLS/SSL to guard security. 
+         • Hands on Opensource, NoSQL and 
+         Big 
+         Data technology, MySQL, Hadoop+Spark (HDFS, YARN+RDD, MapReduce) build and architecture, Python/Pandas to do 
+         data analysis, reports and visualization. Sqoop/Flume to import 
+         data, Hive for SQL query, NoSQL knowledge on MongoDB, HBase, Redis. 
+         ❖ Lead multiple critical Database projects in EY global datacenters. Critical Project LAN (FAAS) onsite implementation in U.S. 
+         ❖ Lead SQL migration project by migrating thousands of databases from SQL 2000,2005 to 2012 & 2008 to 2016. 
+         ❖ Lead Firm global Consolidated SQL server performance analysis and tuning activity. 
+         ❖ Lead with external teams to complete 
+         Data Protector project, critical for security audit and compliance. Lead GVM, server vulnerability checking to enhance safety. 
+         ❖ Lead and coordinate other IT resource to resolve major and P1S1 (Priority 1 and Severity 1) incidents. Lead GDC backup policy creation and implementation. Lead SAN storage migration for DR site setup. 
+         ❖ Lead periodic DB user review and DBA audit framework creation to comply InfoSec risk & security assessment and reinforce the 
+         data protection mechanism. Lead on multiple servers monitoring threshold and criteria building 
+         ❖ Define DBA team workflow and documents of build, access security, DR exercise, deployment. 
+         ❖ Composed various technical KB documents. Make team contribution statistics diagram/dashboard. 
+         ❖ Lead People responsibilities. Counseling, training, and recruiting, workload balancing, task assignment, ticket dispatching. Define and Monitor DBA member KPI, projects/work/OT/weekend shift tracking. Optimize team work procedure, reduce ticket time latency and minimize SLA. Monitor team performance and summarize weekly reports. Lead team internal inventory tool concentration and 
+         data collection, Lead regular SQL server patching, monthly maintenance activity.

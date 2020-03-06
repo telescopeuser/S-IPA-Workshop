@@ -1,0 +1,9 @@
+Ponmani 
+         Engineers is one of the vendors for the SUNDARAM CLAYTON LTD, Chennai. 
+          
+         • Analysing the Customer Orders, prepare and sending basic schedule details for those orders considering current jobs with approval from Central Planning Department. 
+         • Team member in the development of new components. 
+         • Generation of SFC-IS reports on daily, weekly, monthly basis. 
+         • Controlling the inventory in FIFO basis. 
+         • Preparation of monthly Machine utilization statement. 
+         • Preparing consumption of materials for Job order monthly and yearly.

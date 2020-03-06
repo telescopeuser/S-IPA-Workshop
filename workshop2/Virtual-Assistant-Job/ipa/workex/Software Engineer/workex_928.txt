@@ -1,0 +1,29 @@
+Singapore 
+          
+         Founded in 1924 and listed on the Singapore Exchange, Popular Holdings Limited is a well established group of companies with core business in retail & distribution, publishing and e-learning. Its global operations span across Singapore, Malaysia, Hong Kong, Macau, China, Taiwan, United Kingdom and Canada. Popular Holdings Limited maintained the competitive edge by continually striving towards better business practices and strengthening commitment to serve customer in the best possible way. 
+          
+         Role 
+         : Software 
+         Engineer (Java, J2EE, VB) 
+          
+         Involved in "POPULAR On-line Bookstore" project, an online application that allows customers to have online purchasing (Text Book, Stationary etc) from POPULAR. 
+          
+         Responsibility 
+         • Collaborating with end-users to understand and define the business logic requirements. Develop the module by using EclipseWTP as the development environment and Oracle as the backend system. 
+         • Enhancing and maintaining existing software application. 
+         • Developing innovative software with emphasis on Java2 Enterprise Edition (J2EE) components, Java servelet, JSP and VB.NET. 
+         • Provide both training and support to the end users.Singapore 
+          
+         Founded in 1924 and listed on the Singapore Exchange, Popular Holdings Limited is a well established group of companies with core business in retail & distribution, publishing and e-learning. Its global operations span across Singapore, Malaysia, Hong Kong, Macau, China, Taiwan, United Kingdom and Canada. Popular Holdings Limited maintained the competitive edge by continually striving towards better business practices and strengthening commitment to serve customer in the best possible way. 
+          
+         Role 
+         : Software 
+         Engineer (Java, J2EE, VB) 
+          
+         Involved in "POPULAR On-line Bookstore" project, an online application that allows customers to have online purchasing (Text Book, Stationary etc) from POPULAR. 
+          
+         Responsibility 
+         • Collaborating with end-users to understand and define the business logic requirements. Develop the module by using EclipseWTP as the development environment and Oracle as the backend system. 
+         • Enhancing and maintaining existing software application. 
+         • Developing innovative software with emphasis on Java2 Enterprise Edition (J2EE) components, Java servelet, JSP and VB.NET. 
+         • Provide both training and support to the end users.

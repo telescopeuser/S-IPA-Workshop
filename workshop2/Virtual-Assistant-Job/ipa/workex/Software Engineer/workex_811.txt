@@ -1,0 +1,18 @@
+• Working as a Senior Engineering Manager cum Technical Product Manager, defined System Architecture, Value Stream, Roadmaps and Tactical solutions for product delivery 
+         • Help implement, manage and deliver fulfillment applications from the stores, distribution centers and order management systems for the first 8 months. 
+         • Built from scratch Real-time 
+         data processing pipeline product named "Walmart Pipeline Auditor" (branded as Tick Tick) using 
+         Big 
+         data technologies - an integrated Pipeline auditing system which provides end-to-end visibility and health check of every participating entity {Producers, Transport & Consumers} in a given 
+         data pipeline through subscription model. 
+         • I was responsible for scaling up the solution, infrastructure setup, and design alignment with multiple technical stakeholders. Handled massive volumes of 
+         data (>2.5 Billion Transactions Per Day) and generated business metrics for end-to-end traceability of individual event(s)/message(s), visualization to the lineage of each message(s) in a pipeline, detection of lost/delayed messages and alerting capabilities. 
+         • Driven the execution of multiple business plans and projects for Walmart Technology e-Commerce 
+         • Defined functional and technical requirements and negotiated with cross-functional product team(s) and business stakeholders to prioritize Features/Capabilities for deployment in upcoming releases 
+         • Continuous improvement, optimizations and identifying opportunities for improved software development processes 
+         • Managing a team of 20+ resources (Developers, Technical Leads, Product Owner, Product Manager, Scrum Master/Program Manager) - Recruitment planning, training, competence, salary & performance management till Attrition management 
+         • Responsible for Coaching, mentoring and development of direct and matrix reports 
+         • Donned multiple hats as that of a Product Owner/Product Manager, Program Manager (Scrum Master) alongside Engineering Manager on an NPI product - Tick Tick (Walmart Pipeline Auditor) 
+         • Drive development teams to execute to the business units commitments, product requirements, schedules and resources; exposing and resolving variances 
+         • Gain understanding on product features, systems, project tools and testing methodologies and use it to manage releases effectively till completion 
+         • Successfully introduced best Agile practices by using burnt down charts and critical paths for Epic stories to simplify change management, development and testing of new functionalities over multiple releases

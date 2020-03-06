@@ -1,0 +1,23 @@
+Responsibilities: 
+         * Responsible for managing the Dev, Test, QA, and Prod environments by installing the WAS and creating the profiles, nodes, the federation of nodes, Application Servers, Clusters, Virtual hosts, 
+         data sources, MQ connections, Plug-in Configuration, and Service Integration Bus Configuration, 
+         * Installed, configured, administered and supported JBOSS on RedHat Linux Environments. 
+         * Worked with the networking team for the creation of LB VIP and registration of DNS for accessing applications for high availability environments. 
+         * Configured IBM HTTP Server by creating DNS alias names, assigning ports, transporting and pointing multiple plug-in files to serve various instances in the same node. 
+         * Installed and configured ISAM and IGI Access Manager in Windows Environment. 
+         * Created junctions - standard, transparent, virtual host junctions to various backend applications. 
+         * Configuration of secure reverse proxies, Configuring runtime components, Authorization servers, application interfaces. 
+         * Developed and implemented a back-up and recovery strategy and processes. 
+         * Implementation single sign-on through EAI authentication and Kerberos Authentication, 
+         * Experience with administering the ISAM/Tivoli Access Manager /WebSEAL, create objects, policies, junctions, adding identity attributes, Created Groups, ACLs, and POPs to enforce access control to the backend applications. 
+         * Created the shell automation scripts using REST API to perform various operations like webseal instance stop/start, Verifying the junction status, Log management, SNAPSHOT creation 
+         * Configured and administered JDBC Connection pools, JMS Connection Factories, queues topics and implemented other services like JTA, JNDI, and SNMP. 
+         * Experience in problem tracing, log management, scripting to invocate problem-determination actions involving diagnostic traces and thread dumps. 
+         * Installed and configuration of Qradar SIEM and configured the logs different log sources to manage the logs IAM infrastructure. 
+         * Responsible for Creating the customized dashboards based on requirement and automated reports based on the client requirement. 
+         * Verified the Performance related load test in HP Load Runner during the load tests. 
+         * Responsible for implementation of standard processes for installation, maintenance, and enhancement of middleware applications. 
+         * Provided technical consultations and presentation to IT and external customers as needed. 
+          
+         Environment: WebSphere Application Server 8.5/8.0/7.0/6.1/6.0, JBoss EAP6.1/7.x, Apache Tomcat . 5.0/6.0/7.0, 
+         Data power XI50, XI52, ISAM for Web reverse Proxy 9.x, TDS 6.3, ISIGI 5.4, ISAM IBM Directory Server 6.4, TDI 7.1, IBM SDI 7.2, IBM DB2, Qradar, Splunk.

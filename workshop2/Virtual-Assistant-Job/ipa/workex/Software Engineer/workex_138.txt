@@ -1,0 +1,11 @@
+for New implementations, resource allocation and Vendor Management 
+         • Implementation & Administration of deferent databases on premise and Cloud ( AWS and Azure) 
+         • Installation, operations, performance Turning & configuration of databases on Oracle (12c, 11g,10g and 8i on oracle RAC and Non-RAC), MS SQL server Cluster (2016/2012/2008/2005/2000), MYSQL, MongoDB and Maria DB 
+         • Administration, Operation EBS on 11i/12i and Migration from 11i to 12i 
+         • PeopleSoft administration CSO and CRM 
+         • Proficient in database administration, production support, installation, configuration, upgrades, patches, performance tuning, backup and recovery, cloning, capacity planning, space management, database security, auditing, troubleshooting, physical and logical database design, Unix shell scripting and documentation. 
+         • Formulated Backup strategies and performed numerous Recovery operations. Performed backup and recovery using Recovery manager (RMAN) for taking backup cold & hot backups of the database. 
+         • Administration, Monitoring of databases using Oracle Grid Control and SCOM 
+         • Automate Database/Application tasks using ANSIBLE 
+         • Database Performance Tuning & Troubleshooting for optimal performance 
+         • Good understanding of SDLC & ITIL process and being followed and good Team player on Agile/Devops

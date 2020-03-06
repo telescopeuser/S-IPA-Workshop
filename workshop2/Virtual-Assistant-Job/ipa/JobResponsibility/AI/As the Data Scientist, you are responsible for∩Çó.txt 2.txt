@@ -1,0 +1,1 @@
+Mining, analysing and querying data from internal and external databases

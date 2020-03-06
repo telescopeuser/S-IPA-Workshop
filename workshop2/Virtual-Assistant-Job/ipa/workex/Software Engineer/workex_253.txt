@@ -1,0 +1,10 @@
+Responsibilities 
+          
+         • Development of new requirements of website (fidelity.co.uk) in form of user stories and then delivering them in incremental and optimization releases. 
+         • Involved in gathering the requirements from stand-ups, writing code and deploying it to testable environment (EBF, UAT) to test. 
+         • Converting monolithic application to micro services which are deployed on cloud, analyzing their performance using PaaS and OCF. 
+         • Taking up responsibility in high severity live issues and delivering them in emergency releases. 
+         • Following agile methodology, delivering user stories in various sprints of 2 to 3 weeks. 
+         • End to end testing using karma and Mocha Chai. 
+          
+         Technical Environment ReactJs, Angular 2, SpringBoot, Pivotal cloud foundry.

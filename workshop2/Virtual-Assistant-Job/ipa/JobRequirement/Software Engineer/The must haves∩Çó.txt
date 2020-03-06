@@ -1,0 +1,6 @@
+A degree or higher in Computer Science, Electronics or Electrical Engineering, Software Engineering, Information Technology or other related technical disciplines.
+Experience in handling large data sets (multiple TBs) and working with structured, unstructured and geographical datasets
+Designed high performance scalable infrastructure stacks for Big Data Analytics
+Deep understanding of databases and best engineering practices - include handling and logging errors, monitoring the system, building human-fault-tolerant pipelines, understanding how to scale up, addressing continuous integration, knowledge of database administration, maintaining data cleaning and ensuring a deterministic pipeline
+Real passion for data, new data technologies, and discovering new and interesting solutions to the company’s data needs
+Excellent communication skills to communicate with the product development engineers to coordinate development of data pipelines, and or any new products features that can be built on top of the results of data analysis

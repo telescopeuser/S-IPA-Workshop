@@ -1,0 +1,51 @@
+Credit Agricole Corporate and Investment Bank (CA-CIB) is the credit and investment banking arm of Credit Agricole Group, world's 11th 
+         largest bank by total assets. The Singapore center is one of the 3 main IT Hubs for CA-CIB's worldwide business. One of the biggest 
+         projects of CA-CIB which I'm currently working on is a large investment project using 
+         big 
+         data technologies for market risk applications and FRTB (Fundamental Review of Trading Book) regulation. 
+          
+         Project: Market Risk 
+         Data Intelligence System 
+         ● Implemented major functionalities related to ○ Collection of 
+         data from different Front Office systems 
+         ○ Calculation, analysis and monitoring of 
+         data 
+         ○ Ingestion and streaming of 
+         data 
+         ○ Persisting to 
+         data lake 
+         ● Incorporated Kerberos authentication protocol in the system 
+         ● Lead Software Factory team responsible for adopting different DevOps tools and processes for project automation and continuous integration 
+         ● Implemented integration and regression testing automation for the system. The automated regression testing system 
+         reduced the cost and effort of manual testing being done by business analysts and support team 
+         ● Implemented automated reporting of output 
+         data 
+         ● Lead Architecture Operations Team responsible for coordination between upstream and downstream applications of the project; Acted as liaison between business, development team, business analysts, support team and infrastructure team 
+         ● Implemented scripts to reduce repetitive tasks during testing, deployment and release 
+         ● Technologies: (Java, .NetCore, Spark, Kafka, Hadoop (HDFS, HBase, Hive, YARN, ORC, MapReduce), Kerberos, Streaming, 
+         Kibana, ElasticSearch, AngularJS, SpringBoot, Maven, Jenkins, Sonar, IntelliJ, Eclipse, Visual Studio)Credit Agricole Corporate and Investment Bank (CA-CIB) is the credit and investment banking arm of Credit Agricole Group, world's 11th 
+         largest bank by total assets. The Singapore center is one of the 3 main IT Hubs for CA-CIB's worldwide business. One of the biggest 
+         projects of CA-CIB which I'm currently working on is a large investment project using 
+         big 
+         data technologies for market risk applications and FRTB (Fundamental Review of Trading Book) regulation. 
+          
+         Project: Market Risk 
+         Data Intelligence System 
+         ● Implemented major functionalities related to ○ Collection of 
+         data from different Front Office systems 
+         ○ Calculation, analysis and monitoring of 
+         data 
+         ○ Ingestion and streaming of 
+         data 
+         ○ Persisting to 
+         data lake 
+         ● Incorporated Kerberos authentication protocol in the system 
+         ● Lead Software Factory team responsible for adopting different DevOps tools and processes for project automation and continuous integration 
+         ● Implemented integration and regression testing automation for the system. The automated regression testing system 
+         reduced the cost and effort of manual testing being done by business analysts and support team 
+         ● Implemented automated reporting of output 
+         data 
+         ● Lead Architecture Operations Team responsible for coordination between upstream and downstream applications of the project; Acted as liaison between business, development team, business analysts, support team and infrastructure team 
+         ● Implemented scripts to reduce repetitive tasks during testing, deployment and release 
+         ● Technologies: (Java, .NetCore, Spark, Kafka, Hadoop (HDFS, HBase, Hive, YARN, ORC, MapReduce), Kerberos, Streaming, 
+         Kibana, ElasticSearch, AngularJS, SpringBoot, Maven, Jenkins, Sonar, IntelliJ, Eclipse, Visual Studio)

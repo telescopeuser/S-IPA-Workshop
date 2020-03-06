@@ -1,0 +1,26 @@
+Responsibilities: Worked in ENCORE Development team of Infosys which mainly works in development of products and reusable component for Infosys. Below is the details. 
+          
+         Product Personalize Framework Web Development 
+         Description: This web framework takes order for inventory management firm and process the order 
+         accordingly. This framework provides a good model solution to e-commerce applications. 
+         Periodic Batch Commit with Retry Implementation 
+         Description: This is a J2EE application which reads the bulk of 
+         data from Flat files and committing it into the Database at given commit interval. This module helps the sector like banks to process a bulk 
+         data 
+         obtained in form of flat files and after processing, that 
+         data has to be saved in 
+         data base. 
+         Spring Batch Job Scheduling using Quartz Scheduler 
+         Description: As in real time system the jobs are triggered at specified time, for example in banking sectors at the end of day 
+         data has to be transferred to a central server. 
+         Technologies & Database: JAVA, Multithreading, Oracle, Struts, Hibernate, Oracle, Spring Batch, 
+         Quartz API. 
+          
+         Achievements & Extra Curricular Activities 
+         ● Certified Outsystems Developer. 
+         ● Have certified on internal certifications like Fundamentals of Insurance, Java Certifications, 
+         STAR INFOSCION of Infosys Limited. 
+         ● Our Team in ASPL Received Certificate for the extraordinary performance in completing 
+         Specialty Products development from Scratch, which was first pilot project from ASPL 
+         Bangalore. 
+         ● In FICO, won SPOT Award for outstanding contribution to APAC region BDO Project in

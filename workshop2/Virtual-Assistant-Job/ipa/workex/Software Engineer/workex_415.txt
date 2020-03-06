@@ -1,0 +1,31 @@
+• Handling network incidents promptly towards SLA. 
+         • Maintenance and troubleshooting of Leased Lines, Megapop, Bizlink and ISDN connectivity to remote branches and Various customers. 
+         • Attend ticket assigned for daily network operations and resolve those issues towards SLA. 
+         • Troubleshooting issues related to OSPF in Client (DBS) network and analysis for the root cause of incidents.Perform troubleshooting related to connectivity issues in Firewall. 
+         • Setting up and troubleshooting Load Balancing for Server Farm on Cisco Content Switching Module (CSM) and Server Iron(Natpoleon) 
+         • Maintaining, Configuration and troubleshooting of Cisco catalyst Switches and routers problems like level-1 & 2. 
+         • Network planning, Implementing and expand DBS network setup for New requirements 
+         • Implementing VLANs, VTP, VLAN Trunking, Inter VLAN Routing on interfaces 
+         • Implementing Private VLANs, STP, HSRP, and VRRP 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Meeting customer requirements and working towards SLA of the Company. 
+         • Tests, troubleshoots and replaces network equipment like Routers, and Switches etc. 
+         • Upgrading new IOS versions for all the Core & Distribution switches and routers in the DBS network. 
+         • Implementing Standard & Emergency change requests in timely manner and Handling Network Incidents working towards SLA. 
+         • Monitoring 
+         Data Traffic using SOLARWINDS• Handling network incidents promptly towards SLA. 
+         • Maintenance and troubleshooting of Leased Lines, Megapop, Bizlink and ISDN connectivity to remote branches and Various customers. 
+         • Attend ticket assigned for daily network operations and resolve those issues towards SLA. 
+         • Troubleshooting issues related to OSPF in Client (DBS) network and analysis for the root cause of incidents.Perform troubleshooting related to connectivity issues in Firewall. 
+         • Setting up and troubleshooting Load Balancing for Server Farm on Cisco Content Switching Module (CSM) and Server Iron(Natpoleon) 
+         • Maintaining, Configuration and troubleshooting of Cisco catalyst Switches and routers problems like level-1 & 2. 
+         • Network planning, Implementing and expand DBS network setup for New requirements 
+         • Implementing VLANs, VTP, VLAN Trunking, Inter VLAN Routing on interfaces 
+         • Implementing Private VLANs, STP, HSRP, and VRRP 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Meeting customer requirements and working towards SLA of the Company. 
+         • Tests, troubleshoots and replaces network equipment like Routers, and Switches etc. 
+         • Upgrading new IOS versions for all the Core & Distribution switches and routers in the DBS network. 
+         • Implementing Standard & Emergency change requests in timely manner and Handling Network Incidents working towards SLA. 
+         • Monitoring 
+         Data Traffic using SOLARWINDS

@@ -1,0 +1,16 @@
+Project Title OFA STEM (Oracle Financial Analysis- Steria Travel and Expense Management) 
+         Description Steria manages their Travel Booking and Expense Management processes with Concur technology to increase 
+         efficiencies and control costs. Concur is a leading provider of integrated travel and expense management solutions. 
+         Concur's easy-to-use Web-based and mobile solutions help Steria and their employees control costs and save time. 
+         Concur's systems adapt to individual employee preferences and scale to meet the needs of companies from small to large. 
+         Environment Cognos 8.4 (Concur Intelligence) 
+         Role Senior Cognos/Concur Consultant 
+         Contribution ✓ Supporting users on complex issues and projects. 
+         ✓ Interacting with Business users for gathering Business Requirements to develop Cognos reports. 
+         ✓ Review of Requirements and Test Plans Design. 
+         ✓ Developed complex reports with user's design format using cascading prompts and calculations in Report Studio. 
+         ✓ Created Prompts, calculations, Conditions & Filters. Developed Prompt pages and used Conditional formatting. 
+         ✓ Bursting the Reports in Cognos Environment and sending by mail. 
+         ✓ Test the reports as per the Test plan after this update the test logs as per the testing happen. 
+         ✓ Technical Support to the application support team and Assisting Sr. 
+         Data Warehouse Consultants, in DWH modeling

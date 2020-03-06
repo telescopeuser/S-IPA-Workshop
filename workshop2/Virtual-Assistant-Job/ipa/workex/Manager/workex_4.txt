@@ -1,0 +1,13 @@
+• Mitigated risk by analyzing complex computer systems to assess vulnerability 
+         • Documented changes that were made to the network and all systems, providing evidence of audit trails 
+         • Planned and designed projects and analyzed existing network systems and procedures to foster efficiency and effectiveness 
+         • Demonstrated advanced knowledge of large-scale global enterprise network operations and security 
+         • Provided firewall and VPN management, security and incident response 
+         • Managed application patches, data backup, security changes and network configuration and replaced boards, changed servers and loaded and tested software applications 
+         • Applied deployment best practices and proper security protocols in network management 
+         • Performed infrastructure daily checks and working with partners to resolved day to day operational issues 
+         • Performed monitoring and improving infrastructure performance on a day-to-day basis 
+         • Participated regular disaster recovery reviews, tests and performance testing 
+         • Maintained uptime levels and improve the running of the infrastructure 
+         • Level 1 & 2 
+         IT support on a day-to-day basis

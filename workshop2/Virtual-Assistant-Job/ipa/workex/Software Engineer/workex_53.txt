@@ -1,0 +1,13 @@
+Moved to Singapore to join Uncharted Partners as a software architect. In this role I wear multiple 
+         hats as my responsibilities span across process, product and development where I help shape 
+         products based on a light tech stack such as react-native, VueJS and Spring Boot. 
+         ● Development of micro-learning platform, mobile and web clients, and a lightweight REST 
+         based backend. 
+         ● Development of insurance platform, web client and micro-services. 
+         ● Development of a 
+         Big 
+         Data platform, cloudera director, hadoop, Impala. 
+         ● Product and technology discovery sessions. 
+         ● Setup agile processes and a CI/CD pipeline. 
+         ● Mentor 
+         engineers.

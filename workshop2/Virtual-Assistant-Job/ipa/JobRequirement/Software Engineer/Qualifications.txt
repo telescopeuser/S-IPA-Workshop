@@ -1,0 +1,8 @@
+Software development experience
+Native Android or iOS app development, e.g. Swift, Objective-C, Java
+Full-stack development experience (Node.js, Java, JavaScript, Database)
+Experience in developing APIs, web services
+Good knowledge in health tracker API, mobile payment, blockchain and financial process a definite advantagePrevious experience in e-health, e-wallet or e-payment solution a strong advantage
+Experience with Agile (Scrum) project methodology and practices
+Extensive hands-on experience in PaaS (e.g. Lambda) and IaaS environments (e.g. AWS)
+Troubleshooting techniques and ability to diagnose issues in a distributed environment

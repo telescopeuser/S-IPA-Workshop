@@ -1,0 +1,30 @@
+2015 to 
+         April 2018. 
+          
+         • Development & analysis of online ticketing aggregator application 
+          
+         Show Plazza is an online ticket aggregating system which offers a service to purchase a movies, events and programs 
+         tickets online with ticket delivery and ticket resale options. We used to get the 
+         data from different customers for the analysis of their sales. Our team used to study the behavior, trend of the customers for booking the tickets, their 
+         preferences from the 
+         data and suggest the same to the client. On base of that results client would decide the types of movies, events, programs tickets they should focus for the business on priority. On the basis of analysis client would 
+         approach to their customers with the preferred events, programs they should organize for the more business according to the festive seasons with considering other parameters & factors. We were responsible for the application 
+         development including their application enhancement, changes & support according to business needs. 
+          
+         Technique: Logistic Regression Model, machine learning, Time series. 
+         Skills and Tools: Statistics, Python, R, SQL, EXCEL, Tableau, JAVA 
+          
+         • Development & analysis of customer's 
+         data to optimize the services. 
+          
+         Dhobi Tech is a laundry service provider company for hotels, hospitals, restaurants and individuals. The online 
+         application customers can use to put their laundry orders, to check laundry status and many other functionality. On 
+         weekly/daily basis the quantity, variety of clothes received from different customers is vary & humongous. So it's 
+         tremendous amount of work for laundry team and their system to keep up a records of things including customers 
+         cloths quantity, types, delivery dates/time, address, resources etc. We were responsible for this 
+         data analysis which were helping client to manage their resources for the amount of work since it was varying on the day to day basis. On the base of analysis results and reports customer would decide their business strategies. We have worked for them end to end including application development, support and 
+         data analysis. We performed different kind of analysis to improve 
+         their business and make it more optimize. 
+          
+         Technique: Logistic Regression Model, machine learning, Time Series. 
+         Skills and Tools: Statistics, Python, R, SQL, EXCEL, JAVA

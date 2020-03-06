@@ -1,0 +1,248 @@
+Worked as Professional System Analyst at Xchanging Solutions PTE LTD (A DXC Company), Singapore from July 2010 to July 2018 
+         Worked as Software 
+         Engineer at Reka PTE LTD, Singapore from Jun 2009 to July 2010 
+         Worked as Software Consultant at AnbGroups, Singapore from Aug 2008 to Jun 2009 
+         Worked as Software Consultant at Sqlstar, Singapore from April 2008 to Aug 2008 
+         Worked as Software 
+         Engineer at 3I Infotech, Chennai from March 2007 to March 2008 
+         Worked as Software 
+         Engineer at Graylogic Technologies, Hyderabad from Jan 2006 to March 2007 
+         Worked as Junior Programmer at Softech Solutions, Hyderabad from Jan 2005 to Dec 2005 
+          
+         Project Details 
+         Project: Ezytrak System (Singpost) 
+         Built to cater for Items and Collection Jobs Dispatching, Item and Jobs Status Capturing, Day-end-balancing, Tracking. The key components include EzyTrak Desktop, EzyTrak Mobile and ezyDispatch 
+         From version 3.0 onwards, it also incorporated all the operation modules from ACE System including all processes required for Speedpost Services especially on Tracks & Trace, Scan-in/Scan-out, Dispatch, Reconciliation, GST, Customs Detained It integrates with IPS-EMS and CDS tightly to fulfil the Postal Dispatches and EDI requirements. 
+          
+         Development Environment: ASP.NET 4.5, C#, WCF, xml, Ajax, JQuery, Sql server, vb.net, Api calls, web services 
+          
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Production support and manage users 
+         Maintaining and supporting for user Issues 
+         Handling team and assign tasks 
+         Accepting change requests from users 
+          
+         Project: Internationalisation Incentives administration and management system (Iiams) 
+          
+         This project iIAMS aims to be a centralised platform for processing all of the key schemes in IE Singapore. 
+         Subsidy given to eligible Singapore companies based on their eligibility and company profile. Companies submit their grants and claims using this system.IE officers receive grant requests from companies and evaluate for further processing. 
+          
+         Development Environment: ASP.NET 4.5, C#, WCF, xml, Ajax, JQuery, Sql server, K2 work flow, web services 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for user Issues 
+         Handling team and assign tasks 
+         Accepting change requests from users 
+          
+         Project: Integrated Online Research Compliance (IORC) -NUS 
+         This Project main goal is to submit new application/protocol through student who is going to get research project based on eligibility. Once submit their forms in online corresponding department will do some amendments and process the application. After successfully reviewed then assigned to principle investigator and reviewers to approve the application. Finally generate the approval letter for that application and send through email to corresponding applicant. 
+          
+         Development Environment: ASP.NET 4.5(visual studio 2015), C#, WCF, xml, Ajax, JQuery, Oracle 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Handling team and assign tasks 
+         Maintaining and supporting for user Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues and removing vulnerabilities and attacks from hackers. 
+          
+         Project: Software Request tracker 
+          
+         This Project main goal is to track the software license requests based on approvals of the available software licenses. Different kind of roles involving in this system. Based on your permission can request software licenses approved by admin staff. 
+          
+         Development Environment: ASP.NET 4.5, C#, WCF, jQuery, Oracle 10g, MVC 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Testing - unit testing and fortify scanning for solving sql injection related issues and removing vulnerabilities and attacks from hackers. 
+          
+         Project: Staff movement system 
+          
+         This Project main goal is to allow system to submit leave application through online. Once leave application submitted goes to corresponding approvals and status updates based on approvals. Multiple roles involved in this application for accessing system. 
+          
+         Development Environment: ASP.NET 4.0, C#, WCF, Ajax, JQuery, Oracle 10g 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for coming Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues and removing vulnerabilities and attacks from hackers. 
+          
+         Project: Article Submission System 
+         This Project main goal is to allow authors to submit their articles and journals submission based on roles assigned. Once author submit article then admin can assign reviewers to specific article or journal. Reviewer can login and check assigned articles. After reviewer review the articles then submit comments on that article. These communications between admin, author and reviewer send through via emails. If any changes in article author receives email about article status. 
+          
+         Development Environment: ASP.NET 4.0, C#, Mysql, Ajax, JQuery 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for coming Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues and removing vulnerabilities and attacks from hackers. 
+          
+         Project: Module Registration 
+         This Project main goal is to allow students to register their modules based on eligibility of criteria and year and semester. Students can able to login using login credentials then after able to get own information of individual students. Students can drop their registered modules anytime based on year and semester and want to add new modules then checking available modules for their criteria match. 
+          
+         Development Environment: ASP.NET 3.5, C#, Oracle, Ajax, JQuery 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for coming Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues and removing vulnerabilities and attacks from hackers. 
+          
+         Project: Directory of research and Graduate supervision: - 
+         This Project main goal is communicating students and tutors (lecturers) via web channels. Student can find corresponding tutor information like specialization in subjects, designation based and user id based, thesis based search selections. Once student get exact information of lecturer then can proceed for taking corresponding modules if available. 
+         Development Environment: ASP.NET 3.5, C#.net, Mysql, Ajax Controls 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for coming Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues 
+          
+         Project: Peers Program scheduling 
+          
+         Peers program scheduling application is used for communicating students, tutors based on appointments. These communications via emails with conformation text messages. If both parties fix date and time of appointment then they proceed for conversation between them. 
+          
+         Development Environment: ASP.NET 3.5, C#.net, Mysql, webservices 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting for coming Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues 
+          
+         Project: Double major checking 
+         This application is used for checking specific student is belongs to double major or not double major based on their academic year, semester, start date and end date selections. If we can select all these required parameters, get the result of the students is qualified for double major or not for double major. 
+          
+         Development Environment: ASP.NET 3.5, C#.net, oracle 9i, sql developer 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting to Client Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection issues 
+          
+         Project: RFS funding system: - 
+         RS funding system is used for getting summary report of the research scholarships funds calculation based on finalcial aid values like President Grad Fel, Research Sch(PhD), Research Sch(Master), Research Stdship, Research Sch(Fee), Research Sch PhD Topup and financial year date selections. Using this application we will get the summary report of the system. 
+          
+         Development Environment: ASP.NET 3.5, C#.net, oracle 9i, sql developer 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting to Client Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection issues 
+          
+         Project: FFG Processing System (Client NUS) 
+         FFG Processing is used for getting students graduation check program. This application checks all requirements belongs to specific student like student program details, usp requirements, mtbp requirements, subject major and minor requirements, faculty requirements, department requirements.All these function checks fulfilled finally we can get the student result as graduated or not. 
+          
+         Development Environment: ASP.NET 3.5, C#.net, oracle 9i, sql developer 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting to Client Issues. 
+         Testing - unit testing and fortify scanning for solving sql injection related issues 
+          
+         Project Details for REKA PTE LTD 
+          
+         Project: Medical Records Management System (EPI) 
+         This Project mainly deals with customers' medical records like ECG, BP, and cholesterol, blood Glucose. Customer sending the information via EPI Phone; Technologist will receive the ECG Graph information through internet. They are able to see and verify the customer information. After Verifying the ECG graph information, Technologist sends SMS to customer Phone about their ECG graph status. This Project having different types of modules like customer, technologist, sales, system admin, inventory admin, doctor 
+          
+         Development Environment: ASP.NET 3.5, C#.net, SQL server 2008, Ajax, Crystal Reports 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting to Client Issues. 
+         Testing - unit testing and doing reporting services 
+          
+         Project Details for ANB Groups 
+         Project: SME-PAYROLL (Payroll Management System) 
+         Payroll management system is the one of payroll processing system for users. This project main goal is to handle user payroll details based on monthly wise details or yearly wise details. SME-Payroll is the best available payroll software to process your own payroll in-house. SMEPAYROLL can be accessed on a single pc, on the entire intranet or can be made available online to be accessible from any part of the world, allowing multiple users to access the system at the same time with their defined rights. 
+          
+         Development Environment: ASP.NET 2.0, C#.net, SQL server 2005, Crystal Reports, Telerik controls 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Maintaining and supporting to Client Issues. 
+         Testing - unit testing and doing reporting services 
+          
+         Project: MOE (MINISTRY OF EDUCATION-SINGAPORE) 
+         Microsoft Dynamics(TM) CRM is a Microsoft .NET-connected product suite that provides sales force automation, marketing automation, customer service and service scheduling for mid-size businesses. Microsoft Dynamics CRM enables developers to build distributed, customer relationship management (CRM) applications by using the core Microsoft Dynamics CRM functionality. Developers can use a SOAP-based platform API to access the core business and service objects. Also, Microsoft Dynamics CRM provides a security model that supports both object and role-based security. Microsoft Dynamics CRM is a metadata-driven product. It includes a schema for Microsoft Dynamics CRM objects that covers common and business-specific 
+         data. Mainly deals with education details of Singapore. 
+         Development Environment: ASP.NET 2.0, SQL server 2005 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Testing - unit testing and doing reporting services 
+          
+         Project: Complaints & Grievance 
+         Complaints & Grievance is a standalone module targeted as a plug in for various industries to register and process user complaints. Complaints are registered through multiple modes and processing of these is automated based on the type of complaint and the skill set of the Handler. Options such as complaint allocation/reallocation/load balancing are considered to guarantee quick resolution turnaround. Reports provide information in multiple dimensions and are projected as a part of the monitoring process. 
+          
+         Development Environment: ASP.NET 2.0, Oracle 10g, Infragistics controls 
+         Responsibilities: 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Testing - unit testing 
+          
+         Project: SMS Reseller Package 
+         This application has been developed for sending SMS to mobile phones in India via internet. Graylogic Technologies has many clients and Premium customers. The main aim of the package is to provide Bulk SMS for these clients and Premium customers. An API is used for sending SMS. This package has two parts user level and admin level. 
+          
+         The user level has users login. The users can send Single SMS, Bulk SMS, upload file with mobile numbers to send Bulk SMS. There is a Phone Book to store mobile numbers, names. History is also provided to track SMS sent. Account summary of credits (SMS) used. 
+          
+         Admin level can create users, daily statistics, Sent SMS Report, Unsent SMS Report, SMS Queue reports. Day-wise, Month-wise, user-wise credits Report. Credits purchase for users. 
+          
+         Development Environment: ASP.NET, SQL Server 2000 
+         Responsibilities 
+         Requirements analysis 
+         Coding, Design and Analysis of the specifications 
+         Testing - unit testing 
+         Project Name: TALENT FORTE 
+          
+         Talent forte is an online talent network of aspiring individuals looking for the next 
+         big break. The website was developed for the sole purpose of bringing together the entertainment executives and talented community into one location for the initial contact. Opening the lines of communication in a more robust, interactive and easily accessible solution is the key to providing the next generation of talent searches and promotion of talent in this day and age 
+          
+         Main Modules 
+         Registration 
+         Talent Holders 
+         Talent Seekers 
+         Utilities Module 
+          
+         Responsibilities 
+         Coding, designing 
+         Doing unit testing and peer review 
+          
+         Environment 
+         ASP.NET, SQL Server, ADO.NET, IIS Web Server on Windows XP 
+         Project Title: HOA Management System 
+         The primary objective of the HOA Management System (HMS) is to fully automate the receivables, payables, invoicing and reporting operations. The HMS is expected to replace the current Excel Spreadsheet/manual 
+         data and information management system for Spring Valley HOA. 
+          
+         Main Modules 
+         Registration 
+         HOA Members/Vendors 
+         Transaction Module 
+         Reports Module 
+         Utilities Module 
+          
+         Main Features 
+         Members can get the information at anytime 
+         Up to date Reports 
+         Easily Customizable 
+          
+         Responsibilities 
+         Design, Coding, Unit Testing, Reviewing & Documentation 
+          
+         Environment: C#.NET, SQL Server, ADO.NET, IIS Web Server on Windows XP 
+          
+         Project Name: Welfare Groups 
+         The Wellfare Group of Companies has 160 Branches across in India. The Primary Objective of the Project to fully automate the Entire Transactions of Company across the India 
+          
+         Main Modules 
+         Customer Module 
+         Commisions Module 
+         Schemes Module 
+         Real Estates and resorts Module 
+         Admin Module 
+          
+         Responsibilities 
+         Involved in Design, Coding and writing Stored Procedures 
+         Generate the Reports Using Crystal Reports. 
+         Review and Analysis the documentation 
+          
+         Environment:- .NET Framework, ASP.Net, C#, Crystal Reports, ADO.Net, Sqlserver2000, WIN XP

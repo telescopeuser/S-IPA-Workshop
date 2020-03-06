@@ -1,0 +1,9 @@
+Expertise in front end development with HTML, CSS, Javascript. Preferably strong exposure to Angular and/or React frameworks.
+Expertise with backend development with Java or node.js or python. Preferably with exposure to Microservices.
+Experience with AWS will be a strong plus.
+Expertise with databases both sql or nosql.
+Exposure to best development practice including containerization (Docker), CI/CD pipelines and understanding of data protection and security.
+Exposure to development of Android applications will be a strong plus.
+Understanding of Fixed Income credit products (bonds), analytics, and an awareness of market events will be plus.
+Ideally, Undergraduate to Master’s degree level in Computer Science, or equivalent from a leading Institute
+3+ years of relevant work experience

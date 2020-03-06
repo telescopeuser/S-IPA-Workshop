@@ -1,0 +1,25 @@
+Capgemini Technology Services India Limited Feb 2016 - May 2017 
+         Production support L1 L2 
+          
+         Project Name: MDBS, HCA-Human Capital Analytics 
+         Client Name: DBS Bank 
+         Designation: Senior Software 
+         engineer 
+          
+         Project Description 
+         This is an internal project. It is used by the DBS bank employees where they can login into the App and check their events scheduled every day. Using this application they can schedule conferences, attend 
+         scheduled conferences. They can update daily activities, status, search nearby hotels, clinics and they 
+         communicate with co-employees. Users can apply their leaves and they can search for public holidays, they 
+         can update supervisor details. If a manager is using this app they can create new user when a new 
+         employee is on boarded. 
+          
+         Roles and Responsibilities 
+         Creating incidents and cascading to respective teams. 
+         Creating change request for any code enhancements and deployments. 
+         Sending server health check report of scheduled jobs. 
+         Worked with basic unix commands like SCP, telnet, ssh, ping and file handling commands like rmdir, cp, mv, rm, mkdir etc., 
+         Used functions like grep, find, awk, sed. 
+         Process related commands like ps, kill. 
+         Basic knowledge on shell scripting 
+         Used sql queries related to DML, DDL. 
+         Environment: Unix, Mysql

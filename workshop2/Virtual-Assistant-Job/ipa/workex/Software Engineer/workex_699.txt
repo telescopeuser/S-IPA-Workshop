@@ -1,0 +1,41 @@
+Responsibilities: 
+         • Extensively worked with Metrics, Facts, Transformations, Custom Groups & Report Services in Microstrategy. 
+         • Responsible for creation of Ad-hoc Reports, Metrics with Public and Schema Objects for sales requirements. 
+         • Gathered requirements from management users for generation of reports. 
+         • Design and Development of Business Analysis Interactive Dashboards & Scorecards organizations goals & KPI in Microstrategy. 
+         • Ensuring Conformance to INFORMATICA coding standards. 
+         • Ensuring Conformance to Cognizant's Quality Process. 
+         • Develop logical and physical 
+         data models that capture current state/future state 
+         data elements and 
+         data flows using Erwin. 
+         • Converted the 
+         data mart from Logical design to Physical design, defined 
+         data types, Constraints, Indexes, generated Schema in the Database, created Automated scripts, defined storage parameters for the objects in the Database. 
+         • Designed and developed INFORMATICA Mappings to load 
+         data from Source systems to ODS and then to 
+         Data Mart. 
+         • Extensively used Power Center/Mart to design multiple mappings with embedded business logic. 
+         • Creation of Transformations like Lookup, Joiner, Rank and Source Qualifier Transformations in the INFORMATICA Designer. 
+         • Created complex mappings using Unconnected Lookup, Sorter, Aggregator, newly changed dynamic Lookup and Router transformations for populating target table in efficient manner. 
+         • Created Mapplet and used them in different Mappings. 
+         • Provided Knowledge Transfer to the end users and created extensive documentation on the design, development, implementation, daily loads and process flow of the mappings. 
+         • Performance tuning of the INFORMATICA mappings using various components like Parameter files, Variables and Dynamic Cache. 
+         • Designed and Deployed UNIX Shell Scripts. 
+         • Created various UNIX Shell Scripts for scheduling various 
+         data cleansing scripts and loading process. Maintained the batch processes using UNIX Shell Scripts. 
+         • Tuning INFORMATICA Mappings and Sessions for optimum performance. 
+         • Extensively used TERADATA load Utilities like BTEQ, Fastload, and Multiload. 
+         • As INFORMATICA Administrator I will be taking care of, 
+         ✓ Install INFORMATICA in the new environment. 
+         ✓ Upgrading the INFORMATICA in existing environment. 
+         ✓ Patch installation (Hot Fixes /Software's ) 
+         ✓ Responsible to manage Development, QA and Production environments. 
+         ✓ Making sure that code is sync in all the three environments. 
+         ✓ Bouncing Activities or Restarting the Services 
+         ✓ Network Changes 
+         ✓ System level parameter checks CPU spike, Memory utilization, Number of parallel loads (sessions) running on node. 
+         ✓ Creating user for INFORMATICA development and assigning ROLE to the user. 
+         ✓ Services creation and assigning permission to the user. 
+         ✓ Taking Backup of the repositories. 
+         ✓ BCP environment creation.

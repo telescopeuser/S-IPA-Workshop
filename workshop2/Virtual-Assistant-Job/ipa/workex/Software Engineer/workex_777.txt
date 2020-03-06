@@ -1,0 +1,13 @@
+Designation: Senior Solution Architect 
+         Responsibilities include: 
+         • ENET - e-banking software: Analysis, design, development, testing, implementation and production support 
+         ◦ Development Activities - This comprises of the usage of the base MVC Java Framework JSP, Servlets for the Coding Development of Modules likes Masters, Accounts, Transactions, etc.. Log4J for logging, using the JUnit for testing the completed Modules. Deployment of the Application in Apache/Tomcat Server in Linux/Windows. 
+         ◦ Support Activities - The functional process flow of the Application for better understanding of the Application. Basic trouble shooting and preliminary checks for the incidents. Knowledge bank of the past incidents to enable easy solution for the incidents. 
+         Accomplishments: 
+         • Launched the product 3 months ahead of the schedule. Result: Saved 20% of development cost. 
+         • Prepared exhaustive test cases and executed them during development phase which included the IT Security setup. Result: The product got stabilized in less than 3 months, from the date of going live. This was much ahead of the original target ( 6 months) 
+         • Prepared and religiously followed check lists for implementation and version upgrades and process enhancement methodology. Result: ZERO deployment errors. Less effort in rollout of the application for new branches. 
+         • Prepared and delivered runbook, KOP, SOP and knowledge articles. Result: Hassle free post implementation support and day to day support. Achieved a very high of customer satisfaction. 
+         • Provided the application support and set up a Support Team with proper knowledge and materials. Result: Incident turnaround time was greatly reduced and the number of incidents went down to 45% gradually in a span of 8 months. 
+         Technologies: 
+         • JAVA 4, Oracle 10.x, MVC Framework , JavaScript, HTML/CSS, JUnit, Servlets, JSP

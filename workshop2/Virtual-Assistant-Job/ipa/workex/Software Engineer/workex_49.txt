@@ -1,0 +1,13 @@
+* In charge of new trains receiving and delivery to Bishan Depot. 
+         * Initialise new trains receiving inspection and commissioning tests on all 
+         equipment and system. 
+         * Execute follow up repairs with key suppliers on the rejected condition. 
+         * Prepare and commission trains for full dynamic acceptance test before handing over to the main line. 
+         * Work closely with Maintenance Team to improve process through maintenance of system and equipment on the train. 
+         * Provide technical guidance and training to new technicians on the proper 
+         procedure of repair /trouble-shooting and maintenance. 
+         * Work closely with Maintenance team on the preventive and corrective 
+         maintenance works, fault and troubleshooting work on the trains and depot facilities which include 750VDC current system, traction control, 
+         auxiliary power supply & inverters, battery banks, pneumatic brake and auto-door control, air-conditioning, coupler, wheels and axles etc. 
+         * Safety checks on trains system and equipment for full technical 
+         specification compliance both static and dynamic state.

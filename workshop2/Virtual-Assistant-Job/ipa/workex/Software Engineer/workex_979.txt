@@ -1,0 +1,9 @@
+• Lead a team of 
+         Engineers for service delivery 
+         • Installation and administration of AIX OS on IBM pSeries 
+         • Installation and configuration of Enterprise grade hardware (p55, p570, MMA) 
+         • Provisioning and configuration of Logical Partition using HMC 
+         • Provision of onsite support and installation of AIX OS on IBM pSeries. 
+         • Provide Professional Services to clients. 
+         • Handle Veritas Netbackup Installation and configuration. 
+         • Installation and configuration of IBM DS Storage, SAN switch zone creation

@@ -1,0 +1,4 @@
+Dec, 2017) 
+         • Creation of an invoice scheduler that can automate the generation of customer 
+         agreement specific invoices for the configurable date/time. 
+         Technology used: Windows Task Scheduler, SQL Server 2017

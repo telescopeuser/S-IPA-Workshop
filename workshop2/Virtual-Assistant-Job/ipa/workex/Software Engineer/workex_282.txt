@@ -1,0 +1,41 @@
+Project Handled: 
+         Project Name: Core Banking, SMS Banking, Financial Market Banking, Trade 
+         Client: Standard Chartered Bank (SCB) 
+         Environment: Linux, AIX, WAS, JBOSS EAP, JON, WAS ND, Websphere Virtual Enterprise 
+         Description: Project involves in installing, configuring, monitoring and troubleshooting the problems related to the applications in websphere & Jboss app server environment 
+         Key Deliverables: 
+         ✦ Instrumental in requirements gathering from clients regarding the application environment creation as per the client request 
+         ✦ Verified servers from OS end like file systems and user id/group id creation as per the standards before WAS installations 
+         ✦ Provided pre-requisites document to the client and OS team as well to complete the OS related tasks 
+         ✦ Installed WAS, JBOSS EAP, Apache, IHS, Plug-in and created profiles, nodes and federations on client servers once the prerequisites are done 
+         ✦ Submitted an environment request to the client after the WAS installation in which they have to provide the cluster information, JVMs details, JDBC providers, 
+         data source, queues, queue connection factories, listener ports, JVM properties, 
+         data source properties etc. 
+         ✦ Responsible for ear deployments on SIT, UAT, PT, Staging and Production environments 
+         ✦ Managed the application until it goes live and need to support for 1 month after it goes live 
+         ✦ Provided client support on environments like SIT, UAT, PT etc. which are related to applications 
+         ✦ Involved in one touch environment creation 
+         ✦ Promptly resolved performance issues in ODR level and Dynamic cluster level 
+          
+         Key Achievements: 
+         ✦ Recipient of Excellence AwardProject Handled: 
+         Project Name: Core Banking, SMS Banking, Financial Market Banking, Trade 
+         Client: Standard Chartered Bank (SCB) 
+         Environment: Linux, AIX, WAS, JBOSS EAP, JON, WAS ND, Websphere Virtual Enterprise 
+         Description: Project involves in installing, configuring, monitoring and troubleshooting the problems related to the applications in websphere & Jboss app server environment 
+         Key Deliverables: 
+         ✦ Instrumental in requirements gathering from clients regarding the application environment creation as per the client request 
+         ✦ Verified servers from OS end like file systems and user id/group id creation as per the standards before WAS installations 
+         ✦ Provided pre-requisites document to the client and OS team as well to complete the OS related tasks 
+         ✦ Installed WAS, JBOSS EAP, Apache, IHS, Plug-in and created profiles, nodes and federations on client servers once the prerequisites are done 
+         ✦ Submitted an environment request to the client after the WAS installation in which they have to provide the cluster information, JVMs details, JDBC providers, 
+         data source, queues, queue connection factories, listener ports, JVM properties, 
+         data source properties etc. 
+         ✦ Responsible for ear deployments on SIT, UAT, PT, Staging and Production environments 
+         ✦ Managed the application until it goes live and need to support for 1 month after it goes live 
+         ✦ Provided client support on environments like SIT, UAT, PT etc. which are related to applications 
+         ✦ Involved in one touch environment creation 
+         ✦ Promptly resolved performance issues in ODR level and Dynamic cluster level 
+          
+         Key Achievements: 
+         ✦ Recipient of Excellence Award

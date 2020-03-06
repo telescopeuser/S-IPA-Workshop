@@ -1,0 +1,66 @@
+Responsibilities: 
+         • Acted as a Lead 
+         Data 
+         Engineer to manage the in-house team to deliver the deliverables based on the requirement. 
+         • Acted as a Junior Architect to design the DataMart to hold the transaction detail from various vertical 
+         department. 
+         • Designed and Built the ETL pipeline using various advance transformation in informatica to load 
+         
+         data from source to DataMart. 
+         • In-Charge of migrating the object to instance. 
+         • Mentor and assign the tickets to 3 members team 
+         • Periodically updating the status to c-level stakeholders. 
+         • Involved in building the 
+         data lake in S3, which involves developing ETL pipeline using various 
+         Hadoop components such as Sqoop, Flume, Hive, Spark and Oozie. 
+         • Designed and Built the 
+         Data Quality module in spring boot application to monitor the 
+         data lake 
+         datasets. 
+         • Monitored and fixed the performance issue of production jobs. 
+          
+         Project: 
+         Data Lake 
+         Client: GIC Private LTD, Singapore 
+         Team Members: 3 
+          
+         GIC requested for a larger storage system to accommodate its large flow of incoming 
+         data from various sources like RDMS/
+         Data Warehouse/FTP. We implemented 
+         Data Lake in AWS S3 storage system to overcome the storage issue. Multiple pipelines were built to read and store different files such as JSON, 
+         Text, CSV, and XML. 
+          
+         Project: AMC Log Analytics 
+         Client: GIC Private LTD, Singapore 
+         Team Members: 3 
+          
+         GIC has outsourced the maintenance of AMC's system to vendor and, which consists of 56 
+         applications. GIC Management wants to overlook on system performance by analysing system logs such error log, IAS log, etc. This project is to collect all IAS, error log from AMC systems and aggregate the 
+         
+         data and store it in NoSQL database to apply the analytics to showcase to the management. 
+          
+         Gokulanath Lead 
+         Data Analytical 
+         Engineer 
+         Gokulanath 
+         Lead 
+         Data 
+         Engineer 
+         Data Analyst ML 
+         Engineer 
+         Project: HR Transformation 
+         Client: GIC Private LTD, Singapore 
+         Team Members: 3 
+          
+         This project is to migrate the 
+         data from the legacy PeopleSoft HR's system to SAP Success factor, which demands to use Informatica to transform the 
+         data into respective format. 
+          
+         Achievement: 
+         • Established high performance 
+         data lake platform by reducing 60% operation cost to maintain high 
+         end server. 
+         • Log analytics insights helps the business to improve the performance of the critical application 
+         server up to 70%. 
+         • Successfully migrated the 
+         data from legacy system to success factor with minimal error.

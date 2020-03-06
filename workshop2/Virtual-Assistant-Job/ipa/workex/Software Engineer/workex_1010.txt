@@ -1,0 +1,5 @@
+Changed Mobile journey for Credit cards and payments in Citi Mobile app across APAC, EMEA & TW. 
+         • Increased mobile traffic and increased revenue after app revamp. 
+         • Made UI just a plug and play, created open banking API layer (first time used by internal bank channel) and shifted all business logic and processing of 
+         data to API layer. 
+         • Managing 12 resources.

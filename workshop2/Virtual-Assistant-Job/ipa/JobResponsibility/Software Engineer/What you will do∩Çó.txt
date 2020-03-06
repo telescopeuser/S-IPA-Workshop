@@ -1,0 +1,7 @@
+Take ownership of frontend related tasks
+Advocate development best-practices, perform code review and mentor junior team members
+Partner closely with our Product Design, Backend Engineering teams and Product Managers to develop effective user interfaces for our digital platform;
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+Review app and feature coding and plan future website updates with the various teams
+Assist in the development of applications and features that will be put on the website and in internal functions as well
+Help design a long-term strategy for our UI applications and build pipelines, and how they integrate with the rest of our stack

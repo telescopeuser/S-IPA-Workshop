@@ -1,0 +1,10 @@
+Roles and Responsibilities: 
+         • Involved in the installation of IBM Streams, IBM Unica. 
+         • Development of real, batch & interact Campaign. 
+         • Configuration of IBM Streams & IBM Unica API. 
+         • Integrated with LDAP Server for Authentication and Authorization. 
+         • Setup cluster for high availability system which processes 0.5 billion CDR per day. 
+         • Created Schedules, Triggers, and dashboard system for Real-time Campaign Monitoring. 
+         • Set up a real-time system that processes all types of CDR including prepaid, post-paid, roaming, Semi-Structured, Structured, Parser. 
+          
+         Organizational Experience

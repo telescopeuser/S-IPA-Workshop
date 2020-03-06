@@ -1,0 +1,83 @@
+Asset & configuration management Shell -OI 
+          
+         Key responsibilities: 
+         Process owners for Configuration Management 
+         • Compliance and audit of configurable items 
+         • Facilitators of Configure anomaly resolution 
+         • Continuous improvement and development of configuration 
+         Process owners for Asset Management 
+         • Consolidated reporting on asset accuracy 
+         • Compliance and audit of assets managed by Bundle Suppliers 
+         • Facilitators of asset anomaly resolution 
+         • Continuous improvement and development of asset management 
+         • review the trend analysis by identifying of assets-based predicament reported 
+         • Have regular meeting with Bundle (AT & T) and T-system on the Daily updates. 
+          
+         OI Hotline Shell -OI (Project) 
+         • Handling the entry point for queries, issues, escalations and complaints. 
+         • Assisting OI Hotline on getting their queries resolved either by: 
+         * Providing them with the contact details of the area that can resolve their query. 
+         * Registering the query, issue, escalation or complaint and agreeing a suitable time frame to respond with an answer or update. 
+         * Registered queries, issues or complaints will not be closed without positive confirmation from the initiator that there has been successful closure. 
+          
+         • Assisting the Hotline resources on customer facing members of the team to have a broad knowledge of all of the OI functions. 
+         * Key interactions: 
+         * Retained organization 
+         * Bundle Supplier Senior Management 
+         * BI&D and BAM 
+          
+         Achievement: 
+         1) I have given analysis an entry point for the OI Hotline to provide a proactive service earlier in the process. Keeps track and interact with the designated users on specific issue raised and engaged until resolved or escalated beyond the OI remit. Produced a trend analysis on OI Hotline escalation 
+         2) I have identified the on the root cause of the OI Hotline escalation and reduced number of escalations by prepared the trend analysis by identifying, illustrate and prioritizing the problem report. 
+         3) I have Developed commendation based on the data findings and planed for upcoming proposition. 
+          
+         Situation 
+         Manager (Project) 
+         • Provide ownership and oversight for critical infrastructure incident/problem resolution to services globally and across all business units. 
+         • Develop and maintain critical business process portfolios to include: application architecture views and contacts, aggregated component views and key elements for monitoring. 
+         • Perform proactive analysis on operational data to identify potential risks, trends, and performance issues. 
+         • Based on proactive analysis, extrapolate and take actions to manage risks and avoid service interruptions. 
+         • Work closely with organizational peers and process to identify and execute upon process improvement opportunities in areas like Incident, Problem and Change Management. 
+         • Act as an escalation point for Command Center Situation Analysts, providing business context and prioritization advice as required. 
+         • As required, assume functional responsibility for a key capability area for Command Center - examples of such areas may include communications, monitoring or process documentation. 
+          
+         Technology Competence & Scale: 
+         Demonstrated ability to facilitate problem management and continuous improvement 
+         Initiatives that build client relationships within business lines that span multiple geographic locations. (Asia-Pac, Europe, Americas and Africa Me) 
+         Good understanding of the technology area and working understanding across all infrastructure components. 
+         Analytical: 
+         - Ability to analyze, interpret and use data to provide actionable insights. 
+         - The ability to correlate infrastructure design problems to infrastructure performance and business productivity. 
+         - Ability to identify patterns and trends within incidents and service request data. 
+         Achievement: 
+         I have demonstrated ability to successfully influence and negotiate with clients ensure positive outcomes in the delivery of multiple 
+         IT services, including the ability to communicate effectively to both internally and externally facing organizations. 
+          
+         Service Request Management SWAT Shell -OI (strength, weakness, awareness, treat) 
+          
+         • To monitor Fulfilment and Query & Dispute include: 
+         • identifying overdue requests 
+         • identifying where in the fulfilment process the request is being held up • identifying and notifying the responsible bundle suppliers of overdue tasks 
+         • Holding meeting and fulfilling decision-making on the problem 
+          
+         Query & Dispute activities include: - 
+         • investigating queries and disputes with regards to the fulfilment of service requests 
+         • Engaging responsible Bundle Suppliers to resolve disputes. 
+         • Monitoring the dispute resolution. 
+         • Escalating disputes as necessary. 
+         • To identify the problems and dispute. 
+         • To find solutions for the problems and disputes. 
+         • To escalate requests. 
+         • To prevent breach of SLA's as per Service Agreement 
+         -Ensure daily contact with Bundle Suppliers and other Shell suppliers of Request Services. 
+         -Updates provided to Retained organization. 
+         -Ensure teams available to trouble shoot any backlog or requests that may Miss Service levels. 
+         -Support existing team with Bundle issues. 
+         -Making sure that 
+         IT delivers to its commitments and controlled changes bring improvement NOT - detrimental service. 
+         -Bond between the Bundle Suppliers (T-Systems and AT &T) and Shell 
+         IT organizations. 
+         -Driving towards change into the 
+         IT estate to continuously improve performance and drive to zero outages cutting edge of business services. 
+          
+         Employment History

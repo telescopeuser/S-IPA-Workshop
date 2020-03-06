@@ -1,0 +1,4 @@
+Domain: Investment Banking 
+          
+         Worked as a SQL Developer for designing and developing software for Online trading Equity, 
+         Future & options, Commodity Markets and Back office.

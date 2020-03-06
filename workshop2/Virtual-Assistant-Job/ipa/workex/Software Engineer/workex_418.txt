@@ -1,0 +1,4 @@
+In charge of Enterprise Architecture focused on the Digital and AgileTransformation of the company. Conducted the Agile transformation of 5 Digital Products using SCRUM 
+         (eCommerce, B2B Platform, weChat, CRM, Digital Marketing). Promoted loosely coupled 
+         new patterns of integration between systems to ensure the organization agility. Introduced the 
+         Data-Centric architecture principles to the organization.

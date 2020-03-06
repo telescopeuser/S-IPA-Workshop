@@ -1,0 +1,4 @@
+Organization: Y3 Technologies ~ Team Size: 6 ~ Platform Used: Oracle 10g (PL/SQL)/ Forms and reports 
+         Description: This project is based on the Logistic Supply Chain domain for Warehouse management for Motorola in YCH Singapore Ltd. Development of Forms and reports required for the WMS (Warehouse Management System. Intense development is made for overseas branches of YCH i.e. (Tianjin, Thailand, Brazil, Malaysia, Hong Kong, Indonesia etc.) being Singapore as the HUB site 
+         Responsibilities: 
+         System Enhancement ~ Bug Fixing ~ Implementation ~ Functional Performance Tuning ~ Support Functions ~ Forms and reports development

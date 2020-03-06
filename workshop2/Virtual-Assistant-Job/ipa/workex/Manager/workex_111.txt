@@ -1,0 +1,21 @@
+DII Bldg. San Vicente Road Brgy San Vicente 
+         San Pedro Laguna 
+          
+         JOB DESCRIPTION: 
+         • Maintain and debug existing Point of Sales System of stores. 
+         • Responsible for Full backup and restore (Monthly/Weekly/Daily) database: 
+         - Retailigence / Production - Database (SQL2005) 
+         - Platinum / Accounting System - Database (Pervasive SQL) 
+         - HRIS - Human Resource Information System database - SQL2005 
+         - PROTEX AS400 / Marketing database - (UDB)/DB2 
+         • Design Data Warehousing, database architecture and Data Modelling 
+         • Build database scheme, tables, procedures, SQL views, scripts and permissions 
+         • Create shell scripts for task automation 
+         • Analyze, consolidate and tune database for optimal efficiency 
+         • Oversee backup, clustering, mirroring, replication and failover 
+         • Restore and recover corrupted databases 
+         • Installation of Office 2003 and company's System (Platinum, Retailigence and Protex) 
+         • Maintains password, data integrity and file system security for the desktop environment. 
+         • Upgrades Operating System Windows 98 to Windows XP, and upgrades of SQL 2000 to SQL 2005 
+         • Answers all phone calls regarding technical support in Software and Hardware Issues. 
+         • Responsible for Hardware (PC, Laptop Scanner & Printer), software (CD OS, Retailigence, Platinum, Protex, Office 2003, 2007, Open Office, patches) and network(TCP-IP users) inventory.

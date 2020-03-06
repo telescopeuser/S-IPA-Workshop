@@ -1,0 +1,16 @@
+Client: Deutsche Bank Singapore 
+          
+         Global Production Support for over 3000 databases on 1000 SQL 2008/2005 Servers in production and pre-prod environments. 
+          
+         • Performing SQL 2008/2005 Builds and configurations as per Deutsche Bank set 
+         standards. 
+         • Designing and implementing Partitioning strategy for VLDB databases. 
+         • Setting up DR Servers for Mirroring, Log Shipping, SRDF and Coordinating DR tests. 
+         • Monitoring SQL using DMVs and Activity monitor and Resolving SQL Alerts generated through Tivoli, Foglight. Monitoring Maintenance Jobs for Backups, Statistics, Index 
+         Reorg, DBCC. 
+         • Troubleshooting Memory, Performance, SSRS, and Replication and backup failure. 
+         • Creating Performance and Capacity templates for baselining servers. 
+         • Working with application teams for DTS, SSIS package development and deployment. 
+         • Managing and deploying changes on Production and Dev servers using BMC Remedy. 
+         • Planning and managing migrations from SQL 2005/2000 to SQL 2008. 
+         • Working with engineering team to evaluate SQL 2012 new features.

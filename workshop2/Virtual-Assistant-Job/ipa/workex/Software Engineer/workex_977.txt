@@ -1,0 +1,16 @@
+• Project Technical lead for various NOL Projects (Route Generation and Schedule Manager Project, Vendor Contract Management System) 
+         • Infrastructure Project Manager for various NOL Project (Vendor Contract Management System, Logistic Super Suite) 
+         • Architect SAN Storage utilization to optimize DB2 and Oracle performance 
+         • Architect and Spearhead the implementation of SAN virtualization using IBM SAN Volume Controller (SVC) 
+         • Architect Cloud Evaluation Framework for Public Cloud Service Provider 
+         • Spearheaded the evaluation of various Public Cloud Service Provider for Mainframe project (Amazon EC2, Savvis VPDC) 
+         • Manage, maintain and review the Infrastructure RFP documents 
+         • Spearheaded the rollout of HP Performance Centre and Quality Centre 
+         • Project team member for Non-Production 
+         Data Centre re-location 
+         • Representing Infrastructure team in RFP evaluations 
+         • Spearheaded the evaluation, negotiation, acquisition and implementation of various Enterprise requirements. 
+         • Perform 
+         Data center invoice review for the non-production and production in both Singapore and US 
+         • Architect various Storage related initiatives to improve DR RTO and RPO 
+         • Normalize infrastructure storage purchases to tailor a fit-for-business solution

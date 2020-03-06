@@ -1,0 +1,25 @@
+One of the world's largest distributors of electronic components and embedded solutions. Headquartered in Phoenix, Arizona, it has 15,000+ people strong in 125 countries across North America, Europe and Asia. Avnet is ranked #128 on the FORTUNE 500 (U.S.) in 2018 
+          
+         MAY 2016 - CURRENT 
+         • Business Analyst for Asia Enterprise Systems that are not covered under SAP system. 
+         • Responsible for supporting window application "ABS (Automated Barcode Solution)" which provide customised label printing solution in warehouses located in the Asia Region. 
+         • Takes initiative to develop .Net applications to publish reports online commonly requested by users. 
+         • Lead all the ABS projects and Service Request to ensure deliverables are completed on schedule. 
+         • SME (Subject-Matter-Expert) and Go-To person for ABS. 
+         • Propose solutions to resolve end enhance existing features. 
+         • Manage the ABS backend system (SQL Server, Windows Server, Seagull License Server). 
+         • Take charge to lead and delegate tasks to developers during projects or SRs or issues or solution discussion. 
+         • Setup application test environment for new version upgrade. Ensure users acceptance tests are performed before assigned for deployment. 
+         • Review changes or project roll out for ABS and ensure no major issue occurred after deployment. Successfully achieve zero rollback of ABD after deployment. 
+         • Set up guidelines and SOP, document down and communicate to teammates for adherence. Achieve efficiency in responding to user request and issues. 
+         • Cross train to aid support in web application "WebQuote" which allow business users to prepare customer pricing quotation through web. 
+         • Assign as a Business Analyst in "TI EDI with WebQuote" project, drive and complete the project within schedule. 
+         • Assign as project manager for the "ABS Technical Upgrade" Project; coordinate with vendor (Seagull) and internal System Infrastructure team to deploy the new Seagull BarTender on 200 client PCs and setup new License server. Achieve improvement in the application performance 
+         • Involve in a large-scale project "Hong Kong 
+         Data Centre Consolidation". Responsible to install ABS for 50 PC in the outbound area. Roped in to assist the Infrastructure team in setting up PCs and printers, helped resolving network and PC issues faced by the users in the new premise. Receive recognition award (Gold) for involvement in the project. 
+         • Surpass job performance expectation in Fiscal Year 18 annual evaluation. 
+          
+         IT OPERATION SERVICE DELIVERY 
+         ENGINEER, COMPUTER-INTEGRATED MANUFACTURNIG 
+         STMICROELECTONICS PTE LTD, SINGAPORE 
+         A French-Italian multinational electronics and semiconductor manufacturer headquartered in Geneva, Switzerland with ~45,500 employees worldwide. It is Europe's largest semiconductor chip maker based on revenue.

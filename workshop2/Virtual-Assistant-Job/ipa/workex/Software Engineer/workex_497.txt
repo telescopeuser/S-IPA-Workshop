@@ -1,0 +1,20 @@
+Client - CITI Bank, Singapore) 
+         CREDIT LENDING AUTOMATED SYSTEM: - 
+         To roll-out highly automated credit lending processing system that offers. 
+         ➢ Effective loan application capturing for auto loan 
+         ➢ Proactive risk management 
+         ➢ Automated credit checks with integration to CBS & InfoCredit 
+         ➢ Automated vehicle & registration licensing info retrieval 
+         ➢ Automated lodging of approved loan with HPFLAS (Hire Purchase, Finance and Leasing Association of Singapore) 
+         ➢ Roles & Responsibility: 
+         ➢ Worked as team member, code, development, unit testing and SIT. 
+         ➢ Developed UI using struts framework. 
+         ➢ Implemented Business Logic 
+         ➢ Code optimization 
+         ➢ Created POJO and hibernate to 
+         data base. 
+         ➢ Developed ORACLE PL/SQL stored procedures. 
+         ➢ Batch jobs development with threading using java 1.5 concurrent API. 
+         ➢ Bug fixing 
+         Technologies: 
+         Eclipse/SVN, Struts framework, AJAX/Javascript, toad 9.1, ORACLE 10g, Ant 1.7, Java 1.5, Servlets/JSP, JMS, EJB 3.0, Jasper reports, Hibernate 3.0, 3rd party jars, Windows NT.

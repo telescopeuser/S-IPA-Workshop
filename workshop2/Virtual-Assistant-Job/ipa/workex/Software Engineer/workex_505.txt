@@ -1,0 +1,7 @@
+led team to rebuild the Additional Financial Budget System (CIO-BUD) from 
+         .Net to Java platform deployed on Ali-Cloud, which was one of the Top 4 projects of Alibaba Group 
+         Holding Ltd. in 2016. The responsibilities included technical direction on building MSA based 
+         enterprise software components using Ali HSF and WebX Framework, overseeing agile software 
+          
+         development process, working with various lines of business, program managers and product 
+         owners on requirement, design, integration, deployment of software components, addressing

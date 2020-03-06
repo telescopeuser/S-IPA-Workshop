@@ -1,0 +1,9 @@
+Joined SC to lead development efforts on the API Gateway space for the Foundation Services department of the bank. As a Development Lead I lead 
+         engineers to build apps end-to-end, such as a developer portal, a custom CMS, and accompanied tools to assist teams to onboard APIs onto the gateway. Additionally, I set up agile processes, and deal with all matters to take an application to production. Systems developed are based on microservices and deployed on Openshift Kubernetes. 
+         ● Development of an event-based system utilizing Solace and microservices for sending/receiving email, fax, and OTP. 
+         ● Development of Developer Portal / CMS for API onboarding onto Kong Gateway. 
+         ● Development of DataExplorer which exposes 
+         data based on permissions 
+         ● Agile Coach/Mentor 
+         ● Line management 
+         ● Stakeholder management

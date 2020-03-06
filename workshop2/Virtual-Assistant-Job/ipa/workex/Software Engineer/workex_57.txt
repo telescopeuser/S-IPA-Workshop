@@ -1,0 +1,8 @@
+Moved to Energy & Commodities department to work on a multi-purpose platform based in JEE. 
+         The system offers trading risk management, pipe and gas operations. 
+         ● Client-facing and on premises development/support. 
+         ● Developed an XML reporting mechanism written in Groovy. 
+         ● Developed parts of the trading platform which was based on Excel/VBA, Oracle SQL. 
+         ● Integrated systems using XML, XSLT, Oracle SQL. 
+         ● Wrote stored procedures, scheduled tasks and complicated queries on a denormalized 
+         Oracle DB.

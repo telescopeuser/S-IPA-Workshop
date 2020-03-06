@@ -1,0 +1,11 @@
+Experience in building and maintaining data pipelines on Hadoop, AWS, Google Cloud, or Azure.
+Experience with Spark, Kafka, Hadoop, Hive to process both batch and streaming data.
+Experience with schedulers or distributed processing tools such as Airflow, Nifi or Oozie.
+Proficiency in Python or Scala. Being a polyglot is a big plus.
+Experience with Docker containers and container management services such as Kubernetes or Docker Swarm.
+Proficient understanding of code versioning tools such as git.
+Experience with AWS components are a huge plus.
+Experience in Agile methodology and TDD.
+Good understanding of data-structures and algorithms.
+Excellent written and verbal communication skills.
+Experience with NoSQL and RDBMS databases.

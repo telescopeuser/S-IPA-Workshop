@@ -1,0 +1,15 @@
+Travel and insurance are the primary business of Abacus. Abacus develops web based products for their business and implements them in their client locations. 
+         Responsibilities & Development activities include 
+         • Technical Feasibility - Assessed the feasibility of supporting the new business requirements. As a part of feasibility study, developed Java prototype and conducted PoC (Proof of Concept). 
+         • Application Design & Development - Enhanced the user interface, Java Application design and design and development of the new Modules to support the new business requirements in the MVC Framework. 
+         • Database Design & Development - Enhanced the Oracle database design by fine tuning the queries and DB Objects to support the new business requirements 
+         • Quality Management & Testing - Prepared test cases for unit testing, SIT, UAT and regression testing for JUnit/LoadRunner. The Testing for the Cyber Security implementation was also enforced. Deployment of the Application in Web Logic Server in Unix/Windows. 
+         • Program Management - End to end management covering requirement analysis, feasibility study, budgeting, tracking, reporting, and identifying critical paths, mitigation of risks and product delivery. 
+         • Support Management - Provide the Application Support Procedure and Trouble Shooting Document, Patch installation document, document the symptoms of the trouble origin, Functional flow of the Application for better support. Created the Knowledge base for the application. 
+         Accomplishments: 
+         • Provided the solution to chronic issues with Hotel smart Web Application by process enhancement methodology. Identified stability and performance as the areas for improvement. Result: Outages and Mean Down time (MDT) went down to 10% in a short span of 6 months. 
+         • Reincarnated a dead Insurance application of Abacus and deployed the same successfully in two clients in Singapore and Malaysia. Result: Saved application redevelopment cost, provided a better Cost Benefit Analysis. 
+         • Provided the proper Trouble shooting support and Monitoring Guide to drastically reduce the turnaround time of the problem resolution. Identified the areas for improvement to reduce the incidents. Result: Incidents went down to 40% in less than a year. 
+          
+         Technologies: 
+         • JAVA 6, Oracle 11.x, Struts, MVC Framework , JavaScript, HTML/CSS, JUnit, Servlets, JSP, WebLogic Server 8.x above, Apache/Tomcat

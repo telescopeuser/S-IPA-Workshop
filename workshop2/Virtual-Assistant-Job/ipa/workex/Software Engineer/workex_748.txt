@@ -1,0 +1,7 @@
+Singapore 
+          
+         Intelligentpipe is a startup building analytics software for Telcos. 
+         As one of the first few 
+         engineers. I built the frontend app from scratch using 
+         AngularJs, D3.js and RxJS. 
+         Contributed to backend services written in Scala, Spring

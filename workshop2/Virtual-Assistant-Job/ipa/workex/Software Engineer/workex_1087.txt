@@ -1,0 +1,9 @@
+Environment EAI_SoftwareAG, Webmethods, Datastage, Incident Management (Contact IS) 
+         Responsibilities 
+         • Handling Production 
+         data issues 
+         • Ticket/Incident Handling 
+         • Played a key role in analysing & debugging the production and providing the root cause. 
+         • Involved in enhancements of ETL code & EAI code using software AG 
+          
+         Project Supporting Application Projects

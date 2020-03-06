@@ -1,0 +1,46 @@
+I was given with additional responsibilities with the same client to manage problem management, service level management and change management processes on top of my previous responsibilities on service desk and incident management team delivery aspects. 
+          
+         Responsibilities on Problem Management 
+         • Managed problem management team comprising of 2 members responsible for RCA investigation coordination and service improvement initiatives for Singapore, HK, China regions. 
+         • Managed day-to-day problem issues and escalating the Problem Resolver Groups as required to bring the resolution of the problems back on schedule. 
+         • Ensured reduction of avoidable errors and Major incidents due to change, problem tickets closure turnaround time and overall tickets reduction. 
+         • Performed RCA training, Incident & Problem Process review meeting. 
+         • Facilitated RCA meeting and recorded down the necessary preventive measurement. 
+         • Coordinated the submission of Management Reports high severity incidents and ensuring that they provided on a timely basis in accordance with the agreed service level 
+         • Be part of Process improvement, reporting, documentation, tools design for Incident/Problem Management Team, 
+         • Managed Internal and External audit documentation submission. 
+         • Reported to a Delivery Project Executive responsible for managing major incidents, problems and changes for a reputed client. 
+         • Accountable for resolving major incidents and problems with adequate problem solving skills and decision making. 
+         • Driven changes within business with more appropriate transformation models and service improvement initiatives. 
+         • Build and develop customer relationship to ensure proper service delivery and customer satisfaction. 
+         • Managed service delivery for a complex 
+         IT infrastructure environment which has multiple platforms managed services including Wintel, AIX, Linux, Solaris, Database, Mainframe, Networks and Firewall. 
+         • Managed Service delivery, development and service improvement activities for a significant customer for IBM. 
+         • Taken end to end ownership for service delivery to the customers and responsible to manage internal and external stakeholders for delivery excellence and customer satisfaction. 
+         • Applied ITIL best practices for better management of processes and service delivery to meet the objectives of excellent customer satisfaction. 
+         • Responsible to build, Maintain and develop customer relationship to maximize business through customer satisfaction. 
+         • Managed service delivery tower technical specialists for agreed service delivery. 
+         • Participate in presales activity to delight customers with service offerings and capability demonstration. 
+         • Taking care of Incident, Problem, Change, Capacity, Release, Configuration, Availability, Capacity, Technical service delivery and Service level management for a critical customer who is the lead in financial institution across Asia. 
+         • Act as a single point of contact for service delivery and service improvements for the customer. 
+         • Ensure agreed SLA is attained across the managed services. 
+         • Instigate service improvement programs for areas which require improvement for the customers. 
+         • Manage technical services delivery to ensure high availability and customer satisfaction. 
+         • Manage the service management teams to ensure all deliverables are delivered on time. 
+         • Manage stakeholders on all service delivery aspects. 
+         • Manage Major Incident team in order to restore the services as quick as possible 
+         • Manage problem management team in order to identify the root cause and there by prevent from happening. 
+         • Manage critical changes and approve after thorough risk assessment. 
+         • Manage all releases based on customer priority and from risk aspects. 
+         • Manage Availability and reliability of the services through effective governance and control mechanism. 
+         • Responsible for end to end KPI, SLA and critical service levels management for customers. 
+         • Responsible to ensure all key critical service levels are attained with utmost customer satisfaction there by avoid SLA penalties for poor performance/non attainment of critical service levels. 
+          
+         Responsibilities on Change Management 
+         • My responsibilities on change management is limited to reviewing and approving mission critical and major changes which may potentially impact the production environment if they are planned as appropriate. 
+         • Responsible to manage and assess the risk of change in accordance to change management guidelines and risk management methodologies. 
+         • Provide inputs during Change Advisory Board (CAB) on any possible risks associated with the major changes by comparing similar changes with past major incidents due to change. 
+          
+         
+         IT Specialist - 
+         IT Service Management in IBM Singapore Pte Ltd.

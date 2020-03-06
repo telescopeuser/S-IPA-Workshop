@@ -1,0 +1,41 @@
+Project Description: 
+         The Treasury Services 
+         Data Integration Hub (TDI) provides the capability to maintain all the 
+          
+         ✓ Client, 
+         ✓ Account 
+         data, 
+         ✓ Reference 
+         data, 
+         ✓ Transaction 
+         data and 
+         ✓ Balance information 
+         that are created within Treasury Services, at the lowest level of granularity. It has the Provision Strategic Treasury Services middleware applications along with the Payment Hub and the Master Reference 
+         Data Hub. It serves all subscribing applications, in the format of their local schemas in "Near Real Time". 
+          
+         The Treasury Services 
+         Data Integration Hub (TDI) is intended to: 
+          
+         ✓ Lower load on Product Processors 
+         ✓ Reduce time to develop and maintenance of the 
+         data warehouse 
+         ✓ Reduce network traffic 
+         ✓ Reduce Total Cost of Ownership 
+         ✓ Increase Performance to process high volume of 
+         data 
+         Responsibilities: 
+          
+         • Understand the project test requirements of the TDI system/application 
+         • Prepare test strategy, test plan and test estimation document 
+         • Identify the necessary test scenarios, test cases and design for Automation 
+         • Ensure requirements are fully covered as part of traceability matrix 
+         • Coordinate with the Business, Design, Development and UAT teams 
+         • Ensure the defined test process is effectively implemented in the project 
+         • Effective implementation of HP ALM to ensure defects are logged and tracked till closure 
+         • Conduct defect triage/review meeting with all the Stakeholders 
+         • Collate and publish the daily status for the SCRUM call 
+         • Preparation of test completion report and defect dashboard 
+          
+         Project - 4 RBS - Global Transaction Services - Cash Management & Payments 
+         Environment Web Application 
+         Tools Used QTP - Automation Testing

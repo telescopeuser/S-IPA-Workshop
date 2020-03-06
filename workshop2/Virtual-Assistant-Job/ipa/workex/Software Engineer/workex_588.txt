@@ -1,0 +1,11 @@
+- Websphere Application server administration(Ver 8.0 & 9.0) 
+         ● - Websphere MQ Series server administration (Ver 7.5, 8.0, 9.0) 
+         ● - jboss server administration 
+         ● - Redhat Linux/Solaris Unix/HP-UX administration 
+         ● - Tomcat, Apache, IIS server administration 
+         ● - Symantec Netbackup Administration. 
+         ● - Installation, Configuration, Renewal, Certificate request and Tracking of SSL certificates in Middleware servers 
+         ● - Installation, Configuration and Deployments for Middleware servers. 
+         ● - Scripting in Unix for Automation of start/stop/Deployments etc 
+          
+         Hardware Upgrade, Security policy implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation and support for internal and external auditing, DR preparation and Implementation.

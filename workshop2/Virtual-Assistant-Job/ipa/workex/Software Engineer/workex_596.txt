@@ -1,0 +1,6 @@
+- Sun Solaris Administration 
+         - Winnt4.0 Server Administration 
+         - Arc Serv Backup server Administration 
+         - Novel Server Administration 
+         - IIS web server administration 
+         Capacity planning, NT workstation problems troubleshoot, Documentation of installation and configuration procedures and server information. Troubleshooting user desktop PCS, printer's problem, Regular review of OS patches/Service packs and installation.

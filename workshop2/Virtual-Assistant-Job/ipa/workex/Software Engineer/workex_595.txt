@@ -1,0 +1,8 @@
+- Sun Solaris Server Administration 
+         - Winnt4.0/Win2000 Server Administration 
+         - IIS Web server Administration 
+         - Legato Networker Backup server Administration 
+         - Business continuity operation drill (Disaster recovery) 
+         - System Software BMC patrol, Performance Monitor (Best/1), PCAnywhere, MacAfee virus scanner, March Server, System Scanner and System Log manager Installation, configuration and trouble shooting. 
+         - NTDS setup, Configuration and troubleshooting (Internet banking) 
+         Capacity planning, Security policy creation and implementation, Monitoring patch release from vendor and install up to date. Training new staffs, attending meetings, documentation of install and configure procedures. Preparation for auditing, Continuity in Business (COB) preparation and Internet Banking Project leading.

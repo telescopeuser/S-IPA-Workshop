@@ -1,0 +1,11 @@
+• Transition work from Dallas and build a similar team in Bangalore 
+         • Managing the staffing needs of the company for different team(s) / project(s) requirements 
+         • Overseeing Software Systems development in an Agile/Scrum environment 
+         • Quality assurance - develops quality standards for company products, oversees the development and execution of software test plans and analysis of test results. Provides guidance to subordinates to achieve goals in accordance with established policies 
+         • Collaborates with Solution Managers, delivery managers to determine the priorities and help deliver on customer commitments 
+         • Ensures that proper processes are in place to enable proper agile planning, execution, tracking and reporting 
+         • Develops, manages and tracks the plan for the team - includes scope planning, development/delivery schedule, resource requirements 
+         • Closely work with architect and team leads to ensure that delivered solution meets the customer expectations 
+         • Helps to identify and address gaps or risks in functionality delivered by the team 
+         • Supervises a team of up to 20 resources (Developers, QA's, BA's, Product Owner, Project Manager); motivates and directs team members, sets goals, objectives and priorities, assigns and reviews work, prepares and reviews annual performance plans 
+         • Responsible for Coaching, mentoring and development of direct and matrix reports; Defining solutions and tasks required for delivery and deliver solutions to client and provide necessary technical support

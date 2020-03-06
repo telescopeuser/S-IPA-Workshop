@@ -1,0 +1,143 @@
+Business Intelligent (BI) Reporting. 
+         1. Analyzing and Visualizing 
+         Data with Microsoft Power BI.(Certificate Exam: 70-778) 
+         https://www.microsoft.com/en-us/learning/exam-70-778.aspx 
+         i. Consuming and Transforming 
+         Data by Using Power Bi Desktop. 
+         • Connect to 
+         data sources.Connect to databases, files, folders; import from Excel; connect to SQL Azure, 
+         Big 
+         Data, SQL Server Analysis Services (SSAS). 
+         • Perform transformations.Design and implement basic and advanced transformations; apply business rules; change 
+         data format to support visualization 
+         • Cleanse 
+         data.Manage incomplete data; meet 
+         data quality requirements. 
+         ii. Modeling and Visualzing 
+         Data. 
+         • Create and optimize 
+         data models. Manage relationships; optimize models for reporting; manually type in data; use Power Query. 
+         • Create calculated columns, calculated tables, and measures. Create DAX formulas for calculated columns, calculated tables, and measures; Use What If parameters. 
+         • Measure performance by using KPIs, gauges and cards. calculate the actual; calculate the target; calculate actual to target; configure values for gauges; use the format settings to manually set values. 
+         • Create hierarchies. Create date hierarchies; create hierarchies based on business needs; add columns to tables to support desired hierarchy. 
+         • Create and format interactive visualizations. Select a visualization type; configure page layout and formatting; configure interactions between visual; configure duplicate pages; handle categories that have no data; configure default summarization and 
+         data category of columns; position, align, and sort visuals; enable and integrate R visuals; format measures; Use bookmarks and themes for reports. 
+         • Manage custom reporting solutions. Configure and access Microsoft Power BI Embedded; enable developers to create and edit reports through custom applications; enable developers to embed reports in applications; use the Power BI API to push 
+         data into a Power BI dataset; enable developers to create custom visuals. 
+         iii. Configure Dashboard, Reports, and Apps in the Power Services. 
+         • Access on-premises 
+         data. Connect to a 
+         data source by using a 
+         data gateway; publish reports to the Power BI service from Power BI Desktop; edit Power BI Service reports by using Power BI desktop. 
+         • Configure a dashboard. Add text and images; filter dashboards; dashboard settings; customize the URL and title; enable natural language queries. 
+         • Publish and embed reports. Publish to web; publish to Microsoft SharePoint; publish reports to a Power BI Report Server. 
+         • Configure security for dashboards, reports and apps. Create a security group by using the Admin Portal; configure access to dashboards and app workspaces; configure the export and sharing setting of the tenant; configure Row-Level Security. 
+         • Configure apps and apps workspaces. Create and configure an app workspace; publish an app; update a published app; package dashboards and reports as apps. 
+         2. Analyzing and Visualizing 
+         Data with Microsoft Excel. (Certificate Exam: 70-779) 
+         https://www.microsoft.com/en-us/learning/exam-70-779.aspx 
+         i. Consume and Transform 
+         Data by Using Microsoft Excel. 
+         • Import from 
+         data sources. Connect to and import from databases, files, and folders; connect to Microsoft SQL Azure, 
+         Big 
+         Data, SQL Server Analysis Services (SSAS), and Power Query; import supported file types; import from other Excel workbooks; link to 
+         data from other sources. 
+         • Perform 
+         data transformations. Design and implement basic and advanced transformations, apply business rules, change 
+         data format to support visualization, filter 
+         data, format 
+         data. 
+         • Cleanse 
+         data. Manage incomplete data; handle 
+         data received as a report; remove unnecessary rows, columns, and data; remove repeating headers 
+         ii. Model 
+         Data. 
+         • Create and optimize 
+         data models. Manage 
+         data relationships, optimize models for reporting, manually enter 
+         data, perform Get & Transform, create automatic relationships, create manual relationships. 
+         • Create calculated columns, measures, and tables. Create DAX queries, create DAX formulas, create Excel formulas. 
+         • Create performance KPIs. Calculate the actual value, calculate the target value, calculate actual to target values. 
+         • Create hierarchies. Create date hierarchies, create business hierarchies, resolve hierarchy issues. 
+         iii. Visualize 
+         Data. 
+         • Create and manage PivotTables. Format PivotTables and PivotCharts, format calculated measures, filter 
+         data, group and summarize 
+         data. 
+         • Create and manage PivotCharts. Select a chart type, format calculated measures, filter data; group and summarize 
+         data, use slicers. 
+         • Interact with Power BI. Import Excel 
+         data from Power BI, manipulate Excel 
+         data in Power BI.Business Intelligent (BI) Reporting. 
+         1. Analyzing and Visualizing 
+         Data with Microsoft Power BI.(Certificate Exam: 70-778) 
+         https://www.microsoft.com/en-us/learning/exam-70-778.aspx 
+         i. Consuming and Transforming 
+         Data by Using Power Bi Desktop. 
+         • Connect to 
+         data sources.Connect to databases, files, folders; import from Excel; connect to SQL Azure, 
+         Big 
+         Data, SQL Server Analysis Services (SSAS). 
+         • Perform transformations.Design and implement basic and advanced transformations; apply business rules; change 
+         data format to support visualization 
+         • Cleanse 
+         data.Manage incomplete data; meet 
+         data quality requirements. 
+         ii. Modeling and Visualzing 
+         Data. 
+         • Create and optimize 
+         data models. Manage relationships; optimize models for reporting; manually type in data; use Power Query. 
+         • Create calculated columns, calculated tables, and measures. Create DAX formulas for calculated columns, calculated tables, and measures; Use What If parameters. 
+         • Measure performance by using KPIs, gauges and cards. calculate the actual; calculate the target; calculate actual to target; configure values for gauges; use the format settings to manually set values. 
+         • Create hierarchies. Create date hierarchies; create hierarchies based on business needs; add columns to tables to support desired hierarchy. 
+         • Create and format interactive visualizations. Select a visualization type; configure page layout and formatting; configure interactions between visual; configure duplicate pages; handle categories that have no data; configure default summarization and 
+         data category of columns; position, align, and sort visuals; enable and integrate R visuals; format measures; Use bookmarks and themes for reports. 
+         • Manage custom reporting solutions. Configure and access Microsoft Power BI Embedded; enable developers to create and edit reports through custom applications; enable developers to embed reports in applications; use the Power BI API to push 
+         data into a Power BI dataset; enable developers to create custom visuals. 
+         iii. Configure Dashboard, Reports, and Apps in the Power Services. 
+         • Access on-premises 
+         data. Connect to a 
+         data source by using a 
+         data gateway; publish reports to the Power BI service from Power BI Desktop; edit Power BI Service reports by using Power BI desktop. 
+         • Configure a dashboard. Add text and images; filter dashboards; dashboard settings; customize the URL and title; enable natural language queries. 
+         • Publish and embed reports. Publish to web; publish to Microsoft SharePoint; publish reports to a Power BI Report Server. 
+         • Configure security for dashboards, reports and apps. Create a security group by using the Admin Portal; configure access to dashboards and app workspaces; configure the export and sharing setting of the tenant; configure Row-Level Security. 
+         • Configure apps and apps workspaces. Create and configure an app workspace; publish an app; update a published app; package dashboards and reports as apps. 
+         2. Analyzing and Visualizing 
+         Data with Microsoft Excel. (Certificate Exam: 70-779) 
+         https://www.microsoft.com/en-us/learning/exam-70-779.aspx 
+         i. Consume and Transform 
+         Data by Using Microsoft Excel. 
+         • Import from 
+         data sources. Connect to and import from databases, files, and folders; connect to Microsoft SQL Azure, 
+         Big 
+         Data, SQL Server Analysis Services (SSAS), and Power Query; import supported file types; import from other Excel workbooks; link to 
+         data from other sources. 
+         • Perform 
+         data transformations. Design and implement basic and advanced transformations, apply business rules, change 
+         data format to support visualization, filter 
+         data, format 
+         data. 
+         • Cleanse 
+         data. Manage incomplete data; handle 
+         data received as a report; remove unnecessary rows, columns, and data; remove repeating headers 
+         ii. Model 
+         Data. 
+         • Create and optimize 
+         data models. Manage 
+         data relationships, optimize models for reporting, manually enter 
+         data, perform Get & Transform, create automatic relationships, create manual relationships. 
+         • Create calculated columns, measures, and tables. Create DAX queries, create DAX formulas, create Excel formulas. 
+         • Create performance KPIs. Calculate the actual value, calculate the target value, calculate actual to target values. 
+         • Create hierarchies. Create date hierarchies, create business hierarchies, resolve hierarchy issues. 
+         iii. Visualize 
+         Data. 
+         • Create and manage PivotTables. Format PivotTables and PivotCharts, format calculated measures, filter 
+         data, group and summarize 
+         data. 
+         • Create and manage PivotCharts. Select a chart type, format calculated measures, filter data; group and summarize 
+         data, use slicers. 
+         • Interact with Power BI. Import Excel 
+         data from Power BI, manipulate Excel 
+         data in Power BI.

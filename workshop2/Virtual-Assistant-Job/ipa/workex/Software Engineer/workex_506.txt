@@ -1,0 +1,4 @@
+of WeChat Printer 
+         (mobile remote-control system) which is one part of the e-Commerce platform of Pou Sheng 
+         International (Holdings) Ltd. The technology stacks included Java, Spring MVC, MyBatis, Velocity, 
+         Bootstrap, HTML5, jQuery, WeChat Mobile Development, Netty WebSocket, MySql, Jenkins, Nginx,

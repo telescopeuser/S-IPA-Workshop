@@ -1,0 +1,27 @@
+Project: 
+         Data Lake Development 
+         • Design the 
+         Data Lake architect for storing multiple source system 
+         data into a Hadoop 
+         Data Lake. 
+         • Design and Implemented Ingestion framework DIF for AXA MY using Spark and Scala. 
+         • Using DIF for loading historical 
+         data and delta file, which is coming from multiple source systems. 
+         • Interaction with MDM development team and Prepared MDM SIT and UAT test cases for user testing. 
+         • Design and developed the 
+         data pipeline and deployed the jobs for loading MDM system 
+         data into a 
+         Data Lake. 
+         • Installing and configured the Pandora 
+         Data Quality tools into our Pandora server. 
+         • Defined the 
+         data validation rules and implementing on Pandora 
+         Data Quality tool. 
+         • Contribution on conversion of Osprey SAS script into a PySpark and scheduled for daily run for reporting. 
+         • Automated the 
+         Data extraction form AS400 system for 
+         Data Scientist for developing Machine Learning model. 
+         • Automated Telemetric flume 
+         data, which is coming into a json format, parsing and loading into a 
+         data lake. And created scheduled job for running into a 
+         Data lake.

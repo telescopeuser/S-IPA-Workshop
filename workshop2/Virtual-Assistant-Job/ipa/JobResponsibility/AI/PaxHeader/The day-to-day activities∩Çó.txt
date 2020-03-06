@@ -1,0 +1,2 @@
+70 path=RPA/ipa/JobResponsibility/AI/The day-to-day activities.txt
+27 atime=1581057204.962348

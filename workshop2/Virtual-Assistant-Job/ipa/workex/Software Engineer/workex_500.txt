@@ -1,0 +1,5 @@
+Key Responsibilities: 
+         • Design and implement company's long-term technology strategy. 
+         • Translate requirements, business strategy, product strategy, and tech/architecture trends into company technology strategy and architecture. 
+         Major Achievement: 
+         • Designed and led the implementation of the comprehensive technical roadmap for Kinofy's cross- border eCommerce business, by establishing a Microservice Cloud Platform for system integration and blockchain service. It indicates the technical direction of the company and can support its

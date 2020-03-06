@@ -1,0 +1,13 @@
+Singapore 
+         • Restructure the company, transform the company from a B2C to a B2B computer vision & image search technology stack company. 
+         • Create the new business plan and obtained approval from the CEO/Board and execute on it, determine parameters for exceeding revenue, profit and cash flow, improve business processes and team communication. 
+         • Develop the sales strategy, close & grow its first SaaS revenues, change the technology stack with the aim to enable digital commerce for FMCG, CPG, Media companies with an Offline-to-Online (O2O) omni-channel approach, improving consumer engagement in a measurable way. 
+         • Team up with the Technical Director in absence of a CTO, to manage DevOps, Front/Back-end development team to make changes to the product roadmap, features, build and release SDKs & APIs on Github, improve UX/UI of the mobile application and improve the development timeframes, leading to architectural changes moving to Kubernetes, Apache Spark, use of Tensorflow for computer vision, explore AWS Sagemaker to drive down development and operational cost while creating a scalable architecture able to process bigger workloads. Setup Scrum/Sprints. 
+         • Manage company resources, retaining high performing staff and improving customer experience, manage P&L for RFPs. Create a "want to" over a "have to" working culture. 
+         • Develop the company new sales account and partnership strategy with media ad agencies, FMCG brands, defining company's vision and values. 
+         • Hire, coach 5 new sales staff, communicate to the staff the company's expectations, target accounts/verticals. Develop web sales use cases training collateral and train the sales team. 
+          
+         Achievements: 
+         • Restructured the product, sales, tech team from a B2C to a B2B SaaS technology stack company in less than 12 months and publish SDKs APIs on Github with proper documentation for third parties. Hired new team members 
+         • Closed first SaaS revenues with Publicis Media Group & Media Prima Digital of $0.406 MM ARR. 
+         • Build a healthy sales pipeline with the aim to double revenues the following year

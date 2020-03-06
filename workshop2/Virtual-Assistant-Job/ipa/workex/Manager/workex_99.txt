@@ -1,0 +1,24 @@
+ESSILOR is the worldwide leading company in the vision lens market. To assist its business growth in AMERA (Asia-Pacific, Middle-East, Russia, Africa). As a member of the 
+         IT Infrastructure Shared Services Asia (ISS-ASIA) department, the Service Delivery 
+         Manager (SDM) need to assure a determining role in the management and efficiency of our support organization. Essilor has recently engaged with a Managed Services Provider (MSP) to deliver infrastructure managed services (network, 
+         systems, data center), covering proactive monitoring of the infrastructure, incident management, capacity management and lifecycle management of the infrastructure. 
+          
+         The purpose of the SDM position is to manage the relation with the MSP: ensure the services are properly delivered accordingly with the agreed SLA, following the processes defined and in compliance with the contract terms and scope. Job scope includes governance in the area of Service Delivery, Contract Management and 
+         IT governance. 
+          
+         RESPONSIBILITIES: 
+         1. Ensure the Managed Services Provider (MSP) delivers the expected services: proactive monitoring, level 1 to 3 support, capacity and lifecycle management 
+         2. Perform service level agreements (SLA) reviews with the MSP, engage and follow required actions to meet them 
+         3. Review and update the processes - support, escalation, communication - with the MSP and make sure they are followed 
+         4. Review and validate the monthly billing of the MSP 
+         5. Prepare and attend to the steering committees 
+         6. Prepare and attend to the Change Advisory Board (CAB) with the MSP - make sure to gather relevant elements from internal teams to review the changes. Make sure changes are properly executed. 
+         7. Ensure coordination between internal teams and MSP to provide: 
+         a. Standard Operating Procedures (SOP): supervise the creation and maintenance of necessary procedures, Systems and training documentation and ensure that key skills are documented 
+         b. Relevant information to configure monitoring tools (thresholds values) 
+         c. Contacts and escalation matrix 
+         8. Participate to any additional scope handed over to the MSP 
+         9. Main point of contact for internal escalation towards MSP, owner of crisis in case of production incident 
+         10. Drive continuous improvement with the MSP: develop and monitor all action plans needed 
+         11. Collaborate with other internal governance units 
+         12. Off-site Visits to MSP (local and overseas)

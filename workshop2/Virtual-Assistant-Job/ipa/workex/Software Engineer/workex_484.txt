@@ -1,0 +1,10 @@
+Edenred is a global leader in rewards, recognition, loyalty programs for Fortune 500 companies in FMCG, Lifestyle, Technology, Automotive and Leisure industries.  
+         Edenred loyalty system aims at providing web-based application for their customers and end users including key features like manage company account and member accounts, conduct various rewards programs and allocate points at company level and member level, company allocate points to their customers, submit claims and earn points, points transfer to various programs, points redemption, back office to handle daily transaction, various reports to monitor transactions. I am currently handling the loyalty programs for Cisco & Epson.  
+          
+         Role & Responsibilities:  
+          * Handle the system architecture and development of various loyalty programs. 
+          * Interaction with the Business team during requirement analysis and implementation of the high-quality application. 
+          * Manage application and implement new modules. (Web API, Website and Back office application) 
+          * Analyzing the existing business model and suggesting methods to automate the process. 
+          * Stipulate technical solutions, capabilities, considerations, and features in business terms.  
+          * Technologies & Tools Used: .Net 4.7 with, ASP.Net, C#, Web API, JavaScript, jQuery, HTML, CSS, , Bootstrap, Visual studio 2017, SQL Server, Rs reporting

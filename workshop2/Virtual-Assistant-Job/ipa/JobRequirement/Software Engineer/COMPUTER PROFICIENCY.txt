@@ -1,0 +1,5 @@
+Languages/Frameworks: Java, Javascript, NodeJs, JQuery, Spring MVC, .NET, HTML5 and CSS
+Application: JBoss, Weblogic, Websphere, Apache, IIS or open source web servers Database: MySQL, DynamoDB
+Middleware: REST APIs
+Platform: Web, AWS, Windows, Linux, Docker
+Tools: DevOps – Jenkins, Jira, Code Commit, Code Pipeline Unit testing frameworks 5

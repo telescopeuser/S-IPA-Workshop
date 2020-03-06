@@ -1,0 +1,12 @@
+Responsibilities: 
+         • Involved in Development of personalization tool used by Technical consultants for personalizing smart cards. 
+         • Analyzed requirements from FRS, Estimate the efforts for the assigned requirements. 
+         • Contributed to the SRS and participate in Design Input review in design phase. 
+         • Involved Discussion with cross functional teams to understand the effective digital securities in designing and Implementation phase. 
+         • Design and develop the code as per the coding standards and Bug fixing. Understanding of 3GPP standards. 
+         • Wrote Python scripts for GUI Functionality development. 
+         • Responsible to update C++ forms and code snippets for core GUI features upgrade. 
+         • Wrote wrapper functions in C++ and Python for interfacing. 
+         • Update user records into the SQL database. 
+         • Involved in validating the code and wrote test cases. 
+         • Supported in Customer Acceptance review phase.

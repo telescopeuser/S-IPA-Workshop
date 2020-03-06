@@ -1,0 +1,17 @@
+• Oversees the day-to-day operation of the IT Service Management process by administering and coordinating the activities of Incident, Problem and Change Management and record maintenance through to completion. 
+          
+         • Facilitating the Operation Daily Report meeting, review the action task and coordinate with necessary parities to resolve the aging incident and work order tickets. 
+          
+         • Liaison with all necessary parties to coordinate Change process operations and maintain relationships. 
+          
+         • Follow-up with Operation Team who conducts the Root Causes Analysis /Post Implementation Review Sessions for Manage Major S1 & S2 Incidents. 
+          
+         • Highlight potential operation risks by identifying incident trends and escalation to Service Delivery Manager as necessary. 
+          
+         • Coordinate with Operation Team when incidents happen until resolve, escalate to the Senior Management for potential S1 & S2 incident. Coordinate with Operation Team when incidents happen until resolve, escalate to the Senior Management for potential S1 & S2 incident. 
+          
+         It should be 'incident occurs till point of resolution' and escalation to Senior Management team on potential priority 1 & 2 incidents. 
+          
+         Change all S1 &S2 - to priority 1 and priority 2 
+          
+         • Monitoring services via Server; Network monitoring tools and End user support tickets. Highlight potential operation risks to operation team for action.

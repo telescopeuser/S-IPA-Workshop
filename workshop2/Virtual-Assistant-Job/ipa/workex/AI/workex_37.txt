@@ -1,0 +1,3 @@
+- Cash trade and position reconciliation 
+         - Migration of dividend tasks from Dublin 
+         - Analyse workflow for efficient distribution of workload - Managed junior analysts within the team.

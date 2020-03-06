@@ -1,0 +1,6 @@
+• Worked closely with global development team and helped designing ecommerce 
+         data model and application workflow for customer and products, cache strategy, refresh methodology 
+         • Migrated ecommerce technology to Service Oriented Architecture, and implemented Single 
+         Source of Truth (SSOT) for Customer and Products. 
+         • Worked on offshore team setup, defining collaboration and communication model and ensuring 
+         offshore project delivery

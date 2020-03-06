@@ -1,0 +1,23 @@
+Application: Global Billing and Pricing System (GPBS) 
+         GPBS (Global Pricing and Billing System) is the single & strategic Pricing and Billing application in the bank. The application is currently live in 41 
+         countries serving CIB and CB clients. 
+          
+         → Demonstrated exceptional requirement gathering techniques and preparation of Functional Specification Document / Epic 
+         → Performed GAP analysis with thorough understanding of the As-Is and To-be process. 
+         → Actively involved in preparation of the Functional specific Document / User Stories / Acceptance criteria and facilitate requirement 
+         sessions, for each sprint / project. 
+         → Served as a liaison between stakeholders from business, technology, operations and other team 
+         Aviva: Public 
+         → Worked with product owner (PO) for user story priority and reprioritize based on PO decision. 
+         → Participated in the User Acceptance Testing and conduct User Training 
+         → Performed analysis on metrics to identify trends, patterns based on the requests that has been received. 
+         → Provided management-level metrics and provide relevant analysis to provide visibility on a set frequency. 
+         → Have always been approachable and build, maintained good working relationship with stakeholders from different teams and functions 
+         → Lead a team of Business Analysts handling BAU and testing requests, managing BAU process. 
+         → Coordination with other teams within Engineering and Operations as well as the respective counterparts on the business side has always 
+         been positive. 
+         → Involved in the Process Improvements within the BAU team. 
+         → Have been the primary resource for the development of share point site for easy tracking of the BAU requests flowing in from Country 
+         representatives. 
+          
+         Professional Profile @ Standard Chartered Bank Malaysia

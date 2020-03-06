@@ -1,0 +1,16 @@
+Environment: PeopleSoft HCM 9.1 And ELM 9.1, People Tools 8.53, Oracle 11g 
+         Duration: June 2014 to May 2015 
+          
+         Project Description: Sealed Air Corporation is a packaging company known for its brands: Cryovac food packaging; Bubble Wrap cushioning; and Diversey cleaning and hygiene. Sealed Air Corporation has three divisions: Food Care; Product Care; and Diversey Care. 
+          
+         We are supporting PeopleSoft HCM 9.1 and handled Human Resources, Candidate Gateway, Talent Acquisition Manger (TAM), Payroll interface and Enterprise learning management (ELM) applications which includes both, delivered and customized functionality. 
+          
+         Roles and Responsibilities: 
+         ❑ I have involved preparing weekly status sheet for reported to Manager to get overall status list of SRs&CRs provided to business. 
+         ❑ Involved the Core HR and Payroll Interface Setup. 
+         ❑ Recently applied 8 bundles in single shot and successfully launched in prod instance. 
+         ❑ Handled critical issues by technically/functionally and resolved by 16/5 support. 
+         ❑ Daily monitoring the process which is running successfully or not in prod instance and immediately do fix whenever issue occurs based on the priority. 
+         ❑ Worked as a Techno-Functional Consultant and involved in understanding the functionality and requirements and prepared FDD and TDD and Unit Test cases based on the client's requirements 
+          
+         PROJECT EXPERIENCE #9

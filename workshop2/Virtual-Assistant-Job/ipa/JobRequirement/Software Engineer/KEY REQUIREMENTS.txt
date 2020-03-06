@@ -1,0 +1,4 @@
+You must be proficient with Python and its libraries: Scikit learn, Keras, TensorFlow, PyTorch etc.
+You have a minimum of 6 years of experience in applied statistical learning, machine learning and data science with concrete and tangible outcomes
+You have experience in Big Data tools (Hadoop, Spark) as well as cloud-based architecture (AWS)
+You are an excellent communicator able to manage challenging stakeholders

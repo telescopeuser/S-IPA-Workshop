@@ -1,0 +1,7 @@
+Responsible for the setting up and administrating of BSD/OS server, Windows NT servers for virtual server services. Includes the management of virtual hosting application such as apache, MySQL, php, perl and other in-house applications. 
+         • Provision of daily technical and phone standby support to customers. 
+         • Provision of managed services to dedicated and colocation customers running various Operating System (Solaris, FreeDSB, Windows, and Linux) 
+         • Involvement in implementation of Unix OS image recovery plan. 
+         • Installation and administrating of centralized Knowledge Management Portal. 
+         • Client commendation of good service and support in the Book of Commendation 
+         • Migration of Australia Radio Network to Australia Office

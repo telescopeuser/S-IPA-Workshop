@@ -1,0 +1,7 @@
+Involved to build the Company Infrastructure. Installed Windows NT 4.0 Network system, File Server and used Lotus Notes 4.5 for mail system. 
+         ◦ Supported to 500 users in both Singapore to INDIA, USA and Australia. 
+         ◦ Experience in handling external client. Provided technical support to clients' network systems. Managed about 100 application/email systems. 
+          
+         Major Achievements 
+         ◦ Upgraded company's infrastructure to new Microsoft Active Directory and Exchange 2000 in less than 3 months. 
+         ◦ Migrated Lotus Notes Users (250 users) to Exchange 2000 Environment over a weekend.

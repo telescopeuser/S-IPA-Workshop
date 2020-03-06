@@ -1,0 +1,14 @@
+• Build and manage team of Developers, QA's, Product Owner, DevOps etc. to build, design, implement and maintain Autodesk's Partner Web Services eCommerce Platform 
+         • Work with business leaders, partners and product managers to understand product vision, shape these products, and to develop and deliver the associated software services, infrastructure and tools to enable rapid growth of the business 
+         • Work closely with software 
+         engineers and software architects to develop the best technical architecture and designs for new product development 
+         • Delivery of long term, securely tested digital products, including roadmap and implementation 
+         • Influence and establish engineering standards and guidelines through processes and tools 
+         • Evangelize best engineering practices for high performance SaaS solutions across the company 
+         • Drive the execution and delivery of product features by collaborating cross functionally with Software Architects, Technical Leads, Product Managers and Ops 
+         • Adapt to time critical deadlines and changing priorities in a fast-paced environment 
+         • Maintain a high level of operational excellence within the team and across the software development organization 
+         • Ensure teams have clear priorities and adequate resources by empowering the delivery team to self-organize 
+         • Responsible for coaching, technical guidance, career development, and mentoring to team members 
+         • Maintaining high morale and motivating the team to go above and beyond while exhibiting open-mindedness and empathy 
+         • Participate in cross-functional coordination, planning and reviews with leads from other engineering teams

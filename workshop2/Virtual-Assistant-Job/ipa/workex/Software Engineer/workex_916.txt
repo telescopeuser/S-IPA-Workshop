@@ -1,0 +1,17 @@
+Investment Responsibilities: 
+         • Conduct fundamental research on companies within Nomura's coverage list to generate written Equity & Structured Product investment ideas. 
+         • Work closely with Investment Advisors/Discretionary Portfolio Manager to generate Investment recommendations, Equity/Bond screens, client portfolio re-balancing and portfolio construction. 
+         • Provide timely market summary & insights on Newly Issued Bonds or "special event" bonds. 
+         • Responsible for maintaining and upgrading the Product Risk Rating Methodology to be in-line with the prevailing market conditions and compliance guidelines. 
+         • Conduct product due diligence on new entries into the Nomura's coverage universe and inform the relevant teams on any changes/updates within coverage universe. 
+         • Prepare presentation materials for Sales and Clients meetings. 
+         • Analyse financial 
+         data and build detailed financial models for valuation & forecasting. 
+         Technology Responsibilities： 
+         • Responsible for maintaining & updating the Investment Solution team's database. 
+         • Co-developed & upgrade MS Access interface (known as Nomura's Coverage List Tool) which display updated financial ratio/
+         data, model list (i.e buy/sell rating) and model portfolio & its holdings. The tool also enables the user to shortlist companies (i.e equity/fund/bond screening), auto-generate risk-disclosure email and product due diligence report. 
+         • Trade Flow Analytics Report: Utilized Nomura's Wealth Management large datasets on trade flows and developed an automated report which highlights clients' key trades as well as insights into clients' sentiment towards the market. Delivering an improved client focus investment recommendations and services with 
+         big 
+         data. 
+         • Collaborate with IT System Team in digitalizing & automating various workflows/platforms within the Wealth Management Department to improve productivity and decision making.

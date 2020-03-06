@@ -1,0 +1,35 @@
+Infrastructure Support 
+         • Provide technical support on all operational and technical matters on hardware, software and communication network including LAN/WAN, VPN and services 
+         • Collaborate with Group 
+         IT to prevent system downtime by ensuring security and windows patches are 
+         deployed in a timely manner as recommended by HO. 
+         • Provide support and administration of production servers 
+         • Support software upgrades on Thomas Reuters & Bloomberg terminals 
+         • Provide support to end-user computing with effective problem solving methods 
+         • Imaging and deploying of Windows 7/10 OS on Lenovo laptops/desktop PCs 
+         • Manage and support of Mobile Device Management (MDM) mobile devices for BYOD enrolment/ 
+         removal on AirWatch console 
+         • Administer office WIFI public/private infrastructure 
+         • Provisioning of new hire on-boarding process including preparing of workstations and applications for use. 
+         • Validate and verify user's profile review on applications access of users on quarterly 
+         basis. 
+          
+         Project Management 
+         • Implemented Secure Print Management for the branch 
+         • Experienced in deploying Windows 10 OS migration for endpoints 
+         • Assist with the implementation of changes to operations procedures, processes and hardware, 
+         ensuring the changes are implemented as required 
+         • Raise Change Release for implementing infrastructure work and replacement work 
+         • Procurement of all infrastructure equipment by researching best security and value 
+          
+         System Monitoring & Security 
+         • Administer, maintain security, integrity and proper back-up database and documents 
+         • Provide VPN remote support via RSA Secure ID access 
+         • Monitor computer system usage and growth and provide for future expansion. 
+         • Maintain event log for all hardware/software issue 
+         • Maintain hardware and software inventory list of all equipment 
+         • Maintenance, troubleshooting and administration servers, PCs and equipment 
+         • Maintain 
+         IT documentation and policies for all operational procedures and network changes. 
+         • Recommend improvements of current systems, services or procedures 
+         • Continuous improve current internal applications

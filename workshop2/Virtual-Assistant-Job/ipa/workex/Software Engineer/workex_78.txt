@@ -1,0 +1,53 @@
+Environment: Hadoop, Hive, Oozie, Sqoop, Autosys 
+          
+         Description: 
+         Enterprise Analytics Platform (EAP) is the solution system which involves implementation if 
+         transaction monitoring Rules for Business and Corporate cards. Monitoring solution rules are 
+         implemented and appropriate alerts are generated to be sent to CMT for case management 
+          
+         Responsibilities: 
+         • Identified scope of testing and developed test scenarios Scheduling jobs in Autosys 
+         • Perform test design, test execution, Defect Tracking in various test phases 
+         • Executing and monitoring jobs through autosys in Unix 
+         • Responsible to writing and executing Oozie workflows 
+         • Monitoring Hadoop scripts which take the input from HDFS and load the 
+         data into Hive. 
+         • Effectively usage of Unix shell scripting for automation testing activity on Hadoop 
+         • Actively participated in Weekly status meetings with technical collaborators and colleagues. 
+         • Identified scope of testing and developed test scenarios 
+          
+         2] Project Name: HC DNA 
+         Role: 
+         Big 
+         data tester 
+         Environment: Hadoop, Sqoop, Hive, Oozie 
+          
+         Description: 
+         A leading global company in healthcare and insurance sector for 159 years with revenue of $47 billion. It is an American Managed Health Care Company which sells traditional and Consumer directed health care insurance plans and related services, such as medical, pharmaceutical, dental behavioural health, long term care and disability plans. 
+          
+         Responsibilities: 
+         • Gathering and understanding client's requirement by communicating with related teams. 
+         • Test Scenario and Test Cases preparation 
+         • Defect logging, retesting and test result analysis 
+         • SQL query preparation for 
+         data validation 
+         • Test Status Reporting 
+         • Onsite Coordination 
+         • Actively participated in Weekly status meetings with technical collaborators and colleagues. 
+          
+         3] Project Name: Basel 
+         Role: Test 
+         Engineer 
+         Description: 
+         The purpose of the project is to implement one of the mandated requirements under the Basel regulatory framework is for banks to backtest the internal models they use to price their assets and to calculate how much capital they require should a counterparty default 
+         Responsibilities: 
+          
+         • Preparing IFF input files. 
+         • Test Cases preparation and documentation. 
+         • Defect Tracking in various test phases 
+         • SQL query preparation for 
+         data validation 
+         • Test result analysis and regression testing. 
+         • Onsite coordination 
+          
+         Academia

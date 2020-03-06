@@ -1,0 +1,10 @@
+3+ years of software design, architecture and development experience.
+Product development experience is Must.
+Strong foundation in computer science, with excellent competencies in data structures, algorithms and software design
+Strong experience in building large scale applications using open source and J2EE/Big Data technologies.
+Strong in Core Java development concepts. Good design and coding skills in Java/J2ee, Web Services, Spring, Hibernate, Soap/Rest APIs, and Java Script Frameworks for modern web applications like AngularJS, Backbone etc.
+Experience with Big Data ecosystem like Hadoop, Spark, Map Reduce, H-Base, MongoDB, Yarn, Kafka or equivalent is a preferable but not a must have.
+Keen for writing quality and self-validating code using unit tests, or following TDD.
+Capable to leverage DevOps techniques and practices like Continuous Integration, Continuous Deployment, Test Automation, Build Automation and Test Driven Development to enable the rapid delivery of working code utilizing tools like Jenkins, Gradle, Chef, Git and Docker.
+Good verbal, and written communication skills to effectively communicate for business needs and technical concepts to multiple organization levels.
+Experience in Agile development using any of the methodologies like SCRUM is a big plus.

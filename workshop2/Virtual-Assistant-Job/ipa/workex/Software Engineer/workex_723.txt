@@ -1,0 +1,17 @@
+Designed and implemented Dynamic 
+         Data Copy Utility to synchronize symmetry/asymmetry 
+         databases with no elevated permissions, and eliminated the need to ETL/DBA teams in performing a routine development process. 
+         • Designed and implemented complete CI/CD Process for Database Applications, integrated 
+         various CI/CD tools such as JIRA, Jenkins, Sonar, Artifactory, Ansible Tower to Streamline the 
+         Entire Development Experience. The project also eliminated the need of maintaining multiple 
+         vendor tools performing the same operations and saved licensing costs of maintaining them. 
+         • Designed and implemented Web Service Mock Utility that calls, saves, and returns stored 
+         response based on the request payloads from Mock Server. Automatic creation of different user 
+         profiles to support and test different scenarios. It helped to automatically create a user profile by masking and mocking up an error scenario automatically. It helped the team to test and develop the mobile application independently, covering all possible test scenarios, faster 
+         development. 
+         • Designed, Integrated and Implemented the end-to-end auto Crash Predictor and Simulator by integrating Splunk, Glassbox, JIRA, Bit Bucket, 
+         Data Simulator, Path Predictor to Mask and 
+         Mock-up the user profile and path of crash, so that an issue can automatically be reported to the developer with an auto setup of simulated 
+         data, environment and steps of execution. 
+          
+         Expedia Sr. Database Lead - Contact Center Technology

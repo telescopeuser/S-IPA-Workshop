@@ -1,0 +1,16 @@
+Job Description 
+         General IT Infrastructure Management: 
+         ➢ BAU; Resolving incidents, Service Requests from Priority 1-4 
+         ➢ Liaising with other teams in IT&D during issues 
+         ➢ Implementing routine change under the change control process 
+         ➢ Problem Management and root cause analysis 
+         ➢ Event Management / Log Analysis 
+         ➢ Service improvements for BAU activities 
+         ➢ Infrastructure build activities under defined process 
+         ➢ Capacity planning and management 
+         ➢ Adherence to documented procedures 
+         ➢ Monitoring and patching of server & network 
+         ➢ Audit of Infrastructure 
+         ➢ Conduct and Lead Technical BCP at local office. 
+         ➢ Maintain Local 
+         Data Centre infrastructure/Systems

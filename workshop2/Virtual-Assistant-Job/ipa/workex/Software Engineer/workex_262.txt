@@ -1,0 +1,31 @@
+Customer: One of the top 4 banks in USA 
+         Responsibilities: 
+          
+         • Deploy Kubernetes Cluster (Redhat Openshift Container Platform) in Dev, QA and Production. 
+         • Kubernetes/Openshift v3 Integration with external ELK cluster. 
+         • Administration of Kubernetes/Openshift Cluster Master, Nodes, users, Projects, Pods and Networking 
+         • Performed resilience test to identify the impact OSE master, Infra and App node failures, and reinstated the failed node and documented the results. 
+         • Openstack with Ceph storage as part of proof of concept and in production. 
+         • Managed various virtualization technologies like KVM and VMWare. 
+         • Addition of new application nodes in Kubernetes/OpenShift v3 and labelling the nodes as per the environment segregation. 
+         • Documentation of Openshift Standard build install guide and operations support 
+         • Involved in Linux Patching automation and extensively worked with Chef Engineering and RBA team and helped to identify and resolve various issues during the pilot and production phase. 
+         • Support application teams to migrate their application to the cloud. 
+         • Developed Openshift Enterprise Backup and Restore procedure 
+          
+         2.2Customer: One of the top 4 banks in USA 
+         Responsibilities: 
+          
+         • Deploy Kubernetes Cluster (Redhat Openshift Container Platform) in Dev, QA and Production. 
+         • Kubernetes/Openshift v3 Integration with external ELK cluster. 
+         • Administration of Kubernetes/Openshift Cluster Master, Nodes, users, Projects, Pods and Networking 
+         • Performed resilience test to identify the impact OSE master, Infra and App node failures, and reinstated the failed node and documented the results. 
+         • Openstack with Ceph storage as part of proof of concept and in production. 
+         • Managed various virtualization technologies like KVM and VMWare. 
+         • Addition of new application nodes in Kubernetes/OpenShift v3 and labelling the nodes as per the environment segregation. 
+         • Documentation of Openshift Standard build install guide and operations support 
+         • Involved in Linux Patching automation and extensively worked with Chef Engineering and RBA team and helped to identify and resolve various issues during the pilot and production phase. 
+         • Support application teams to migrate their application to the cloud. 
+         • Developed Openshift Enterprise Backup and Restore procedure 
+          
+         2.2

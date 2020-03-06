@@ -1,0 +1,176 @@
+Job descriptions 
+         ➢ Perform Imaging and System Preparation of Hard disk to be used at PNB Branch Server 
+         ➢ Conduct site inspection of Domestic Branches in preparation for the roll-out. 
+         ➢ Setup of Training Center 
+         ➢ LAN Cabling of Domestic Branches 
+         ➢ Dismantle old machines and replace with new IBM Terminals, passbook printers, branch server and Cisco switch, Router 
+         ➢ Provide Technical Support during connectivity and roll-out of new system 
+         ➢ Switch & LAN Configuration 
+         ➢ Branch Server & Terminals Configuration 
+         ➢ Installation and Configuration of New System 
+         ➢ Provide On call technical support 
+          
+         • Name of Project: Branch Delivery System 
+          
+         * BDS Automates front-end processing in a multi-tier, browser based thin client environment. MCDS is adopted by the Bank to serve as an effective tool that can be utilized by its Branches and Operating Offices in rendering efficient and satisfactory service to its increasing number of clients. And for Enhancing the System used by the bank 
+         * Preparing Branch for Implementation of the New System 
+         * Project duration (length month/s or year/s): 2 Years and 9 Months 
+          
+         MAJOR PROJECTS HANDLED 
+         COMPANY: Marina Bay Sands Singapore 
+         ROLE: TECHNICAL CONSULTANT 
+         PROJECT TASK: 
+         - Technical lead in project deployment. Provide technical execution plan and risk assessment in project deployment. 
+         - Migration of Windows 2003 Domain Controller to Windows Server 2008 R2 with 4000 users. 
+         - Transition of Exchange Server 2003 to Exchange Server 2010. 
+         - BES Server Upgrade and Migration 
+          
+         COMPANY: Keppel Integrated Engineering 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASK: 
+         - Setup 2 Node Windows Server 2008 R2 Hyper-V Clustering using Fibre Channel Card connected to Netapp Storage. 
+          
+         COMPANY: Asia Capital Reinsurance Group 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASK: 
+         - Upgrade and Migration of Office Communications Server 2007 R2 to Lync Server 2010 
+          
+         COMPANY: Asia Capital Reinsurance Group 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASK: 
+         - Deployment of Symantec Enterprise Vault 10 for Archiving of Email hosted on Exchange 2010 and Archive Files on File Server 
+          
+         COMPANY: Singapore Petroleum Company / PetroChina Singapore 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Restructured existing Active Directory by Migrating Active Directory Users, Computers, File Server to a new child domain name under a new Forest root domain. 
+         - Migrated of 10 Windows 2003 Active Directory/Domain Controller/DNS Server to Windows 2008 R2 which consists of different child domains and located on different sites 
+         - Migrated of CA Server, 4 DHCP Servers, 4 Radius Server From Windows 2003 to Windows 2008 R2 
+         - Transitioning of 5 Exchange Server 2003 located on different sites to 5 Exchange Server 2010 which consist of 2 member DAG for High Availability 
+         Deployed of Symantec Mail Security for the new Exchange Servers 2010 
+         COMPANY: Leong Jin Corporation Pte. Ltd 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed and setup of Hyper-V Server 
+         - Migrated 2 Windows 2003 Active Directory/Domain Controller/DNS Server to Windows 2008 R2. 
+         - Migrated CA Server, DHCP Server, From Windows 2003 to Windows 2008 R2 
+         - Transitioned 2 Exchange Server 2003 to Exchange Server 2010 
+         - Migrated Symantec Endpoint Protection to from windows server 2003 to windows server 2008 R2 and upgrade to SEP new version for the SEP Servers and clients 
+         - Setup of Acronis Backup to backup Virtual Servers on Hyper V 
+          
+         COMPANY: Tokio Marine Insurance Singapore Ltd 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed 2 Symantec Messaging Gateway hosted on ESXI Servers to relay email for email servers consist of Exchange Server and Domino Server 
+          
+         COMPANY: Singapore Institute of Technology 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed new child domain and new 9 domain controllers located on different sites (Ngee Ann Polytechnic, Nanyang Polytechnic, Temasek Polytechnic, Singapore Institute of Technology) in addition to existing 6 Domain controllers 
+          
+         COMPANY: Jardine Cycles and Carriage Ltd. 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Migrated 6 Windows 2003 Active Directory/Domain Controller/DNS Server to Windows 2008 R2 composes of Root and Child Domains 
+         - Migrated DHCP Server, From Windows 2003 to Windows 2008 R2 
+          
+         COMPANY: PSB Academy 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Setup of 2 Esxi 5.0 Servers and Array of 2 HP SAN Storage connected thru Isci with VMWare High Availability and Vmotion Configured 
+         - Setup of New Active Directory/Domain Controller/DNS Server using new Forest Root Domain located to different sites 
+         - Restructured existing Active Directory by Migrating Active Directory Users, Computers, File Server to the new Forest root domain. 
+         - Setup of New SharePoint Server 2007, SQL Server 2008 R2 and DHCP Server 
+         - Migrated database from existing SharePoint Server to the newly setup SharePoint Server 
+         - Deployed Symantec Endpoint Cloud to workstation and Symantec Message labs for mail security 
+         - Setup of new 3 Exchange Server 2010 hosted on ESXI Servers configured with 2 member DAG for High Availability 
+         - Migrated of emails from hosted from Exchange 2007 to Exchange 2010 
+         - Setup of Symantec Backup Exec Server to backup Active Directory, Emails, SharePoint, Databases, VMware Esxi Virtual Server to HP StorageWorks MSL2024 Tape Library 
+          
+         COMPANY: Singapura Finance 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Setup of 4 IBM x3560M3 Servers and Installation of Vmware Esxi 4.0 and setup of 4 Windows Server 2008 R2 on each Esxi Servers 
+          
+         COMPANY: Ren Ci Hospital 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed Additional HP SAN Storage and migrated virtual servers vmdk from old to new Storage and expand the virtual disk allocated per virtual server. 
+          
+         COMPANY: Nanyang Technological University 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed of 5 Symantec Messaging Gateway hosted on Esxi Servers to replace anti-spam solution. 
+          
+         COMPANY: Engro Corporation Limited 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Configured Site to Site VPN on Fortigate Firewall To Access Application Server on DataCenter 
+         - Configured Terminal Services Server and Group policy to Access ERP application Microsoft NAV remotely by users from different sites 
+         - Setup of Hyper V Clustering with SAN Storage to Host Active Directory Server, SQL Server, File Server, and Email Server 
+         - Migrated 2 Windows 2003 Active Directory/Domain Controller/DNS Server to Windows 2008 R2. 
+         - Transitioned of Exchange Server 2003 to Exchange Server 2007 
+          
+         COMPANY: Consilium 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Setup of Active Directory Server Domain Controller DNS Server, DHCP Server and Exchange Server 2007 in Hyper-V Environment 
+         - Setup of Remote Desktop Services to Remotely access ERP Application (Microsoft NAV) 
+         - Configuration of Fortigate Firewall and VPN 
+          
+         COMPANY: Quadrep Marketing Pte Ltd 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployment of Windows Server 2008 SBS 
+         - Setup of Active Directory Server Domain Controller DNS Server, DHCP Server, Exchange Server 2007, SharePoint WSS 3.0 and SQL Server in Hyper-V Environment 
+         - Setup and deployment of Trend Micro Worry Free Anti virus 
+         - Configuration of Cisco Router, Fortigate Firewall and VPN 
+         - Setup of Remote Desktop Services to Remotely access ERP Application (Microsoft NAV) 
+         - Deployed and Setup Symantec Backup Exec to backup Database and email on NAS 
+          
+         COMPANY: TruMarine 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployed and setup of Hyper-V Server 
+         - Migrated 2 Windows 2003 Active Directory/Domain Controller/DNS Server to Windows 2008 R2. 
+         - Transitioned of Exchange Server 2003 to Exchange Server 2007 
+         - Setup and Deployed High Availability for 2 Fortigate Firewall 
+          
+         COMPANY: REDI (Regional Emerging Diseases Intervention) 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Deployment of Windows Server 2008 SBS 
+         - Setup of Active Directory Server Domain Controller DNS Server, DHCP Server, Exchange Server 2007, SharePoint WSS 3.0 and SQL Server in Hyper-V Environment 
+         - Setup and deployment of Trend Micro Worry Free Anti virus 
+         - Configuration of Cisco Router, Fortigate Firewall and VPN 
+         - Migration of Web Server 
+         - Deployed and Setup Symantec Backup Exec to backup Database and email on NAS 
+          
+         COMPANY: Filminera Resources Inc 
+         ROLE: LEAD 
+         ENGINEER 
+         PROJECT TASKS: 
+         - Setup New Active Directory Server/Domain Controller/DNS Server/DHCP Server and Exchange Server 2007 
+         - Setup and deployed Symantec Endpoint Protection on Server and Clients 
+         - Setup and configure router and juniper firewall 
+         - Setup Symantec backup exec and Symantec backup system restore 
+         - Setup and deployed using AYC Telecom Ipcts and Polycom SoundPoint IP Phone and Conference Phone 
+         - Configure Router for connectivity of remote site to HQ including outdoor wireless solution capable of transmission up to 30km 
+         - Setup and Configure Wan optimizer and Application accelerator appliance between Australia and HQ for access of Application and VOIP Connectivity on different sites

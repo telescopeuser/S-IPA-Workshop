@@ -1,0 +1,9 @@
+Supported single & multisite clients with administration for their network & systems 
+         • Worked with Front-End Technical Support and served as Back-End Technical Support with communication with LEC (Telco), Vendors (ISP's) and Technical Assistance Center for Network and System Related Concern for Windows 2000 servers 
+         • Handled L2TP customers and had basic knowledge on Shasta routers. 
+         • Worked with Technical Assistance Center to resolve connection problems for business customers. 
+         • Configured CPE's (modem-routers) such as Netopia, 2wire, etc. based on its light status firmware page to troubleshoot No Sync, sync no Surf and Sync No Connect Issues. 
+         • Handled Router Configuration through TELNET by putting correct IP specifications, turning on and off of DHCP and NAT, correct IP configuration for DHCP and NAT combinations, opened port information for Port Forwarding request. 
+         • Supported ADSL, SDSL, IDSL, T1 connection issues for business customers. 
+         • Handled Remedy, PeopleSoft CRM, and Midas for documentation and support for Clients. 
+         • Excellence in technical support for Mac and Windows Operating Systems which includes Broadband and Dial-up connectivity.

@@ -1,0 +1,21 @@
+Successfully created Kubernetes Pipeline of deployment & operation activities where all code is written into Java, Python & stored into bitbucket, for staging & testing purpose we have created docker 
+         containers which is hosting on top of Kubernetes Platform managing 24 Kubernetes master have written 
+         ansible playbook to deploy source code on docker containers 
+          
+         Deployed Azure Devops Cloud Setup integration with on premises HP cloud 
+          
+         Setup CI/CD Pipeline to integrate on-premises pool agent for AI platform 
+          
+         Setup multilevel Kubernetes cluster where daily operations of containers has deployed on 100s of worker node 
+          
+         Succefully helped various overseas clients for onboarding their cloud journey to different cloud platform 
+         preferably Azure and aws by creating multilevel hybrid pipeline of CI & CD helped clients to achieve their 
+         best Kubernetes orchestration platform ever. 
+          
+         Managed more than 1000 of Kubernetes cluster for ingress load balancers requirement optimised for high traffic 
+         Previous organization 
+          
+         Company: Sahasya global 
+          
+         Role: System 
+         engineer

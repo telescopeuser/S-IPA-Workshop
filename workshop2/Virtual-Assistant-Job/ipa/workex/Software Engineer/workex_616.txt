@@ -1,0 +1,16 @@
+Environment: Service Management 
+         Roles and responsibilities: 
+          
+         ❖ Maintaining Disk replacement in Vxvm and Svm. 
+         ❖ Maintaining VERITAS file system and so on. 
+         ❖ Disk replacement in VxVm. 
+         ❖ Creating LVM and applying file system in Aix and Linux. 
+         ❖ Resolving file system issues in AIX, Linux & Solaris. 
+         ❖ Hands on Experience on LVM in Red hat Linux 
+         ❖ Familiar with OK Prompt issues in sun server 
+         ❖ Hands on Experience on Performance tuning in Aix Server's ie.. P-Series Server. 
+         ❖ Managing user ID related issues. 
+         ❖ Having Experience in LVM, extending Logical volume and file system. 
+         ❖ Having Experience in LPAR, DLPAR & Vio configuration. 
+         ❖ Having Experience in OS installation and brining disk into OS level. 
+         ❖ Having Experience in Vcs and HACMP.

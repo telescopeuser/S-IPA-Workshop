@@ -1,0 +1,1 @@
+Tool agnostic but common tools are Spotfire, R and Python with web frameworks (Shiny/Dash)

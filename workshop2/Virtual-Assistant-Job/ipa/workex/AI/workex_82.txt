@@ -1,0 +1,13 @@
+Highlight: 
+         • Led migration of Flexible Payments database from 54 MySQL instances involved in Massive Parallel Processing by consolidating into 4 Oracle Databases without compromising with the latency and application performance. 
+          
+         Responsibilities: 
+         • Worked as Senior DBA for Amazon's Flexible Payments System for the internal and external developers of Amazon. 
+         • Accountable to monitor, maintain database systems and troubleshoot problems that may arise. 
+         • Built and maintained database systems of high availability and quality based on Amazon's standard build processes. 
+         • Monitored and optimized database systems to ensure quality system performance. 
+         • Partnered with remote DBA Teams operating from US for shared production system support and ensured smooth and efficient installation, configuration, troubleshooting, and maintenance of database systems 
+         • Provided proactive and reactive 
+         data management support and training to users. 
+         • Performed tests and evaluations regularly to ensure 
+         data security, privacy and integrity.

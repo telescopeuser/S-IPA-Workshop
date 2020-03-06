@@ -1,0 +1,31 @@
+Responsibilities: 
+         • Responsible for building scalable distributed 
+         data solutions using Hadoop. 
+         • Worked with 
+         Big 
+         data tools like PIG, HIVE, SQOOP, OOZIE etc. 
+         • Worked on bringing 
+         data into different 
+         data source system into HDFS. 
+         • Worked on ETL and database design approach for the business requirements. 
+         • Extensively worked on Informatica Power Center tool - Source Analyzer, 
+         Data warehousing designer, Mapping &Mapplet Designer and Transformation Designer. 
+          
+         Responsibilities: 
+         • Migrating ORACLE database from ORACLE 10g to ORACLEEXADATA. 
+         • Design Document preparation, test case preparation. 
+         • Preparation of technical specification documentation & HLD 
+         • Impact Analysis preparation and Migration document preparation. 
+         • 
+         Data validation between current 
+         data and migrated 
+         data. 
+         • Performance tuning for long running workflows. 
+         • Implementing push down optimization in the workflows. 
+         • Implementing partitioning for the workflows, which loads huge 
+         data sets. 
+         • Maintained warehouse metadata, naming standards and warehouse standards for future application development. 
+         • Extensively worked on Informatica Power Center tool - Source Analyzer, 
+         Data warehousing designer, Mapping &Mapplet Designer and Transformation Designer. 
+         • Maintain Development, Test and Production mapping migration Using Repository 
+         • As INFORMATICA Administrator I will be taking care of,

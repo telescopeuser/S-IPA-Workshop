@@ -1,0 +1,23 @@
+Project Title Legrand, France - Cognos Impromptu 7.0 to Cognos 8.2 migration 
+         Description The project deals with migration process of oracle 9i to oracle 10g and Cognos Impromptu 7.0 to Cognos 8.2 reports. 
+         As per the requirement this project was also includes the report development in Cognos 8.2. We are developing the 
+         Project in Cognos 8.2 based on the requirement and information from Catalog in Impromptu version 7.0. The idea behind this development is that after developing reports we implement it to different subsidiaries. 
+         Environment Cognos 8.2, Cognos Impromptu 7.0, Framework Manager, Toad, Oracle 9i, Oracle10G 
+         Role Cognos Report Developer 
+         Contribution ✓ Review of Requirements and Test Plans Design. Created Dashboards, list, Crosstab, Charts & Nested Crosstab 
+         reports in Report Studio. Created Drill-Thru and Master-Detail Reports. 
+         ✓ Developed complex reports with user's design format using cascading prompts and calculations in Report Studio. 
+         ✓ Test the reports as per the Test plan and Update the test logs as per the testing happen. 
+          
+         Project Title HP - BO Shared Services Consolidation. 
+         Description The main objective of this project is to provide Infrastructure support (24x7) as well as application support. The 
+         user (HP) maintains around 140 applications in different 
+         data marts & the team is responsible for (24x7) 
+         Infrastructure support as well as server-side application Support. 
+         Environment BO 6.5, BOXIR2 and Hyperion 
+         Role L1/L2 Support 
+         Engineer 
+         Contribution ✓ Role - L1/L2 support 
+         engineer, Assign Tickets to respective team representatives 
+         ✓ Provide solution to tickets related to BO 6.5, Maintaining and categorization of OVSD tickets as an acknowledgement for user requests and resolution of issues. 
+         ✓ Update the OVSD Ticket as per the user requests

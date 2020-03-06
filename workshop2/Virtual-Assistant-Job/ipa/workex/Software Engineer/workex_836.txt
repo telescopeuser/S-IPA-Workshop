@@ -1,0 +1,15 @@
+Environment: PeopleSoft HCM 9.2, People Tools 8.56, Oracle 12c 
+         Duration: Dec 2016 to Jan 2018 
+          
+         Project Description: Children's CVS Health Caremark are a pharmacy innovation company with a simple and clear purpose: Helping people on their path to better health. 
+         Headquartered in Woonsocket, RI. Largest pharmacy health care provider in the U.S. Integrated offerings across the spectrum of pharmacy care. More than 250, 000 colleagues across all 50 states, Washington, D.C., Puerto Rico and Brazil. 
+         They are currently using PeopleSoft HCM 9.2 and ESS, MSS, WFA, and NA Payroll modules. We have two team here one for supporting the project and other is working on enhancement project. 
+          
+         Roles and Responsibilities: 
+         ❑ Extensively convertedall custom Crystal reports to XML Publisher reports. 
+         ❑ As a team lead involved in PS HCMupgrade from 9.0 to 9.2 and Tools Upgrade from 8.52 to 8.56. 
+         ❑ As a team member, currently working on development for their complex union reports using SQR. 
+         ❑ Extensively worked in PeopleSoft Fluid User Interface. 
+         ❑ Involved in their interface processes to fix the issue whenever program has failure. 
+          
+         PROJECT EXPERIENCE #11

@@ -1,0 +1,3 @@
+Within the french R&D department, Achieved the development of a set of software 
+         dedicated to pagination simulation and optimization of color 
+         blocks con guration

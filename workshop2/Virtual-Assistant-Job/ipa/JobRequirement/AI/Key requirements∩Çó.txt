@@ -1,0 +1,3 @@
+Solid hands-on experience as Data scientist, preferably in the financial services industry
+High technical skills: you must be fluent in Python, Hadoop, Spark, Cloudera
+Pro-active personality with great leadership skills you will be willing to mentor junior data members

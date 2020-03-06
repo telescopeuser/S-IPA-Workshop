@@ -1,0 +1,19 @@
+Accomplishments: 
+         • Worked closely with an on-shore Product/Project Manager for new and change requirements and define roadmap 
+         • Transformed teams and senior management to adapt to an agile mindset and coached them to their agile journey 
+         • Ensured that scrum team members understood the value of each scrum events (Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective) and are happening 
+         • Ensured transparency using JIRA, providing release and sprint burndown charts and other reports 
+         • Ensured continuous improvement to increase productivity and quality of deliverables (increased velocity) 
+         • Ensured alignments with scrum team and stakeholders 
+         • Conducted Agile team trainings and coachings 
+          
+         PROJECTS: 
+         Role: Team Lead/Scrum Master 
+         Team size: 4 
+         Project: Tendering Application 
+         Project Description: It is a suite of tendering applications which supports and manages the life cycle of a contruction project. It is normaly used for making technical and financial bids or proposal for construction projects, planning, executing, controlling, managing until closing. Developed in .Net, SQL, SharePoint and JavaScript. 
+          
+         Role: Team Lead/Scrum Master 
+         Team size: 4 
+         Project: Hiring Request, File Upload and Download, Besixpedia, Manila Portal and Email Auto Read and Reply 
+         Project Description: These are tools developed in SharePoint to support the company's business operations. Developed using Angular JS.

@@ -1,0 +1,58 @@
+Perform Dual role of a Senior Manager and Presales Architect 
+          
+         Senior Manager 
+         Operation Management 
+         • Develop and implement an IT governance framework for managing projects, budgets and resources 
+         • Understand the IT management policy, quality management policy and security guidelines to ensure the processes, procedures and system comply with these policies and guidelines 
+         • Implement and maintain standards and policies in relation to quality, risk and project management and ongoing Maintenance to ensure SLA are met 
+         • Recommend operations and development budgets and manage the budget 
+         • Management and monitoring of project risk and change management to ensure delivery of the projects on schedule, within scope and budget 
+         • Manage 3 teams of 
+         engineers in diverse technology area. 
+         • Manage all IT systems hardware maintenance contracts to ensure complete coverage and meet the SLA. 
+         • Train and develop engineers' technical capabilities and competencies. 
+         • Lead IT infrastructure project management activities for Infrastructure and enterprise-wide IT initiatives. 
+         • Work closely with all business units to ensure on-going improvements to the systems and network. 
+          
+         • Ensure all IT Infrastructure assets are hardened, patched, secured, configured, maintained, and services are available per SLAs. 
+         • Manage all IT infrastructure operations through their life cycle. 
+          
+         Stakeholder engagement 
+         • Manage the customer's expectations, develop and actively engage customers so as to enhance customer satisfaction 
+         • Engage stakeholders to identify business case opportunities 
+         • Present various project progress in monthly progress reports 
+         • Work with other internal divisions and external stakeholders (Principle vendors, End-users) to conduct proof-of-concepts for future large scale deployment 
+          
+         Implementation Management 
+         • Act as Project Manager/Director to manage and coordinate services delivered by external vendors/partners. 
+         • Support in planning all activities relating to procurement of ICT products and services to ensure vendor services are delivered on time, within budget and meeting requirements 
+         • Develop methodologies and best practices in implementing Large-scale Enterprise System solutions 
+          
+         Business Alignment 
+         • Perform strategic alignment of technology and partners with business requirements 
+         • Optimized technology spending to ensure optimal Return Of Investment 
+          
+         New Business 
+         • Spearhead and develop new line of business in the following area: 
+         * Digital Forensic 
+         * Cloud Computing 
+         * 
+         Big 
+         Data 
+          
+         Strategic Planning 
+         • Optimized technology spending to ensure optimal Return Of Investment 
+         • Align overall IT strategy with business requirement 
+          
+         Presales Engagement 
+         • Evaluate and recommend IT Infrastructure architecture and design for operational continuity, performance and security 
+         • Plan and provide for disaster recovery for network, servers and business-critical applications. 
+         • Participate in the decision making for purchase of hardware and software. 
+         • Review and validate IT infrastructure system designs to ensure that the architecture can be implemented successfully. 
+         • Develop technical feasibility assessment on new technology trends and issues to identify business case opportunities and organization wide use cases 
+         • Establish an applied innovation framework for user and develop a pipeline of products under this framework 
+         • Responsible to develop and design various Infrastructure Solution 
+         • Provide technical consultation in support of storage initiatives and solution development 
+         • Participate in technical interchange discussions with customers, partners and vendors 
+         • Develop baseline analyses infrastructure requirements, demand and total costs associated with networks, servers, storage and applications 
+         • Perform analysis of solution designs against the technical requirements ensuring continuity of operations

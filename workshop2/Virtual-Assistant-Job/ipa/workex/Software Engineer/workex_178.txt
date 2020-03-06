@@ -1,0 +1,3 @@
+• Design and develop a core banking, customer onboarding application to quickly onboard customers and to eliminate manual form entry operation load by 90% for the internal staffs. 
+         • Come up with ideas on how to do things differently and better. Create a Java/JavaScript based component to reduce code rewriting and to improve the code re-usability to 75%. 
+         • Provide technical support for the testing team to resolve test defects in all phases of testing like Functional Testing, System Testing, UAT and also provide support to deployments and other post-production issues.

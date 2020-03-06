@@ -1,0 +1,41 @@
+Canon Information Technologies Philippines, Inc. (CI-TECH) is a member of the Canon group and is Canon's largest overseas Research & 
+         Development (R&D) subsidiary outside Japan. 
+          
+         Project: Dashboard 
+         ● Developed the front-end and back-end of an intelligent web-based system that analyzes and monitors progress of the company's projects using 
+         data from server and projects output. 
+         ● Technologies: (Python, Django, JavaScript, HTML5, CSS, MySQL, SQLite, Eclipse) 
+         Project: Test Automation Device 
+         ● Developed the front-end and backend of an automation device for GUI Testing (highly-confidential project of Canon, cannot 
+         be discussed further). 
+         ● Technologies: (HTML, CSS, JavaScript, C, CGI, Arduino YUN, Raspberry PI, Eclipse, Linux) 
+         Project: Printer driver 
+         ● Added features and functionalities for the Windows 8 and Windows 10 Canon printer driver versions. Also performed 
+         debugging of the existing printer driver source code. 
+         ● Technologies: (C++, Visual Studio) 
+         Project: Printer Controller 
+         ● Added features and functionalities for the Canon printer controller (embedded system). Also performed debugging of the existing printer controller source code. 
+         ● Technologies: (C, C++, Linux, Ensim, VMT, PTW) 
+         Project: Automation tools 
+         ● Created three automation tools to ease printer driver development. 
+         ● Technologies: (C#, Visual Studio)Canon Information Technologies Philippines, Inc. (CI-TECH) is a member of the Canon group and is Canon's largest overseas Research & 
+         Development (R&D) subsidiary outside Japan. 
+          
+         Project: Dashboard 
+         ● Developed the front-end and back-end of an intelligent web-based system that analyzes and monitors progress of the company's projects using 
+         data from server and projects output. 
+         ● Technologies: (Python, Django, JavaScript, HTML5, CSS, MySQL, SQLite, Eclipse) 
+         Project: Test Automation Device 
+         ● Developed the front-end and backend of an automation device for GUI Testing (highly-confidential project of Canon, cannot 
+         be discussed further). 
+         ● Technologies: (HTML, CSS, JavaScript, C, CGI, Arduino YUN, Raspberry PI, Eclipse, Linux) 
+         Project: Printer driver 
+         ● Added features and functionalities for the Windows 8 and Windows 10 Canon printer driver versions. Also performed 
+         debugging of the existing printer driver source code. 
+         ● Technologies: (C++, Visual Studio) 
+         Project: Printer Controller 
+         ● Added features and functionalities for the Canon printer controller (embedded system). Also performed debugging of the existing printer controller source code. 
+         ● Technologies: (C, C++, Linux, Ensim, VMT, PTW) 
+         Project: Automation tools 
+         ● Created three automation tools to ease printer driver development. 
+         ● Technologies: (C#, Visual Studio)

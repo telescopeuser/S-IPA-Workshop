@@ -1,0 +1,14 @@
+·      Review, Design and implement the server and network infrastructure for the company.  
+         ·      Implement and maintain the VDI infrastructure and a number of third party applications that is used round the clock by the company.  
+         ·      Implement and maintain the Lync, VOIP and Fax solutions using SIP and T.38 protocols.  
+         ·      Lead and manage the Helpdesk and Network team in Singapore, US and Thailand to manage day-to-day operations.  
+         ·      Work closely with vendors to negotiate and prepare contracts for supply of hardware, software, services and maintenance.  
+         ·      Recommend and implement new infrastructure solutions which provide business value to the Company's business users. 
+         ·      Prepare and lead the roll-out plans for upgrades.  
+         ·      Establish a continuous improvement program to enhance the quality of support.  
+         ·      Accountable for the preparation and continuous update of service and systems specification documentation and procedures.  
+         ·      Develop and maintain clear information security policy that balances the need to reduce business risk without constraining business effectiveness.  
+         ·      Define and recommend IT policies for approval by the General Manager.  
+         ·      Appointed the Director for the Singapore office to represent the Singapore office to deal with the banks, auditors and all the government agencies thus is familiar with the different processes and regulations.  
+         ·      Using Veeam and making sure backup is always working properly.  
+         ·      Ensure that correct licensing are in place.

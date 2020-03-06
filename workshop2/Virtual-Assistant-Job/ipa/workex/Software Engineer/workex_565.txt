@@ -1,0 +1,6 @@
+• Documented domain use cases for banking operations for First-e Internet Bank. 
+         • Involved in vendor selection process for new business start up in Australia; Successful deliverables in 1 
+         month. 
+         • Created test cases and test 
+         data for Internet banking solution using Mercury Interactive Test Director 
+         • Managed the development of a web-based application, Lead Management System using ASP; consisting of teams of marketing executives, customer service officer and outsourced developers.

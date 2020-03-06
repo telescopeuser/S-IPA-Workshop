@@ -1,0 +1,41 @@
+Key Highlights: 
+         Working on Navotar (version 2.0) - Navotar is a Car rental software is a cloud-based 
+         solution that helps manage day to day rental activities, customers, vehicle as financials as easy as possible. 
+          
+         Technology used for application: 
+         • C#(MVC4 - • SQL • JQuery • HTML5/CSS with ASP.NET) 
+         • VOIP • Email • Open Cart • SQL Server 
+         Gateway API Report Service 
+         Functions solely worked on: 
+         o Document Management 
+         o Credit Note creation 
+         o Email SMTP management 
+         o Azure Integration 
+          
+         Working on Pulse CRM - Pulse CRM is an economical and easy to use cloud-based 
+         auto dealership customer management and sales solution designed for managing 
+         incoming leads in the vehicle leasing business. 
+         Technology used for application: 
+         • C#(MVC4 - • SQL • JQuery • HTML5/CSS with ASP.NET) 
+         • Azure 
+          
+         Functions solely worked on: 
+          
+         o Automated Email Service for Reminders 
+         o VOIP Supported calls and SMS 
+         o Email Campaign Engine 
+         o HTML editor 
+         o Custom Form with Angular 
+          
+         Working on Insight - Insight is a cloud-based application for dealers looking into improve 
+         sales & service department efficiency with a customized CRM and management 
+         solution. 
+          
+         Technology used for application: 
+          
+         • C#(MVC4 - with • JQuery • CSS 
+         ASP.NET) 
+          
+         Functions solely worked on: 
+         o Responsive UI supported for both mobile and Web 
+         o jQuery inline Editing Support

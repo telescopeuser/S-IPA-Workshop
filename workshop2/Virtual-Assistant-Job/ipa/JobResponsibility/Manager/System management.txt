@@ -1,0 +1,8 @@
+Proficiently manage the AWS Cloud infrastructure
+Efficient in provisioning on-cloud and on-prem servers
+Ensure the system architecture is built in an efficient and robust manner towards a high level of maintainability, reliability, scalability and availability
+Ensure all infrastructure systems are closely monitored and backed up
+Work closely with security team and development team to apply security patches as needed
+Daily support of office infrastructure, provisioning of laptops for end users
+Write and maintain systems documentation
+Work with partners and vendors to fulfill project requirements

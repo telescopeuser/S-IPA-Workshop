@@ -1,0 +1,6 @@
+ ERP (Enterprise Resource Planning) system setup with MSSQL (system redundancy and high-availability) 
+          MTBF (Mean Time between Failure) practice 
+          Performed administration activities, create, assigned roles, access and privileges 
+          Reduced email spam 80% using a real-time block list for incoming emails 
+          Redhat server helpdesk ticketing system implementation and setup to maintain application high-availability with mySQL with firewall on Redhat 
+          Mcafee ePolicy Orchestrator server setup and management with MSSQL, managing Mcafee agent, virus-scan enterprise, global deployment

@@ -1,0 +1,8 @@
+Work with our clients to model their data landscape, obtain data extracts and define secure data exchange approaches
+Acquire, ingest, and process data from multiple sources and systems into Big Data platforms
+Understanding, assessing and mapping the data landscape.
+Maintaining our Information Security standards on the engagement.
+Collaborate with our data scientists to map data fields to hypotheses and curate, wrangle, and prepare data for use in their advanced analytical models.
+Defining the technology stack to be provisioned by our infrastructure team.
+Building modular pipeline to construct features and modelling tables.
+Use new and creative techniques to deliver impact for our clients as well as internal R&D projects.

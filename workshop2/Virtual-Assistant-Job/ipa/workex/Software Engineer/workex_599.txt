@@ -1,0 +1,6 @@
+• Helped build a 3 member 
+         data science team from scratch and managed them 
+         • Conducted A/B testing on key product metrics and provided actionable insights to product managers 
+         • Developed various analytics models on web scraped text, e.g. Association Rule mining, Clustering/segmentation, 
+         Fuzzy Name Matching, TF-IDF, Named Entity Recognition (NER), n-grams and various Natural Language 
+         Processing (NLP) techniques to validate the accuracy of triangulated CRM content

@@ -1,0 +1,25 @@
+Project Name: Service Report (PepsiCo BI) 
+         Project Description: Service Report Gathering 
+         Data from Different Department Using one of the application this 
+         data will come from other sources and comes into SQL Server. This 
+         data have the performance for different Location all the Server it will refresh Every 8 hours daily after that Tableau Server Extract will also refresh every 8 Hours and management will see real time server performance. 
+         Responsibilities: • Gathered Business Requirements by interacting with Business Users, Project Manager and SMEs. 
+         • Analyzed metric dashboard reports and identified the formulas and functionality of the dashboard reports and digitizing the metric dashboards to Tableau application. 
+         • Created Tableau scorecards, dashboards using stack bars, bar graphs, scattered plots, geographical maps, Gantt charts using show me functionality. 
+         • Used 
+         Data Blending, groups, combine fields, calculated fields, and aggregated fields and spotlighting to compare and analyze 
+         data in different perspectives. 
+         • Implemented security in reports according to employee groups and roles according to the requirement and was involved in deployment process. 
+         • Used ETL to populate the 
+         data mart from large flat files and relational databases. 
+         • Developing BI applications for 
+         data analysis, optimized for the best performance and scalability requirements using Tableau. 
+         • Work with Service Manager to make a plan for custom report projects and managing clients, prospects and partners to deliver high quality BI solutions • Design these custom reports, both from back end and front end. 
+         • Organize the capitalization of best practices and methods for improving efficiency and productivity of Operation activities. 
+         • Responsible for end to end execution of projects. 
+         • Preparing Daily, Weekly, Monthly Report and Dashboard. 
+         • Creating different type of Function, Procedure, Trigger, Cursor, package in the SQL and writing complex Query in the T-SQL. 
+         • Consolidation Macro-Many Excel files Consolidating Summary being prepared. 
+         • Dashboard Compilation-Different region compiled file and prepared their summary. 
+          
+         Environment: Tableau Desktop, Tableau Server, MS Excel, VBA, MS Access, SQL Server 2005

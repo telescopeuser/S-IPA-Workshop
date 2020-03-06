@@ -1,0 +1,6 @@
+Responsibilities: 
+         • Designing the student information SQL database. 
+         • Support in Managing and updating the database records. 
+         • Web-based development to represent updated 
+         data on the webpage's using HTML and JavaScript. 
+         • Teaching C++ language and assist in student projects.

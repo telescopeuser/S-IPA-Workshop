@@ -1,0 +1,40 @@
+My job is Software Project Manager ("SW-PCM", SW Project Component Manager) which is the leading role of the SW component in the projects for the product development I am contributing; In general I am managing the SW Project regarding on Specification / on Time / on Cost / on Quality (full SDLC). In average I have 15 developers, most in India but also Germany, China and Hungary. This role is based upon the previous role 'Software-Mentor' in the same department. 
+          
+         Accomplishments 
+         1. successfully managed the realization of a new MEMS-based sensing-concept (contained: implementation, V&V as well as product introduction; started earlier in 2019 under my control than this role officially assigned).  
+         2. creation of Hotfix-SW for preventing blocker in customers vehicle-production (contained: guidance of team through analysis-phase, customer discussion/conclusions, definition of introduction-scenario and approval of product by passing all required quality gates). 
+          
+         Responsibility 
+         1. Setup SW Project Structure according to SW project targets 
+         2. Manage SW Requirement from analysis to acceptance 
+         3. Plan and ensure delivery of SW work packages 
+         4. Control the SW Cost according to the SW Project Budget 
+         5. Ensure SW Quality and compliance with SW Development Process   
+         6. Inform SW project status and escalate for SW Project barriers 
+         7. Ensure achievement of the SW project targets 
+          
+         Authority 
+         1. Authority to approve SW Requirement 
+         2. Authority to determine SW Project Planning 
+         3. Authority to apply for SW Project Budget 
+         4. Authority to approve SW Quality Ensurance measures 
+         5. Authority to approve SW Process Compliance measures 
+         6. Authority to approve activities for SW technical topics 
+          
+         Knowledge and skills 
+         1. Scope Management ( e.g Requirement Development, Work package Breakdown ) 
+         2. Change Management (e.g CCB process, Change Request -> Story -> Task ) 
+         3. Configuration Management (e.g Tool configuration, Document Control) 
+         4. Risk Management (e.g Risk Identification, Mitigation Action) 
+         5. Time Management (e.g Planning, Tracking and Estimating) 
+         6. Cost Management (e.g Cost Estimation, Budget Plan) 
+         7. Resource Management (e.g Virtual Team, Conflict Management) 
+         8. Communication Management (e.g SW PRC L4, Customer Communication) 
+         9. Quality Management ( e.g 8D, Defect Management, QG Process) 
+         10. SW Development Process 
+         11. Tools Knowledge (e.g Doors, MKS, MCR, ALM, QAT, ILM, Jenkins) 
+         12. Overview of AB12 SW, Algo, Plant Process, Safety Concept, Cyber Security 
+         13. Knowledge of ASPICE (e.g MAN.3) 
+          
+         URL 
+         www.bosch.com => Business Unit: Passive-Safety => Airbag

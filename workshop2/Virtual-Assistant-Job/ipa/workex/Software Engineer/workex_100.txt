@@ -1,0 +1,8 @@
+- Singapore 
+         • Project management on a document management system with workflow, supported by vendors 
+         • Project Management on an in-house project for alert monitoring system which extract logs and 
+         data analysis and generating alerts to the customers 
+         • Managing the deployment process of an integrated system running in a three tier architecture used by the users from different countries which includes the deployment in client, application and database platforms. 
+         • Managing the routine database migrations, database patches and 
+         data corrections on different databases to support multiple applications 
+         • Managing the interface process of multiple interfaces mapped with the integrated application system.

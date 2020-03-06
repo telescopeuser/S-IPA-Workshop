@@ -1,0 +1,10 @@
+Joined News International to support the business from a corporate level by creating in-house 
+         applications with emphasis in cloud technologies based on Google APIs. 
+         ● Member of an agile team which worked on a paywall, ie. share samples of articles to entice 
+         users to buy subscription to the business's offerings. 
+         ● Developed a Group and User provisioning tool which syncs LDAP to Google. 
+         ● Developed an employee directory that allows users to search profiles. 
+         ● Developed an admin control panel used to configure various settings. 
+         ● Developed a spreadsheet driven dashboard which displays 
+         data tables and graphs. 
+         ● Mentored graduates in Java & OOP.

@@ -1,0 +1,12 @@
+Project: 
+         Data Lake and 
+         Data Ingestion 
+         • Using Sqoop for Import/Export Unicode 
+         Data from and to HDFS and Teradata. 
+         • Loading Hive tables to Teradata layer to perform 
+         data check and reconciliation. 
+         • Created necessary commands for table schema creation, exiting and creating scripts / jobs and will be triggered at the Edge Node and Hadoop layer. 
+         • Configuring the Flume Agent for reading 
+         data from channel and written Interceptor code for flume agent in Java. 
+         • Developed Hive UDF function using XPath for parsing XML file for loading 
+         data into a Hive tables.

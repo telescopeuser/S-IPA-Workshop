@@ -1,0 +1,12 @@
+Key responsibilities: 
+         • Plan and integrate short and long-term technology options into overall IT roadmap of clients. 
+         • Lead Agile Development teams and processes in the software product development life-cycle, 
+         perform analysis, drive software architecture and design, development, and integration. 
+         • Ensure the architecture supports rapid application development and deployment, taking into account the differing evolution cycles of the applications being deployed. 
+         • Review Design and Code of the development team when required to ensure best practices and design excellence. 
+         • Participate in strategic planning and design sessions with Product Management, Engineering 
+         Management, Architects, and Operations. 
+         Major Achievements: 
+         1. As technical manager and architect for the project of digital transformation in GWC (Global Women 
+         Connect), led two software engineering teams in design, architecture, development, delivery and support of multiple SaaS applications spanning across functions of property management, utility 
+         management, spend management, facilities management, vendor management, accounting, asset

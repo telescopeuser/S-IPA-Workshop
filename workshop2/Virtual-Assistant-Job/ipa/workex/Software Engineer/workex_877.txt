@@ -1,0 +1,28 @@
+- 
+         Reason For Leaving: Decided to pursue new technologies in 
+         Big 
+         Data startup to gain more exposure and hands on experience on technologies developed / used. DevOps 
+          
+         ● A pre-sale consultant role, involved in providing technical solutions with the product that is assigned as part of my portfolio. Handled 11 products / brand ranging from network, security and tele-conferencing solutions. 
+         ● Provide the technical consulting role for pre-engagements with Sales and Account Managers. The go to guy for quick references on technical advisories. 
+         ● Provide sizing to channel parts and liaise with vendors to bridge any communication gaps during pre-engagements and proof-of-concepts (POCs) 
+         ● Analyze infrastructure set-ups, provide risk assessments for end-users / clients / customers along with channel partners and vendors during engagement on large deployment projects. 
+         ● Provide technical presentation and in-depth comparisons with competitor products to upsell and support in closing pre-engagement deals. 
+         ● Work within various teams across the company to ensure smooth delivery of POCs. 
+         ● Understand new and upcoming technologies. 
+          
+         I was also involved in new product launches and pitch to various large clientele such as Capitaland in deploying WAN optimizers, providing in-depth technical consultations to their infrastructure, POC and involved in their first phase staging / live before rolling onto mass deployment for the organization. Gaining recognition with my team for technically competent and go to guy in terms of infrastructure deployments. - Product: Silver Peak 
+          
+         Another project that I was involved was to pitch in sales for tele-conferencing solution with cloud capabilities and integrations across organization structures / branches. Involved in pre-engagement with Account Director (Ingram Micro) to deploy tele-conferencing across multiple Church across Singapore and overseas. - Product: Polycom 
+          
+         Products in my portfolio: 
+         - Juniper Networks (From Switches to Firewalls / VPNs) 
+         - Arbor Networks (DDOS Prevention Technologie / Device) 
+         - HP Networks (Switches from mid to large scale / Wireless / Secure Access) 
+         - Silver Peak (WAN Optimizers device / software) 
+         - McAfee Solutions (SME to Large enterprise security solutions - A/V, IPS, IDS) 
+         - Palo Alto Networks (New technology firewalls - IDS / IPS / FW) 
+         - Polycom (Video conferencing solutions from hardwares to softwares integrations such as MS Lync) 
+         - Cisco Networks (as backup to main pre-sale consultant in Wireless / FW / SW solutions) 
+          
+         Certified / Taken online exams in Juniper and Arbor Network products in technical hands-on, implantations and pre-sales (necessary for POCs)

@@ -1,0 +1,7 @@
+The Data Scientist analyses data through application of scientific methods and data-discovery tools.
+He/ She integrates and prepares large and varied datasets, and models complex business problems.
+He/ She discovers business insights and identifies opportunities using statistical, algorithmic, mining and visualization techniques.
+He/ She assists with architecting specialized database and computing environments, developing methodologies, performing analysis, summarizing results and developing conclusions.
+He/ She possesses a combination of analytic, machine learning, data mining and statistical skills as well as experience with algorithms and coding.
+He/ She has a deep passion for analyzing and resolving complex business problems.
+He/ She displays an intellectual curiosity about the business needs as well as the capability to engage with stakeholders to understand business issues.

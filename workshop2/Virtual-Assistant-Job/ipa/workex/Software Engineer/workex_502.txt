@@ -1,0 +1,7 @@
+2. As project architect in the optimization project of the eCommerce platform in Yum!, analyzed the existing business process, database and architecture, applied memory database Redis and code 
+         refactoring to improve existing system performance for supporting millions of user. (2017) 
+         3. As project architect, led a team to design and implement a reporting system for 
+         data extract, 
+         cleaning, transform and 
+         data analytics using spring boot, spring bean validation, eChart and microservice, and provided a solution of p2p insurance platform based blockchain and 
+         microservice, in order to improve the Critical Illness Insurance System to support the business

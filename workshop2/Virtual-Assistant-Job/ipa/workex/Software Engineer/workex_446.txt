@@ -1,0 +1,16 @@
+Project: 
+         Data Lake and Machine Learning Use Case 
+         • Designing and developing 
+         data pipeline for loading 
+         data in Azure cloud and on-premise infra. 
+         • Deploying Machine learning model and Dashboards in Azure cloud. 
+         • Loading source 
+         data files into an Azure 
+         data lake and DSVM and make available for 
+         data scientist. 
+         • Deploying developed R Machine learning model for customer using Shiny. 
+         • Developing dashboards in Flask Python for Machine learning models. 
+         • Contribution on developing 
+         Data profiling dashboard using Power BI. 
+         • Contribution on Machine learning model development use case using R and Python. 
+         • Monitoring, and administering Hadoop clusters and Jobs.

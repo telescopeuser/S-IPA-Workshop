@@ -1,0 +1,3 @@
+Build data pipelines to aid our data scientists or product managers in fraud discovery and intelligence.
+Create data-stores to handle real-time streaming of petabytes of data as an input for training & testing of machine learning models.
+Create deployment framework which enables real time retrieval as a source of input for production, re-evaluation of machine learning models.

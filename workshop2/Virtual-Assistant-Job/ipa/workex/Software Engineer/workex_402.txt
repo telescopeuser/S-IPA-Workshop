@@ -1,0 +1,22 @@
+SINGAPORE 
+         A recruitment, manpower outsourcing and talent management service provider in Singapore, providing staffing solutions to organizations in Singapore, Malaysia, Thailand and the Asia Pacific region 
+          
+         MAR 2003 - DEC 2004 
+         • Outsourced to National Computer System and was posted to Ministry of Trade and Industry as an UNIX administrator. 
+         • Provide first level hardware/software support for UNIX servers. 
+         • Perform daily system administration for UNIX servers such as file system house-keeping. 
+         • Provide backup/restore solution for UNIX and NT servers. 
+         • Critical system patching for servers. 
+          
+         SUPPORT 
+         ENGINEER, SCO SYSTEMS - SYSTEMS SERVICES DIVISION 
+         DEFENCE SCIENCE & TECHNOLOGY AGENCY (DSTA), SINGAPORE 
+         A statutory board under the Ministry of Defence of the Singapore Government, responsible for performing acquisitions management, systems management, systems development for the Singapore Ministry of Defence and the Singapore Armed Forces. 
+          
+         FEB 1998 - FEB 2002 
+         • Support several critical database and application servers in MINDEF logistics environment specializing in reliability and availability services 
+         • Provide 1st level support for system hardware and software processing and configuring user access accounts and rights. 
+         • Review and perform appropriate system patches and conduct the system housekeeping functions and capacity review to ensure optimal performance servers. 
+         • Responsible for backup and recovery task, attend to all backup problems encountered by the system operators. 
+         • Maintain records of system configuration details for each system 
+         • Departmental web master: Designed and implemented a web-based floor plan visual to help manage space allocation of computer center.

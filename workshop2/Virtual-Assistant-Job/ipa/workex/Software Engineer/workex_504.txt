@@ -1,0 +1,5 @@
+and Enterprise Integration. (2015-2016) 
+         6. Participated as technical lead in implementation of the enterprise virtualization project of Nike 
+         Tech, cooperating with various business teams of Nike, and the DBA team in India to migrate the current business apps to Windows Virtualization Platform. This project migrated the Nike's 
+         subsystems for Product Planning, Purchasing, CRM, Sales, Marketing, Finance, HR etc. onto cloud 
+         platform. Technologies utilized were J2EE, .Net, IIS, Tomcat, Cognos, Tableau, OLAP, SQL Server

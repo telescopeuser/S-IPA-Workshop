@@ -1,0 +1,5 @@
+Required to collate monthly reports into a single master file, clean database and classification when required in a context 
+         ● Required to create dashboards using Tableau, perform 
+         Data Mining and text analytics on customers' feedback 
+         ● Identify areas for improvement on cases that did not meet service standards and minimise wrongly referred cases 
+         ● Required to perform other ad-hoc duties such as helping in special company events and covering other officer's duties when on leave

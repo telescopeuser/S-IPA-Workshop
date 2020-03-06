@@ -1,0 +1,7 @@
+Oversee multiple projects across all phases of development and deliver applications based on J2EE and PHP5. 
+         + Adopt/Integrate Amazon EC2 cloud services, create Linux based cloud hosting to deploy web applications. 
+         + Act as a channel to clearly understand and document the business requirement by interacting with clients and business users. Convert business to functional requirements and delegate to the team to deliver the modules. 
+         + Develop core modules, iterate development based on continuous feedback from the customers. Provide 
+         technical guidance, support, and organize learning sessions to the junior developers and other team members. 
+         + Manage and mentor an offshore development team of 5 developers and involve in the process of reviewing 
+         their performance and development.

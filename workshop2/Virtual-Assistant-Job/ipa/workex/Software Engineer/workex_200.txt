@@ -1,0 +1,38 @@
+Projects: Dragon Project mobile game for iPhone and iPad 
+         https://gogame.net/dragonproject/ 
+         The "strategy-based multiplayer role-playing game" published by Go Game. TOP-50 
+         Games in ASEAN on official Stores. Created versions for custom Android App stores in cooperation with Razer, Aptoide and Telkomsel. 
+          
+         goWrap Software Development Kit 
+         Special wrapper which helps developers to accelerate app publishing by integrating 
+         only one SDK instead of the full set of popular solutions. 
+          
+         goPay payment Software Development Kit 
+         Payment SDK which combines all payment abilities from all countries. Helps to monetize Android application in regions with low bank card peneteration. 
+          
+         NoahPass Software Development Kit (global service) 
+         https://noahpass.jp/ 
+         Cross-promotional network for mobile games created by SEGA. Provided by SEGA 
+         Networks in Japan and by Go Game in the rest of the world. 
+          
+         Responsibilities: Manage a team of Core Tech developers to service, maintain and operate Go 
+         Game's business-to-business features 
+         Develop and maintain products road maps 
+         Measure delivery against business requirements 
+         Validate and/or create project budget 
+         Set and manage user or customer expectations throughout the project life cycle 
+         Ensure project delivery using both Agile and Waterfall methodologies 
+         Understand business partners and how to engage the broader community for common goals 
+         Manage and influence on and off-shore development (4 countries) with integration, and quality assurance teams 
+          
+         Achievements: Created a chat bot to handle a mass of initial requests to users support 
+         Expanded and improved a set of payment gateways and channels 
+         Designed long-term road map of services updates 
+         Introduced previously closed internal services for external partners 
+         Collected 
+         big 
+         data and sorted for analytics dashboard 
+          
+         Key skills: Product Management, Business Analysis, End to End Program Management, 
+         Project Management, Business Development, Software architecture, Internet 
+         Marketing, Business Presentations

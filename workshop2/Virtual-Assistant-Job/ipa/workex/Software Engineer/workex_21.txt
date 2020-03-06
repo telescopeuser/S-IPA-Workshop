@@ -1,0 +1,19 @@
+Duties Include: 
+         • Setup and Configure New 7-11 Stores ISP/ Local SAS /HQ SAS System. 
+         • Rebuild Configure New 7-11 SATA POS System. 
+         • Buy New 7-11 Stores Products File. 
+         • Planning and arrange for Store Manager to do Ordering for New 7-11 Opening. 
+         • Planning of New Rollout ADSL Line for exsisting 7-11 Store from ISDN to ADSL Line 
+         • Assign new IP Addresses for New 7-11 Store to use when Opening. 
+         • Troubleshoot 7-11 IDE POS System. 
+         • Repair Faulty ISP/Local SAS/ POS/ HHT 
+         • Implement and Testing New SATA POS System. 
+         • Implement and Testing New SAS Server. 
+         • Implement and Testing New HQ SAS for SAS System. 
+         • Store Visits to 7-11 Stores that have Problems. 
+         • Resolve 7-11 Stores Issues by Implemeting Solutions. 
+         • Troubleshoot and Testing Small Store Support Team Issues and New Rollout. 
+         • Troubleshoot and Testing IT Dept Systems. 
+         • Help out 
+         Big Store Support Team on Configure Cisco Catalyst 2900 Switch 
+         Reason for leaving: Not Suitable

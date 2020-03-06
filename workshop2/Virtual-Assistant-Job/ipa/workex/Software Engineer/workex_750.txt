@@ -1,0 +1,29 @@
+This role is the central know-how hotspot for the products software-component. All creation steps from kick-off, Rqmt-Engineering and V-Model process, architecture decisions, implementation, review, planning of Verification and Validation concepts and further technical quality topics are under my responsibility.  
+          
+         Achievements 
+         1. responsible for all critical customer communication about technical issues, which have impact on development or the continuously ongoing production.  
+         2. developed technical solutions for several critical (safety) and blocker (acceptance) defects 
+         3. prepared, hold and successfully concluded with customers on several quality topics to avoid a non-acceptance of the work-packages or product-deliveries 
+          
+         Responsibility 
+         1. the enforcement of required products quality by checking all pre-, intermediate- and final-artifacts of the software-creation process 
+         2. driving design decisions together with the team 
+         3. identification of know-lagging in the software-team and definition of sufficient remedials 
+         4. technical analysis of defects and estimation of risk-impacts when applicable 
+         5. calculating all technical risk by probability of occurrence and getting approval of risk-statements from all required stakeholders and higher-management 
+         6. reviewing all final/intermediate work-products on request of the team and give consulting when required 
+         7. introduce new technics or tools for driving constant improvement 
+          
+         Authority 
+         1. approve or block work-products after quality-inspection 
+         2. correction by final-review of all decisions done in the defect defect-management of the team 
+          
+         Knowledge and skills 
+         1. Software development for embedded systems in safety-critical applications (ISO 26262) 
+         2. C/C++ as handwritten and out of code-generator 
+         3. Software architecture and efficiency metrics for micro-controllers 
+         4. Greenhills compiler for Renesas 
+         5. ALM for SDLC // partwise usage of ClearCase 
+          
+         URL 
+         www.bosch.com => Business Unit: Passive-Safety => Airbag

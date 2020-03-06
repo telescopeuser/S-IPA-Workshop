@@ -1,0 +1,17 @@
+Hadoop - production support 
+         HCA (Human Capital Analytics) |DBS (Devops Bank Of Singapore), SG 
+         Lead Production support and maintenance of application (HCA), the ecosystem which were used to develop the application are Sqoop (loading hive tables), Spark-Python (for ETL) and tables creation are done in HQL (hive query language) and 
+         data stored in HDFS and other 
+         hadoop cluster interaction were done in Linux command and Linux scripting 
+          
+         ROLES AND RESPONSIBILITIES: 
+         Handling production issues with fundamental understanding of HDFS, Apache Hive, Sqoop, Spark 
+         Involved in Batch processing using Hadoop, 
+         Data Ingestion, Transformation and processing. 
+         Hands on experience in using HDFS, Hive, Sqoop. 
+         Supported SPARK applications which interact with the MySQL database using SPARK SQL 
+         Context and accessed HIVE tables using HIVE Context. 
+         Experienced in working with different file formats like Avro, Parquet, JSON, XML and ORC. 
+         Experience on handling HIVE queries using SPARK SQL/HiveQL that integrate with SPARK 
+         environment. 
+         Technologies: Hdfs, Hive, Sqoop, Unix, Mysql

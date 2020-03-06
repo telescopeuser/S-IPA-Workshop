@@ -1,0 +1,8 @@
+Design and code robust high-volume production iOS and/or Android mobile applications
+Design and code web tier and server application stack and deploy to cloud
+Hands on coding of the product/solution/features/framework and key components from scratch
+Collaborate with UI/UX Designer to prototype the user experience during the design phase quickly
+Work in an agile development environment which requires the individual to be self-driven, take decisions independently and be flexible in order to cater to demand
+Assist with build and deployment automation scripts
+Develop unit and integration tests using Java and JavaScript testing frameworks
+Contribute to design & overall solution and product architecture

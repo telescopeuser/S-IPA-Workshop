@@ -1,0 +1,6 @@
+Singapore 
+         Position: Software Analyst 
+         Technologies & Database: 
+         Data Sourcing, Web Services, Oracle, OutSystems, Linux, SAP Integration. 
+         Description: Confidential 
+         Responsibility: Module Lead, Requirement Gathering, Design Document, Coding, Build & Deployment.

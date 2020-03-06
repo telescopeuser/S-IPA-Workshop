@@ -1,0 +1,41 @@
+this was my first full-time job as graduated 
+         engineer: when having studied "Embedded Systems" (two third computer-science and one third electrical engineering) then it is usual to join the German automotive bubble because it is the most powerful industry. Silver Atena had at this point of time the charme to look inside the 
+         big vehicle-manufacturers into positions normally nobody can get directly. 
+          
+         In the hiring process I was told that my objective is to work in the pre-series development of Daimler (brands of the cars: Mercedes, FuSo, Smart, serveral invests in Chinese-brands as well as at this time Tesla). The position was in a research-driven environment for defining the industries future by implementing for purpose of feasibility studies as well as intellectual property right fighting. 
+          
+         I got assigned to lead-developer for a Pre-Series Emergency Braking function in heavy-trucks including the E/E concepts and the controller-modelling. My employer got the workpackage for the full project, so that other team-members (f.e. prototypes test-driver, hw-
+         engineer, ...) have been from this company too. 
+          
+         Highlights / Achievements 
+         1. Lead Developer for novel concept of automated emergency breaking system for ped protection with existing sensors => at the end of this phase I was in a consultancy role for technical issues in the Stuttgart-Facility for team-members and my management (sales, line-leadership). 
+         2. Simulink/TargetLink driven development with iterative controller-model testing in prototype-vehicle on test-tracks => all functional (behaviour, feeling for the driver, number of defects, testability) and non-functional targets (µC resources, conformity to development processes) have been fulfilled. 
+         3. Algorithm-Design for frugal Sensor 
+         Data-Fusion to extract reliable position and confidence information of obstacles => as this was a pre-series project, my Algo was used within a top-level management presentation to the Daimler leaders for driving the prototype and experience the functions reaction. 
+          
+         Responsibility 
+         1. as no requirements existing (concept-design-phase): discussion with customer experts as well as vehicle-prototypes test-driver how the look and feel of the function shall be 
+         2. definition for availability targets (non-technical) and safety-goals (technical) together with customers safety-managaer 
+         3. algorithm design and modelling the software-functions with Simulink 
+         4. Conversion from Mathworks 'Embedded Coder' to dSpace's TargetLink and performance-optimization of the SW-Autocode to fit into the desired µController (commercial feasibility evidence)  
+         5. Verification & Validation #1: testing it by re-simulation in SIL/HIL environment 
+         6. Verification & Validation #2: planning the DriveCases and setup for testing with the prototype-vehicle on proofing grounds (f.e. ATP Papenburg) 
+         7. discussion/clarification and interface design with other ECUs in the vehicle for E/E-integration (f.e. the braking-system) to intercate with the vehicle for the reaction-cascade 
+         8. stay always under attention for supporting internal sales if customer is thinking about new ideas and generating sales-ready descriptions for technical topics 
+         9. support of feeling/acceptance studies by the customer with their psychological department 
+          
+         Authority 
+         1. definition of feature-set planning over time (dfeature-hub as well as maturity-increases) and discussion/approval by customer 
+         2. local interface to customer for all topics (not only for the feature I was technically working on) of my employer (there have been four different contracts for whih I did the operational communication with the customer) 
+         3. technical part of the discussion for work-package approvals of all topics contracted between my employer and Daimler for the pre-series business-unit. 
+          
+         Knowledge and skills 
+         1. model-based software development with MatLab/Simulink (various toolboxes, inclduing Stateflow for intense usage of finite-state-machines or m-scripts in the Simulink-Model) 
+         2. V-Model processes and primary QA obligations, f.e. using model-checker MXAM already during the design-phase 
+         3. performance optimization with dSpace TargetLink for the final hardware 
+         4. CAN-Networking, End2End-Blackchannelling, AUTOSAR R3 (current ADAS ECU), R4 concpets (potential housing of the new function when market-introduction); intense Usage of Vectors CAN-Tooling like CANoe (with VN16xx); using CANlogs for interfacing the vehicles E/E-structure 
+         5. usage of dSpace ControlDesk NG during DriveCase repetitions for re-calibrating some of the functions parameters 
+          
+         URLs 
+         company: https://www.silver-atena.com/ 
+         see the product I took part in the development: https://www.youtube.com/watch?v=O1sOW3KDy7Q&feature=youtu.be&t=62

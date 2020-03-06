@@ -1,0 +1,11 @@
+Integration of SendGrid email API with the Navotar system. Creation of a 
+         dashboard and usage metrics for customer email service billing. 
+         Technology used: SendGrid API, ASP.NET MVC4, HTML5/CSS, JavaScript / jQuery 
+          
+         Navotar Chat Module (Jul, 2018) 
+         • Client specific custom development; creation of a specific chat room instance 
+         based on users and Navotar modules (Agreement, Reservation, Customer, etc.). 
+         Further functions also contain: multi user chatroom, tag users, create to-do tasks and real-time notifications. 
+         • Created as a light-weight back-end design with a single line for chatroom along with JSON object for messages. 
+         Technology used: SignalR, ASP.NET MVC4, SQL Server 2017, HTML5/CSS, JavaScript 
+         / jQuery, .NET Class Library Web API (REST).

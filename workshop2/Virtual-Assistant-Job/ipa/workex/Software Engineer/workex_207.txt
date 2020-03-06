@@ -1,0 +1,35 @@
+Projects: VR Interior Design Program 
+         https://www.youtube.com/watch?v=cZIh4bkn9Xg&feature=youtu.be 
+         HTC Vive app allows users to explore an apartment space that an interior design 
+         company has designed. 
+          
+         Environment simulation on Unity 
+         Simulation of multiple scenarios on Unity for 3D visualization of the floor area to be 
+         able to better plan for potential incidents and threats within indoor areas and buildings. 
+          
+         Marina Bay mobile game for iPhone and iPad 
+         https://itunes.apple.com/us/app/marina-bay-billionaire-clicker/id1441077932 
+         Clicker game for iOS App Store, created in memorium of Lee Kuan Yew. 
+          
+         Darkless mobile game (Unity based) 
+         https://www.darklessgame.com/ 
+         Casual game based on clicker and city-builder games genres, for self-publishing in custom Android App stores in ASEAN (in cooperation with Globe, Aptoide, Appota) 
+         Selected by IMDA agency for game accelerator program in PIXEL space. 
+         Selected by Google Indie Developers Accelerator program for Class 2019. 
+          
+         Responsibilities: Manage a team of developers and designers using Agile methodology 
+         Measure delivery against business requirements 
+         Validate and/or create project budget 
+         Prepare P&L statements for investors 
+         Set and manage user or customer expectations throughout the project life cycle 
+         Avoid or mitigate project risks 
+         Act as a link between the development and other project stakeholders 
+         Manage and influence on offshore development and quality assurance teams 
+          
+         Achievements: Delivered a dozen client projects and much more proof-of-concepts created 
+         Completed Marina Bay game development and published on AppStore 
+         Developed beta version of Darkless game, tested original gameplay 
+          
+         Key skills: Project Management, Product Management, Business Analysis, Game Design, 
+         End to End Program Management, Crisis Management, Business Development 
+         1

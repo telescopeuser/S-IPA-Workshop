@@ -1,0 +1,139 @@
+Sep 2006-Jun 2007 6 
+          
+         PROJECT DETAILS 
+          
+         Credit Agricole Singapore 
+         Cash Management System(Payment) 
+         Technologies Used: 
+         Java/j2ee, Apache Storm, ELK, HDFS, Hbase 2.1, Elastic Search, Apache Ignite, REST, Mocikito, Kafka, Hortonworks 2.6.5, Cocumber (BDD) 
+          
+         Tools Used: IntelliJi, Kafka tool , Callitrack, Kibana 
+          
+         Role: Senior Developer/TL 
+         Team Size: 10 
+         Project Description: Main aim of this project to provide full validation control of a payment files received from different system/Channels and generates anomalies/Business events to down streams based on the rules applied. Once successful, System generates the files and place into kafka topic for GPP/ACTICA and other pay engine system to process the payment. It's a critical/centralized system as part of Credit agricole's IT landscape which is responsible for payment processing and handle millions of transactions with high throughput received from different channels. It also uses the distributed cache management as part of check pointing and also helps in inter topology communication to increase the throughput. 
+         Responsibilities: 
+          
+         - Participated with Architectural Team and business Users to understand the requirement and provide solutions. 
+         - Development of various component like storm to kafka, storm to Apache ignite and elastic search integration development. Development of Various user stories across all layers in applications. 
+         - To make sure that Storm streaming processing millions of transaction within defined SLA and involve into fine tuning, parallelism of storm component and performance of the application. 
+         - Issue resolutions for various stages of project life stages from dev env to prod env. 
+         - Responsible to make sure that all ecosystems components are running fine like hbase, elastic search, storm, Apache and Kafka etc. Issues analyzation and implementation. 
+         - Defining solutions for new stories and presenting it to the team. Critical issue resolutions for productions. 
+         - Development of POC's for critical component for proper integration to different components like ELS, Hbase and apache ignite and various sizing issues based on the available cores and capacity of 
+         data nodes. 
+         - Taken Lead to design and implement the securities for all services across all layers in Storm , kafka apache ignite and hdfs etc.. 
+         - As a Lead I was Responsible to accomplish the Road Map prepared for the Project and providing day to day solutions to the concerned stakeholders. the way to achieve defined target on time. Closely worked with the Team to understand their concern and helping them to feel good for better result. 
+          
+         Client Name: Channel-4 (UK) 
+         Project Name: MINT 
+         Company Name: HCL Technologies 
+         Technologies Used: Java, Mule ESB, Mule API, REST, MicroServices, Docker, Swagger, RAML, JIRA, Fish Eye Mockito, Munit 
+          
+         Role: Lead/Solution Provider 
+         Team Size: 45 
+         Project Description: MINT is going to be a centralized application which will have the complete capabilities for online campaign management. It is digital transformation from its monolithic application to its new version with the help of Micro service architecture and Mule. Application handles all the life cycle of campaign from approval set up to Billing. 
+         Responsibilities: 
+          
+         - Design and development of Micro Services through Spring boot, Usage of Eureka for its discovery and making them deployable through Docker. 
+         - Participated with Architectural/Solution Team to design the seamless integration with the multiple system with the help of Micro services and Mule esb. 
+         - Defining and designing contract for various API/micro services through Swagger. 
+         - Involved in Orchestrating flow in Mule ESB. Also implemented Micro services and successful deployment to Docker. 
+         - Desinging API specification both for Micro services and MULE. 
+         - Responsible for carrying E2E accountability for the assigned sprint/Task to closure. 
+         - Involvement from design to development till deployment and making sure each component is development according to its defined time lines and contract with various systems. 
+         - Status reporting to various stakeholders for all the sprint activities and critical issues resolutions. 
+          
+         Client Name: Toll (Australia) 
+         Project Name: Toll Logistics 
+         Company Name: HCL Technologies 
+         Technologies Used: 
+         Java, Mule ESB, API Management, Cloud Hub, Amazon Web Service (AWS) Virtual Private Cloud (VPC). Elastic Search, Apache STORM, Hadoop, Pig, Splunk, SOAP, REST 
+          
+         Role: Developer/Solution Provider 
+         Team Size: 25 
+         Project Description: MyToll is a new online platform for Toll customers. It replaces a number of existing platforms and provides a single, digital way for customers to engage with Toll. MyToll will help to improve our customer's experience by connecting people with products in a seamless and consistent way. This release of MyToll addresses one of the most repeated and frequent aspects of the customer journey: the ability to monitor, or 'track and trace' shipments. 
+         Functionality available in the first release includes: 
+         • Search shipments 
+         • View shipment details 
+         •View freight details 
+         • View proof of delivery details 
+         • Receive notifications 
+         • Share shipment information 
+         • Edit user details and preference 
+          
+         Responsibilities: 
+         - Participated with Architectural/Solution Team to develop the Proof of concept in order to provide solution in Lambda Architecture. 
+         - Involved in implementation of Batch Layer through PIG and 
+         Data ingestion to HBASE on AWS EMR. 
+         - Involved in Orchestrating flow through Mule ESB and exposed various services through RAML and Other primitives. 
+         - Involved in Mule API development and exposed the same in Cloud Hub where the same can be consumed by the Life Ray client. 
+         - Involved in resolving issues, helping the team to resolve issue coming in MULE ESB and STORM. 
+         - Developed and provided solution in Apache Storm. Here the Storm has been used for the real time processing the feed. 
+         - Used Amazon Web services for Kinesis KPL and KCL to produce and consume 
+         data by the storm. 
+         - Implemented Realtime 
+         Data ingestion from Storm to Hbase and elastic search. 
+         - Also involved in Storm to be implemented in distributed environment and all supervisor, Nimbus, zookeeper etc. hosted on Amazon EC2 instances. Have been actively involved to maintain the connectivity among heterogeneous systems. 
+          
+         Client Name: Cater Pillar (USA) 
+         Project Names: Caterpillar(CAT) 
+         Company Name:HCL Technologies 
+         Technologies Used: Java/j2ee, Spring, Hibernate, SQL, WESB/ESB, WPS, WAS 
+         Tools Used: MyEclipse3.x, TOAD, CVS, IID 
+          
+         Role: APM 
+         Team Size: 11 
+         Project Description: Caterpillar (CAT) launched an initiative to accelerate deployment of its existing B2B ecommerce platform. This initiative is been managed by the eCommerce Acceleration program. To support this program, HCL has been engaged by CAT to assess the current state of its B2B eCommerce platform and develop an executable roadmap for the to-be state. The primary goal of the eCommerce Acceleration program includes focus on the migration of CAT's Part Store Web, a home-grown ecommerce application, to a next generation platform hosted by IBM WebSphere Commerce. In order to achieve Caterpillar goals of retiring PartStore Web, HCL proposes an e-Commerce Solution that. 
+         • Delivers all Part Store Web capabilities 
+         • Leverages an Integration and Services Orchestration layer that employs Service Oriented Architecture for loose coupling, service reusability, scalability and maintainability. 
+          
+         Responsibilities: 
+         - Participated with Architectural Team and business Users to understand the requirement and provide solutions as an Integration Designer. 
+         - Taken lead to study the existing code in spring, hibernate and prepared the detailed Requirement. As part of Initial step, prepared request and Response details to be orchestrated further in Enterprise Service Bus. 
+         - Lead from the front and developed a POC for Integration solution in Enterprise Service Bus and orchestrated flow using Rest as part of solution approach. 
+         - Designed and implemented the complex Flow for Payment Gateway services for West Pac, Cyber Source and Secure Pay payment providers. Designed and orchestrated services for the modules involved. 
+         - Taken Lead to design and implement the security for proposed services. 
+         - As a Lead I was Responsible to accomplish the Road Map prepared for the Project and remove any Technical challenges coming on the way to achieve target on time. Closely worked with the Team to understand their concern and helping them to feel good for better result. 
+          
+         Client Name: Agilent(USA) 
+         Project Names: HRIT PortFolio for Agilent 
+         Company Name:HCL Technologies 
+         Languages/Frameowrk: Java/j2ee, VelocityTemplate, SQL.PLSQL, Linux, WebLogic 9.1 Java Script, XSLT , IIB 
+         Tools Used: MyEclipse3.x, TOAD, SVN 
+          
+         Role: APM/Senior Technical Lead 
+         Team Size: 11 
+         Project Description: HRIT Track in the Agilent contains list of application which manages the whole HR transaction for all agilent and non aglilent workers.One of the main application MEIDAS which manages the day to day transaction for the employee is supported by SSO.This application deals with other legacy application for the company provided benefits like stock option etc. This application tightly integrated with multiple applications and talks each other through file based integration along with web services. As part of New approach Client planning to migrate applications to Middleware (IIB) for online communication. 
+         Responsibilities: 
+          
+         - Responsible for Overall support and development for smooth running of HR application. Acted as a Management cum Technical Architect. 
+          
+         - Involved in interaction with business users on a daily basis to provide regular updates both on both CR's development as well as jobs monitoring and handling.Also responsible to provide root cause analysis in case of failure of business critical flow. 
+         - Also involved with business Users to help them with the adhoc required business report creation and gathering the requirement across all HR business in Agilent. 
+          
+         - Involved in CR's prioritization, designing solution and development for the business problems and also possess deployment capability in weblogic clustered environment apart from development. Involved in end to end SDLC cycle for CR/PR/ER's handling. 
+         - Responsible to ensure that all web and reporting application are running fine with the best performance and involved with concerned stakeholders in case of failure. 
+         - Proposed and demonstrated/Implemented solutions in ESB using IIB to integrate legacy applications in Agilent Landscape both for offline and online communications. Pallets used were File, Web services, JMS etc. Transformation done using both ESQL and JCN. 
+          
+         Client Name: IKEA(SWEDEN) 
+         Project Names: OMS(Order Management System) 
+         Company Name:HCL Technologies 
+         Operating Software: Windows 2000 Prof 
+         Languages: Java, JSP, SQL, PL/SQL 
+         Databases: Oracle 8i 
+         Tools Used: MyEclipse3.1.2, Toad, RSM 
+         Framework Struts 1.2 
+         Role: Lead 
+         Engineer 
+         Team Size: 20 
+         Project Description: It is an Ikea's main centered application which interact more than 20 legacy systems on daily basis. The Order application provides you with one common order solution. You will have standard order routines and terms throughout the supply chain. The user will have flexibility and visibility for orders of all goods, including returns and handling materials from supplier to final destination. Through this order application the user will be able to quickly and efficiently reorganize orders. It will give you speed and accuracy with order creation and information about goods in transit. 
+         Responsibilities: 
+          
+         - Involved in interaction with the client, gathering the requirements and coding of modules, writing business logic, Modelling of the classes through RSM. Created Procedures, Functions and Triggers as a part of development activities. 
+         - Analyzing, Estimating and Implementing Problem Reports & Change Requests. 
+         - Involved in testing of the modules, before migrating to the staging and production environment. 
+         - Regular Monitoring of the Critical flow of the system and informing the concerned group to Rerun the jobs as per necessity. 
+         - Involved in Bug fixing and provided support to a 24*7 application by resolving Priority 1 tickets within stipulated time intervals. 
+         - Close the ticket after ensuring successful execution of batches or Priority 1 tickets. 
+         - Prepared the executable build and deployed in testing environment and also created Junit classes.

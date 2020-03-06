@@ -1,0 +1,26 @@
+IDC is a global provider of market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets. 
+          Role & Responsibilities:  
+          * Responsible for overall system design and implementation including database design schema design. 
+          * Maintenance of existing websites across Asia/Pacific and troubleshooting production issues.  
+          * Scheduled application backups and database dumps. 
+          * Reviewed SQL injection development policies. Re-designed intranet & corporate web applications. 
+          * Conducted in-house applications/module launch. Trainer for external software as Exact Target, Jira. 
+          * Maintain AWS hosting, Prepared status report on a weekly basis to present to the client. 
+          * Projects developed with .Net (ASP.Net, Clasic ASP ) / Java as the intermediate layer, MS Access /PostgreSQL/MS SQL as the back-tier along other front-end libraries (JavaScript, jQuery, Vaadin, Apache Poi). 
+          
+         WAM : 
+         A Web-based product, developed with ASP.Net-C# and PostgreSQL built to facilitate “Events and Marketing” team to manage the following events and marketing functionalities: 
+          * Handle customer 
+         data 
+          * Manage vendor 
+         data 
+          * Manage events & marketing 
+         data  
+          * Handle analyses reports 
+          * Provide Web API for mobile applications 
+          
+         KMAP :  
+         An application designed with classic ASP to support the global HR and marketing operations with HR functionalities like leave, travel and payroll management. 
+          
+         EPG (Event Proposal Generator) 
+         A web-based application designed with Java for IDC sales team to maintain their event, sponsorship, client, delivery, benefits details and generate well-structured proposals for the clients and provides different reports to track the booking details.

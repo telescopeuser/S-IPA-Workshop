@@ -1,0 +1,24 @@
+Singapore) 
+          
+         The following systems worked for MOM: 
+         EIDS: Employment Inspectorate Development System 
+         EP Online: Employment Pass 
+         FDW: Foreign Domestic Workers 
+         WSHC: Workplace Safety and Health Council 
+          
+         Roles & Responsibility: 
+          
+         ➢ Working close with business analyst and come up with class diagrams, flow diagram, code, development, Unit testing, SIT and UAT support. 
+         ➢ Developing UI components, business logic using Spring/Struts framework with Hibernate for EP Online. 
+         ➢ Developing batch job programs with java 1.5 using concurrent API and deploying MOM servers for EIDS and EP Modules. 
+         ➢ Worked on Weblogic JMS to process Employment Pass queue Request. 
+         ➢ Creating stateless EJB using EJB3.0 for EPOL. 
+         ➢ Creating webservice using JAX-RPC, apache.axis for MOM 
+         ➢ Creating ORACLE PL/SQL programming for Foreign Worker Address Systems (FWAS). 
+         ➢ Involved code impact analysis and effort estimation whenever user raise change request. 
+         ➢ SIT(System Integration Test), 
+         ➢ UAT (User Acceptance Test) case preparation and perform UAT at client side. 
+          
+         Technologies: 
+         Java 1.5, ORACLE 10g, PL/SQL, Hibernate, Struts Framework, webservices, axis, JAX-RPC, XML, Ant, Weblogic, Windows, Unix, logger Servlets/JSP, Filters, JavaScript, SQL-Developer, SVN, and Hyperion for reports. 
+         Design pattern: Singleton, Factory, Proxy, DAO and MVC

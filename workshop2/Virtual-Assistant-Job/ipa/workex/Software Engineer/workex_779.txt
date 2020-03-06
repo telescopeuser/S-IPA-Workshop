@@ -1,0 +1,11 @@
+Responsibilities include: 
+         • Reengineering of Common Business Services(CBS) - System study(existing application), analyzed the problem history, redesigned the user interface, enhanced to meet new business requirements, logging features, performance tuning, testing, deployment and production support. 
+         ◦ Development Activities - This comprises of the usage of the base MVC Java Framework, JSP, Servlets for the enhanced Coding Development of the existing.. Log4J for logging, using the JUnit for testing the completed Modules. LoadRunner for the Load Testing. Deployment of the Application in IBM WebLogic Server in UNIX/Windows. 
+         ◦ Support Activities - The functional process flow of the Application for better understanding of the Application. Basic trouble shooting and preliminary checks for the incidents. AIG and Monitoring Guide were created. Knowledge bank of the past incidents to enable easy problem identification. 
+         Accomplishments: 
+         • Improved Performance - Average Response Time (ART) improved by 50%. The numbers of incidents reported in production environment were reduced by 60%. 
+         • Stability - Re-engineered version of application reached stability in less than 4 months. A significant improvement in Mean Time to Failure (MTTF) and Mean time to repair (MTTR) was achieved so that the System availability was around 98%. 
+         • Enhanced Support - Provided the proper knowledge and understanding about the complete functional flow of the application. This increases the self-dependency of the Support team and reduces the turnaround time. Providing proper support tools and materials. Result: A very good support team was created with proper and effective handling of the incidents. 
+          
+         Technologies: 
+         • JAVA 3, Oracle 9.x,10.x, MVC Framework , JavaScript, HTML/CSS, JUnit, Servlets, JSP, IBM Web Sphere 6.x above

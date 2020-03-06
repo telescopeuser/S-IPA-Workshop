@@ -1,0 +1,5 @@
+A project for national service in partnership with the University Hospital of Patras, Greece. 
+         Achieved the development of a 3D visualization tool of the 
+         Radiotherapy treatment planning software ISIS, within an international team of French 
+         
+         engineers and Eastern Europe researchers in radiotherapy.

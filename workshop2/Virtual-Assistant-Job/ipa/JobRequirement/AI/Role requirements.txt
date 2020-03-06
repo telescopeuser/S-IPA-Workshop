@@ -1,0 +1,9 @@
+Bachelor / Masters in Physical sciences, Engineering, Statistics, Computer Science, or Data Sciences
+Relevant work experience applying data science concepts in a business environment
+Advanced knowledge of statistics utilizing statistical programming languages (R, Python, etc.)
+BI, Data Mining, Machine Learning experience
+Experienced in data management and building packages
+Experience with measuring and maintaining data quality
+Proficient in SQL
+Self driven, able to work independently yet acts as a team player
+Strong communication skills, willingness to learn and develop their ability to apply data science principles through a business lens

@@ -1,0 +1,31 @@
+Contractual 
+          
+         Projects 
+         Ø• UK _ANDES _ASM_EIP (GSDW ASM) 
+         GSDW system collects 
+         data from various feeds from within the Global Services systems 
+         (CLASSIC, BFG, ORION, EXPEDIO, CSS, OSI and many more) and processes it according to the needs of various customers and hence providing 
+         data to the customers for decision making process related to the line of business. The 
+         data is presented to customers via the mode of dashboard (web url), BO(Business Objects) and Oracle 
+         Business Intelligence(OBI). Additionally, GSDW provides processed 
+         data after various 
+         levels of Processing in ETL cycles to downstream systems like PPR, ADR and P&G. The 
+         availability and currency of the 
+         data in the GSDW is critical to the GS business 
+         community and BT's largest contract, Reuters 
+          
+         Role & Responsibilities: 
+         • Providing 24 * 7 support involving production amendments and scheduling changes to meet the Service level agreement as documented. 
+         • Involved actively in deployment of various releases and resolving the issues related to the delivery. 
+         • Creation of database objects like functions, triggers, tables, views, stored procedures, 
+         Packages, database links and synonyms according business requirements. 
+         • Providing access to new users according to their user groups. 
+         • Implementation of ETL solutions using oracle PL/SQL. 
+         • Involved in 
+         data base scripts for production environment. 
+         • Involved in performance and tuning of mappings and PL/SQL code. 
+         • Taking the Ownership of Service Requests & Resolved the Known Issues. 
+         • Helping the development team by providing production related information in the form 
+         Service Request. 
+         • Responding to customers by email, chat, and phone. 
+         • Replicate customer's environments to reproduce and troubleshoot customer issues

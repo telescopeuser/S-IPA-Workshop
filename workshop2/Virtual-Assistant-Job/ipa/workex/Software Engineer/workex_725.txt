@@ -1,0 +1,4 @@
+Nov'09-Jan'10 
+         • Tuned Yahoo 
+         Data warehouse of 250 TB and saved up to 80% processing time in many queries without adding any new resource. 
+         • RE-Design the whole ETL process with complete new logic incorporated Parallel Computing and Distributed Functionality.

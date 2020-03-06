@@ -1,0 +1,14 @@
+Supporting Weekly Prod / DR / DEV / UAT server patching's. 
+         ❖ Currently supporting OS by me Solaris / SUSE / RedHat Linux. 
+         ❖ Experience in Firmware update SUSE Linux via OS and PXE. 
+         ❖ Maintaining Veritas file system and so on. 
+         ❖ Disk replacement in VxVm. 
+         ❖ OS recovery if any issue happened after patching with the help of Flar back or REAR. 
+         ❖ Trouble shouting issue in Ok prompt. 
+         ❖ Doing latest Firmware upgrade in Solaris / SuSe Linux. 
+         ❖ Supporting hardware t-series, m-series, e-series and in linux Hp hardware. 
+         ❖ Trouble shouting in VCS related issues. 
+         ❖ OS rollback with flar backup if any issue happened in linux after patching. 
+         ❖ Creating LVM and applying file system in Aix and Linux. 
+         ❖ Working on file system issues , increasing file system in in Aix & Linux. 
+         ❖ Creating GCM for system Maintains activity.

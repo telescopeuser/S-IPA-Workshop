@@ -1,0 +1,5 @@
+Job Scope: 
+         • Responsible for implementation, deployment and administration on SQL Server, BI system and application server for multiple Microsoft international customers (Thailand-> Bumrungrad Hospital, Malaysia-> Assunta and Temerloh Hospital, Vietnam-> FV Hospital, Philippine-> AHI Hospital, Singapore-> Singapore General Hospital, Changyi General Hospital, KK Women's and Children's Hospital). 
+         • Participate in the architecture plan and DR plan of Amalga database system implementation. 
+         • Install and configure SQL database server and middle-tier, web server and service server. 
+         • Routine DBA works include database structure analysis and design, backup/restore, OLAP deployment, failover cluster, database mirroring, security management, DB server and APP server set up, database design and management, daily maintenance and troubleshooting work on both clustered production and test servers, automating management work, performance monitoring and optimization.

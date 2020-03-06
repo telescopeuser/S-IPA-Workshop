@@ -1,0 +1,13 @@
+India April 2007 - April 2010 
+          
+         Responsibilities: 
+         • Providing technical support to various Real Application Clusters / Dataguard/ Oracle Failsafe issues to gold/silver customers through Oracle Support/phone. 
+         • Specialized to handle severity 1 (mission critical, business loss situation) and escalated issues. 
+         • Subject matter expert (SME) for Dataguard and Failsafe. 
+         • Writing external/internal/limited access technical articles on RAC, Dataguard issues, RMAN, flashback, and corruption. 
+          
+         Projects Handled: 
+         Oracle Support for Real Application Clusters (RAC) 
+         Oracle Support for High Availability features 
+         Oracle Support for Backup and Recovery 
+         Oracle Support for Corruption

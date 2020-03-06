@@ -1,0 +1,3 @@
+and filed patent on it. 
+         • Worked with global team on SQL Server and Visual Studio integration project and contributed 
+         specifically on integrating SQL Server Intelligence into Visual Studio.

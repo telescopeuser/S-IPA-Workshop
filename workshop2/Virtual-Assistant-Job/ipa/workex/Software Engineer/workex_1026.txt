@@ -1,0 +1,4 @@
+* Experienced the full SCRUM process 
+         * Conducted regression testing for commissioning of system 
+         * Involved in the review of test cases 
+         * Participated in the conduct of UATs

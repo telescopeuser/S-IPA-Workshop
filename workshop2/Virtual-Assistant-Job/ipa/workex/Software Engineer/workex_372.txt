@@ -1,0 +1,19 @@
+Singapore August 2013 - Present 
+          
+         JP Morgan Chase is the leading and respected name in financial domain. I am currently working in the database Asia pacific team. As an SME for Oracle databases, for several line of business in the region and provide database solution to the new and existing applications. 
+          
+         Responsibilities: 
+         • Understand product roadmaps, product catalogue and various operational procedures, support application teams with specialized knowledge 
+         • Establish and maintain strong relationships with customers helping them to design, plan and implement solutions, working closely with other corresponding infrastructure streams to deliver the services in timely manner. 
+         • Working closely with the solution architects to recommend solutions related to database technologies for various applications. Be a vocal member of global database community and regional infrastructure teams to add value 
+         • Provide support to 1000+ production databases and handle critical performance issues. 
+         • Troubleshoot issues, providing quick resolutions and proactive measures to ensure zero business loss during production hours. 
+          
+         Projects Handled: 
+         SAN Migration: 
+         Worked and designed firm wide cost saving initiative to replace slow, expensive, and out of life SAN from database servers with new, cheaper, faster SAN. I created the process to do SAN Migrations for ASM and non-ASM database servers. I created the package in shell script to perform ASM migration and send periodic updates on the rebalance. I was leading the project from DBA side, I co-ordinated between database, UNIX, SAN and Project Management teams for this project. Completed SAN migration for 800+ database systems. 
+         ZDRLA Backups: 
+         The task involved installing standard scripts for the backup and configuring Oracle Database backup to ZDLRA (Oracle Zero 
+         Data Loss Recovery Appliance). After successful migration to ZDLRA, reclaim SAN allocated on the servers for backup. My role was to configure Oracle Database backup to ZDLRA. I created process and lead the team for SAN reclaim. Completed SAN reclaim on 600+ systems and reclaimed 10TB+ SAN from same, which saved approx. $10 Million for the firm. 
+         Expert Talks: 
+         Created and delivered expert talks on Oracle database to various teams in the firm, which were well received and apricated across APAC region. Mentored other members of DBA team to deliver more expert talks on Oracle and MS-SQL databases.

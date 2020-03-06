@@ -1,0 +1,49 @@
+                                 Data Analyst (Temp for 11 months)
+                  Vigilance & Compliance Branch, Health Products Regulation Group
+                  Location: Health Science Authority (11 Biopolis Way #11-01 Helios)
+                           Working Hours: Part-time (flexible arrangement)
+
+
+About Health Sciences Authority (HSA)
+
+At the Health Sciences Authority (HSA), we recognise the enormous challenge posed today by the
+biomedical sciences and the blurring of boundaries between healthcare products resulting from
+increasing convergence in the application of medical technology. It is right here in HSA, where we are
+uniquely equipped to meet this challenge. A statutory board formed on 1 April 2001, we play a vital
+role in supporting healthcare services and regulation, serving the administration of justice and
+enhancing safety in our community. We are responsible for the quality, safety and efficacy of
+medicines, medical devices, blood and its products and all health-related products available in
+Singapore. We provide a comprehensive regulatory service for the evaluation and marketing approval
+of all therapeutic products. We also provide scientific, investigative and analytical support for vital
+governmental functions such as forensic expertise for the courts, drug and criminal investigations and
+the regulation of food safety and industrial and environmental health.
+
+Job Description
+
+•   Interact closely with research project team which includes healthcare professionals, academics
+    and IT system vendor.
+
+•   Conceptualise, develop and integrate artificial intelligence algorithms from big healthcare data
+    sets that will be fed into various business programs.
+
+•   Build intuitive dashboards that help visualize and answer complex business problems.
+
+Requirements
+
+•   Undergraduate or degree holder, preferably in computer science, machine learning, information
+    technology, business analytics or related disciplines.
+
+•   At least 2 years’ experience with programming in Python.
+
+•   Good knowledge in R, Java, SQL, Stata, machine learning algorithms and/or natural language
+    processing will be an advantage.
+
+•   Development and implementation of machine learning algorithms, extract information from
+    websites, meta data management, data transformation, and data integration.
+
+    For applicant who is interested, please submit the resume to the hiring manager and information
+    as follows:
+
+         Name: Ms. Ang Pei San (Regulatory Consultant, Common Vigilance Branch)
+         ANG_Pei_San@hsa.gov.sg
+

@@ -1,0 +1,9 @@
+Singapore, Aug 2008 to April 2012 
+         Team Size: 6 ~ Platform Used: Oracle 10g (PL/SQL) and UNIX Shell Scripting, Business Objects, Java 
+         Responsibilities: 
+         ➢ Worked as Oracle Pl/Sql developer in the Financial Services and as Subject Matter Expert for Oracle Flexcube in Banking domain. 
+         ➢ Worked as Oracle Flexcube Consultant in Oracle Financial Services Software, having nearly 
+         6 years of experience in Oracle PL/SQL programming and Flexcube Universal Banking System. 
+         ➢ Well experienced in writing SQL Queries, stored procedures, function, cursors, triggers and PL/SQL 
+         Packages. 
+         ➢ Created database objects like tables, views, sequences, synonyms, indexes using PL SQL developer.

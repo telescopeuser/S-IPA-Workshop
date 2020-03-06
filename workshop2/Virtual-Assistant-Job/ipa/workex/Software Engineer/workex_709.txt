@@ -1,0 +1,23 @@
+Reporting directly to global CTO, manages a team of 10 supporting daily IT asset lifecycle management operations from procurement until e-Waste in the APAC region 
+         • Hands-on managed the IT supply chain technicians supporting end-user devices (Macintosh OS, Linux devices, PCs, iOS and Android tablets and mobile devices, including remote access points configuration and monitor deployments) 
+         • Worked and developed workflows and processes for IT Logistics technicians, helpdesk to improve the quality of service end-users 
+         • Consistently working with the team to continuously improve the processes, ticket management, services and end-user support through automation and tools 
+         • Keeping an eye on all the IT supply chain services by tracking, monitoring and reporting on daily IT operations ensuring all SLAs are met 
+         • Act as an escalation point for our team members, clients, our organization in an effort to get the resources and needs to fix issues for APAC 
+         • Possess a strong sense of urgency and ready to resolve important issues that require immediate action 
+         • Collaborates globally with logistics leads, clients and service owners to ensure global alignment with agreed best practices 
+         • Supervises and drives the completion of all local logistics activities as part of Milestone's managed service 
+         • Understands and is able to write programming languages in HTML, CSS, Javascript and Python 
+          
+         Core Services and Responsibilities: 
+         • Supporting our users / customers in Facebook, Inc (considered to be one of 
+         big four US MNC globally) in the APAC region 
+         • Mac OS Imaging using DEP (device enrollment program), bootstrap and Google Restor. PC Windows Imaging using bootdisk, iPXE netboot. Both utilizing Chef runbooks to fully provision laptops, desktops and tablets 
+         • Apple iOS and Android DEP using MDM (mobile device management) of Mobile Iron Cloud. Worked with Apple vendors to ensure that all devices are enrolled if not configured using Apple configurator 
+         • Deployment of Dell and LG monitors, Lenovo Thinkstations, Apple Mac Pro or Mac Mini. Ensuring requests are fulfilled in a timely manner, hardware deployed presentably and on neat cable ties 
+         • IT accessory replenishment of IVM (www.ivminc.com) vending machines on a daily basis encouraging user self-service. Planogram configuration as well as troubleshooting related issues till complete resolution 
+         • Support on managed print services of HP printers and "followme" configured MFD's 
+         • Shipping of IT assets within APAC region, in-between local offices and other global locations. Ensuring global trade operation policies are adhered 
+         • Team of order and fulfillment specialists ensuring procurement is done in reference to user demand and calculated based on the weekly consumptions 
+         • Overall IT asset life cycle process management - from IT procurement until end-of-life cycle / e-Waste. Ensuring certificate of 
+         data wipe are provided for ready to be donated equipment and environment friendly hard drive destructions are completed

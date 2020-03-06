@@ -1,0 +1,17 @@
+Title: Modeling of Transmission Case 
+         Software: Pro/
+         ENGINEER WILDFIRE 2.0 
+         Description: Transmission case for automobile truck contains set of gears for transmission. This project involved in 3D model of Transmission case from the 2D drawing given by the client. This model involved complex profile modeling using blend. Assembling and drafting for the Transmission case was done. 
+         Responsibilities: 3D solid modeling, Assembling, Detailing and Quality checking. 
+          
+         Title: Modeling of Engine Front Cover 
+         Software: Pro/
+         ENGINEER WILDFIRE 2.0 
+         Description: Engine front cover that covers the timing gears and belt located in the front surface of an automotive engine body. This project involved in 3D model of engine front cover from the 2D drawing given by the client and drafting was done. 
+         Responsibilities: 3D solid modeling, Detailing and Quality checking. 
+          
+         Title :  MODELING OF CLUTCH HOUSING 
+         Software :  Pro/
+         ENGINEER 2001  
+         Description: Clutch housing is bolted to the engine block and it covers flywheel and the clutch of the transmission. This project involved in 3D modeling of clutch housing from the the 2D drawing given by the client, and drafting was done. 
+         Responsibilities: 3D Modeling, Assembly, Drafting involved in Quality checking.

@@ -1,0 +1,9 @@
+Joined Infoshare, to work on the front-end of their Master 
+         Data Management product, with clients 
+         in both the private and public sector. Infoshare offers software that provides 
+         data cleansing, 
+         matching, de-duplication and a number of other processes. 
+         ● Developed and maintained of the client and its GWT based architecture. 
+         ● Worked closely with Analysts for the definition of new functionality. 
+         ● Produced documentation and coding guidelines according to best practices for other 
+         developers.

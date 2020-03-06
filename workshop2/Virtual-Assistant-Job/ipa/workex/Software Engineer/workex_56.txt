@@ -1,0 +1,14 @@
+Joined Leo Tech to work on a greenfield sport betting platform written in Groovy utilizing the Spring Boot framework. As one of the first 
+         engineers in the London office I played an integral part 
+         in building up the teams. 
+         ● Development of the sport betting platform, front-end and back-end. 
+         ● Designed development/git workflow. 
+          
+         ● Play the role of scrum master, facilitate scrum ceremonies, embrace and practice agile 
+         methodologies. Created a plan of retrospectives which improved chemistry and collaboration. 
+         ● Mentor 
+         engineers in the tech stack and lean practices. 
+         ● As a career coach I had regular meetings with other developers regarding their needs & career objectives, did performance reviews, signed-off timecards. 
+         ● Travelled to Singapore to develop a POC of a mobile voice activated app for a bank, written 
+         in Ionic2/Angular2. During this 2-month project I wore multiple hats, that of a product owner, 
+         scrum master and lead developer.

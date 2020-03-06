@@ -1,0 +1,7 @@
+Postgraduate degree in Statistics, Mathematics, Artificial Intelligence, Machine Learning or a related field.
+Minimum 4 years of working experience with AI, ML, Data Science or a related field
+Experience in applying machine learning techniques and designing algorithms that are scalable and production-grade.
+Working experience with analytical tools and languages such as Python scikit-learn, R, SAS ML or equivalents. Experience with Spark, H2O or other Hadoop based frameworks is a plus.
+Clear communicator, with the ability to articulate ideas with data.
+Experience with operating in a corporate environment and stakeholder management.
+Strong results driven personality with an innovative spirit.

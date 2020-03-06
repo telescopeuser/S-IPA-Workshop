@@ -1,0 +1,24 @@
+HYDERABAD 
+         Customer BB&T 
+         Period Jul 2015 - Apr 2016 
+         Description 
+         Release 3 implementation processes 850 source files which are coming from various sources like oracle/sql server databases, mainframe sources, and flat files with different delimiters. In staging area, we apply 
+         data cleansing, special characters elimination, 
+         data scrubbing rules, finally we load the 
+         data to HANA tables 
+          
+         Role Developer 
+         Environment Informatica9.1, Putty, SQLPlus, UnixShell Programming, HANA DB, Oracle 
+         Responsibilities 
+         • Get Requirements and 
+         Data standards from onshore team. 
+         • Extract 
+         data from several types of sources systems using Informatica Power Center, this includes different relational databases, Flat files. 
+         • Extract 
+         data from various sources systems and load to DLZ layer, 
+         Data Landing Layer 
+         • And then to SAP HANA database. 
+         • Perform Unit Testing 
+          
+         Project EResearch 
+         Data migration &Reporting

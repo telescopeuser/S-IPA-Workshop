@@ -1,0 +1,7 @@
+- Singapore 
+         • Working on Application development 
+         • Developing a new application to support business needs of the client. 
+         • Designing the application and database 
+         • Scripting the back-end procedures, functions, triggers for application and 
+         data patching. 
+         • Roll-out the customized application modules as per the requirements submitted by different Business units.

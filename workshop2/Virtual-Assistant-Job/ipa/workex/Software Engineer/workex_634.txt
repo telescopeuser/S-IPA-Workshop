@@ -1,0 +1,8 @@
+Singapore 
+         Project Equity Derivatives (Trade Capture & Processing) 
+         Designation AVP, IT Service Delivery 
+         Location Singapore 
+         • Managing Service Delivery of Front office and Back Office applications, including Equity and Derivatives Trade capture and Trade processing application. Responsibility includes liaising directly with front office traders and supporting the Client-Aligned Derivatives application in ensuring all designated functions and outstanding exceptions are performed in a timely manner. 
+         • Define and drive the onshore/near shore/offshore support model both within Asia Pacific and globally with regional peers. Work closely with development teams to determine strategy & priorities and to ensure team is meeting the business' requirements. Ensure team delivers on these priorities and communicated progress effectively to all stakeholders 
+         • Accountable for managing the complex interrelationships between internal teams and external Suppliers to ensure Technology Governance practices are understood, accepted, meet customer requirements and adhered to. 
+         • Responsible for minimizing reduction in the number of MIH (Incident Management). Prioritizing production incidents, requests and problems as needed, to maximize the output of the Production Support team. Identifying long term trends, prioritize RCA queues and working with product management to prioritize development effort for periodic releases.

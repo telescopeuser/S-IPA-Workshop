@@ -1,0 +1,6 @@
+Project TradeBlotter- Reconcilation & Trade Reporting Tool 
+         Client Deutsche Bank, New York, USA 
+          
+         Responsibilities 
+         • Experience of interacting with Traders/Hedge funds and their management for requirement gathering, support, and implementation of Business Solution. Interacting with trader's and development team to ensure business requirement are met accordingly. 
+         • Understanding requirements from the technology/business team at Deutsche Bank and co coordinating with development team for successful implementation in production environment through change req.

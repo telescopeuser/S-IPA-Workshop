@@ -1,0 +1,29 @@
+BANGALORE 
+         Customer Dell Inc. 
+         Period Jan 2014 to Oct 2014 
+         Description 
+         Dell Inc. and its subsidiaries engage in the design, development, manufacture, marketing, 
+         Sale and support of computer systems and services. Their business has SMARTS and GETPAID 
+         Systems.SMARTS system has been divided into Customers, Open-Orders, sales-rep and 
+         Invoices objects. GETPAID having the Collections object. 
+         Informatica 
+         Data Explorer is used for profiling the 
+         data of both systems. 
+          
+         Role Developer 
+         Environment Informatica Power center 9.1.1, Oracle 10g, Windows XP, UNIX 
+         Responsibilities 
+         • Understanding the Business Requirements and Develop an ETL process to load 
+         data from source to target. 
+         • Extensively used informatica power centre for loading the 
+         data from sources involving flat files to target as relational table. 
+         • Mainly involved in ETL developing to Extract, Transform and Load the 
+         data into stage area and 
+         data mart. 
+         • Extensively used different transformations like Source Qualifier, Expression, Lookup, Filter, Update Strategy, Router, Normalizer, and Sequence Generator to develop 
+         Data Mart from staging area. 
+         • Creation of sessions for mapping and validate the session. 
+         • Responsible for test case writing and testing. 
+         • Preparing Minutes of Meeting with Client. 
+          
+         Project CMS OPS (OPERATIONS)

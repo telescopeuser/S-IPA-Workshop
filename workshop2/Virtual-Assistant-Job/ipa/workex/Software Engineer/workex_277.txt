@@ -1,0 +1,39 @@
+Project Handled: 
+         Client: Prudential South East Asia Business Units 
+         Environment: AWS, Azure cloud provders, Docker, Kubernetes, openshift, jboss eap, apache tomcat & httpd, nginx, CICD bamboo/bitbucket/jira/git/Jenkins, apache kafka, puppet, ansible 
+         Description: Project involves in installing, configuring, monitoring and troubleshooting the problems related to the web applications 
+         Key Deliverables: 
+          
+         ✦ Migrated Onpremises web applications to Azure Cloud and AWS Cloud. 
+         ✦ Designed, Installed & configured applications hosted in web infrastructure in Cloud and Onprem 
+         ✦ Developing kubernetes and openshift code and pushing to artifactory 
+         ✦ Developing Docker images for wildfly, apache tomcat, nginx, apache httpd, jboss eap and other services eventally pushing them to internal docker artifactory Jfrog. 
+         ✦ Installed 9 node cluster setup with kafka 3 nodes, zookeeper 3 nodes, flink 3 nodes for live streaming application. 
+         ✦ Created CICD pipelines using bamboo and Jenkins for infra structure changes and application automation. 
+         ✦ Worked closely with application development teams to build Containers and middleware app services. 
+         ✦ To minimize the cost redesigned existing architecture and removed many unwanted services like apache replaced with F5 load balancer. 
+         ✦ Developed scripts for Web and app server infra related tasks. 
+         ✦ Lead a team to implement baseline for JBoss EAP, JBoss BPM, IBM Http web, Apache web. 
+         ✦ Automated middleware operations tasks for OS patching using shell script and Control-M. 
+         ✦ Implemented Jboss eap, IBM WAS, Apache tomcat projects both in AWS & Azure and on prem. 
+         ✦ Actively involved with digital transformation program using latest technologies. 
+         ✦ Automated all Jboss, Websphere, tomcat restarts & apache http restarts using shell scripting.Project Handled: 
+         Client: Prudential South East Asia Business Units 
+         Environment: AWS, Azure cloud provders, Docker, Kubernetes, openshift, jboss eap, apache tomcat & httpd, nginx, CICD bamboo/bitbucket/jira/git/Jenkins, apache kafka, puppet, ansible 
+         Description: Project involves in installing, configuring, monitoring and troubleshooting the problems related to the web applications 
+         Key Deliverables: 
+          
+         ✦ Migrated Onpremises web applications to Azure Cloud and AWS Cloud. 
+         ✦ Designed, Installed & configured applications hosted in web infrastructure in Cloud and Onprem 
+         ✦ Developing kubernetes and openshift code and pushing to artifactory 
+         ✦ Developing Docker images for wildfly, apache tomcat, nginx, apache httpd, jboss eap and other services eventally pushing them to internal docker artifactory Jfrog. 
+         ✦ Installed 9 node cluster setup with kafka 3 nodes, zookeeper 3 nodes, flink 3 nodes for live streaming application. 
+         ✦ Created CICD pipelines using bamboo and Jenkins for infra structure changes and application automation. 
+         ✦ Worked closely with application development teams to build Containers and middleware app services. 
+         ✦ To minimize the cost redesigned existing architecture and removed many unwanted services like apache replaced with F5 load balancer. 
+         ✦ Developed scripts for Web and app server infra related tasks. 
+         ✦ Lead a team to implement baseline for JBoss EAP, JBoss BPM, IBM Http web, Apache web. 
+         ✦ Automated middleware operations tasks for OS patching using shell script and Control-M. 
+         ✦ Implemented Jboss eap, IBM WAS, Apache tomcat projects both in AWS & Azure and on prem. 
+         ✦ Actively involved with digital transformation program using latest technologies. 
+         ✦ Automated all Jboss, Websphere, tomcat restarts & apache http restarts using shell scripting.

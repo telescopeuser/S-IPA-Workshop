@@ -1,0 +1,31 @@
+India, USA 
+          
+         ODS Consolidation 
+         • Worked on Requirement Analysis by studying AS-IS system to prepare SRS. Created ETL design document for Informatica for loading 
+         data to Teradata using Fast load, multi load, push down optimization, analyze existing Bteq scripts to prepare test cases for 
+         data validation. 
+         • Worked on creation of 
+         data quality plans using IDQ for de-duping, cleansing, parsing and helped team for training on Informatica, IDQ and working with client for defect triaging and UAT sign off. 
+         • Worked on creating 
+         data model using Erwin and maintaining for future changes. 
+          
+         EIM TechOps Project 
+         • Supported infrastructure for EIM instances, worked as Netezza architect to implement DR strategy, written scripts for automating DB backup, restore, reclaim, generate statistics, loading 
+         data to Netezza using Informatica PWX. 
+         • Worked with technology vendor team for Netezza for server configuration, hardware issues like SPU failures, Informatica team for IDQ and MDM setup, hot fixes/patch upgradation. 
+         • Developed IDQ mappings for 
+         data cleansing, done POC for MDM tool for managing metadata. 
+          
+         OneView GetWell StayWell Project 
+         • Worked on optimizing performance of DW system by restructuring of the huge TB database by table partitioning, reorganizing tablespace, DB parameters & proactively tuning long running BO reports & ETL jobs. 
+         • Automated manual activities done by Support team to ensure SLA & 
+         data accuracy, implemented monitoring/alerting mechanism for 
+         data quality issues. 
+         • Implemented DR strategy for Informatica OneView DW system, migrated Informatica application from 6.1 to 7.1 version. 
+          
+         Information Management (IM) Project 
+         • Developed Informatica mapping for ETL/ELT for 
+         data warehouse, performance tuning and 
+         data analysis using SQL queries. 
+         • Experience in monitoring, troubleshooting and analysis of production issues in liaising with cross functional teams and business users. 
+         • Worked on detailed designing and coding of the Business Objects reports using BO 5.x & enhancements in BO universes.

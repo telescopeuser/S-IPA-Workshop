@@ -1,0 +1,102 @@
+Project Handled: 
+         Client: YTL Communications, MOE 
+         Environment: Linux, JBOSS EAP, Jboss SOA, Active MQ, JON 3.2 , Graphite , Nagios , wildfly 8 
+         Description: Project involves in installing, configuring, monitoring and troubleshooting the problems related to the applications in websphere & Jboss app server environment 
+         Key Deliverables: 
+          
+         ✦ Installing and configuring & Administrating Jboss EAP in DEV, staging , production environments 
+         ✦ As part of project requirement Integrating external 
+         data base using Jboss SOA and jboss EAP 
+         ✦ Responsible to verify end to end infrastructure for critical care application 
+         • Jboss & Apache layer 
+         • Mysql Cpu , Memory , no. of connections, 
+         • Response time of the application , internal modules & reports 
+         • Network traffic and F5 load balancers status 
+         • Active mq in-queue & De-queue counts 
+         • Jboss Operational network stats to know the business usage in day 
+          
+         ✦ Automated all jboss restarts & apache restarts up on url's unavailability. 
+         ✦ Automated all hung & OOM issues. Up on these issues instances will restarts automatically 
+         ✦ Configuration in apache to find the number of concurrent connections on real time per minute. 
+         ✦ Implementation of graphite tool to get the real time graphs of usage of the application infrastructure like • VM's usage 
+         • DB usage 
+         • Jboss usage 
+         • Apache usage 
+         • DB table size 
+         • Concurrent connections count on all apache instances 
+         • Jboss instances free availability using cli scripts 
+          
+         ✦ Implementation of proactive , predictive , analytical tool with own shell script & using multiples tools 
+         As follows:- 
+          
+         Jboss/apache/db boxes scripts • Nagios • Graphite • output in terms of graphs 
+          
+         ✦ Migration Applications from EAP 5.2 to Wildfly 8 without involving developers influence 
+         ✦ Written shell scripts to jboss and apache instances logs to know reqular issues and will send mail to Team Mail 
+          
+         Hadoop Deliverables: - 
+         Hadoop 1.0:- 
+         Good Knowledge in, 
+          
+         ✦ Map reduce frame work and HDFS (Hadoop 1.0) 
+         ✦ Working functionality of Name node, job tracker, task tracker, 
+         data nodes 
+         ✦ Hadoop 1.0 cluster setups like Pseudo - distributed mode and fully distributed mode with 6+ 
+         data nodes. 
+         ✦ Adding and deleting nodes from the existing cluster. 
+         ✦ Have an in-depth knowledge in how Meta 
+         data stores in Name node and purpose of transaction log and types of meta 
+         data. 
+         ✦ Installation set up of Secondary name node in Hadoop cluster to house keep and act as a back up to existing name node in cluster. 
+         ✦ Good understanding of how replication happens & how to setup replication factors in case of any addition/removal of 
+         data nodes or in Hadoop. 
+         ✦ Job tracker and Task tracker works. 
+         ✦ Written automatic scripts to start-up of all demons when OS restarted. 
+         ✦ Have a good knowledge in monitoring the date nodes using web GUI using the name node , 
+         data node , job tracker , task trackers web GUI urls 
+         ✦ Have good understanding in planning Hadoop cluster. 
+         ◦ Hardware considerations 
+         ◦ cluster network configurations 
+         ◦ software considerations 
+         ◦ Hadoop distributions 
+         ◦ monitoring commands 
+         ◦ schedulers 
+         ◦ fifo schedulers 
+         ◦ fair schedulers and configuring fair scheduler's 
+         ✦ Good knowledge in how to take backups using Hadoop distcp 
+         ✦ Good knowledge in how to run name node in safe mode and repairing using Hadoop dfsadmin/fsck/recover commands 
+          
+         Hadoop 2.0: - 
+          
+         ✦ Good knowledge in problems with Hadoop 1.O 
+         ✦ Good understanding of Hadoop 2.0 new features and yarn framework 
+         ✦ Good knowledge in yarn concepts, like resource manager, applications master, containers, node manager. 
+         ✦ Good knowledge in cluster set up using Quoram general manager (qjm set up ) and how Clint requests works using this kind of setup 
+         ✦ Good Knowledge in Federation set up 
+          
+         Hue Administration 
+         ✦ Installed hue 3.6 and integrated with HDFS on existing environments 
+         ✦ Integrated Hive with Hue 
+         • Instigating hive Jobs from Hue console 
+         • Generating charts or graphs in hue console from the Hive jobs out put 
+         • Administration hive jobs from Hue console 
+          
+         ✦ Integrated Oozie to Hue 
+         ✦ Integrated Hbase to hue 
+         ✦ Integrated Zookeeper to hue 
+         ✦ Performed all HDFS file system operations through hue 
+         • Creating Folders & files 
+         • Removing files and folders 
+         • Changing permissions 
+         • Uploading and downloading files to HDFS 
+         • Zipping /tziping files from gue in HDFS 
+          
+         Ambari Administration:- 
+          
+         ✦ Created 6 VMS with and provided password less authentication to all the boxes from master to slaves, slaves to master. 
+         ✦ Configured yum repo to fetch the packages from internet. 
+         ✦ Perfumed all basic pre-requisite tasks and installed all related dependent packages to make sure installation don't failed 
+         ✦ Installed ambari-server and ambari-agent in master and slave boxes 
+         ✦ Configured HDFS, yarn, map reduce 2, storm , Nagios , ganglia , storm , pig , hive , hbase , zoookepr , falcon ..etc 
+         ✦ Configured ganglia to get the metrics 
+         ✦ Performed HDFS and other operations like start, stop, restart operations from Ambari console

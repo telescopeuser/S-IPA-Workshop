@@ -1,0 +1,85 @@
+TO 
+         AT PRESENT 
+          
+         Designed and developed software applications and their databases. Implemented continuous 
+         integration/continuous deployment and performed quality assurance. 
+          
+         PROJECT - ASPIRE: 
+         Technology Tools: Talend, NIFI, Amazon Redshift, Amazon S3 
+          
+         Responsibilities: Create Talend Jobs for ETL 
+         Create NiFi processor for automation 
+          
+         Project Description: Aspire is a 
+         Big-
+         Data project where we extracted 
+         data from four different 
+         sources and created a 
+         Data Lake in Amazon Redshift. A team of 3 members has worked in this 
+         project 
+          
+         PROJECT - INTRAC: 
+         Technology Tools: SpringBoot, RESTFul API, PostgreSQL 
+         Responsibilities: Designed database schema in SQL Server 
+         Designed and developed server code in SpringBoot 
+         Involved in requirement gathering, coordinating with the client for queries/clarification. 
+          
+         Project Description: Designed a refined ticket tracking system to automatically assign tickets and track the live location of the service 
+         engineer. 
+         ONSITE, PUNE - INFOSYS 
+          
+         Project Description: Developed new REST and SOAP web services operation and modified the existing Web service's WADLs and Swagger for an Inmarsat in UK. Used MAVEN tool to Build 
+         overlay and deploy the Code. 
+         ● Contributing in all phases of the development lifecycle 
+         ● Develop and implement application software 
+          
+         ONSITE, SINGAPORE - DBS 
+          
+         Project Description: Developed new REST services operation and developed a Web Application to 
+         Pricing module and Interest rate using Ofbiz for DBS Bank in Singapore. Used ant tool to Build 
+         overlay and deploy the Code in jboss server. 
+          
+         Technical Expertise 
+         ● Versatile in handling tools like Eclipse, DBeaver, Talend, NiFi and PostmanTO 
+         AT PRESENT 
+          
+         Designed and developed software applications and their databases. Implemented continuous 
+         integration/continuous deployment and performed quality assurance. 
+          
+         PROJECT - ASPIRE: 
+         Technology Tools: Talend, NIFI, Amazon Redshift, Amazon S3 
+          
+         Responsibilities: Create Talend Jobs for ETL 
+         Create NiFi processor for automation 
+          
+         Project Description: Aspire is a 
+         Big-
+         Data project where we extracted 
+         data from four different 
+         sources and created a 
+         Data Lake in Amazon Redshift. A team of 3 members has worked in this 
+         project 
+          
+         PROJECT - INTRAC: 
+         Technology Tools: SpringBoot, RESTFul API, PostgreSQL 
+         Responsibilities: Designed database schema in SQL Server 
+         Designed and developed server code in SpringBoot 
+         Involved in requirement gathering, coordinating with the client for queries/clarification. 
+          
+         Project Description: Designed a refined ticket tracking system to automatically assign tickets and track the live location of the service 
+         engineer. 
+         ONSITE, PUNE - INFOSYS 
+          
+         Project Description: Developed new REST and SOAP web services operation and modified the existing Web service's WADLs and Swagger for an Inmarsat in UK. Used MAVEN tool to Build 
+         overlay and deploy the Code. 
+         ● Contributing in all phases of the development lifecycle 
+         ● Develop and implement application software 
+          
+         ONSITE, SINGAPORE - DBS 
+          
+         Project Description: Developed new REST services operation and developed a Web Application to 
+         Pricing module and Interest rate using Ofbiz for DBS Bank in Singapore. Used ant tool to Build 
+         overlay and deploy the Code in jboss server. 
+          
+         Technical Expertise 
+         ● Versatile in handling tools like Eclipse, DBeaver, Talend, NiFi and Postman

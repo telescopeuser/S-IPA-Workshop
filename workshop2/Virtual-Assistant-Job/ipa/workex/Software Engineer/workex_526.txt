@@ -1,0 +1,27 @@
+Standard Chartered Bank, Singapore & Hong Kong Current 
+         Engineering Manager for Virtual Bank & neXus (Fintech): 
+         * Reporting to CTO of nexus bank 
+         * Leading various Agile engineering squads and responsible for technical delivery of product. 
+         * Responsible for understanding partner's ecosystem and design/implementation of white label banking tech solution w.r.t security, API & companion mobile App integration 
+         * Design and develop SC neXus open banking APIs for CASA, Cards and Lending 
+         * Design & implementation of CI & CD of infrastructure as code, setup cloud agnostic K8S cluster as well as deploy banking APIs with Canary deployment pattern 
+         Lead Digital 
+         Engineer for Virtual Bank (Fintech): 
+         * Reporting to CTO of Virtual Bank to build the next generation Fintech bank from base 
+         * Having an in depth architectural discussion with the 
+         engineers as well as presenting the strategic roadmap to the board 
+         * Responsible for e2e architecture w.r.t Cloud hosting, Business architecture and Application Architecture. 
+         * Responsible for design & implementation of various micro services w.r.t application engineering as well as CI/CD pipeline to deploy on K8S cluster. 
+         * Leading the cross functional team of 20 
+         engineers (UI, Backend & Fullstack) 
+         * Close collaboration with DevSecOps teams and established right cloud agnostic architecture & tooling to host virtual bank on AWS 
+         * Mentoring the 
+         engineer team, building quick poc/demo services for smooth development & deployment journey for team. 
+         As Lead Digital Innovation 
+         Engineer for Retail Bank: 
+         * Led the digital innovation team of 
+         data scientist, Full stack developers 
+         * Defined development strategy, researching and introducing new technologies and advising the business on technological direction 
+         * Implemented few digital disruption initiatives for Retail banking on next generation banking services with advanced artificial intelligence technologies, building multi lingual chatbot for voice & text 
+         * Implemented Blockchain solution for Mortgage loan processing. 
+         * Designed external API eco system for retail banking.

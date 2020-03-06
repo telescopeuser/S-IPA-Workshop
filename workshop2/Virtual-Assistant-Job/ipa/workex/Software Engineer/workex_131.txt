@@ -1,0 +1,18 @@
+Processor/ARM team 
+         Target: achieve ASLIB certification that required the IP must have the ability to detect (self-check) at least 90% error. 
+         Job description: 
+         Implement Cache Coherent Interconnect (CCI) based on next CCI-IP from ARM (main in-charge ) 
+         • Discuss with ARM design team to decide the specification: parameter consideration, how to implement the new CCI, request ARM to support the new feature 
+         • Develop the mechanism to detect the fault (self-check function) in CCI without loosing bus performance 
+         • Develop the ECC checking scheme for RAM and revise ARM's MBIST path to support MBIST test (MBIST test) the larger RAM size because introducing of ECC scheme 
+         • Develop the module to reduce the dynamic power consumption, and RAM leakage power 
+         • Design review for MBIST implementation 
+         • Build up the random environment based on Cadence eVC and Formal Verification based on IFV to verify the implementation. 
+         • Collaboration with DFT and BE 
+         engineer to solve the problem of DFT implementation and Layout 
+          
+         ARM CPU v8 implementation 
+         • Develop the mechanism to support the self-check function for ARM v8 core. Target CPU are CA53 + CA57 
+         • Revise ARM RTL to adapt Renesas DFT rule and MBIST verification strategy. 
+         • Consider and do design review for the new ARM v8 feature such as: support boot ROM AArch32 and AAch64, L2 FLUSH function, reduce RAM leakage power, MBIST implementation for CA53 core. 
+         • Enhance the asynchronous bridge between ARM core and CCI to adapt ARM v8 cores

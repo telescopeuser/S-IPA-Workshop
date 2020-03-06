@@ -1,0 +1,5 @@
+Used data manipulation and analysis to discern customer habits and needs, then turned the intel into robust, user-friendly reports for the business team. 
+          
+         Implemented well-functioned features in different platforms by understanding user requirements clearly, communicating with the product manager proactively and delivering the implementation effectively. 
+          
+         Skills involved: Angular JS, HTML, CSS, Python, JavaScript, SQL, Swift, XCode, Java, Android studio

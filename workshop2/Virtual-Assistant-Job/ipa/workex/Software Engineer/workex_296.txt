@@ -1,0 +1,19 @@
+Bangalore) 
+         (Jan 2016-Apr 2016) 
+         Description: Successfully completed deep drive training in 
+         Big 
+         Data tools with Certification of excellence. 
+          
+         Customer Trend Predictive Analysis 
+         Position: Solution Integration Consultant 
+         Technologies & Database: JAVA, Apache Hadoop, Apache HADOOP, HDFS. 
+         Responsibility: Analyze millions of 
+         Data records using Apache Hadoop. Developed Map Reduce programs to parse the raw 
+         data, populate staging tables and store the refined 
+         data in partitioned tables in the EDW. 
+          
+         LOG Analysis 
+         Position: Solution Integration Consultant 
+         Technologies & Database: JAVA, APACHE HADOOP, HDFS, Apache Hive 
+         Responsibility: Coding (To write MR jobs in Java & configuring HDFS), Created Hive queries that helped to spot emerging trends by comparing fresh 
+         data with EDW reference tables and historical metrics.

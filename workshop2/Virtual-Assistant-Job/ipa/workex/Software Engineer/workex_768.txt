@@ -1,0 +1,44 @@
+Service Operation Specialist 
+          
+         Professional achievements: 
+          
+         v• I was appointed from my team for onsite to Czech Republic -Prague for PIN BY SMS 
+         Deployment & Client meetings 
+         v• Won Annual Award - excellent work done for EMEA Customers 
+          
+         Projects 
+         Ø• EMEA - Barclays_UK (TSM & NFC Solution), KPN_Spain(DM), Rmundo_Spain(DM), 
+         Intercity_Netherland(DM), Cartasi_Italy & FPE_France (PIN by SMS), Vodafone Group 
+         (TSM, NFC& M-Wallet), Orange_Jordan (PDM), Telenor_Nordic (TSM, NFC & M- 
+         Wallet) 
+         Ø• ASPAC - AIS Thailand (sim messenger), SingTel_Singapore (PDM), MAXIS_ Malaysia 
+         (PDM) 
+          
+         Role 
+         • Responsible for the delivery of innovative mobile communication services (NFC & TSM, 
+         Mobile Marketing Services) provided to key customers across the EMEA & ASIA 
+         region, Telecom operators & Service providers (mainly banks). 
+         • This role included day-to-day operational management of end-to-end Service to ensure 
+         achievement of Service Level Agreements, resolution of issues impacting the Service 
+         availability & Customer satisfaction. 
+          
+         Responsibilities 
+         • Providing detailed reports as per an agreed schedule including Service performance 
+         indicators 
+         • Perform tasks to support customer on their needs (campaigns, statistics, billing reports, 
+         periodic reporting, analysing 
+         data, numbers and information.) 
+         • Managing 24/7 Service within agreed SLA 
+         • Preparations of OMGs (Operational Maintenance Guides), RCAs (Root Cause Analysis) 
+         • Installed and configured MapReduce, HIVE and HDFS 
+         • Shared responsibility for administration of Hadoop, Hive and Pig 
+         • Log analysis and Critical Job Scheduling Activities using CONTROL M 
+         • Created reports for the BI team using Sqoop to export 
+         data into HDFS and Hive 
+         • Performing Weblogic Server hanging and Crash issues 
+         • Creation, editing of new and existing Control-M Jobs 
+         • Administrate platforms on behalf of customers keeping the availability and performance according to defined SLA 
+         • Participate on the traffic boosting activities assuring a good success rate and availability 
+         • Other accountabilities included creating process documentation and cross training of existing staff to support the environment long term. 
+         • Mitigating and solving escalations with urgency and determination 
+         • Responsible for all elements involved in maintaining engineering documentation for monitoring tools

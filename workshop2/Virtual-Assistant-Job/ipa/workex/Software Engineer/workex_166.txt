@@ -1,0 +1,11 @@
+Leading offshore teams to manage a portfolio of key IT projects encompassing attainment of customer business & technical requirements, architect-ed comprehensive IT solutions and formulation of business cases & ROI for business-critical applications 
+         Architect of applications developed on Java, SOA, Tibco, ETL, Business Objects, Oracle & SQL databases, SQL, PL/ SQL, UNIX , JSP, Angular, Liferay technologies. 
+         Implemented CI/CD pipeline using GIT / Jenkins/ Maven 
+         Subject Matter Expert on Channel 
+         Data Management to ensure optimal IT project engagement and recommend a course of actions from a solution standpoint 
+         Trained teams on functional areas to bring them up to speed on new user stories 
+         Coached and mentored team members with accountability towards the quality of output in end-to-end design, acquisition, development & implementation of regional channel partner 
+         data management systems in various technologies. Harnessed comprehensive technical implementation expertise to shore up multitasking capabilities, which resulted in significant team productivity gains 
+         Leading diversified projects from pure-play application development to 
+         data center consolidations/company mergers/separations/Application outsourcing 
+         Writing the project artifacts such as Functional document, Project plan & Design documents and present them to stakeholders for sign-offs

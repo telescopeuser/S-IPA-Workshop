@@ -1,0 +1,6 @@
+• Worked on Datawarehouse of more than 2PB and redesigned its long running 
+         data processes and made the reporting 
+         data early to help the business in taking decision faster. 
+         • Worked on a long running problem of "Merge" (Insert or Update of many tables) and Re- designed the entire process and 
+         data flow to save up to 90% of processing time. 
+         • Tuning of many (endless/time consuming) jobs e.g. prefix matching.

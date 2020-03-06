@@ -1,0 +1,25 @@
+Responsibilities: 
+         • Involved in Development of Flight Management System. 
+         • Designed and developed the code as per the coding standards in DO-178B level B guide lines from the High level and low-level requirements. 
+         • Analyzed the applicable requirements or SW code defects for the assigned Change Requests, plan and estimate the efforts. 
+         • Responsible for Correction and bug fixing of the different modules undere FMS. 
+         • Initiated and conducted SW code reviews using Peer Review Eclipse Plug-In Tool (PREP). 
+         • Investigated the change requests, analyze the problem, suggest the Change Control Board for Documentation updates, SW updates, Verification script updates. 
+         • Involved in Creation of change requests for any other out of scope issues identified with detailed description in the case of non-compliance with the requirements. 
+         • Responsible for Unit testing of the code and getting the Subsystem approval for the changes. 
+         • Mentoring the new 
+         engineers 
+         • Contributed to the RBT, Failure analysis and SCA activities during the FMSA V6.3 TSO certification. 
+         • Worked for different avionic sub-domains like VNAV (Auto speed modes), VSPEEDS, PERF, and Flight planning during RBT. Resolved the target issues related to Flap setting, Navigation database and PERF database loading during RFS activity. 
+         • Resolved disposition Target and Host (VISTA) Based Verification Test Procedure Failures using ADA Compiler and GNAT Pro and worked on SCA reports. 
+         • Ensured compliance Rockwell Collins policies with Customer focus. 
+         • Attended reviews as a main reviewer SCA peer reviews. 
+         • Early detection of errors by review and analysis of draft documents 
+         • Under Bigdata Avionics Proof-of-Concept, was involved in discussions with project technical head and System 
+         engineers in collection and understanding of Aviation 
+         data sets requirements for Fight 
+         Data management in FMS. 
+         • Involved in installing Hadoop Ecosystem components. 
+         • Responsible to develop algorithms and programming and improvements. 
+         • Involved in HDFS maintenance and loading of structured and unstructured 
+         data.

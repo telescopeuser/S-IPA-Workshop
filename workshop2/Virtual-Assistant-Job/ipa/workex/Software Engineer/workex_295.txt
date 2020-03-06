@@ -1,0 +1,7 @@
+Origination Manager (Client: A Leading Bank Of, Philippines) 
+         Position: Solution Integration Consultant II 
+         Technologies & Database: Java/J2EE, Web Services, Oracle, OutSystems, Linux, BLAZE/SMW, Apache 
+         Hadoop, HDFS. 
+         Description: FICO Origination Manager (OM) supports connected decisions across the entire lending 
+         lifecycle of Credit origination decisions. 
+         Responsibility: Coding, Systems Integration, resolving technical issues, Design & Mock-Ups.

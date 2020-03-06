@@ -1,0 +1,28 @@
+Project Description: 
+         The Commonwealth Bank (CBA) provides the capability to maintain the Insurance through applications, 
+          
+         ✓ Life400, 
+         ✓ I90, 
+         ✓ Orion and Fineos, 
+         ✓ Writeaway 
+         All the health and motor related customer policies that are created and maintained within CommInsure has the middle ware connections between all mainframes and web servers along with Payment Hub and Master Reference 
+         Data Hub. 
+          
+         Responsibilities: 
+         • Understand the project test requirements of the Comm Insure system/application 
+         • Prepare test strategy, test plan and test estimation document 
+         • Identify the necessary web apps test scenarios and design the scripts using Test Xpress Tool 
+         • Prepare the Mainframe automation scripts for Lif400 and I90 applications Using QTP Tool 
+         • Ensure requirements are fully covered as part of traceability matrix 
+         • Coordinate with the Business, Design, Development and UAT teams 
+         • Ensure the defined test process is effectively implemented in the project 
+         • Conduct defect triage/review meeting with all the Stakeholders 
+         • Conduct the TX automation tool training to the manual test team 
+         • Collate and publish the weekly and quarterly status report 
+         • Preparation of test completion report 
+          
+         Project -3 JPMC TDI - 
+         Big 
+         Data DWH Testing [Hadoop] 
+         Environment Hadoop and Unix systems 
+         Tools Used QTP - Automation & Manual Testing

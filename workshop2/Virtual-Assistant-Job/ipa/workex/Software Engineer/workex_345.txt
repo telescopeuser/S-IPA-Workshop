@@ -1,0 +1,11 @@
+Roles and Responsibilities: 
+         • Automated Customer Service Request (CSR), Account Receivable, Statement of Accounts Process. 
+         • Process the 
+         Data (Excel 
+         Data) from the File Server. 
+         • Automated Reading and sending an email from the mail server with and without Attachments. 
+         • Extracting the 
+         data from the web application and Write back to the File Server. 
+         • Created Custom Logs to understand the process Execution. 
+          
+         PROJECT 3:

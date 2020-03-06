@@ -1,0 +1,26 @@
+a) IoT design: First Mediatek IoT project. 
+         Role: ARM Cortex-M + MCUSYS design lead. 
+         Target: low power consumption + low cost. 
+         Micro-arch and RTL owner of clock gating architecture of CortexM4, refine L1$ controller arch, bus system. 
+         Technical consultant to BU ( Business Unit) + CPU members 
+         Achievement: Cut-off 30% dynamic power of whole CPU system measuring with Dhrystone pattern 
+         Award: won project of year 2015 
+         b) Modem LTE design: pioneer on 4G Gen3 & Gen4; 5G modem generations of Mediatek 
+         Role: MIPS InterAptiv CPU + next MIPS CPU generation + MCUSYS architecture & design lead + silicon debug + board bring up + yield analysis 
+         Target: 
+         4G Gen3: Low cost ( area reduction) + low power consumption 
+         4G Gen 4: high performance + low power consumption 
+          
+         Micro-arch + RTL owner of low power design for MIPS CPU, cache + TCM 
+         Micro-arch + RTL owner of bus system, AXI/OCP bus bridge, Trace block 
+         Micro-arch + RTL owner of new L2$ prefetch designs to reduce IO and DDR access latency ; enable to remove TCM ( Tight Couple Memory) completely → improve PPA significants. 2 pending patents on these 2 designs. 
+         Micro-arch + RTL owner of L3$ module to improve 2x bandwidth of CPU to DDR4/5 
+         Co-work with Software team to refine HW arch to improve PPA 
+         Support silicon debug + board bring up 
+         Yield analysis: point out uncover point in SRAM structure caused low yield of chip. 
+         CPU architecture consultant for BU + SW teams 
+         Co-work with ESL/PAE 
+         engineer in modeling development ; consult /support for performance analysis activities 
+         Achievement: reduce 40% Dhrystone dynamic power + 30% total area compared with previous project 
+         Awards: 4G LTE won project of year 2016 
+         2 pending patents

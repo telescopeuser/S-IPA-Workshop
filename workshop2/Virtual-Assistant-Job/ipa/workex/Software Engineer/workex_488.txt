@@ -1,0 +1,6 @@
+Mexinfor,UK based company, provides a full range of IT solutions to insurance providers including key features like direct phone quotations and calculations of Premium, manage policy creation/cancelation /renewal , Print policy letters/schedule/confirmation documents, , manage credit card payment. 
+         Role & Responsibilities:  
+         * Prepare functional and technical documents. 
+          * Involved in system development and testing, troubleshooting production issues. 
+          * Handle database function like creating stored procedures, views, functions. 
+          * Projects developed with .Net (ASP.Net-C#, WCF, Entity framework) as the intermediate layer and MSSQL as the back-tier.

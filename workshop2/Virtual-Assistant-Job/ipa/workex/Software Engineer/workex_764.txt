@@ -1,0 +1,9 @@
+BLNG) 
+         Summary:The project is to build a new Combined-Cycle Power Plant to replace generation in the existing Power Plant, which is over 30 years old and approaching the end of its design life. The power rejuvenation project will be installed in phases, and Phase 1 will increase the present power generation capacity from 40MW to about 65MW, and will be able to cater for existing BLNG requirements and increased demand resulting from other upgrading projects at BLNG. The project Phase 1 costing is about $180 m. 
+         Power Project involved Combined Circle Power Plant using Siemens Gas Turbines and Steam Turbines, new 11KV ABB GIS switchgear with ENMC system (Electrical Network Monitoring System), new 6.6KV switchgear and 6.6KV MCC, LV MCC. Total 8 numbers cells of cooling towers were upgraded. 
+          
+         Consultation of modification works on 33KV, 11KV system, DES (Department of Electrical Services) & 11KV GIS switchgear and substation. 
+         Detail engineering works on LV & MV Motor Control Centers and Electrical Network Monitoring System (ENMC) for power generation and distribution control. 
+         Consulting to vendors to resolve technical issues. 
+         Detail engineering of modification control schematic drawings for 11KV ABB Switchgear. 
+         Project had been delaying due to many reasons however; I was able to close all outstanding issues and supported construction and commissioning works. Project was successfully completed.

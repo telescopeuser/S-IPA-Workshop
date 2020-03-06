@@ -1,0 +1,24 @@
+Williams-Sonoma, Inc, largest e-commerce retailers in the U.S and the biggest multi-channel specialty retailers that sells kitchen wares and home furnishings.  
+         Role & Responsibilities:  
+          * Participate in discussions with business leads to understand the nuances of business. 
+          * Handle the requirement gathering and prepare functional and technical documents. 
+          * Prototype and develop the application modules. 
+          * Analyze the 
+         data and generate the performance metrics to support vendors, business partners and top-level management. 
+          * Projects developed with .Net (ASP.Net & MVC, C#,VB.Net) as the intermediate layer, MySQL (ADO.Net, Dapper ORM) as the back-tier along other front-end libraries (JavaScript, jQuery, Bootstrap, AM Charts). 
+          
+         Global Connect Desk:  
+         A Web based system developed for global operations that mainly contains operational modules and reporting modules. Below are the key modules: 
+         1. Reporting Modules - Reporting portal to customize and design different type of reports, generate graphical chart to visualize the 
+         data, generate monthly reports (vendor scorecard, office performance & vendor performance summary). 
+         2. Operational modules - Vendor database, CSR Module and Financial dashboard. 
+         3. QA Modules - PQA & packing tool spec. 
+          
+         CSR Module: 
+         An operational module developed for corporate social responsibility team to perform below CSR activities.  
+         Factory Management, Vendor Management, Factory Licensors, Compliance Program, Vendor Priority, Generate Reports, Upload audit reports and certificates 
+         Factory – Vendor Relationship  
+          
+         Financial Dashboard: 
+         Dashboard designed for country leaders & top-level management to monitor KPI’s of business. The operation 
+         data is visualized in the form of graphical charts and tables.

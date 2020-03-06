@@ -1,0 +1,20 @@
+Project Description: 
+         The Murex trading system is a powerful engine for tracking trading transactions. Used by banks and asset managers, Murex is the leading platform for trading and treasury. 
+          
+         Its main users are a bank's traders, who put into trade orders into the system. These are then passed to the middle office (for trade validation) and eventually to the back-office (for trade settlement and reconciliation with counterparties / settlement banks). 
+          
+         Responsibilities: 
+         • Understand the project test requirements of Murex system/application 
+         • Identify the necessary web apps test scenarios and design the scripts using UFT 
+         • Estimate, Design, Create and Maintain the UFT automation framework and scripts 
+         • Design and Maintain the automation scripts for multiple country roll out • Ensure requirements are fully covered as part of traceability matrix 
+         • Coordinate with the Business, Design, Development and UAT teams 
+         • Ensure the defined test process is effectively implemented in the project 
+         • Conduct defect triage/review meeting with all the Stakeholders 
+         • Conduct the automation tool training to the manual test team 
+         • Collate and publish the weekly and quarterly status report 
+         • Preparation of test completion report 
+          
+         Project - 2 Commercial Insurance for Commonwealth Bank of Australia 
+         Environment Mainframes and Java 
+         Tools Used HP - UFT(QTP) Automation & Selenium with C#

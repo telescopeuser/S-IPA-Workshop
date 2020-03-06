@@ -1,0 +1,43 @@
+Responsibilities: 
+         • Designed the 
+         data-driven architecture by leveraging the Hadoop ecosystem to collect the market 
+         data and transform to meaningful insights. 
+         • Transform structured and unstructured raw 
+         data to DataMart, with high reusability using spark 
+         programs. 
+         • Design dashboards in tableau by consuming the fact and dimension table from DataMart to provide 
+         valuable insights to the management. 
+         • Implemented near-real-time streaming application in spark to analyse the market 
+         data and make 
+         quick decision on the changing business. 
+         • In-charge to support and maintain the existing application and enhance the application based on the business needs. 
+         • Generated the aggregated monthly and adhoc report to stakeholders based on the needs using Hive 
+         jobs. 
+         • Engaged the stakeholders during the UAT processing to make sure the application is high reliable. 
+         • Updated project status on monthly basis to the higher management. 
+          
+         Project: External Market 
+         Data 
+         Client: GIC Private LTD, Singapore 
+          
+         This project is to re-implement of existing external market 
+         data system into Hadoop Platform to 
+         Gokulanath Lead 
+         Data Analytical 
+         Engineer 
+         Gokulanath 
+         Lead 
+         Data 
+         Engineer 
+         Data Analyst ML 
+         Engineer 
+         perform ETL operation (Extracting the 
+         data from outside sources, transforming to fit operational); Loading into target based on the business logic. Supplier FTP 
+         data is pumped in on a daily basis at10 minutes' 
+         interval and 
+         data validation are performed based on the business logic implemented by the client. 
+          
+         Achievement: 
+         • Insights enabled the brokers to analyse the market 
+         data to make decision on near real time 
+         reducing the turnover time.

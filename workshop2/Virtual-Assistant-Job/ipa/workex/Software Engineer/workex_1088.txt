@@ -1,0 +1,17 @@
+Environment Informatica9.6.1, Putty, SQLPlus, UnixShell Programming, Oracle, AS400 
+         Responsibilities 
+         • Get project user requirements from the source team 
+         • Impact analysis on the new requirement on the existing system design 
+         Data mart 
+         • Documentation on Impact analysis 
+         • Documentation on time line with respect to source team 
+         • Creating the functional Specification document on the user's requirements on reports with respect to the 
+         Data mart changes 
+         • Creating ETL mapping documents with business logic 
+         • Responsible in ETL development, creating unix jobs and control-M jobs 
+         • Creating Unit test cases 
+         • Responsible in migrating the SIT code to UAT and Prod using Aldon tool 
+         • Involved in testing the 
+         data with users. 
+          
+         Project BB&T- Project one Release -3

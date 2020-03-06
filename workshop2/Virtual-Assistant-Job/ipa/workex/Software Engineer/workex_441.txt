@@ -1,0 +1,11 @@
+Managing internal functional and technical teams on Banking IT projects, directly reported to the 
+         Head of Department. 
+         Projects and Achievements 
+         Division: Corporate Cash Management & Payments (including SEPA) 
+         • Responsible for Natixis Corporate Customers Portal Development (10+ developers/analysts) 
+         • Responsible for MISYS Trade Portal software implementation and upgrade 
+         • Delivered enhanced full service portal every two months during 3 years 
+         • Responsible for online corporate international transfers technical processes (~500 MEUR/day) 
+         Division: Risk Management 
+         • Managed IT Bâle 2/financial income statement and balance sheet grids development 
+         • Deployed financial calculation grids in Natixis international subsidiaries and branches

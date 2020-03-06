@@ -1,0 +1,2 @@
+66 path=RPA/ipa/JobResponsibility/AI/Job responsibilities .txt
+27 atime=1581057204.962348

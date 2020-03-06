@@ -1,0 +1,10 @@
+Principal Role: Prepare project feasibility studies, cost-benefit analysis and proposals and obtain required approvals from appropriate IT management and project sponsors
+Establish project plans, resources, budgets and time-frames, and assign tasks
+Identify, track and communicate project progress, milestones, deliverables changes and dependencies within the schedule, costs, issues and risks
+Manage team’s performance of project tasks, provide technical advice and guidance, schedule assignments and training for development, prepare performance appraisals
+Coordinate project activities across multiple development, product management, user experience and QA teams in a matrix organization
+Secure acceptance and approval of deliverables or revisions to the project from the project sponsor and stakeholders
+Manage vendor relationship and deliverables
+Evaluate and recommend purchases of software packages, hardware and service vendors where appropriate
+Ensure work deliverables are in compliance with bank policies and regulatory requirements.
+Plan for and oversee preparation of documentation of each project phase (business requirements, functional specification, project plan, test strategy, test plan, etc), training and support in new/modified applications

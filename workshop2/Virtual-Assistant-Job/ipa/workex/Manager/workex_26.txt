@@ -1,0 +1,17 @@
+Handle AS/400 day-to-day system operations. Schedule and initiate backup jobs and data restorations. 
+         • Perform Query/400 to produce user-defined reports. 
+         • Perform SWIFT Net Alliance 5.0 Financial System and MAS MEPS real-time gross 
+         settlement system operations. 
+         • Maintain and administer NT 4.0 Servers and IBM Network Access Storage System. 
+         • Experienced in performing annual Disaster Recovery Plan on AS/400 system and 
+         SWIFT Net Alliance server 5.5 at offsite office. 
+         • Migrated PCs from Windows 95 to Windows NT4.0/2000/XP, including organizing and implementing 
+         staff training to increase user adaptability. 
+         • Performed software OS and application upgrades as necessary. 
+         • Installed and maintained virus software, and automated downloads of the latest DAT 
+         files to ensure maximum security on the network. 
+         • Working knowledge of TCP/IP environment and provide local e-mail support for Lotus 
+         Notes 5.0 Client and maintain Domino server. 
+         • Provide technical support to end-users' and trainings. 
+         • General PC hardware/software upgrades and troubleshooting. 
+         • Document and maintain media library records both onsite and offsite.

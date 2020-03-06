@@ -1,0 +1,26 @@
+Responsibilities: 
+         • Requirement gathering, from the client and provide feasibility for implementing. 
+         • Understanding document preparation. 
+         • Interact with customer on getting the requirements. 
+         • ETL Design document preparation. 
+         • Worked on ETL and database design approach for the business requirements. 
+         • Designed and developed INFORMATICA Mappings to load 
+         data from Source systems to Main schema. 
+         • Test the ETL code so that business logic should be meeting. 
+         • Provide support to the framework. 
+         #2. J&J Cloud integration 
+         Organization: Johnson & Johnson, US 
+         Technology: ORACLE10g, Salesforce, INFORMATICACloud Service 
+         Role: ETL Consultant 
+         Organization: Takeda, US 
+         Technology: ORACLE 10g, INFORMATICA 9.5 
+         Role: SeniorConsultant 
+          
+         ✓ Creating new environments by installing INFORMATICA in the new server. 
+         ✓ Migrating INFORMATICA domain from ORACLE 10g to ORACLEEXADATA. 
+         ✓ Migrating the repository from ORACLE to ORACLEEXADATA. 
+         ✓ Comparison of performance between ORACLE and EXADATA. 
+         ✓ Ensure there is no performance issue in newly migrated EXADATA database. 
+         ✓ Setup new environment for INFORMATICA, and installing the adapters for SAP sources. 
+         ✓ SAP Power Exchange installation, for connecting SAP 
+         data sources.

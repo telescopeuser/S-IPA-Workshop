@@ -1,0 +1,22 @@
+Responsibilities: 
+         • Involved in requirement gathering with stakeholders to understand the business policy. 
+         • Prepared various documents such as functional design document, technical design document and test 
+         cases. 
+         • Configured the business rules into the payroll/absence management module according to the client's 
+         requirement. 
+         • Mentored and Assigned the task to three members team. 
+         • Developed and customised various panel/reports. 
+         • In-charge of updating the deliverables in steering commit, raising the product bug to oracle, regularly 
+         apply statutory rule changes to product and migrating the projects to respective instance. 
+         • Coordinate with upstream/downstream team to make sure the day-to-day activity runs smoothly. 
+         • Monitored and recommend area of improvement to the existing application. 
+          
+         Gokulanath Lead 
+         Data Analytical 
+         Engineer 
+         Gokulanath 
+         Lead 
+         Data 
+         Engineer 
+         Data Analyst ML 
+         Engineer

@@ -1,0 +1,23 @@
+Projects: Manager View, Hotel Security Advisor, Common Login App, BackOffice 
+         Description: As a senior software 
+         Engineer, I am leading the development of different product with Agile 
+         Development Approach. I am involved in Designing, development, unit testing to Delivery of the Software 
+         Product as part of SDLC. We have Different Integration points in our System. In our development Strategy, 
+         we integrate with all external system securely with adoption of pen testing. These Product caters the need of more than 30 clients (including some 
+         big clients like Facebook, Google, Orange) for their employee 
+         medical & travel security. This product caters assistance line of business of International SOS. 
+         Technologies & Database: OutSystems, .Net, SQL Server, Lifetime, Balsamic, MuleSoft, Rest API, 
+         OKTA IDP, Web Services. 
+         Responsibility: Requirement Gathering, Solution Design Documentation, Development, Programming, 
+         Code Review, Engaged in Client Calls for Decision Making & status update, Release to Production. 
+          
+         Projects: Tactical Provisioning Solution For Clients Onboarding 
+         Description: This solution takes care of Client Onboarding & Migration to IDAM Platform. ISOS has many 
+         products like Travel Tracker, New Case, Medical Assistance & so on. Any new client or existing client who 
+         bought a subscription of these products, need to be created in Party Master Database along with their 
+         respective Product Bundle mapping in Permission Engine. This application automates this whole process and provides a list of managers for the onboarded clients which further will be provisioned using Backoffice 
+         tool. 
+         Technologies & Database: OutSystems, .Net, SQL Server, Lifetime, Balsamic, MuleSoft, Rest API, 
+         OKTA IDP, Web Services. 
+         Responsibility: Requirement Gathering, Solution Design, Development, Programming, Engaged in Client 
+         Calls for Decision Making & status update, Release to Production.

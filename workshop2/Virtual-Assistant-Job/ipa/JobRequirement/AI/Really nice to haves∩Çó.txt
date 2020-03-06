@@ -1,0 +1,6 @@
+Deep understanding of the fraud space with hands-on knowledge of fraud, payments and risk, especially on tech products
+Experience in geospatial databases or graph databases
+Recent programming experience in a production environment
+Experience in Scala or PySpark on distributed systems
+Interest in working with MapReduce technologies (such as Hadoop / Spark)
+Familiarity with Python Scikit Learn, Panda or Spark ML/Mllib is a plus

@@ -1,0 +1,62 @@
+Bank Julius Baer, Singapore (Senior Application Consultant) Jun 2008 to Sept 2009 
+         * Implemented Electronic Document Management System viz. Doxter for various operations divisions 
+         * Automated client account opening process with automated with KOFAX/OCR based image capturing and workflow 
+         * Part of the development to implement the client statement generation system by integrating with Core banking system 
+         * Developed Solution to migrate 
+         data from Legacy system/ email server database and Network file server to Documentum system 
+         * Front desk, middle office and back office applications have been integrated with DOXTER and centralized implementation of archival of any transaction document to be stored in EDMS system 
+         * Designed & implemented the integration layer between various intranet-based applications using IBM MQ series and Java Webservice/SOAP 
+          
+         ePortal: Customer facing application where user would directly advice their investment strategies. ILOG 
+          
+         JRules has been implemented that generates various events and assist Operations team in finalizing the 
+          
+         investment portfolio for daily, weekly, fortnight and long term investments 
+          
+         ♣ Close interaction with BAs , Systems Analysts and created solution architecture to gathered the requirements for 
+          
+         various 
+          
+         ♣ Designed the integration layer between various intranet based applications using IBM MQ series and Java 
+          
+         Webservice/SOAP technology and constructed various XML/XSD interfacing message contracts 
+          
+         ♣ Designed and managed the development of Documentum Document Management System that integrates with 
+          
+         Kofax scanning application as well as to integrate with different intranet applicatio 
+          
+         ePortal: Customer facing application where user would directly advice their investment strategies. ILOG 
+          
+         JRules has been implemented that generates various events and assist Operations team in finalizing the 
+          
+         investment portfolio for daily, weekly, fortnight and long term investments 
+          
+         ♣ Close interaction with BAs , Systems Analysts and created solution architecture to gathered the requirements for 
+          
+         various 
+          
+         ♣ Designed the integration layer between various intranet based applications using IBM MQ series and Java 
+          
+         Webservice/SOAP technology and constructed various XML/XSD interfacing message contracts 
+          
+         ♣ Designed and managed the development of Documentum Document Management System that integrates with 
+          
+         Kofax scanning application as well as to integrate with different intranet applicatio 
+          
+         ePortal: Customer facing application where user would directly advice their investment strategies. ILOG 
+          
+         JRules has been implemented that generates various events and assist Operations team in finalizing the 
+          
+         investment portfolio for daily, weekly, fortnight and long term investments 
+          
+         ♣ Close interaction with BAs , Systems Analysts and created solution architecture to gathered the requirements for 
+          
+         various 
+          
+         ♣ Designed the integration layer between various intranet based applications using IBM MQ series and Java 
+          
+         Webservice/SOAP technology and constructed various XML/XSD interfacing message contracts 
+          
+         ♣ Designed and managed the development of Documentum Document Management System that integrates with 
+          
+         Kofax scanning application as well as to integrate with different intranet applicatio

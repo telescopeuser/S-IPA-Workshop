@@ -1,0 +1,152 @@
+Project Work Experience 
+         Project Title JPMC LRI (Liquidity Risk infrastructure) Reporting - Business Services Phase 3 
+         Description JPMC has mobilized a global Liquidity Risk Infrastructure (LRI) program that is a firm-wide, 'mission critical' effort to enhance its liquidity risk management monitoring and reporting capabilities, which will include a redesign of the related supporting technology and infrastructure. The LRI program will implement a world class liquidity risk 
+         reporting system complying with recently mandated new Federal and Basel regulations. The program will include 
+         strategic 
+         data sourcing, 
+         data enrichment, analytical, monitoring, and reporting capabilities. 
+         Environment Tableau 2019.1/10.X/9.X, Cognos 10.X/11, Composite 7.0, Hadoop, Impala, Python 
+         Role Project Lead/Scrum Master/ Tableau and Cognos Lead/CIS Composite Admin 
+         summary • Planning 
+         • Implementation 
+         • Preparing Project Charter 
+         • Talent management 
+         • Technical guidance 
+         • 
+         Data Visualization and 
+         Data Analytics 
+         • Technical review 
+         • Focus towards Delivery excellence 
+         • Interaction with users for improving the team visibility 
+         • Sharing WSR and PSR with internal and external stakeholders 
+         • Preparing Risk and Mitigation plans 
+         • Following/Sharing the issues/clarification list to avoid UAT defects. 
+         Contribution As Project lead 
+         ✓ Understanding Business Requirement and converting the same into Technical Specification for the developers. 
+         ✓ Understand the methods of business used in different geographical locations and analyze 
+         data to provide quick 
+         fixes which should have a sizeable impact. 
+         ✓ Do a comparative analysis to distinguish best practices and ways to implement them across different geographical 
+         locations. 
+         ✓ People Management, Project Planning and Tracking, Monitoring schedule and cost variance. 
+         ✓ Preparing Risk and Mitigation plans 
+         ✓ Following/Sharing the issues/clarification list to avoid UAT defects. 
+         ✓ Coordination with different Application support teams for Migration/Upgrade. 
+         ✓ supervise a midsize team while making independent decisions. Strong problem solving and negotiation skills. 
+         ✓ Change Management. 
+         ✓ Prepare case studies and business cases to determine inefficiencies and areas of improvement. 
+         As a Scrum master 
+         ✓ Formulating techniques for effective Product Backlog Management and Helps employees and stakeholders 
+         understand and implement Scrum practices. 
+         ✓ Leading and mentoring the team in successful Scrum adoption and Helps the team understand the need for clear and concise product backlog items. 
+         ✓ Responsible for creating test cases for own tasks and ensuring team also to develop test cases in order to follow 
+         test driven development (TTD). 
+         ✓ Ensures whether product owner is clear with how to arrange the product backlog to yield maximized value. 
+         ✓ Developed JIRA board ensures management and scrum activities in it. 
+         ✓ Adding, updating and maintaining confluence Wiki for helping team and user's query 
+         ✓ Facilitating scrum events as requested or needed. 
+         ✓ Removes project impediments that boost team productivity and performance 
+         ✓ Acts as a change agent that increases the productivity of the team. 
+         ✓ Participated in planning scrum implementations within different teams in the organization. 
+         ✓ Works with other scrum masters to increase the effectiveness of the application of scrum in the organization. 
+         As a Tableau Lead 
+         ✓ Using Tableau as a front-end BI tool and variety of back end databases designed and developed workbooks, 
+         dashboards, global filter page, and complex parameters-based calculations. 
+         ✓ Access and transform massive datasets through filtering, grouping, aggregation, and statistical calculation. 
+         ✓ Strong understanding of advanced Tableau features including calculated fields, parameters, table calculations, 
+         row-level security, R integration, joins, 
+         data blending, and dashboard actions. 
+         ✓ Performed extensive GAP analysis in the project as there were numerous 'As-Is' and 'To-Be' conditions. 
+         ✓ Involved in creating database objects like tables, views, procedures, triggers, and functions using T-SQL to provide 
+         definition, structure and to maintain 
+         data efficiently. 
+         ✓ Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. 
+         ✓ Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau. 
+         ✓ Restricted 
+         data for particular users using Row level security and User filters. 
+         ✓ Developed Tableau visualizations and dashboards using Tableau Desktop. 
+         ✓ Developed Tableau workbooks from multiple 
+         data sources using 
+         Data Blending. 
+         ✓ Developed Tableau workbooks to perform year over year, quarter over quarter, YTD, QTD and MTD type of analysis. 
+         ✓ Implemented Tableau mobile dashboards via Tableau mobile application. 
+         ✓ Generated Tableau Dashboard with quick/context/global filters, parameters and calculated fields. 
+         ✓ Created Tableau Dashboards with interactive views, trends and drill downs along with user level security. 
+         ✓ Created and developed Parameterized, Drill Down and AD Hoc Reports in COGNOS and tableau. 
+         ✓ Interacted with the existing database developers and DBA to understand the existing schema. 
+         ✓ Thorough analysis, unit testing and integrated testing with other applications of database objects & T-SQL 
+         statements before deployment to the production server. 
+         ✓ Published Workbooks by creating user filters so that only appropriate teams can view it. 
+         ✓ Tested, Cleaned, and Standardized 
+         Data to meet the business standards using Execute SQL task, Conditional 
+         Split, 
+         Data Conversion, and Derived column in different environments. 
+         As Cognos BI SME 
+         ✓ Extensive knowledge in various reporting objects like Facts, Attributes, Hierarchies, Transformations, Filters, 
+         Calculated fields, Sets, Groups, Parameters etc. 
+         ✓ Developed Relational model using Framework manager and published secured packages to content store. 
+         ✓ Developed MDX model, multidimensional cube using powerplay transformer as well as cube designer. 
+         ✓ Worked on Heat/Geo/Tree Maps, Pie/Bar Charts, Circle Views, Line/Area Charts, Scatter Plots, Bullet Graphs, 
+         Histograms, Gantt charts, Bubble charts using various 
+         data sources (Excel, Text, DB connections, etc.). 
+         ✓ Developed complex reports with user's design format using cascading prompts and calculations in Cognos Report 
+         Studio. 
+         ✓ Bursting the Reports in Cognos Environment and sending by mail. 
+         ✓ Following/Sharing the issues/clarification list to avoid UAT defects. 
+         As a CIS-Composite Lead 
+         data modeler and administrator. 
+         ✓ Planning, Installation and configuration of CIS Composite 7.0 
+         ✓ Responsible for maintaining and creating physical, business and presentation models for better 
+         Data 
+         transformation and 
+         Data preparation. 
+         ✓ Worked with Cisco team while upgrading our composite server. 
+         ✓ Defined process to perform development tasks in composite. 
+         ✓ Defined policies and 
+         data level security in composite based on users approved access. 
+         ✓ Worked on defined 
+         data source to read 
+         data for structured: Oracle Exadata, WEB XML, Jason and unstructured: 
+         mixed test, streaming etc. 
+         ✓ Developed 
+         data source to connect various type of custom databased (connected to on demand calculated system) 
+         ✓ Developed XSLT script for 
+         data transformation, Packages, ETL Stored procedure, scripts. 
+         ✓ Developed various type of 
+         Data warehouse. DataMart, 
+         data models based on business requirements. 
+         ✓ In order to improve report/analysis/dashboard performance worked on cashing 
+         data by loading calculated results in custom DB tables as well as using composite tool's cashed feature. 
+         BigData Hadoop contribution 
+         ✓ Developed logics and calculations in python script to integrate and transform 
+         data as per reporting requirement. 
+         ✓ Developed Impala views and defined 
+         data level security in it for secure 
+         data analysis in tableau/COGNOS. 
+         ✓ Monitored user queries in Cloudera in order to evaluate 
+         data partitions. 
+         ✓ Developed mapping by writing Python scripts to map upstream source 
+         data with standard liquidity statement line and or liquidity coverage ratio report lines for regulatory reports 
+         Project POCs 
+         ✓ To have all the Customers 
+         data at one place. Attempt to reach and provide 360-degree solutions. 
+         ✓ Performed 
+         Data cleansing/transformations, applied statistical analysis, 
+         data visualization and 
+         data mining steps to detect anomaly and pattern in the datasets. 
+         ✓ Communicate with different teams to gather various mapping available for the unique feature present in the datasets. 
+         ✓ Design and develop solutions using various algorithms and suggest efficient path for the implementation. 
+         ✓ Present findings to internal and external stakeholders, discuss on the feasible solutions which can be leveraged for solving business problems. 
+         ✓ Worked on defining and implementing IBID workflow for automating user onboarding to tableau server. 
+         POCs in adopting Tableau 
+         ✓ Install upgrade Tableau server and server performance tuning for optimization. 
+         ✓ Administer user, user groups, and scheduled instances for reports in Tableau. 
+         ✓ Hands-on development assisting users in creating and modifying worksheets and 
+         data visualization dashboards. 
+         ✓ Defined best practices for Tableau report development. 
+         ✓ Proof-read all documents and maintain accuracy of information and preparing SOP. 
+         ✓ Compared tableau with other BI tools in order to identify tableau product limitation and areas it needs 
+         improvement and same had been shared with Tableau company people as recommendation. 
+         ✓ Find out workaround to eliminate user effort as much as possible in order to perform self-analysis. 
+         ✓ Defined multiple levels of security for workbooks/dashboards and sites. 
+         ✓ Integrated tableau with other application and BI tool in order to automate multiple features.

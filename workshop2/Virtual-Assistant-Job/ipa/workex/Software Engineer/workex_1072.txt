@@ -1,0 +1,19 @@
+Project Description: 
+         The Strategic Cash Management program would provide an integrated operations and technology layer for Cash Management Transaction processing by creating a single cash management utility by achieving the following objectives: 
+         • Establish global risk management function for FX through a virtual global book across all distributed risk centers 
+         • Reduce funding costs through the global 'follow-the-sun' operating model 
+         • Reduce operational costs through efficiency gains in cash management 
+         • Reduce infrastructure costs with a single / unified cash management platform across all three regions 
+          
+         CHILE - Global Cash Management designing to use as a single Cash Management Centre that should operates globally. However, the target model is one single global centralized solution used simultaneously by 3 regional Cash Management Centers (Zürich, Stamford, Singapore) that operate regionally. Global Cash Management is the centralized funding function that utilizes the long balances of the bank, and covers the short/overdraft positions of nostro accounts when required. 
+          
+         Responsibilities: 
+         • Study of project requirements, and understanding the Business Scenarios/Execution 
+         • Effort estimation for automation test cases based on the available test cases and complexity 
+         • Preparation of Automation Test scripts and Generic functions. 
+         • XML file creation, publishing the XML messages into Test Harness and validating the balance messages in CHILE 
+         • Executing Automation Test Scripts for regression testing and preparing weekly status reports 
+          
+         Project - 6 JPMC TLIP 
+         Environment Java , SQL server 
+         Tools Used QTP - Automation Testing

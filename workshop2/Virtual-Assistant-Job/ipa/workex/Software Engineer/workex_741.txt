@@ -1,0 +1,16 @@
+Singapore 
+          
+         Lead a team of 
+         engineers to develop 
+         data platform for security operations. 
+         Worked on search indexing, 
+         data ingestion, ETL, anomaly detection, stream 
+         processing. The systems are responsible for stoping over a million email 
+         threats per day. 
+          
+         Migrate systems to public cloud (AWS). Design and build a microservice 
+         platform using Mesos, Marathon, Consul and Docker, API Gateway using 
+         Golang 
+          
+         Act as scrum master for the Antispam team (10 people). Facilitate planning, 
+         retrospective and improve the team efficiency

@@ -1,0 +1,18 @@
+-Server data Backup, Server Migration, Project 
+         Manager for system Upgrade, Fidelio, Opera and  
+          Micros POS Project, 
+         - Opera Migration Lite Version to Full version 5 
+         - PABX Billing system for three properties 
+         - Daily Report Company 
+         IT Policy assign and configuration 
+         - Network Upgrade, Planning and Design 
+         -Guest Wi-Fi internet support and complaint solving 
+         - Deal with outside Supplier Company 
+         - Troubleshooting Subscribers’ technical problems such as Internet Link, Email, Virus, Trojan etc. 
+         - On-Site Customer support of Networking Projects such as Set up for LAN, WLAN (Workgroup and domain), PC, Laptop,       Firewall, Proxy, Email System, Internet Access Distribution.  
+         - Setup and troubleshooting for PC’s Hardware/Software Problems, printers, scanners, projectors and other peripheral devices. 
+         - Installation, upgrading and troubleshooting of various software / hardware, Operating Systems, Drivers, Patches and Antivirus packages. 
+         - Opera, Micros, Jurudata, Accpac, Alcatel software installation, configuration and troubleshoot 
+         - Opera Server installation, User right permission assign, report error solving 
+         - Project assignment, preparation, dealing with supplier and planning for project 
+         - Mikrotik Configuration

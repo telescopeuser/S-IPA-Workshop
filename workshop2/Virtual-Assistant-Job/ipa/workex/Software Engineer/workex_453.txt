@@ -1,0 +1,9 @@
+Project: RITES - Route Manipulation Planner 
+         • Implementation of K-Shortest Path Algorithms in C/C++ using OOP concept. 
+         • Applying Constraints for switching of network and blocking of routes with K-Shortest Path Algorithm development. 
+         • Research and customization of K-Shortest path With Prof. Rangrajan and his team (IIT Bombay, India) 
+         • Finding shortest path between two O-D pair with single commodity and multiple commodity 
+         • Interface designing and development. 
+         • Development of various king of report using Crystal report engine API. 
+         • Making license system for application. 
+         • Developed Windows COM component and using in application.

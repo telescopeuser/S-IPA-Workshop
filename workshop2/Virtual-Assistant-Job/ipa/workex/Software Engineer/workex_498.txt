@@ -1,0 +1,28 @@
+TAP - Regional Wealth Management: 
+         The key objective of this RWM system is to provide the private banking wealth management platform 
+         that will support the business and operation units, and expansion into private banking in Singapore and Malaysia. 
+         Triple'A Plus of RWM system was implemented with the following product features. 
+          
+         ➢ Portfolio and Account structure. 
+         ➢ Client on-Boarding. 
+         ➢ Investment Advisory. 
+         ➢ Products and Transaction Management. 
+         ➢ Equities 
+         ➢ Fixed Income (Bonds) 
+         ➢ Fund Shares (Mutual Funds) 
+         ➢ Structured Investments (DCI) 
+         ➢ Alternative Investments (FX option, Forwards) 
+         Roles & Responsibilities: 
+         ➢ Involved comprehensive of E2E Triple 'A Plus implementation. 
+         ➢ 
+         Big 
+         data processing using Kafka & Spark streaming. 
+         ➢ FIX message order processing using QuickFix/J 
+         ➢ Involved interface development, SIT, UAT & production releases. 
+         ➢ Developed B2F interfaces of host systems using Triple'A Plus core with WTX integration studio. 
+         ➢ Liaised with Maybank PB ops users and vendor (Temenos) consultants and delivered R12 release packages. 
+         ➢ Change Request enhancement and work flow testing of RWM. 
+         ➢ Bug fix and testing. 
+          
+         Technologies: 
+         Java 1.7, Triple'A plus R12 core services, IBM WTX integration, ESB, Kafka, Spark, Triple 'A OCS, UNIX - AIX, Sybase, FIX protocol, Netty socket programming.

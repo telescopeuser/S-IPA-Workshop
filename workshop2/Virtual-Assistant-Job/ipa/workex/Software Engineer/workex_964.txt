@@ -1,0 +1,20 @@
+Goal: to develop high accuracy localization (car's location) estimation system based on camera, combined with other devices, for intelligent self-driving car. 
+         Role: propose algorithms to calibrate the camera system, estimate the 3D information of car's surrounding environment. Then estimate the global position of the car, resulting in much higher accuracy than GPS. Relative algorithms: feature/deep-feature matching, end-to-end pose learning (Random forest, Deep CNN), objects segmentation/matching by machine learning. 
+         Results: A complete prototype is developed. Capturing more real 
+         data to test the robustness. Testing a novel deep learning algorithm to get dense depth map from single RGB image and Lidar's 3D information. 
+         2. Human joints/skeleton extraction from RGB/IR/3D images for car driver Mar-Aug 2018 
+         Goal: to develop human (driver) joints/skeleton extraction system for Advanced Driver-Assistance Systems (ADAS). Combine the RGB/Infrared/3D images to make algorithms more robust for different situations. 
+         Role: propose state-of-the-art algorithms to address the challenges of real driver situations. 
+         Results: A robust and very fast (>100fps) algorithm is developed. 
+         3. 3D reconstruction system for smart drone April 2017-Aug 2018 
+         Goal: to develop 3D reconstruction system with object/action recognition for smart drone. 
+         Role: propose state-of-the-art algorithms to reconstruct 3D scene based on 2D camera for smart drone. Propose new object/action recognition algorithms to add higher value to the smart drone. The recognition algorithm can be further improved by the 3D information. 
+         Results: a prototype is developed. A novel depth map estimation based on deep learning algorithm from single image is proposed to improve the robustness and density. 
+         4. Free space for intelligent self-driving car Dec 2016-Aug 2018 
+         Goal: to develop a free space (the car can go) system self-driving car. 
+         Role: propose state-of-the-art algorithms to detect the free space based on depth (3D) and 2D cameras. It could also friendly show to the driver as an assistant application. A novel object detection/localization/segmentation algorithm based on deep learning is proposed. 
+         Results: A prototype is completed. Further evaluation and improvement are developing. The combination of 3D and 2D provides a more robust system. 
+         5. Non-overlap cameras system calibration for intelligent video surveillance (intelligent mall) Oct 2016-Aug 2017 
+         Goal: to develop calibration algorithms for non-overlap cameras system in intelligent video surveillance system. The calibration can transfer all the surveillance cameras to a global 3D coordinate, which can help to detect, recognize, track humans and objects, and make the surveillance system more intelligent. 
+         Role: propose new algorithms to address the non-overlap issue. i.e., most cameras have no any overlap view regions. The algorithm is relative to random pattern detection and matching, 3D Objects detection and matching, 3D coordination transformation, 3D objects reconstruction, camera calibration. 
+         Results: have confirmed the framework by the prototype. It should be also applied to large region, such a city.

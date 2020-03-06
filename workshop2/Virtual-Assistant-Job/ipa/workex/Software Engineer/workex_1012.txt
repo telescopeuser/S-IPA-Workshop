@@ -1,0 +1,50 @@
+Accomplishments: 
+         • Worked closely with senior management and clients to ensure product/project initiation towards completion and its delivery through a tailored project management approach 
+         • Transformed teams and senior management to adapt to an agile mindset and coached them to their agile journey 
+         • Facilitated Release Plannings and project kick-offs 
+         • Led software delivery teams and manages four projects with tight deadlines at all at the same time and coached the team to self-organize and cross-function 
+         • Made recommendations improvements to teams, across the programs and organization at all levels 
+         • Managed resource allocation, scope, schedule and quality control 
+         • Ensured continuous integration, delivery and improvement by working with DevOps team 
+         • Worked with Operations team to ensure efficient service to clients 
+         • Shared and ensured best practices are implemented and adhered to • Facilitated scrum ceremonies including sprint planning, daily stand-ups, sprint reviews and retrospectives and adhere to it's goals and objectives 
+         • Removed impediments for the development team to progress with Sprint commitment 
+         • Created reports for senior executive reporting based on established, collected, validated and maintained empirical 
+         data 
+         • Provided tracking of KPIs and recommended improvements across the enterprise and key program initiatives 
+         • Conducted and facilitated Agility Health for teams' assessment and identify growth plans 
+         • Provided metrics to Software Director and asses Agile Maturity of teams 
+         • Conducted Agile team and company-wide trainings and coachings 
+         • Conducted interviews and made recommendations 
+          
+         PROJECT: 
+         Role: Development Lead/Scrum Master 
+         Project size: 10 members 
+         Scrum Team number: 1 
+         Scrum Team size: 6 
+         Project: Qwik for Facebook a.k.a. MarketPlace 
+         Project Description: It is a web and mobile payment software/application for Facebook merchants, buyers integrated with banks (SCB, KBank, Krungsri, UOB). Scrum Team is multicultural (British, Russian, Italian, Ukranian, Sri Lankan, Burmese, Indian and Thai) and are located in Thailand with some members in India. Developed in ios, .NET, JSON, Angular, MVC and Oracle 
+          
+         PROJECT: 
+         Role: Development Lead/Scrum Master 
+         Project size: 10 members 
+         Scrum Team number: 1 
+         Scrum Team size: 6 
+         Project: EasyBills for Lazada, Central JD, PlayStore, iTunes, Spotify 
+         Project Description: It is a payment software for merchants, buyers and banks that can be access thru a webpage or mobile application. Scrum Team is multicultural (British, Russian, Italian, Ukranian, Sri Lankan, Burmese, Indian and Thai) and are located in Thailand with some members in India. Developed in .NET, JSON, Angular and Oracle 
+          
+         PROJECT: 
+         Role: Development Lead/Scrum Master 
+         Project size: 10 members 
+         Scrum Team number: 1 
+         Scrum Team size: 6 
+         Project: AIG Electronic Bills Presentment and Payments 
+         Project Description: It is a payment software for insurance agents, policy holders, and banks that can be access thru a webpage or mobile application. Scrum Team is multicultural (British, Russian, Italian, Ukranian, Sri Lankan, Burmese, Indian and Thai) and are located in Thailand with some members in India. Developed in .NET, JSON, Angular and Oracle 
+          
+         PROJECT: 
+         Role: Development Lead/Scrum Master 
+         Project size: 12 members 
+         Scrum Team number: 1 
+         Scrum Team size: 8 
+         Project: Thailand Revenue Department eTax System 
+         Project Description: It is a system that allows approved VAT registrants to raise and send tax electronic invoices and receipts to their customers for whole or partial sale of goods or provision of services thru a webpage. Scrum Team is multicultural (British, Russian, Italian, Ukranian, Sri Lankan, Burmese, Indian and Thai) and are located in Thailand with some members in India. Developed in .NET, JSON, Angular and Oracle

@@ -1,0 +1,39 @@
+1996 - 2016 
+         • Spearhead all Microsoft Emergency Release (ER) / Quarterly Release (QR) and Service Release (SR) Deployment in Asia Pacific for both Wintel Servers and Client machines. Ensure client machines are protected against virus attacks and Wintel Server infrastructure service integrity operates in robust silent running. No major incident resulted during deployment. 
+         ◦ Manage and Lead about 13 people in a diverse team to deliver deployments across 400 Windows servers in Asia Pacific. 
+         ◦ Coordinate deployment and work closely with 12 Country Service managers / Team Leads to deploy required patches across 7500 users' machines. 
+         ◦ Plan server deployment schedules; facilitate entire upgrade execution activity and work closely with 3rd party (Dimension 
+         Data / Wipro Technologies / Infosys / IBM / HP / Accenture) service application support team to ensure deployments are carried out with minimize business disruption during deployments. 
+         ◦ Communicate and manage business expectations from the relevant key stakeholders (Service managers / Application owner / Service Lead / Application support) of different levels for all deployment plan activities. 
+         ◦ Perform compliance audit for both windows servers and users' machines. Provide the compliance report to Site Managers / Team Lead to mitigate the non-compliance machine accordingly. Troubleshoot and provide remediation solution for both peers and service desk teams to resolve non-compliance server and non-compliance client machines. 
+         ◦ To meet the global QR compliance target. Ensure deployment target of 95% compliance are achieved according to global standards. 
+          
+         • Perform server daily health checks to meet service continuity requirements by the business and assurance for server infrastructures. 
+          
+         • Key point of contact to coordinate all Regional and local offices server software deployment. In addition, to develop steps by steps installation documentation and test procedures to be used during deployments. Conduct sharing session for peers to understand regards on software installation; server pre-check validation and post-check validation procedure. Provided feedback to the global team on deployment status and share the remediation actions applied during deployments. Ensure software deployments which are not managed by global team are deployed successfully. 
+          
+         • Responsible and Accountable to ensure all ITIL 3 Service Management processes and Global standards are adhered. 
+         ◦ Apply the incident, problem, change and configuration processes on my respective support area for any issues, queries and incidents analysis. 
+         ◦ Reactively and proactively drives improvement and ensure no repeated incidents by applying appropriate remedial actions with right preventive measures when necessary. 
+         Significant Highlights 
+         • On Sep 2014, I took over the QR/ER deployment Lead role. As part of continuous improvements, I have successfully reduced overall server patching time required by at least 30% and simplified patching procedures whilst managing the stakeholder expectations. In addition to this, our team is able to have better work life balance. 
+          
+         • On June 2016, I was commended by the Unified Communications, Service Delivery manager for reducing the overall Lync server patching hours by 50% with minimized business disruption in the Singapore 
+         Data Centre. I have influenced the service partners to group the Lync servers patching into batches for deployment. Early engagement with the on-duty Lync support 
+         engineers with defined patching schedule and to agree on the activities to be carried out during the actual deployment. Achieved optimal and successful outcomes with minimized business disruptions in shorter deployment windows. 
+          
+         • Performed the role of an Application SPOC Coordinator for Asia Pacific region for disaster recovery in addition to my core accountabilities. Established the review process for business application service level which includes application validations through Configuration Management System, identifying key application based on critical/high service level, applications in scope for UAT testing, assessment of key impacts to business. Provided update to date application list to application owner for reviewing, followed by sign off. Successfully communicated to 23 application support teams for application Pre-UAT & Post -UAT during DR exercise. All Application Services were operational after DR exercise through confirmation received from UAT results as well as application owners. 
+          
+         • Successfully deployed client software deployment via Altiris for client projects. (Secure Foundation - software to reduce malware attack entering BP); online backup (client machine 
+         data backup software); Lync 2013 (Microsoft Client Lync version upgrade); 
+         Data Encryption (Encrypted client 
+         data from copying to external device); Internet Explorer 11 upgrade etc. across 12 countries which cover 7500 machines. 
+          
+         • Achieved high compliance ratings, above the expected global standard of 95%. The low compliance ratings for client machines that reported during QR/ER/ SR deployment due to 
+         big package software (between 150 MB to 2 GB) fail to be installed on client machines in low bandwidth sites. I have took the initiative to use the new analysis tools called "7-steps problem solving methods" to analysis failure reason followed by action in order to achieve the machine compliance target above 95% for client deployment. 
+          
+         • Recognition and received the sport bonus on the following support /projects for the contributions and initiatives taken: 
+         ◦ Year 2016: - Be a winner of June "#IISThanks" globally. Improved and achieved 50% reduction in server patching hours for Lync servers which also results in an improvement in team productivity. 
+         ◦ Year 2015: - Supervised and planned successfully to archive 12,000 inactive users' mailboxes for $100M Cost Challenge activity after exchange service had transited to service partner. 
+         ◦ Year 2014: - Received the "Thanks You" recognition from Bouzek, Mark A, (IT&S Global Operation & Infrastructure, VP). Resolved and prevent a major P1 Mobility Device Management (MDM) incident happened for Asia Pacific region during Chinese New Year. Shared experiences and lessons learnt to Global MDM support team. 
+         ◦ Year 2014: Decommissioning 'End of Service Life' Altiris Servers for India and China Zhuhai (remote site). Commissioning of new Altiris 7.0 (Package & Task) Servers for China Zhuhai site for replacement. Migrated entire India Client machines the Symantec Management Agent to Singapore Altiris Central Server for client inventories and software deployment to reduce server maintenance cost.

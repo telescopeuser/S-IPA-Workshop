@@ -1,0 +1,95 @@
+with the requirements provided by the lead. 
+         Roles & Responsiblities as a Software 
+         Engineer: 
+         ◦ Obtained good knowledge in server side scripting. 
+         ◦ Hands on Experience in python pandas and NumPy library. 
+         ◦ Worked on different API's to get information from the server. 
+         ◦ Worked on OpenManage Python SDK with Redfish support. 
+         ◦ Using REDFISH developed a plugin to get each and every detail about a particular server using their IP Address. 
+         ◦ Good knowledge in Python Programming Language. 
+         ◦ Good knowledge in CSS, BOOTSTRAP. 
+         ◦ Experience in Documentation & Presentation skills. 
+         ◦ Worked on web services like REST API, SOAP etc. 
+         ◦ Developed different python modules which was required for my project. 
+         ◦ Ability to convert different 
+         data interchange format like JSON, XML etc. 
+         ◦ Worked in WinSCP for transferring 
+         data securely between local and remote computers and to mount my documents in LINUX machine. 
+         ◦ Worked on PuTTY to run the commands. 
+         ◦ Developed ISO images for RHEL and ESXi servers. 
+         ◦ Developed Software Development Kit for DELL customers. 
+         ◦ Developed ISO image files for deploying Non-Windows Operating System in unattended method. 
+         ◦ Non-Operating System Deployment SDK -Taking ISO files of different Operating system when we want to boot to network ISO two ways is possible, one in an Interactive way and the other in an Unattended method. Developed an ISO image in Unattended way as per client requirements. 
+         ◦ Developed SDKS for DELL customers to specify which operating System and version they need for Redfish. 
+          
+         PROJECT WORK EXPERIENCE: 
+         Non-Operating System Deployment SDK (OMPSDK) 
+         Description: OMPSDK is Dell EMC OpenManage Python Software Development Kit. OMPSDK is a set of APIs that allows to perform most of the actions that would need for creating, monitoring and managing the swrvers or chassis application. Developing ISO images for different Servers like RHEL and ESXi. Booting the ISO images in unattended way using the specification provided by the customers. 
+          
+         Platform: PYTHON 
+         Environment: Windows7, LINUX, WINSCP 
+         Tools Used: IDLE, Sublime, Jypyter Notebook 
+         Responsibilities: 
+         ➢ Written Python scripts to get Non-windows OS details. 
+         ➢ Written Python scripts to identify the specification file to use. And read the specification XML and converted into JSON. 
+         ➢ Written Python scripts to read the template 
+         ➢ Written Python scripts to directly replace/modify KS file for encrypting password and network setting based on the requirements in the template. 
+         ➢ Using WINSCP to deploy the scripts in Linux and using LINUX commands recreate the ISO file. 
+         CMC (Chassis Management Controller) 
+         Description: The Chassis Management Controller (CMC) is a systems management component designed to manage one or more Dell PowerEdge systems containing blade servers. Unlike a tower or rack server, a blade server cannot run by itself; it requires a compatible blade enclosure. What makes it compelling to many customers is that blade servers are typically optimized to minimize the use of physical space and energy while still providing ample computing power. 
+          
+         Platform: PYTHON 
+         Environment: Windows7 
+         Tools Used: IDLE, Sublime 
+         Responsibilities: 
+         ➢ Written Python scripts to check the power status of the entire system. Monitoring and validating power for various servers. 
+         ➢ Written Python scripts to clone the blade and validating if the new blade properties are cloned as per the saved profile blades. 
+         ➢ Written Python scripts to invoke an alert and verify if the invoked alerts (ex: email alerts), has reached the inbox or not. 
+         ➢ Written scripts to create different CMC users and if there credentials are working fine as per there functionality.with the requirements provided by the lead. 
+         Roles & Responsiblities as a Software 
+         Engineer: 
+         ◦ Obtained good knowledge in server side scripting. 
+         ◦ Hands on Experience in python pandas and NumPy library. 
+         ◦ Worked on different API's to get information from the server. 
+         ◦ Worked on OpenManage Python SDK with Redfish support. 
+         ◦ Using REDFISH developed a plugin to get each and every detail about a particular server using their IP Address. 
+         ◦ Good knowledge in Python Programming Language. 
+         ◦ Good knowledge in CSS, BOOTSTRAP. 
+         ◦ Experience in Documentation & Presentation skills. 
+         ◦ Worked on web services like REST API, SOAP etc. 
+         ◦ Developed different python modules which was required for my project. 
+         ◦ Ability to convert different 
+         data interchange format like JSON, XML etc. 
+         ◦ Worked in WinSCP for transferring 
+         data securely between local and remote computers and to mount my documents in LINUX machine. 
+         ◦ Worked on PuTTY to run the commands. 
+         ◦ Developed ISO images for RHEL and ESXi servers. 
+         ◦ Developed Software Development Kit for DELL customers. 
+         ◦ Developed ISO image files for deploying Non-Windows Operating System in unattended method. 
+         ◦ Non-Operating System Deployment SDK -Taking ISO files of different Operating system when we want to boot to network ISO two ways is possible, one in an Interactive way and the other in an Unattended method. Developed an ISO image in Unattended way as per client requirements. 
+         ◦ Developed SDKS for DELL customers to specify which operating System and version they need for Redfish. 
+          
+         PROJECT WORK EXPERIENCE: 
+         Non-Operating System Deployment SDK (OMPSDK) 
+         Description: OMPSDK is Dell EMC OpenManage Python Software Development Kit. OMPSDK is a set of APIs that allows to perform most of the actions that would need for creating, monitoring and managing the swrvers or chassis application. Developing ISO images for different Servers like RHEL and ESXi. Booting the ISO images in unattended way using the specification provided by the customers. 
+          
+         Platform: PYTHON 
+         Environment: Windows7, LINUX, WINSCP 
+         Tools Used: IDLE, Sublime, Jypyter Notebook 
+         Responsibilities: 
+         ➢ Written Python scripts to get Non-windows OS details. 
+         ➢ Written Python scripts to identify the specification file to use. And read the specification XML and converted into JSON. 
+         ➢ Written Python scripts to read the template 
+         ➢ Written Python scripts to directly replace/modify KS file for encrypting password and network setting based on the requirements in the template. 
+         ➢ Using WINSCP to deploy the scripts in Linux and using LINUX commands recreate the ISO file. 
+         CMC (Chassis Management Controller) 
+         Description: The Chassis Management Controller (CMC) is a systems management component designed to manage one or more Dell PowerEdge systems containing blade servers. Unlike a tower or rack server, a blade server cannot run by itself; it requires a compatible blade enclosure. What makes it compelling to many customers is that blade servers are typically optimized to minimize the use of physical space and energy while still providing ample computing power. 
+          
+         Platform: PYTHON 
+         Environment: Windows7 
+         Tools Used: IDLE, Sublime 
+         Responsibilities: 
+         ➢ Written Python scripts to check the power status of the entire system. Monitoring and validating power for various servers. 
+         ➢ Written Python scripts to clone the blade and validating if the new blade properties are cloned as per the saved profile blades. 
+         ➢ Written Python scripts to invoke an alert and verify if the invoked alerts (ex: email alerts), has reached the inbox or not. 
+         ➢ Written scripts to create different CMC users and if there credentials are working fine as per there functionality.

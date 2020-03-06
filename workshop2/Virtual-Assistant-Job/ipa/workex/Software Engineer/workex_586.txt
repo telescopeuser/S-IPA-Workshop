@@ -1,0 +1,23 @@
+Taiwan 
+         ● Proactive care: Proactive monitoring systems for health and safety for customer's 
+         NAS. This service increases IT management efficiency and reduces the risk of downtime. 
+         ○ Develop an auto remote function for our technical members to access user's 
+         system remotely. Asymmetric encryption for access key. 
+         ○ Periodically collecting logs from user's system to a centralized server for detecting and analyzing all the potential issues which might have an impact 
+         on health service delivery to abnormal. 
+         ○ Manage replication and failover within a cluster of PostgreSQL. Configure 
+         MongoDB replication, sharding for high availability. 
+         ○ Wrapping as a Synology desktop package, Helps developers and sysadmins 
+         build, ship, and run on distributed DSM (an intuitive web-based operating 
+         system for every Synology NAS) easily. 
+         ● Kernel-based iSCSI Storage: A desktop client application. Supports snapshots, cloning, LUN and Target management. 
+         ○ In place convert advanced file LUN on btrfs filesystem to BLUN that achieve 
+         incredible performance gain in I/O and taking snapshot. 
+         ○ Coordinated with creative designers to develop and maintain the UI interface 
+         and some of the SDK and Linux kernel module. 
+         ○ Architect CI/CD pipeline to ensure code stability. Auto trigger test script 
+         whenever package build finished. Use the clang-tidy utility from the Clang/LLVM project to automatically refactor C++ user-space project. 
+         ● Active-Active iSCSI Storage with High Availability: iSCSI service provided by two storage 
+         controllers with shared storage, to ensure service continuity when any one of the controllers fails. 
+         ○ I designed a mechanism to forward http request to a specific controller. 
+         ● Other minor development projects ranging from kernel space to user space to javascript web UI.

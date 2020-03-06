@@ -1,0 +1,2 @@
+* Oversees the management of the club 
+         * Manages a committee of 20.

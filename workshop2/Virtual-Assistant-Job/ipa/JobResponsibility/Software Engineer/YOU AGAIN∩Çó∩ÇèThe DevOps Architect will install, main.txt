@@ -1,0 +1,5 @@
+Install, maintain, and support on-premises and off-premises cloud stack.
+Configure, maintain, and support the cloud-related infrastructures.
+Act as a system administrator on different OSes (e.g. RHEL, Opensolaris, Ubuntu, etc.) and help teams deploy their application and automate their development and releases on the cloud.
+Ability to develop solutions and self-learn new tools and technologies.
+Document, and share knowledge on developed DevOps solutions.

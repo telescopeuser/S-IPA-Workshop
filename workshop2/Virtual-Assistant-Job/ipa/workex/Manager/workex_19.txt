@@ -1,0 +1,134 @@
+• The primary deliverable for this role is the provision of a consistent & reliable end to end Access Provisioning processes to ensure high quality service which is compliant with GSK Management Practice. 
+         • Responsible to the Access Provisioning 
+         Manager to provide the delivery of own individual service activity according to agreed SLA as part of the APS team. 
+         • Develop own technical skills in the APS set of service disciplines to cover a minimum of 50% of the general day to day service tasks 
+         • Support day to day monitoring of the APS service in own areas of expertise 
+         • To assist in the support and maintenance of a high-quality service in terms of availability and performance. 
+         • Participate in project/service tasks in own area of expertise. 
+         • Provide 2nd level support for client-generated Help Desk issues. Work with other APS Analysts to deal with 3rd level support in specified areas. 
+         • Responsible for dealing with the response and resolution of remedy calls assigned to the associated resolving agency within assigned timescales within own area of expertise 
+         • Undertake service tasks for own area of expertise to assist the resolution of service issues/problems. 
+         • Perform primary analysis of access incidents in own area of expertise and escalate issues to product specialist or team 
+         manager. 
+         • Write and maintain documentation for procedures and policies carried out in own area for use by the team. 
+         • With the assistance of the 
+         Manager/Senior Analyst, take assignment as Team Product Specialist, responsible for the area assigned and the training and development of self and other team members to ensure team expertise meets required standards for personally assigned products 
+         • SQL 
+         • This request will come into us by the form or Remedy. The request will be for SQL Server account to be created, revoked, deleted, unlocked and for SQL Server account password reset. All changes will be set in strictly defined SQL SERVER database. 
+         • Oracle 
+         • This request will come into us by the form or Remedy. The request will be for Oracle account to be created, revoked, deleted, unlocked and for Oracle account password reset. All changes will be set in strictly defined Oracle database. 
+          
+         SME -Subject matter Expert within Team 
+         -handling Unix issue 
+         -PST capture 
+         -Move 
+         IT (user relocation of files and folders) 
+         -MUD to MUD migration (migration user profile to another profile 
+          
+         Job Scope: 
+         • Functional accounts - bulk request- upload 
+         • Functional accounts - arp requests workflow process 
+         • Functional accounts - functional accounts deletion process 
+         • HR import process 
+         • Imms documented account creation 
+         • 
+         It risks management- access to an exchange mail file 
+         • Administration - system daily checks 
+         • Amars_unix windows_privaccess 
+         • Anonymous mail for an existing functional account 
+         • Authentication 
+         manager bulk Admin process - 
+         • B2b - Adding new b2b relationships to the GDIconfig 
+         • Bulk-account-creation-forms 
+         • Citrix - creation of universal AD groups for citrix applications 
+         • Citrix - granting access to applications 
+         • Enabling an outlook group mailbox to use IMAP, pop3 and MAPI 
+         • Leavers reconciliation 
+         • Litigation hold issues handling process 
+         • Move 
+         it - co-coordinator tasks 
+         • Move 
+         it - computing access requests workflow 
+         • Mud 2 mud migration process 
+         • Maintenance of PAMS reference data 
+         • Move 
+         it - privileged access review 
+         90 days no login project maintenance - 
+         Account maintenance - oracle 
+         Account maintenance - SQL server 
+         Active directory - accessing stiefel domain (sww) 
+         Active directory - delegated rights 
+         Active directory - troubleshooting account lockouts 
+         AD - account ou move 
+         AD - bulk load mail-enabled security groups 
+         AD - functional account backout 
+         AD - long term leave / returner 
+         AD - password reset 
+         AD - security group creation 
+         AD deletion and u drive removal 
+         AS400 - creating privileged accounts 
+         AS400 - enhanced menu functions for privileged access 
+         AS400 - removing privileged accounts 
+         AS400 account creation (smtp access) 
+         Exchange create contact record (external Address) 
+         Exchange creating an account for an existing client.docx 
+         Exchange custodian change group mailbox 
+         Exchange deleting a group mailbox 
+         Exchange enable out of office 
+         Exchange group mailbox 
+         Exchange manual IW migration 
+         Exchange rename group mailbox 
+         Exchange requesting access to an exchange mail file (pst file) 
+         Exchange send as access for a group mailbox 
+          
+         • New starter process using access 
+         IT 
+         • OpenVMS - privileged access on the GSK GMS cluster 
+         • OpenVMS - privileged access on the GSK STV clusters 
+          
+         • process 
+         - Processing move 
+         IT in ARP 
+         - Re-enablement of core accounts 
+         Lotus notes group mailbox deletion requests (GSK apps ) 
+         Lotus notes GSK recertification of personal ids only 
+         Lotus notes GSK reset or reinstall notes id files 
+         Lotus notes GSK bulk group mailbox deletion requests 
+         Lotus notes GSK updating the id archive database 
+         Lotus notes manually move to a new certifier 
+         Lotus notes manually renaming a client 
+         Lotus notes password reset helpdesk 
+         Lotus notes rest of the world new mail account 
+         Lotus notes secure server id process 
+         Lotus notes updating id archive after recertification of personal id 
+         Privileged access 30 days password expiry process 
+         Privileged access blade and vm ware privilege process 
+         Privileged access creating lotus notes privilege id's and granting privilege lotus notes access 
+         Privileged access monthly check of annual privileged access e- learning course 
+         Privileged access reconciliation process 
+         Privileged access granting Unix Linux root super privileged access for 
+         Privileged access PAMS 30-day password change 
+         Unix - account lifecycle tool- secondary group creation 
+         Unix - account lifecycle tool- user access requests 
+         Unix - Adding net groups to the local password file on Unix or Linux 
+         Unix - application account - ownership change 
+         Unix - weekly checks 
+         Unix account lifecycle tool - application account creation 
+         Unix account lifecycle tool- removing user access 
+         Unix vm ware privileged process 
+          
+         - Remote access - Administration (RSA authentication 
+         manager) 
+         - Remote access - hard token Administration 
+         - Rest of the world leavers - removal process 
+         - RTP - RSS SecurID token deletion process 
+         - Stifel - active directory (sww) account creation 
+         - Suspension of account 
+         - Setting a Unix application account password 
+          
+         Leavers - Administration 
+         Leavers - emergency process 
+         Leavers - importing email only requests 
+         Leavers - weekend processing 
+         Legal and discovery - access to an exchange mail file for live users 
+         Live meeting account disablement

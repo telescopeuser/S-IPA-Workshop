@@ -1,0 +1,1 @@
+Developed prototype of a Reflectance Based Pulse Oximeter with Bluetooth Low Energy (BLE) Technology and presented it at the National Aerospace Laboratory (NAL CSIR-800), India

@@ -1,0 +1,10 @@
+department which supports the IT needs of all the various departments in the 5 fabrication plants (FAB) in Singapore. 
+         • Responsible for developing new or enhance existing web application to ensure programs and applications perform to user requirements. 
+         • Provide 2nd level (24x7) support to >20 local built applications used in the 5 FABs. 
+         • SME (Subject-Matter-Expert) and Go-To person for >20 local built applications. 
+         • Enhance local-built applications to fulfill the needs raised by the users to improve yield, cycle time in production. 
+         • Based on user requirements, evaluate and propose solutions based on the technology requirements and limitations. 
+         • Ensure all critical applications achieve high reliability and fast recovery capability. 
+         • Take self-initiative to develop an e-approval system "eForms" to improve efficiency in CIM department. eForms is a paperless approval system which contains multiple types of forms which require different approval levels for each form. The efficiency of the implemented system was well recognized and was introduced to other departments for similar usage. 
+         • Receive a total of 14 "Say Thanks and Recognise" appreciation awards from the application users for positive contributions to the departments. 
+         • Receive "Exemplary Employee Award" presented by STMicroelectonics, Muar in Malaysia for excellent contribution in implementing eMAMA (electronics Multiple Assets Movement Application), resulting in significant reduction of the approval process.

@@ -1,0 +1,16 @@
+7. Human detection and action recognition in intelligent mall Jan - June 2015 
+         Goal: to develop human detection and action recognition system based on video in intelligent mall. 
+         Role: develop machine learning algorithms of human detection and action recognition, measure human flow and interaction with products. 
+         Results: This intelligent system has been developed as technology reserve. Human detection rate is higher than the state-of-art methods. 
+         8. 3D measurement system for 
+         big size irregularity objects June 2015-March 2016 
+         Goal: to develop online 3D measurement system. 
+         Role: develop an automatic 3D measurement system with high accuracy, propose and implement novel algorithm to improve the accuracy and robustness. Major relative technologies: Coded Structured Light (CSL) Algorithm, encoding pattern for projector, decoding pattern based on images, 3D optimization based on 3D structures and 2D information. 
+         Results: a prototype system has been developed for parcel's size measurement. The accuracy is 3 times better than the competitive products. A patent is filed. 
+         9. Parcel picking intelligent assistant system Oct 2015-Aug 2018 
+         Goal: to develop a parcel picking assistant system based on cameras and projectors. 
+         Role: propose algorithms to calibrate the camera/projector, detect and track moving parcels, project 3D patterns on parcels' top faces in real time. The proposed novel random pattern calibration has sub-pixel accuracy for multiple cameras and projectors. Detection and tracking using RGB and 3D information is much more robust than the methods only using RGB information. 
+         Results: A completed system is deployed to a 
+         big MNC successfully. It improves the logistics center throughput dramatically. Continue to deploy it to more companies. This project contributes 100+ millions dollar to my company. Some patents are filed. 
+          
+         Keyword: Computer Vision, Machine Learning, Artificial Intelligence, Pattern Recognition, Deep Learning, Randomized Decision Tree / Forest / Fern / Ferns, Convolutional Neural Networks (CNN), Coded Structured Light (CSL) Algorithm, Calibration for Projector/Camera, Random Pattern Recognition, Object Detection/Tracking

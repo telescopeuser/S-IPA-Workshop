@@ -1,0 +1,5 @@
+* Contributed to a White Paper on AWS JITR 
+         * Drove technical execution and adoption on IoT, 
+         Big 
+         data, deployment, and CI/CD 
+         * Delivered technical deliverables using SCRUM

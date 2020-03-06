@@ -1,0 +1,25 @@
+• Attend ticket assigned for daily network operations. 
+         • Perform maintenance including Updating rules/Access Lists for CISCO FWSM and Juniper Netscreen Firewall ISG 2000 based on the user requirement. 
+         • Performing OS update of CISCO FWSM And analysis of traffic flow in NUS campus Network. 
+         • Troubleshooting of issues related to Juniper ISG 2000 firewall, CISCO PIX, and FWSM complained from users. 
+         • Troubleshooting issues related to OSPF in Client (NUS) Campus network and analysis for the root cause of incidents. 
+         • Setting up and troubleshooting Load Balancing for Server Farm on Cisco Content Switching Module (CSM) 
+         • Maintaining, Configuration and troubleshooting of Cisco catalyst Switches problems like level-2 & 3. 
+         • Network planning, Implementing and expand NUS network setup for New departments. 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Tests, troubleshoots and replaces network equipment like Routers, and Switches etc. 
+         • Performing Standard changes. change requests in timely manner and Handling Network Incidents 
+         • Monitoring 
+         Data Traffic using MRTG (Multi Router Traffic Grapher) and CACTI graphs.• Attend ticket assigned for daily network operations. 
+         • Perform maintenance including Updating rules/Access Lists for CISCO FWSM and Juniper Netscreen Firewall ISG 2000 based on the user requirement. 
+         • Performing OS update of CISCO FWSM And analysis of traffic flow in NUS campus Network. 
+         • Troubleshooting of issues related to Juniper ISG 2000 firewall, CISCO PIX, and FWSM complained from users. 
+         • Troubleshooting issues related to OSPF in Client (NUS) Campus network and analysis for the root cause of incidents. 
+         • Setting up and troubleshooting Load Balancing for Server Farm on Cisco Content Switching Module (CSM) 
+         • Maintaining, Configuration and troubleshooting of Cisco catalyst Switches problems like level-2 & 3. 
+         • Network planning, Implementing and expand NUS network setup for New departments. 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Tests, troubleshoots and replaces network equipment like Routers, and Switches etc. 
+         • Performing Standard changes. change requests in timely manner and Handling Network Incidents 
+         • Monitoring 
+         Data Traffic using MRTG (Multi Router Traffic Grapher) and CACTI graphs.

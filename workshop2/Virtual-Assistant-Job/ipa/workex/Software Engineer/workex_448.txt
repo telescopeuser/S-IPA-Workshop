@@ -1,0 +1,7 @@
+Project: JD Edward upgrade 
+         • Contribution project Architect changes for UNIX to Windows Server Environment. 
+         • Setting Windows Server environment for executing shell script using Cygwin. 
+         • Converting UNIX and Perl script for windows compatible and running into a Windows server. 
+         • Contribution in Debugging and Unit test case preparation for all Daily, Monthly and Ad-hoc batch runs. 
+         • Configured job for running the Daily and Monthly batches using Maestro scheduler. 
+         • Developed windows BIP service, which takes invoice files for NAS location and send a mail to a customer email id using C# technologies for development.

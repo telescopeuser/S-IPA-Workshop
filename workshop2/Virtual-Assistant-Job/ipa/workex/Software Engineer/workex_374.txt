@@ -1,0 +1,14 @@
+Singapore 
+         UBS is a global firm providing financial services in over 50 countries. My role was shift lead and to provide database solutions and to support new and existing applications 
+          
+         Responsibilities: 
+         • Shift lead and working with a team of 20 DBAs. 
+         • Plan and implement quarterly firm wide maintenance activities for Oracle databases 
+         • Understand product roadmaps, product catalogue and various operational procedures, support application teams with specialized knowledge 
+         • Establish and maintain strong relationships with customers helping them to design, plan and implement solutions, working closely with other corresponding infrastructure streams to deliver the services in timely manner. 
+          
+         Projects Handled: 
+         Alert Reduction: 
+         The task is to analyse the Netcool alerts for the Oracle databases in the firm, create a pattern, identifies potential risks and fix the issues before they cause business outages. My efforts reduced critical alerts for Oracle databases by 30% and improved the stability of database farm by 40% by reducing the number of outages on the database systems. 
+         Database Refresh: 
+         The task is to refresh Dev/UAT database from production databases on demand basis. My task was to work with Engineering team to create the database refresh package. Provide technical requirements, potential solutions, test the package and educate other team members on how to use the new package.

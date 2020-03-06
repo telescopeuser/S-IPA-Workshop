@@ -1,0 +1,41 @@
+Sports Toto Malaysia is currently a wholly-owned subsidiary of Berjaya Sports Toto Berhad which is listed on the Kuala Lumpur Stock Exchange. It is the lotto operator with over 680 outlets throughout Malaysia and offers a variety of games, digit-type games (namely, 4D, 5D and 6D) and lotto-type games (namely, Toto 4/49, Toto 6/42 Jackpot, Super Toto 6/49). 
+          
+         Role: Programmer (Java) - Software Support Department Involved in "Intellimark" and Account Betting System (ABS) project. 
+         Responsibility 
+         : Programmer (Java) - "Intellimark" Project 
+         • Software Support (development and enhancement) for the project/software: "Intellimark", which handle for the digit-type games and lotto -type games ticketing. 
+         • Trouble-shooting for the reported fault and provides the solution accordingly. 
+         • Using the JBuilder as the development environment. 
+         • Provide necessary information/consultation to the Management (Software Senior Manager, General Manager and Director) upon request. 
+         • Send weekly status report to supervisor on reporting the on-hand job status/updates. 
+          
+         : Tester (J2EE) - "ABS" Project 
+         • Assist and co-ordinate with 
+         engineers from Cybage Software Pvt. Ltd, India and International Lottery & Totalizator Systems (ILTS), USA for configuring, setting up the new project: Account Betting System (ABS) to Sports Toto Malaysia. 
+         • Server Administration(for testing purpose): 
+         ❖ BEA Web Logic Server. 
+         ❖ Interactive Voice Response (IVR) Server. 
+         ❖ WebSphere MQ Series Server. 
+         ❖ Load Balancer. 
+         • Assist Internal Audit Team to conduct the acceptance testing based on the created test plan for the project/software: "ABS"- Account Betting System. This J2EE platform system allow customer to place digit game and lotto game bet via: Web, Short Message Service (SMS), Interactive Voice Response (IVR). 
+         • Capture the fault/defect and send the weekly status report to supervisor for the project progress and updates.Sports Toto Malaysia is currently a wholly-owned subsidiary of Berjaya Sports Toto Berhad which is listed on the Kuala Lumpur Stock Exchange. It is the lotto operator with over 680 outlets throughout Malaysia and offers a variety of games, digit-type games (namely, 4D, 5D and 6D) and lotto-type games (namely, Toto 4/49, Toto 6/42 Jackpot, Super Toto 6/49). 
+          
+         Role: Programmer (Java) - Software Support Department Involved in "Intellimark" and Account Betting System (ABS) project. 
+         Responsibility 
+         : Programmer (Java) - "Intellimark" Project 
+         • Software Support (development and enhancement) for the project/software: "Intellimark", which handle for the digit-type games and lotto -type games ticketing. 
+         • Trouble-shooting for the reported fault and provides the solution accordingly. 
+         • Using the JBuilder as the development environment. 
+         • Provide necessary information/consultation to the Management (Software Senior Manager, General Manager and Director) upon request. 
+         • Send weekly status report to supervisor on reporting the on-hand job status/updates. 
+          
+         : Tester (J2EE) - "ABS" Project 
+         • Assist and co-ordinate with 
+         engineers from Cybage Software Pvt. Ltd, India and International Lottery & Totalizator Systems (ILTS), USA for configuring, setting up the new project: Account Betting System (ABS) to Sports Toto Malaysia. 
+         • Server Administration(for testing purpose): 
+         ❖ BEA Web Logic Server. 
+         ❖ Interactive Voice Response (IVR) Server. 
+         ❖ WebSphere MQ Series Server. 
+         ❖ Load Balancer. 
+         • Assist Internal Audit Team to conduct the acceptance testing based on the created test plan for the project/software: "ABS"- Account Betting System. This J2EE platform system allow customer to place digit game and lotto game bet via: Web, Short Message Service (SMS), Interactive Voice Response (IVR). 
+         • Capture the fault/defect and send the weekly status report to supervisor for the project progress and updates.

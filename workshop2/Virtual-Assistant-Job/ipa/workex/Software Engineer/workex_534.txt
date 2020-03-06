@@ -1,0 +1,20 @@
+Designer 
+         Projects: VISA Singapore/USA/India 
+         • Leading re-architecture of Ab-Initio graphs to 
+         Big 
+         Data solutions(Ab Initio connector, Write Hadoop, Read parallel Hadoop, Hive, Pig, Map reduce, Hive UDF, HQL) for multiple applications in VISA 
+         • Interchange 
+         Instrumental in implementing 1st ever generic end-to-end ETL automation framework in VISA by production 
+         data scrubbing and 1 click cycle execution on lower environment by preparing source 
+         data, cycle execution and final 
+         data comparison with expected result. 
+         • Responsible for 
+         data modelling, 
+         data normalization, cleansing, enrichment & mapping 
+         data sources for OLAP and OLTP systems in VISA 
+         • Designed and developed software application for the Loyalty products, Authorization & Settlement applications of Visa using Ab Initio components(PDL, Plan>IT, Metadata Hub, EME, AI Components) 
+         • Performed POC for proper implementation of Code Branching, Standard Environment, Lineage Solution for VISA 
+         • Worked on the generic 
+         data check utility tool built in Abinitio for performing 
+         data validation as per application changes 
+         • Worked on Pig for performing various transformations, audits and complex functionalities with the help and sqoop for Database(Oracle, DB2) import and export from Hadoop

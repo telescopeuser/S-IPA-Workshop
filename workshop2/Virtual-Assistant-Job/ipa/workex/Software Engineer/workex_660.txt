@@ -1,0 +1,31 @@
+• Manage all email service operations, deliver high availability email services (Exchange and Blackberry) for Asia Pacific Region which covers 13 countries for about 15000 active mailboxes. 
+          
+         • Key point of contact for both Digital Security and Compliance Team for users' email investigation matters and to assist in all investigations required. 
+          
+         • Perform Active Directory & users' email accounts administration. Ensure user email display name and external email address are created according to Global Exchange global naming conventions standards. Work together with Asia Pacific local helpdesk support to ensure user service requests are processed without delay. 
+          
+         • Resolve common exchange service incident effectively and to reduce outstanding incident tickets. Conducted sharing session and impart knowledge to brief the 13 service desk on Blackberry failure encryption troubleshooting procedure on users' device and global exchange email naming convention standards creation. 
+          
+         • Manage, mitigate and proactively identify all Blackberry and Exchange service alert received from the monitoring systems (HPSIM /MOM). 
+          
+         • Perform as technical lead role for all Exchange & Blackberry related projects. 
+          
+         Significant Highlights 
+         • I had developed and updated the Email service troubleshooting step by step procedure; analysis concept skills. Conducted sharing session and impart knowledge to brief the 13 service desk on Blackberry failure encryption troubleshooting procedure on users' device and global exchange email naming convention standards creation. 
+          
+         • Besides performing the daily operational check, I have also proactively studied and analyzed the exchange service alert received from the monitoring system (HPSIM /MOM). Reactively and proactively drives improvement by ensuring the appropriate remediation action was taken whenever necessary to prevent any severity incident happens for exchange service. On year 2012, I had received the exchange service high memory utilization alert regularly. After troubleshooting and analyzing the trend record, besides applying the exchange hot fixes, optimize exchange memory configurations and redistributed hundreds of mailboxes to other exchange servers for load balancing & remediation. The Exchange service is stable and available all the times and without impacting users' blackberry device for sending/receiving email incident. 
+          
+         • Received yearly reward for my professionalism and excellence support for exchange services. This includes but not limited by users' mailboxes size increase / relocation / deleted activities including critical users like the traders. 
+          
+         • As part of my own personal development, I have been given an opportunity to be the "Project Coordinator" in year 2012. Managed for project schedule tracking; monitoring and followed up team member project activities and financial budget updated. 
+          
+         • I had developed and updated the Email service troubleshooting step by step procedure; analysis concept skills. Allowed the helpdesk to resolve the common incident effectively and reduce numbers of incident tickets rose. 
+          
+         • Recognition and received sport bonuses for the following projects: - 
+         ◦ Year 2013: - Decommission of Indonesia Altiris Server and commissioning of a new Altiris 7.0 (Package & Task) Servers for both Indonesia and Tangguh sites. Ensure no business disruptions during entire project activity. 
+          
+         ◦ Year 2013: - Nominated to be the User Acceptance Test and Logistic coordinator for the Singapore Datacentre Disaster Recovery exercise. Coordinated and worked with 13 site service desk. The local service desk teams to perform and execute the relevant application test required during entire DR exercise stages. Conduct briefing sessions to ensure testers understood and are clear of all testing procedures prior to actual day of the DR exercise. Assist testers during application testing window and to meet required test allocation timings respectively during actual exercise day. 
+          
+         ◦ Year 2011: - Successful migrate the Blackberry Server from version 4.0 to 5.0 with Disaster Recovery functionality. Supervised and coordinated with 13 sites service desks to ensure user blackberry accounts were cutover successfully and their blackberry devices were enabled to send/receive email with minimised disruption. 
+          
+         ◦ Year 2008: - Appointed as the infrastructure Technical Support for BP Tower Office relocation project (Merlion project). Conducted and Evaluated the Multi-Function-Device (MFD) with service partner for HP Printers and Fax machines replacement. Besides supervising the server relocation, I had also performed server's network IP address setup configuration; Rack space allocation during office relocation activity. Worked with finance team on transferring of asset / write off asset for disposed. Executed and disposed the obsolete unwanted items including servers in Singapore IT Rooms. I was also recognised for my contributions and efforts made for the IT office equipment disposal. to safe

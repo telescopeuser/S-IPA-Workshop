@@ -1,0 +1,10 @@
+Client: Credit Agircole CIB Singapore 
+          
+         ● Working as Expert for managing 500 + production SQL server 2008, 2012 servers in a Geo Cluster environment with SAN replication. 
+         ● Developing PowerShell Scripts for Automating administrative tasks and capturing database information. 
+         ● Auditing logins, users, database objects and permissions using the SQL Server policy based management and ESM tool from Symantec. 
+         ● Capacity planning, monitoring and Tuning the IO usage on SANs. 
+         ● Performance tuning and assisting the Dev teams in tuning slow queries. 
+         ● Managing and resolving P1, P2 incidents. Working on problem management tickets and doing Incident analysis for preventing the incident reoccurrence. 
+         ● Using Nagios tools for monitoring SQL server instances and writing T-SQL Scripts for custom monitoring. 
+         ● Planning and implementing Server Migrations, patching and Version upgrades.

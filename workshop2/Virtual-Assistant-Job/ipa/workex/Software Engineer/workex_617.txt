@@ -1,0 +1,39 @@
+Roles and Responsibility: 
+         ➢ Installed & configured Hadoop and Ecosystem components in Cloudera environments. 
+         ➢ Installed and configured Hadoop, Hive and Pig on Amazon EC2 servers 
+         ➢ Upgraded the cluster from CDH4 to CDH5 The tasks were first performed on the staging platform, before doing it on production cluster. 
+         ➢ Enabled Kerberos and AD security on the Cloudera cluster running CDH 5.4.4. 
+         ➢ Knowledge of AWS cloud service like Compute, Network, Storage and Identity & access management. 
+         ➢ Hands-on Experience in configuration of Network architecture on AWS with VPC, Subnets, Internet gateway, NAT, Route table. 
+         ➢ Responsible for ensuring Systems & Network Security, maintaining performance and setting up monitoring using Cloud Watch and Nagios 
+         ➢ Management and Administration of AWS Services CLI , EC2 , VPC , S3 , ELB Glacier, Route 53 , Cloud trail , IAM , and Trusted Advisor service 
+         ➢ Experience monitoring and troubleshooting issues with Linux memory, CPU, OS, storage and network. 
+         ➢ OS recovery with the help of altboot / rear backup with ISO image. 
+         ➢ Experience in Open SSH & tetica configuration as per the company standard. 
+         ➢ Having Trouble shouting skills in boot related issues. 
+         ➢ Experience on LVM like creating mirror's and logical disks. 
+         ➢ Experience in NFS & NIS in SOLARIS & Linux. 
+         ➢ Experince zfs issues, creating zpool and managing zfs filesystem. 
+         ➢ Online resizing filesystem in VxVm using vxresize and vxassist commands online relay out. 
+          
+         MySQL & MangoDb Database: 
+         ➢ Installing mysql server in window's and Linux Operating System. 
+         ➢ Creating Database and tables as per the requirement. 
+         ➢ Experinece in sql Queries, joins, Dropping table & Primery Keys delete on cascade. 
+          
+         VMware Virtualization: 
+         ➢ Installation, Configuration and Admin of VMware VSphere5, ESX 5.0 and ESXi Server, VMware View. 
+         ➢ Installing VMware Vsphere client & Virtual vCenter Server. 
+         ➢ Migrating of host using VMotion Performing Snapshots, Cloning, Cold Migrations and Hot Migrations. 
+         ➢ Migrate Physical servers to Virtual server using VMware Converter (P2V converter). 
+         ➢ Creating and Managing Virtual Machines and Templates. 
+          
+         AWS Cloud Technologies: 
+         ➢ Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/ Ubuntu) and Configuring launched instances with respect to specific applications. 
+         ➢ Installed application on AWS EC2instances and configured the storage on S3 buckets. 
+         ➢ Perform S3 buckets creation, policies and the IAM role based polices. 
+         ➢ Build servers using AWS, importing volumes, launching EC2, RDS, creating security groups, auto-scaling, load balancers (ELBs) in the defined virtual private connection. 
+         ➢ Created monitors, alarms and notifications for EC2 hosts using Cloud Watch. 
+         ➢ Practical usage of Amazon Glacier for archiving 
+         data. 
+         ➢ Technical knowledge on EC2, IAM, S3, VPC.

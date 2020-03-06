@@ -1,0 +1,22 @@
+Duration: August 29, 2007 - February 4, 2011 
+         Accomplishments: 
+         • Worked as a consultant at American International Group (AIG) 
+         • Worked closely with IT Portfolio Managers which handles multiple programs and projects for insurance business 
+         • Handled Risk management and Defect Management 
+         • Developed good working relationships with business representatives and project stakeholders 
+         • Gathered information from specific business unit heads and resource persons 
+         • Created Business Requirements Documents and Use Cases for Business sign-off 
+         • Handled and facilitated planning, design and execution of testing activities 
+         • Managed issues/defects log to determine fixed and outstanding items using HP Quality Center 
+         • Coordinated with project management regarding project status 
+         • Conducted product trainings walkthroughs and demos 
+         • Provided Proof of Test for the client and create user manuals 
+         • Conducted interviews and made recommendations 
+          
+         PROJECTS: 
+         Role: Test 
+         Engineer/Team Lead 
+         Team size: 16 
+         Projects: Document Management Service Project - Europe Content Manager, Killer Multinational Project, Netherlands and Switzerland Technical, Upgrade Project, Belgium - Luxemburg Technical Upgrade, Convergence Technical Upgrade Project (Denmark, Spain, Norway, Sweden and Portugal), ALPS CL Product Migration (Taiwan) Project, Compliance Technical Upgrade (Hungary, France, Germany and Italy), SDI+ Portdown Enhancements (Philippines and China) Project , DB Encryption (Malaysia) Project, SharePoint DTF Repository and Template Approval Workflow Project 
+          
+         Project Description: It is a suite of applications that supports and manages the businesses in the insurance industry of AIG.

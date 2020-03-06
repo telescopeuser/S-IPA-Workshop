@@ -1,0 +1,12 @@
+JOB DESCRIPTION: 
+         • Developed and implementing an in-house program ( Lens Monitoring System ) in the production to determine and reduce the defectives optical lens of the company. 
+          
+         • Responsible also for maintaining and repairing the Hapasato Labeling Machine for Lens Barcode. 
+          
+         • Technical support for Optical lens Scanner for detecting defects, software and hardware. 
+          
+         • Responsible for system, files and database backup procedures and directs recovery operations in the event of destruction of all or part of the operating system or other system components. 
+          
+         • Provides seminars, technical assistance and training to all computer appropriate computer personnel on hardware/software features associated with the computer installation, operation and maintenance. 
+          
+         • Responsible for maintaining Local Area Network of company. Giving new accounts for new employee in Windows 2000 Server. Backup mail server, file server and SQL server.

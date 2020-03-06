@@ -1,0 +1,13 @@
+Environment: PeopleSoft HCM 9.0, People Tools 8.54, Oracle 12c, SQL Server 2014 
+         Duration: Aug 2018 to July 2019 
+          
+         Project Description: Ernst & Young is a multinational professional services firm headquartered in London, England, United Kingdom. EY is one of the largest professional services firms in the world and is one of the "
+         Big Four" accounting firms. 
+         They are currently discontinuing PeopleSoft HCM and moving to SAP Success Factors. So they need to convert all their custom AE, CI, Views and SQR to Stored Procedure and View in Sql Server DB. 
+          
+         Roles and Responsibilities: 
+         ❑ Working as a Team Lead for gathering RSD requirements sheet which is provided by the client and updating daily status on daily scrum call basis. 
+         ❑ We recently launched Sprint 1 and mid of Sprint 2 using Agile model. 
+         ❑ Working on sql and Stored procedures. 
+          
+         PROJECT EXPERIENCE #13

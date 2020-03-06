@@ -1,0 +1,21 @@
+Duties Include: 
+         • Maintains Customers' Windows 2003 Server, Windows 2000 Server, Solaris Server. 
+         • Maintains Server Backup via ArcServe, Symantec 
+         • Perform and Change Daily Backup Tapes for Servers 
+         • Perform Daily Server Health Check 
+         • Creating New DHCP Segments 
+         • Upgrade Server, Laptops and PCs Hardware Parts 
+         • Configure User to Join SCB Domain 
+         • First level Customer On-site Support 
+         • Update User Laptops and PCs SAV base on Daily extract list 
+         • Setup User Laptops, PCs 
+         • Rebuild User PCs, Laptops 
+         • Upgrade User Software's and Windows Update 
+         • Create New Print Queue in Servers 
+         • Map or Install Network Printer for User. 
+         • Configure User MS Outlook Email 
+         • Troubleshoot User Laptops or PCs on Hardware and Software. 
+         • Network LAN Port connection Troubleshooting 
+         • Troubleshoot User Blackberry mobile phone 
+          
+         Reason for leaving: Contract Ending and looking better job prospects

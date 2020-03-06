@@ -1,0 +1,8 @@
+Key responsibilities: 
+         • Design long-term technical architectures and constitute a technical gateway between the project 
+         manager and the developers. 
+         • Define product requirements and create high-level architectural specifications. 
+         • Ensure feasibility, functionality and integration of the existing systems/platforms. 
+         Major Achievement: 
+         1. For large telecom corporations in China as clients, architected and led the development and implementation of BSS and Billing System which supported business operations. Designed the n- 
+         tier architecture based on DDD(Domain Driven Design). The technology stacks included

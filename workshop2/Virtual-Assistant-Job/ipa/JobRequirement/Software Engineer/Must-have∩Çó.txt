@@ -1,0 +1,5 @@
+Prior experience building large scale enterprise data pipelines using commercial and/or open source data management tools from vendors such as Informatica, Talend, Microsoft, IBM or Oracle
+Strong knowledge of data manipulation languages such as SQL necessary to build and maintain complex queries and data pipelines
+Practical appreciation of data quality metrics and remediation strategies
+Data modelling and architecting skills including strong foundation in data warehousing concepts, data normalisation, and dimensional data modelling such as OLAP
+Undergraduate or graduate degree in Computer science or equivalent

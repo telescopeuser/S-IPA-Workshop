@@ -1,0 +1,24 @@
+Residential Fire Insurance 
+         Description: The Application is used to capture Endorsements to Residential Fire policies. 
+         This Endorsement Activity allows users to capture changes like Add/Edit Additional Insured, Edit Town 
+         Class, Edit Cross Index, Edit/Add Discounts, Edit/Add Protective Devices, and Add/Edit Residence 
+         Information, Edit the Location of the Property, Edit Policy Coverage, Add/Edit Additional Coverage or 
+         Terminate Policy. 
+         Technologies & Database: Core JAVA, Multithreading, Struts1.3, J2EE, Oracle, Spring Core, Spring Integration. 
+         Responsibility: Coding, resolving technical and design issues, documentation, unit testing. 
+          
+         Comprehensive Personal Liabilities Insurance 
+         Description: A Comprehensive Personal Liability (CPL) policy can be issued to owners of one to four 
+         family dwellings used exclusively for residential purposes. Incidental business or studio occupancy for a 
+         CPL policy is permitted. 
+         Technologies & Database: Core JAVA, Multithreading, Struts1.3, J2EE, Oracle, Spring Core, Spring 
+         Integration.. 
+         Responsibility: Coding, resolving technical and design issues, documentation, unit testing. 
+          
+         Recreational Package Policy Insurance 
+         Description: Recreational Package Policies insure vehicles which are individually owned and which are 
+         used solely for private pleasure purposes. The term recreational vehicles shall mean vehicles which are self- propelled and designed for use of public roads. It shall include but not be limited to snowmobiles, all-terrain 
+         vehicles, dune buggies, trail bikes, mini bikes, golf mobiles and go-carts. 
+         Technologies & Database: Core JAVA, Multithreading, Struts1.3, J2EE, Oracle, Spring Core, Spring 
+         Integration.. 
+         Responsibility: Coding, resolving technical and design issues, documentation, unit testing.

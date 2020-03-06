@@ -1,0 +1,25 @@
+Responsibilities: 
+          
+         • Deploy and manage Kubernetes and Openshift clusters. 
+         • Clear understanding and hands-on experience in Git, Jenkins, Spinnaker, Docker and CI/CD 
+         • Develop bash, ansible and python scripts for various operational needs. 
+         • Deploy and manage large cloud platforms using Redhat and Mirantis Openstack. 
+         • Configure and manage software defined infrastructure (SDI) which includes SDN Controllers, multiple Juniper control plane, Pluribus 
+         data plane switches, Compute and Storage. 
+         • Support during implementation of fault and performance management system like Zenoss 
+         • Integration of ELK stack and Nagios log server implementation. 
+         • EMC Unity storage and Avamar/
+         Data Domain integration with Kubernetes and Openstack/Cloud 
+         • Formulate detailed network, storage, and compute design specifications for stable and secure computing operations in a dynamic cloud-based environment, which includes preparing both High Level Design (HLD) and Low-Level Design (LLD) documentationResponsibilities: 
+          
+         • Deploy and manage Kubernetes and Openshift clusters. 
+         • Clear understanding and hands-on experience in Git, Jenkins, Spinnaker, Docker and CI/CD 
+         • Develop bash, ansible and python scripts for various operational needs. 
+         • Deploy and manage large cloud platforms using Redhat and Mirantis Openstack. 
+         • Configure and manage software defined infrastructure (SDI) which includes SDN Controllers, multiple Juniper control plane, Pluribus 
+         data plane switches, Compute and Storage. 
+         • Support during implementation of fault and performance management system like Zenoss 
+         • Integration of ELK stack and Nagios log server implementation. 
+         • EMC Unity storage and Avamar/
+         Data Domain integration with Kubernetes and Openstack/Cloud 
+         • Formulate detailed network, storage, and compute design specifications for stable and secure computing operations in a dynamic cloud-based environment, which includes preparing both High Level Design (HLD) and Low-Level Design (LLD) documentation

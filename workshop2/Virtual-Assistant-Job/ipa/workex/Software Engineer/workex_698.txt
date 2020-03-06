@@ -1,0 +1,22 @@
+center Development projects, Enhancement using Power center designer components, workflow manager, Monitor tools, and Repository manager. 
+         • Experience in Informatica Migration projects - ETL Version Migration from Informatica 8.6 to 9.6. 
+         • Experience in creating Transformations, Mappings, Mapplet using INFORMATICA Designer and processing tasks using Workflow Manager to move 
+         data from multiple sources into targets. 
+         • Experience in Performance tuning of targets, sources, mappings and sessions. 
+         • Extensively worked on the ETL mappings, analysis and documentation of OLAP reports requirements. Solid understanding of OLAP concepts and challenges, especially with large 
+         data sets. 
+         • Excellent knowledge and experience in creating source to target mapping (STM), edit rules and validation, transformations, and business rules. 
+         • Excellent analytical and logical programming skills with a good understanding at the conceptual level and possess excellent presentation, interpersonal skills with a strong desire to achieve specified goals. 
+         • Informatica Certificate Professional - Developer. 
+         • As part of Administrator, responsibility include administer Informatica services and servers, User management and creating folder for Informatica development. 
+         • Experienced in upgrading the Informatica powercenter from 9.0 to 10.2 version. 
+         • Experienced in working Migration projects which includes migrating the Informatica domain from Oracle 10g to Oracle Exadata. 
+         • Monitor performance of overall system on all environment (Dev, UAT,Prod). 
+         • Co-ordinate with Unix, Networking and database admin teams whenever required for troubleshooting the issues. 
+         • Interact with Informatica support team in case of any issues or getting suggestions. 
+         • Handling Outages and restarting the services on Time. 
+         • Installing Hot fix to the existing installations. 
+         • Experienced in Migration projects -Oracle 10g to Teradata migration in Emirates. 
+         • Extensively worked in Test case preparation for the Migration projects. 
+          
+         • Experience in using the Integrity manager tool for testing the reports in projects.

@@ -1,0 +1,28 @@
+Project Name: Compliance Digital 
+         Project Description: JPMC, Inc. established in 1837 is US multinational Bank that, deals all the Banking related product like Banking, Stock and Compliance. One of the most powerful bankers of his era, J.P. (John Pierpont) Morgan (1837-1913) financed railroads and helped organize U.S. Steel, General Electric and other major corporations. The Connecticut native followed his wealthy father into the banking business in the late 1850s, and in 1871 formed a partnership with Philadelphia banker Anthony Drexel. In 1895, their firm was reorganized as J.P. Morgan & Company, a predecessor of the modern-day financial giant JPMorgan Chase 
+         Responsibilities: • Designing and developing Tableau Reports, Documents and Dashboards as per specified requirements and timelines and presenting them in a variety of formats to users. 
+         • Extensive knowledge in reporting objects like Hierarchies, filters, calculated fields, Sets, Groups, Parameters etc., in Tableau. 
+         • Creating Workbooks by Importing 
+         data, Defining Relationships in Tableau Desktop. 
+         • Created List, Drill Down Reports with Quick Filters, Summarized Filters in Tableau Desktop. 
+         • Working experience on Tableau with 
+         Big 
+         Data connectivity and relational Database Connectivity. 
+         • Hands on experience in creating parameters, complex calculated fields, groups and Hierarchy. 
+         • Hands on experience on tableau functions- date, string, numeric. 
+         • Experience in Marks, Action, Filters, Parameters, Cards, Publisher and Security. 
+         • Connecting multiple 
+         data source with 
+         Data Blending technique. 
+         • Strong work experience in Tableau desktop/ server with different versions including 6.x to the newest version 10.x. 
+         • Involved in creating Dashboard using Tableau Desktop, Tableau Server. 
+         • Installation and configuration of tableau server in cluster environment and Upgrade of tableau server to various versions including minor and major upgrades. 
+         • Creating incremental refreshes for 
+         data sources on Tableau Server. 
+         • Providing the Roles and Security while Publishing to the Tableau Server. 
+         • Excellent in scheduling, Subscription and deployment of reports in Tableau Server. 
+         • Combined visualizations into Interactive Dashboards and publish them to the Tableau Server. 
+         • Excellent understating of concepts like star-schema, Snow flake schema using fact and dimeson tables and relation databases like MS Access, SQL Server. 
+         • Understanding and analyzing the business requirements and Developed various types of complex reports like Drill Down, Drill through, Cross tab. 
+         • Creating Different type of Macro using Excel VBA and Different Tools using VBA Front End Forms and Back End MS Access and SQL Server 2012. 
+         Environment: Tableau Desktop 10.3, Tableau Server, Excel and SQL Server 2012

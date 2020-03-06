@@ -1,0 +1,8 @@
+5+ years experience as a Software/Data engineer with solid computer science fundamentals
+Hands on experience and strong proficiency in Go or Java. Experience in MySQL, Postgres and Redis
+Experience in lean/XP development methods (TDD, Pair Programming, Scrum, Kanban, Continuous Integration/Delivery)
+Deep expertise with data streaming and computation frameworks, including, but not limited to: Spark, Kafka, Flink, Beam
+Experience in production environments with large data sets. Experience in DevOps tools including but not limited to Docker, Kubernetes
+A passion for quality and best practices but with a pragmatism that understands the balance between perfection and delivering value in a timely manner. Eagerness to work openly and collaboratively with a diverse team. Thrive on solving complex problems and creating high quality, highly scalable software solutions
+Excellent communication skills (English is required)
+Full-stack engineering with additional hands on experience in ReactJS (Preferable)

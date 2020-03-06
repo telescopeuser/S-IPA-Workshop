@@ -1,0 +1,23 @@
+Walmart 
+         Technical services professional. 
+          
+         Responsibilities: 
+         * Maintenance of the WebSphere and Portal servers on different UNIX platforms and setting up the development and testing and staging environment for the ongoing application development. 
+         * Clustered WebSphere Portal Server in a multi-cluster environment using horizontal scaling on both WebSphere Application Server. 
+         * Integrated WebSphere Portal Server with Site minder TAI Trust Association Interceptor to perform authentication and authorization to the portal. 
+         * Configured Web Content Management to manage the creation, approval, and publication of web content. 
+         * Configured custom login and logout pages for the WebSphere Portal Server environment. 
+         * Responsible for administering, maintaining and configuring a 24 x 7 highly available, multi-clustered, production portal environment 
+         * Implemented security policies, Enabled security on components and configured LDAP and SSL. 
+         * Provided third level technical escalation for problem resolution or circumvention of application deployment issues and Middleware component issues in Web Hosting environments. 
+         * Installed and configured IBM WebSphere Application Server 6.1,7.0 and setting Clustered environment on prod & non-prod environments. 
+         * Successfully resolved issues with the DB2 
+         data sources and connection pooling. 
+         * Involved in monitoring, troubleshooting and performance tuning using Wily 5.x monitor, Tivoli performance viewer, and Thread Analyzer. 
+         * Installed and applied fix packs, patches and e-fixes for WebSphere Application Servers. 
+         * Provide inputs to the Database, Diamond and Quest teams to resolve WebSphere and database communication issues. 
+         * Provide architectural and design inputs to support Enterprise 
+         Data Center Migration and Disaster Recovery efforts. 
+         * Worked on capacity planning, performance tuning, sizing, and automation of WebSphere6.1, WebSphere 6.0 and WebSphere 5.1 Application Servers. 
+          
+         Environment: IBM WebSphere AppServer 7.0,6.1,6.0, WebSphere portal 6.1, web sphere, IHS 8/6/2.0.47, Linux Red Hat, SuSE , AIX, DB2, IBM HTTP Server, sunone, Solaris 10, wily introscope, Tivoli directory server, MQ 5.3,6.0, BMC Remedy Action Request System 7.0.

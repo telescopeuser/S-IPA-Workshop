@@ -1,0 +1,52 @@
+Position                                                                                                                    Period 
+         ·      People Manager / Senior IT Manager                                                          2014 – 2019 
+         ·      Advisory Project Manager / Service Delivery Manager                                2010 – 2014 
+         ·      Advisory IT Specialist / Senior IT Specialist                                                 2008 – 2010 
+         ·      IT Specialist                                                                                                  2001 – 2008 
+           
+         Key Responsibilities: 
+         ·      Managed Singapore IT Asset Management team of 25 staffs, with operational budget of US $1.53 millions annually and responsible for contractual customer IT assets and operations, manage and track dedicated lifecycle of hardware and software assets used in support of IBM GTS delivery throughout the asset life cycle as defined by customer contractual obligations and / or ITUP and Global IBM GTS policy requirements. 
+         ·      Reorganized and transformed the business unit (BU) structure to improve service levels and expand career opportunities, enhanced skill, knowledge and capabilities. 
+         ·      Managed Business Continuity (BCRS) function in the multi-vendors such IBM, Accenture, Orange, Deloitte as extension armed of customer (BHP Billiton) - Integrated Management Layer for ensuring continuity of Business and IT Operation. 
+         ·      Managed steady state IT Operations and Infrastructure to meet agreed Service Level Agreement and Operation Metrics / KPI and Reporting. 
+         ·      Led the IT Technical Delivery team for supporting Global Account – customers, of 30 staffs across Singapore, India, Australia, US and UK with the 
+         Data Center in US and Australia. It covered 1SAP Infrastructure, Portal Infrastructure, SWIFT, BIA, ARIS, Oniqua and OpenText in Windows and Unix environment. 
+         ·      Conducted cost optimization analyst and reviewed of current state of technical support strategy and approach. Increased revenue by additional signing of new Variation Orders (VOs). 
+         ·      Led the Successful transition of SAP Project on various accounts from IBM Singapore to IBM Global Delivery Center in China Shenzhen. 
+         ·      Conducted Due Diligence and Transition/ Transformation exercises, analysis study and coordination for assigned outsourcing project, including asset management exercise, problem and change management process. 
+         ·      Developed and implemented IT Policies and Procedures, Operation Guidelines, Security and Audit Compliance, System Health-Check with Best Practices. 
+         ·      Performed technical role in support and managing of SAP System and Administration WAS ABAP and WAS Java on various component SAP solutions, such as R/3, ITS, ECC, CRM, BW, TREX, XI and EP. 
+          
+         Assignments 
+         1.    Outsourcing Account – Long Term Engagement: 
+         ·      DBS Singapore and Regional (HK/ID) 
+         ·      BHP Billiton – Integrated Account Global – Worldwide Account 
+         ·      Schneider Electric – Bridge Project – Worldwide Account 
+         ·      Epson Singapore – epsonCRM 
+         ·      IDA / MOE Singapore – Token Assisted Login Project 
+         ·      Singapore Airlines – NEMO 
+         ·      City Gas 
+         ·      Pentex Schweizer 
+         ·      HitachiGST 
+           
+         2.    Short Term Deployment and Assignment: 
+         ·      BASF – Lotus Notes Sametime Setup and Deployment 
+         ·      Matsushita Asia – Windows Support 
+         ·      Singapore General Hospital – Domino Support during SARs pandemic 
+         ·      DBS - Due Diligence and Transition, Security Hardening 
+         ·      SeikoEpson – SAP Support for R3 
+         ·      Panasonic – SAP Support for R3 and Windows 
+         ·      LTA - Due Diligence and Transition 
+         ·      ASM – SAP Planning, Setup and Implementation 
+         ·      PowerSeraya – SAP Support, Cluster and Transition to Application Team 
+         ·      AstraZeneca – SAP OSDB Migration and ESS connectivity to SAP R3 
+           
+         Significant Achievements:  
+         1.    Shaped up the team and delivered client focus in the IT Asset Management for hardware and software as the key element for supporting Business and Information Technology Operation. 
+         2.    Maintained Service Level Agreement 100% and avoidance of billion $$$ payment transaction issues in SWIFT Infrastructure – BHP Billiton Project. 
+         3.    Delivered successfully SAP infrastructure for Global Major SAP Go Live in BHP Billiton Project and Schneider Electric Project. 
+         4.    Achieved 2009 CERS Excellent rating with Full Score of Satisfaction 10 over Expectation 10 in Schneider Electric Project. 
+         5.    Improved cost optimization and saving by standardization of the operation support and automation in which contributed to successful technical delivery and operation stability 
+         6.    Increased account revenue and growth with various signing of Variation Orders (VOs) 
+         7.    Managed ad-hoc support during ASEAN Summit in KL for Ministry Foreign Affair of Singapore with 0 (zero) incidents in IDA / MOE TAL Project. 
+         8.Completed various Due Diligence, Transition and Transformation and support assignment.

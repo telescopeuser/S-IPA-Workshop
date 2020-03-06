@@ -1,0 +1,5 @@
+At least 4 years experience of full-stack development
+At least 3 years of development experience with React / Redux / Node
+At least 3 years experience of backend development
+Experience with cloud architecture (AWS preferred)
+Experience working in a global or super-regional development environment, and using Jira / Confluence / Slack to keep aligned

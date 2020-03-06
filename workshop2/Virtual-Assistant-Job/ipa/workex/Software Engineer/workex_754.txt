@@ -1,0 +1,25 @@
+based on the experience I made in my previous role, the wish came up in me to run an "own" company and do some of the things in a better way. The founding was done together with a 2nd 
+         engineer, which already operated as freelance before. 
+          
+         Achievements 
+         1. setup the founding process for German Limited-Company and got approval of all authorities 
+         2. daily business-operation including all topics arised from building up the company 
+         3. execution of staffing-process, including the hiring one offspring-
+         engineer 
+          
+         Responsibility 
+         1. general business operations 
+         2. parts of the financials related hiring 
+         3. defining the companies software-developments processes and target-market fields 
+         4. contributing to sales by defining technical feasibilities and customer communication strategies 
+          
+         Authority 
+         1. all duties of a CEO according to trade/tax/social/environmental laws in Germany (HRB 749494) 
+         2. accountable for local topics of first customer (Daimler) 
+          
+         Knowledge and skills used in this role 
+         1. Organization-Theory and financial-basics 
+         2. Software development: MatLab/Simulink driven model-based development for control-functions in the domain of autonomous vehicle (longitudinal/latering); Windriver Diab, Rapid-Prototyping, AUTOSAR by EriKa project, Freescale-µC based hardware targets, Lauterbach JTAG debugger. 
+          
+         URL 
+         https://www.kober-engineering.de/

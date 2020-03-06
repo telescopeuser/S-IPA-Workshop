@@ -1,0 +1,8 @@
+- Singapore 
+         • Develop application based on the requirement specification 
+         • 
+         Data migration from the existing system to the newly developing system 
+         • Prepare the System specification and User manual of the developed system 
+         • Design and develop user interface as per the requirements. 
+         • Test the application with the shared test cases 
+         • Deploy the application and manage the availability of the system to the users.

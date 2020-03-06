@@ -1,0 +1,10 @@
+IP department/Processor/ARM Team 
+         Renesas Electronic Japan/ CPU-kai 1/ARM team 
+         Target: ARM Implementation team focuses on designing and verifying R-Mobile and R-Car Gen 2 Product with ARM 
+         BIG.Little system 
+         • Implement the CCI-400 for R-Car Gen 2 and R-Mobile series 
+         • Develop the mechanism to reduce the dynamic power consumption for bus bridge around CCI-400 and CCI-400 itself. 
+         • Develop the way to pass the secure + parity cross the bus sytem around CCI-400 
+         • Develop Asynchronous bridge between CA7 and CA15 and CCI-400 and the mechanism to reduce the dynamic power of asynchronous bridge 
+         • Build the random verification with eVC to verify the bus system based on CCI-400 and asynchronous bridge 
+         • Develop the bus evaluation environment to find-out the bottle-neck of bus system of whole SoC and identify the proper QoS setting for each module in SoC

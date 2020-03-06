@@ -1,0 +1,8 @@
+As a Digital Transformation Lead: 
+         * Develop & manage Receivables, Reconciliation products for the APAC portfolio 
+         * Implemented 2 digital platforms for Reconciliation , Receivables & Collections that involves migration of many legacy country specific applications to unified central platform. 
+         * Control the technical & functional road map of the products to cater to changing market and regulatory requirements 
+         * Defined development strategy, researching and introducing new technologies and advising the business on technological direction 
+         * Increased efficiencies by creating a standardized development process across all teams using a common toolset and practices 
+         * Defining project solution/technical architecture, developing detailed design documentation and project plans 
+         * Line management of 60+ staff(Java/AngularJS/Informatica/Devops/Kofax, Adobe developers, BAs, Testers and Tech leads) of bank associates as well as contractors located remotely across 3 locations.

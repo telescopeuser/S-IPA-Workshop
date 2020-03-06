@@ -1,0 +1,18 @@
+Successfully delivered $4M massive outsourcing project (Voyager) as part of a global program of significant cost saving initiative for Hewlett-Packard Enterprise(Client). Its target was to move in-house mission-critical channel 
+         data management application infrastructure to vendor-managed SaaS platform 
+         Successfully Implemented a new integration IT system with event-driven, fault-tolerant & self-healing architecture that collects and process 
+         data from various 
+         data and distribute to consumers across the large organization. 
+         Representing HPE IT of Voyager program from inception to closure, extensively worked with our SaaS vendor & HPE business stakeholders in delivering Voyager program for all WW regions successfully. 
+         Organized workshops with Vendor, business stakeholders and delivery teams 
+         Responsible for creating project plans & resource sizing  
+         Defined processes and tools best suited to each project. Moved between agile and waterfall approaches depending on project specifics and client goals, creating detailed project road maps, plans, schedules and work breakdown structures. 
+         Project status reporting to senior management 
+         Tracking the test case execution, defects resolution using HP Application Life Cycle Management tool  
+         Organizing Sprint planning, User story grooming , Scrum of Scrum sessions 
+          
+         Efficiently worked with cross-domain & cross-functional teams to resolve the sprint impediments and blockers  
+          
+         Efficiently practiced Change Management Processes 
+          
+         Ensuring process improvements between sprints through retrospective sessions

@@ -1,0 +1,21 @@
+Areas of Knowledge: 
+         • Hands on in cloud-based platforms like AWS and GCP. 
+         • Worked on AWS services like EC2, S3, AWS lambda, RDS. 
+         • Worked on GCP services like Compute Engine, BigQuery, Storage, Cloud Functions and DataProc. 
+         • Knowledge in setting Hadoop cluster. 
+         • Experienced in handling huge dataset. 
+         • Experienced in SQL, Hive, Spark SQL and PySpark. 
+         • Experienced in Python and it's modules like Pandas, NumPy, Flask, etc. 
+         • Expertise in Pentaho 
+         Data Integration (PDI) ETL tool. 
+         • Experienced in Informatica ETL tool. 
+         • Good Knowledge on Unix scripting. 
+         • Worked on HBase NoSQL queries. 
+         • Good knowledge on Kafka streaming. 
+         • Good knowledge on Hadoop architecture (HDFS, MapReduce, HBase, Hive and Spark SQL). 
+         • Experienced in creating 
+         data model and ETL which uses PDI, HDFS, Hive, Spark SQL, Mapreduce and HBase. 
+         • Involved in different phases of project life cycle ranging from R&d, Design, Development, Unit testing, Production deployment. 
+         • Worked on operation support activities (Deployment, Scripts preparation for code pull from SVN, ITSM creation) 
+         • Possess good communication and interpersonal skills. 
+         • Ability to work in a team as well as individually.

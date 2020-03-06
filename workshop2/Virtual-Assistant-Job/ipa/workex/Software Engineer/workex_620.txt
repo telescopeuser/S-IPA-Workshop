@@ -1,0 +1,10 @@
+Roles and responsibilities: 
+         ❖ Hands on Experience on Performance tuning in Aix Server's. 
+         ❖ Experience in OS installation. 
+         ❖ Creating and monitoring user and group. 
+         ❖ Having Experience in Patches. 
+         ❖ Managing User Admin tasks (i.e. Users, groups and permissions). 
+         ❖ Having Experience in NIM Server Configuration. 
+         ❖ Having experience on VTM patching. 
+         ❖ Failed disk replacement brining disk into OS level. 
+         ❖ Disk Replacement in Veritas & SVM.

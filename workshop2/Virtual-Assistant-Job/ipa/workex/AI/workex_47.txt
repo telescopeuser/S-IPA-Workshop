@@ -1,0 +1,22 @@
+• As 
+         data science solution architect, created analytics solution offerings and delivery playbooks. Responsible for design and development of 
+         data, business and people aspects of enterprise analytics and reporting architecture 
+         • As delivery lead, responsible for plans, designs and implementation of advanced analytics projects which is 
+         aligned with business mission, strategy and processes; understanding product and user experience requirements and convert them into proposals for analytics use cases, technology platform, POC build and operationalization 
+         • Lead and managed a team of 
+         data 
+         scientists and 
+         data engineers for projects delivery. Used agile and scrum 
+         methodologies for sprint planning, task estimation, daily tracking etc. Provided direction and oversight in regards to 
+         data sourcing and manipulation, modeling approach, output interpretation and integration of insights with existing business process workflow and reporting 
+         • Established and managed customer relationships to ensure successful project outcomes. Worked as presales 
+         solution architect and supported partners and sales teams to expand on the existing business and develop new 
+         business opportunities. Spearheaded all AI/ ML related marketing initiatives in the SEA region 
+         • Worked as career manager and mentor for analytics team; managing of up-to 10 team members (including 
+         vendor partners) 
+          
+         1 
+         • As Tech lead and 
+         Data Science subject matter expert, guided the delivery team with hands-on machine learning 
+         workflows such as feature engineering, model selection, model validation, model tuning and model deployment 
+         using technologies like Python, SQL, PyTorch, Swift for TensorFlow, Google Colab

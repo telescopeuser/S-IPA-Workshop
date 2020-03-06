@@ -1,0 +1,21 @@
+Project / GLOBE VINDICATOR Project (LTE)/ Wireless Expansion Project 
+         POSITION: Wireless 
+         Engineer - NOC RADIO ACCESS 
+         ENGINEER (Network Technology Department) 
+         DESCRIPTION:Worked on the nationwide deploymentof 2G/3G/ LTE roll-out project, board and software expansion for better network performance for client and customers satisfaction. 
+         Managing and leading Radio Access Network (RAN) implementation during the roll-out project 
+         DURATION: August 2012 - August 2016 
+          
+         Key Contributions: 
+         ● Single point of contact / team leader for all NOC Wireless activities in Central Luzon region 
+         ● LTE & UMTS RAN Troubleshooting, Testing, Operation & Maintenance 
+         ● Perform testing and integration of TDD/FDD network rollout nationwide 
+         ● Responsible for implementation of network elements roll-out, commissioning, troubleshooting and integration 
+         ● Performed functionality testing of client's 3G/LTE services as they rolled it out to the market 
+         ● Monitored the status and performance of Network Elements. Make sure problems were address quickly and free of alarms using management system (U2000) 
+         ● Expansion of BTS and swap activities. Perform periodical maintenance routine activities according with existing procedures. BSC/RNC/NodeB licenses and new features installation or activation 
+         ● 2G and 3G new site integration, E1 migration to IP, integration, Site split and TRX expansion, Abis/Iub expansion, CE upgrade/downgrade and HSPA+ Activation 
+         ● Preparing, checking and executing scripts for network configuration files (Xml, MML). 
+         ● BSC/RNC/NodeB licenses and new features installation or activation 
+         ● Preparing Method of Procedures (MOP's) for all Luzon activities endorsement 
+         ● Providing remote support and troubleshooting for Field Maintenance Teams and / or subcontractors, customer for clearing hardware faults

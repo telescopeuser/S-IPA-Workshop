@@ -1,0 +1,83 @@
+Formerly CSC, Xchanging Solution, Cambridge Solutions, Scandent) 
+          
+         Migration and Refactoring services for NS Portal Services, Defense Science & Technology Agency, Singapore 
+         Role: Technical Project Manager/Solution Architect 
+         Migration and Refactoring services for NS Portal Services project involves the upgrade of 13 eservices applications to new libraries and to refactor the eservices to comply to the Agency WOA Technical Architecture. 
+         • As Technical Project Manager/Solution Architect, involved from the presales initial RFP stage to transitioning to the project delivery. 
+         • Involved in the detailed migration planning, design, development and managing the upgrade of the legacy components in the 13 applications to the Web Oriented Architecture as per the Agency's Technology Architecture. 
+         • Managed the development of responsive UI based on the Customer technical architecture, standards and compliance requirements. Involved in the design and development of integration of applications to Agency level common components and sub systems. 
+         • Developed and executed the overall project plan to track the quality, scope, timeline, effort, resources from initiation to implementation phases including kick off, planning, analysis, design / development, testing, implementation, go-live and post go-live support. 
+         • Managed and lead a team of developers in the entire project development life cycle. Managed each phase of the development life cycle and ensure that all tasks/objectives in each phase are met. 
+         • Identifying project risks & issues, communication with stakeholders and senior management for mitigation of risk and escalation of risk. 
+         • Developed and published the reports that provide visibility of progress against milestones including status reports and meeting minutes to relevant stakeholders and complete status of projects in various management forums. 
+         • Managed the L2 Support as per the contractual Service level agreement. 
+         • Technologies used: J2EE, Weblogic, WebSphere, Websphere Portal, Angular, EJB, JSP, Spring Framework, Spring MVC Rest, HTML, CSS3, Bootstrap, Struts, Oracle, DB2 
+          
+         Eservice Migration, URA, Singapore Role: Solution Architect 
+         Eservice Migration project involves the migration of 52 eservices to Weblogic 12C and to Facelift for adaptive & responsive User Interfaces. 
+         • Designed the migration approach, To-Be application architecture and the common framework components for the technology migration of 52 applications from Beehive/J2ee to Spring MVC & Spring Framework based services, Technology facelift to support the Web, Tablet and mobile browsers using the HTML 5/CSS3. 
+         • Technologies used: JEE, HTML5, CSS3, Weblogic 12c, Spring MVC, Batch Jobs, Oracle 11g 
+          
+         Claims Connect, Aviva Singapore Role: Technical Project Manager 
+         Aviva claims Connect project is a key transformation project of Aviva Life Insurance for moving traditional claims into digital channels via Mobile & Web Portals. Aviva Claim Connect enables corporate plan customers to submit their employee insurance claims in an easy and on-the-go manner, search/view panel clinics in a map, view benefit card. etc. 
+         • Managed the project with a team of 7 resources for the development of the Mobile application and Web Portal. Development of Rest Services using Spring for the backend core systems integration. 
+         • Responsible for managing the overall project plan including milestones. Manage assumptions, issues and risks / identifying contingency plans to address areas of high risk. Scope management - Ensure there is register of scope changes and proper sign-off of scope changes. 
+         • Develop and publish reports that provide visibility of progress against milestones, including status reports and score cards. 
+         • Technologies used: Apache Cordova, Java6, Spring MVC, Rest Services, Spring transaction, JSON, JPA 2.0, JBOSS EAP Server, Eclipse, GIT, Junit, Oracle 11g, HTML5, REST, JSON. 
+          
+         Xchanging Logistics Vertical, Singapore Role: Technical Manager/Architect 
+         • Involved in the definition of key logistics offerings and go-to-market strategies along with sales. 
+         • Collaborate closely with delivery and practice teams to build comprehensive solutions based on business opportunity and client requirements 
+         • Accompany sales team in qualifying new opportunities and demonstrating key capabilities & experiences to potential new / existing client teams. 
+         • Support practice and consulting teams in POCs and R&D activities technically and bringing in market / client insights 
+         • Managed the DHL Supply chain Singapore account for the ELOG L3 global product development and L2 support for some of the ELOG instances. Worked closely with the DHL Business, Warehouse operations and DHL IT team for all the ELOG Product release management and enhancements. 
+         • Prepare and maintain presales / sales collateral of key offerings, differentiators and experiences with case studies 
+         • Worked with sales on the opportunities in Singapore logistics business unit and involved in consultative selling engagements (e.g. SINGPOST, IKEA. etc.) in Singapore. Analyzed customer's functional and technical requirements in order to propose and recommend a feasible solution that will differentiates the Company among the competition. Involved in the preparation of solution proposal and presentations that articulate clear business and solution values and industry point of view that are aligned to the customers' needs and requirements. 
+          
+         OSS/BSS Subscriber & Channel Applications, YTL Communications, Malaysia Role: Solution Architect/Development Manager 
+         YTL Communications offers high-speed voice, 
+         data, internet access and services utilizing 4G technology across the Malaysia. OSS/BSS solution innovatively supports all YTL Communications business units using one platform to enable multi-channel customer management and services. OSS/BSS relies on the Oracle Billing & Revenue system for the underlying product for the Network component integrations. 
+         • As Solution Architect/Development Manager, involved from the initial engagement to address critical launch issue stage to transitioning to the project delivery. 
+         • Designed the Reference architecture for the suite of applications. Led the team for proof-of-concept technical and architectural prototyping 
+         • Responsible for the development of multiple OSS/BSS applications of the YTL Suite. Used Agile and Progressive Elaboration Methodologies as required to meet deadlines and to achieve customer satisfaction as well as to make the best use of available resources. Managed the development of Express Reload & Self-care project under aggressive timeline as the customer is new player in the 4G market place and have a very little time to market factor. Technologies used: JEE, Java, Spring MVC, Tomcat, JBoss, MYSQL, Subversion, Eclipse, JBOSS SOA platform, Hibernate, Axis/CXF web services 
+          
+         E-logistics (ELOG) RF System, DHL Supply chain, Singapore Role: Solution Architect 
+         ELOG radio-frequency (RF) 
+         data-capture system empowers the warehouse operations by virtually eliminating wasteful trips to a stationary terminal, docking station or dispatch location to grab pick or put away instructions, streamlines and promotes paperless & wireless warehousing operations. ELOG RF enables elimination of the limitations and errors of hand recording which requires printed reports & unnecessary 
+         data re-entry, promotes warehouse personnel to interact with the system directly from the point of activity using automated 
+         data capture. ELOG RF enables handling of more orders during peak periods through tracking the bar-coded products from receiving, put away, and picking, to packing, and cycle counting. 
+         • As a Solution Architect/Project Manager, worked with warehouse operations to understand requirements and translate them into technical deliverables. 
+         • Designed and development the ELOG RF system using J2EE, Java, Struts 2, Spring framework, Tomcat, JBoss, Oracle 10g, VSS, Eclipse. 
+         • Streamlined the warehouse operational processes and automated the processes using RF Technology for DHL SPL Operations that resulted in the savings more than AUD 120000 annually for Australia Country Operations. With successful implementation of project and the operational efficiency & savings achieved, more new business was awarded for implementation in Larger Regional warehouses (Singapore & India). 
+          
+         ELOG B2B EDI Rationalization Project, DHL Supply chain, Singapore Role: Solution Architect 
+         EDI Rationalization project is a cost saving project and to rationalize the B2B EDI Interfaces and migrated the EDI interfaces out of IHUB generated a 90% reduction in the annual run cost of the EDI for the DHL SPL Japan and APAC Operations. 
+         • Involved early in the project initiation phase starting from BCA preparation until project Closure. Rationalized the B2B EDI Interfaces and migrated the EDI interfaces out of IHUB generated a 90% reduction in the annual run cost of the EDI for the DHL SPL Japan and APAC Operations. 
+          
+         ELOG 
+         Data Center Migration Project, DHL Supply chain, Singapore Role: Solution Architect 
+         ELOG 
+         Data Center Migration project involved the migration of all the applications from the then 3rd party SCS Hosted 
+         data center to DHL KL hosted 
+         data center. 
+         • As a Solution Architect/Project Manager, Responsible for the ELOG Applications migration from the SCS Datacenter to DHL 
+         Data center in Cyberjaya, Kuala Lumpur, Malaysia. Won the Certificate of Appreciation from DHL for the migration of the applications within 6 months fixed timeline project and with huge annual savings of 500000 euros run cost. 
+          
+         E-logistics (ELOG) System, DHL Supply chain, Singapore Role: Solution Architect 
+         ELOG is a service logistics solution designed to support the global service parts logistics operations for DHL SPL and enables the operations to manage the entire network of Regional Hubs, Country Hubs and Forward Stock Locations (FSL). ELOG provides end-to-end solution for forward logistics involving warehouse management and Reverse Logistics Supply Chain. 
+         • Involved in the presales and subsequent transition to stationed product consultant at DHL Supply chain Singapore. 
+         • Received DHL Customer appreciation for the successfully stabilizing and fine tuning the performance of the DHL SPL operation mission critical E-logistics System. Received the Pat on the back award from Xchanging for the DHL achievement (Application stabilization & support) in the E-logistics System 
+         • Based on successful completion of the project, customer awarded the support and maintenance to Xchanging from an MNC Competitor. Responsible the transition and takeover of ELOG application support & maintenance from 3rd Party DHL vendor to Xchanging. 
+         • Technology Used: J2EE, EJB, WebLogic Integration, XML, JavaScript, BEA Weblogic8.1, Oracle 9.2, Bea WebLogic Workshop 
+          
+         Staff Training Management System, Monetary Authority of Singapore Role: Project Co-Ordinator 
+         STMS is the integrated learning management system that enables the MAS to plan, manage the corporate e-Learning & Training needs of the staff. Successfully implemented the TMS for the whole of MAS training needs and managed the outsourced off-shore vendor for the product implementation & rollout. Ensured the adherence of project deliverables to the MAS agreed quality and standards 
+          
+         WAVES System, Singapore Airlines Role: Solution Architect 
+         WAVES is an internal portal which enables the SIA business units to deliver the right information to the right users at the right time by provide a central repository of information for which is critical and essential to meet SIA corporate goals of efficiency in flights and operations. As solution Architect engaged in the Pre-sales proposal preparation and presentation for Singapore Airlines' WAVES Portal System. Designed the architecture of the WAVES System involving components based on WebSphere Portal, Omnifind, DB2 and Active Directory. Designed the implementation approach for the Migration the existing portal components across platforms from Linux to AIX. 
+          
+         B2B Business Portal. Mitsubishi Caterpillar Forklift Singapore Role: Solution Architect 
+         B2B Business Portal is a one-stop Business (B2B) portal targeting the dealers in the Asia Pacific Region for access to MCFS corporate information, services and application systems and to promotes Knowledge sharing through Forum and Q&A discussions amongst dealers and MCFS. Involved from the initial presale's proposal preparation and presentation for to the transition to the delivery. Designed and implemented the B2B Business Portal using IBM Websphere Portal, IBM Web Content Management, Active Directory and Portlet factory. 
+          
+         MyForum, Ministry of Education, Singapore Role: Project Lead 
+         MyForum is an Internal Online Community and Feedback System for the Ministry of Education which promotes MOE virtual community and to facilitate feedback from the education officers under Ministry of Education. Myforum also provides features like Online Surveys, Polling etc., for more than 30,000 teachers of MOE community. Designed and developed the Myforum blogs and surveys using J2EE, Java, JSP, Servlets, struts, Tomcat, Sun One Server and Oracle 10g.

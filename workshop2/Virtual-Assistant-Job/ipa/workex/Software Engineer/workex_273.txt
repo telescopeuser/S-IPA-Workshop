@@ -1,0 +1,16 @@
+Singapore 
+          
+         Ops Control - Regulatory Reporting Infrastructure & MIS for funds transfer 
+          
+         • Worked with Business Analyst to understand requirements, design, develop and implement highly efficient and scalable ETL processes for Axiom SL regulatory reporting tool. 
+         • Created the ETL architecture and provided strategy related to 
+         data cleansing, 
+         data quality and 
+         data consolidation 
+         • Lead and guided the ETL and Axiom developers in 
+         data profiling, source-target mappings, 
+         data modelling, SQL tunings and optimization 
+         • Reviewed the deliverables to identify gaps, helped business during UAT and worked with PMO for planning, effort estimation and work assignment 
+         • Identified opportunities to optimize the Regulatory Infrastructure environment, implement monitoring, quality and validation processes to ensure 
+         data accuracy and integrity 
+         • Provides BAU support for Incident management for production issues as well as enhancements and prioritization.

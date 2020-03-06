@@ -1,0 +1,6 @@
+Processor/ARM team 
+         Target: MCU product. CPU core is G4P. First processor is designed in RVC 
+         • Design some APB modules, APB interconnect. 
+         • Build up the random verification for bus bridge between AXI and In-house protocol and vise versa, APB Interconnect, APB modules based UVM + Cadence VIP, develop VIP model for In-house protocol 
+         • Develop Formal verification environment (IFV) to verify Lockstep modules for MCU product 
+         • Verify the ECC on Bus for MCU product

@@ -1,0 +1,6 @@
+▪ Performed 
+         data preprocessing and 
+         data manipulation; built and trained an XGboost model using Python (Sklearn, Pandas, 
+         numpy) with the accuracy of more than 90%. 
+         ▪ Built advanced house prices prediction using machine learning algorithms followed by dimensionality reduction using 
+         Principle component analysis (PCA) which brought the prediction service responsive time to 1/3rd of its original time.

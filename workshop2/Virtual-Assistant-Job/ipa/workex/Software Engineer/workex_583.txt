@@ -1,0 +1,9 @@
+Taiwan 
+         ● Design and developed RESTful API using Django framework and Django-based 
+         application on Gcoin Blockchain (a distributed transaction system based on Blockchain technology) 
+         ● Implemented and maintained a Blockchain cloud service with ~1,000,000 members 
+         in China, conducted stress tests with Apache JMeter to simulate 300 requests per 
+         minute 
+         ● 
+         Data Visualization on human-centered website for DiQi Wallet based on Blockchain 
+         ● Developed Autotest and Edge test script for Bitcoin project

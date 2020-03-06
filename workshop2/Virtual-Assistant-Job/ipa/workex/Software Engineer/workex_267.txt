@@ -1,0 +1,25 @@
+Customers: Equifax and BP 
+          
+         * Worked as Unix Administrator and tech lead, and managed large mission-critical non-stop infrastructure environments for different customers. 
+         * Handled Datacenter migration activities. 
+         * Deployed and managed various High availability solutions like Veritas cluster server(VCS), Linux Cluster and IBM HACMP. 
+         * Perform Security compliance and Quarterly Health checks as per GSDC, ITCS standards 
+         * Mentor fellow team members and manages the team 
+         * Provide limited after-hours support to servers (on-call) 
+         * Work closely with software and hardware vendors 
+         * Equifax Disaster Recovery project - Installed and configured 26 Aix and Solaris servers in DR sites from scratch. Assist with the planning, coordinating, and execution of DR tests and/or actual events. 
+         * Identifying Root Cause Analysis (RCA). 
+         * Performing preventative hardware maintenance, Health Checks. 
+         * Isolating causes of failure(s) and determine appropriate actions(s).Customers: Equifax and BP 
+          
+         * Worked as Unix Administrator and tech lead, and managed large mission-critical non-stop infrastructure environments for different customers. 
+         * Handled Datacenter migration activities. 
+         * Deployed and managed various High availability solutions like Veritas cluster server(VCS), Linux Cluster and IBM HACMP. 
+         * Perform Security compliance and Quarterly Health checks as per GSDC, ITCS standards 
+         * Mentor fellow team members and manages the team 
+         * Provide limited after-hours support to servers (on-call) 
+         * Work closely with software and hardware vendors 
+         * Equifax Disaster Recovery project - Installed and configured 26 Aix and Solaris servers in DR sites from scratch. Assist with the planning, coordinating, and execution of DR tests and/or actual events. 
+         * Identifying Root Cause Analysis (RCA). 
+         * Performing preventative hardware maintenance, Health Checks. 
+         * Isolating causes of failure(s) and determine appropriate actions(s).

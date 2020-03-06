@@ -1,0 +1,7 @@
+PROJECT 1: 
+         Client: Airtel India. 
+         Project: ETL HUB. 
+         Role: Application Developer 
+         Team Size: 12 
+         Environment: IBM Streams, DB2, Cognos, 
+         Data stage, Linux.

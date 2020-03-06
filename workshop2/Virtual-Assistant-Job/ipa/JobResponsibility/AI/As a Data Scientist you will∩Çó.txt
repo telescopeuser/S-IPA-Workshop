@@ -1,0 +1,6 @@
+Assess the value of various predictive analytics use cases, understand their feasibility, business impact and lead their implementation.
+Provide methodical implementation guidance as well as hands-on support where needed around analytical use cases.
+Lead planning and implementation of data mining/predictive analytics projects following agile principles.
+Help communicate findings and market the value of use cases to key stakeholders in business, data science and IT teams
+Demonstrate the value of data science within the enterprise
+Collaborate to leverage on global solutions and expertise, ensure that regional requirements are considered in any global design

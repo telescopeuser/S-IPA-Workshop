@@ -1,0 +1,11 @@
+Singapore 
+         UBS is a global firm providing financial services in over 50 countries. My role was shift lead and to provide database solutions and to support new and existing applications 
+          
+         Responsibilities: 
+         • Shift lead and working with a team of 20 DBAs. 
+         • Understand product roadmaps, product catalogue and various operational procedures, support application teams with specialized knowledge 
+         • Establish and maintain strong relationships with customers helping them to design, plan and implement solutions, working closely with other corresponding infrastructure streams to deliver the services in timely manner. 
+          
+         Projects Handled: 
+         Standard Oracle Build: 
+         The task is to standardize Oracle Builds, analyse and fix the configuration as per UBS standard. I developed the package in shell script. Same package was rolled out firm wide to check database readiness before it goes live.

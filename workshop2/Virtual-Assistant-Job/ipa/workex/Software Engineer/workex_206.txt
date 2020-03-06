@@ -1,0 +1,19 @@
+Responsibilities: Support and modernization of the source code 
+         Programming in C / C ++, shell (bash, ruby) under Linux 
+         Build process in ClearCase 
+         Software testing, log analysis, code review 
+         Interaction with help service to support projects included in the software product 
+         Business correspondence in English, customer support at the developer level 
+          
+         Achievements: Performed team leader duties 
+         Designed scripts simplifying routine operations 
+          
+         Key skills: С, C++, Qt, PHP, Ruby, MySQL, shell, HTML, CSS, JavaScript, ASP 
+         4 
+         Awards 
+         • Winner of Best Manager of 2016, according to EMAS MBA 
+         (http://www.emasrussia.ru/news/2016-04-28-proshyol-final-konkursa-businessprofi-2016) 
+         • Winner of Mobile Premium Awards 2014 international competition, winner of the Russian 
+         qualifying round (http://appcircus.com/blog/2013/12/30/the-app-tennissolo-wins-the-ac- mdday-russia/) 
+         • Winner of Best Manager of 2011, according to EF Russia (http://www.birzhaplus.ru/kariera/? 
+         71812)

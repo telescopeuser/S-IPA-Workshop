@@ -1,0 +1,9 @@
+Responsible for the Infrastructure platform implementation and operations related to Desktop, Systems, Network and Security within the organization;
+Responsible to manage the operating budget as well as to support the procurement administrative related activities (i.e. RFP/RFQ);
+Provide technical solutions and ensure proper reviews of technical solutions on management of infrastructure to meet requirements for audits & compliances;
+Managed vendors and IT service contracts ensuring the various service levels are met within the contractual agreement;
+Ensure process and controls are in place to ensure the effective management of operations and services beyond the Service Level Agreements (SLA);
+Review and approve change / service requests for infrastructure services, ensuring they are closed within agreed timelines;
+Provide periodic Infrastructure health status report and maintain hardware and software assets;
+Handle and manage incident response & investigation, working with vendors and the respective teams to efficiently resolve issues within the agreed Service Level Agreement (SLA);
+Organise regular project meetings, review the status and provide regular status monitoring on all project activities to management.

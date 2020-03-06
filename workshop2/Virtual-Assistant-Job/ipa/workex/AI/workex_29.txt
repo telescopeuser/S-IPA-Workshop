@@ -1,0 +1,7 @@
+Planned overall migration methodology for a SharePoint Migration project by performing GAP analysis; 
+         • Migrated and Managed large datasets; Built efficient custom programs for 
+         data extraction from Web API and processed using Python; Helped the deployment team to set up the server for python jobs both for UAT and PRD 
+         • Liaised between multiple teams and business; claimed 3 new projects through efficient customer relationship; 
+         • Headed a team of 2 in Berlin, Germany for requirement analysis, design, pilot & POC for migration approach; 
+         • Resolved issues during test migrations that reduced project cycle time by 40 days, saving roughly US$25K; 
+         • MST (Most Spirited Team) award for the successful SharePoint migration project, Q1, 2015;

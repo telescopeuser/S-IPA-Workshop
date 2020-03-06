@@ -1,0 +1,12 @@
+* Responsible for Effort estimation, Solution approach, technical design and development 
+         * Collaboration with Operations and Business Services team to support RTB/CTB work 
+         * Managing vendor staff with proper offshore/on-shore model 
+         * Coordinating with software vendors EMC/Kofax for regular technical support and getting the timely resolution 
+         * Regular monitoring and planning for infrastructure technical upgrades and patch fixes, security fixes on timely basis and certifying in test environments 
+         * Lead the development of web-based solution for live dashboard application (rich GUI application) for Cash and Collateral Management business 
+         * Implemented solution for 
+         data lake for clearing OTC business which high-responsive back office application continuously interface with Clearing Exchanges(CCP) across globe 
+         * Lead the development and Implemented strategic EAI solution for Trade Finance platform by migrating the traditional messaging platform (IBM MQ Based) to strategic TIBCO based ESB 
+         * Implementation of Document Management System (eFolder) for the trade finance operations to handle the bulk transaction volume per day (around 50,000 to 60,000) documents. 
+         * Implemented Automated Capture System built on KOFAX OCR for Trade Finance operations to improve operational efficiency 
+         * Initiated and implemented build & deployment automation with SVN, JENKINS, BladeLogic

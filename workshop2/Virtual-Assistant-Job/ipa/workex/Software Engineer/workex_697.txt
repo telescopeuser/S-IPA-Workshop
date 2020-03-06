@@ -1,0 +1,75 @@
+PROFESSIONAL EXPERIENCE: 
+         • Working as Technical Consultant in Randstad contracted with UOB from Sep 2018 to Till Date. 
+         • Working as Senior Software 
+         Engineer in GAVS Technologies contracted with Emirates Airlines from Mar 2016 to Aug 2018. 
+         • Worked as Support 
+         Engineer in AstraZeneca from Oct 2015 to Mar 2016. 
+         • Worked as Associate in Cognizant Technology Solutions from Sep 2009 to Oct 2015. 
+         Company Name: Randstad 
+         Client: UOB, Singapore 
+         Job type: Contract 
+         Technology: Oracle 10G,INFORMATICA 10, Hadoop 
+          
+         Responsibilities: 
+         • Interact and Gathering requirements from the business team. 
+         • Interact with the diverse people to collect requirements and understand the business difficulties. 
+         • Design Logical and physical 
+         data flow in each layer of the model. 
+         • Understand the different sources and understand the 
+         data, so that decide on which 
+         data fits the business requirement. 
+         • Used ETL Informatica tool to build the complex transformation logic. 
+         • Convert the ETL Spec into the ETL mapping code. 
+         • Prepare functional document, Migration documents. 
+         • Performance tune the long running workflows. 
+         Company Name: GAVS Technology 
+         Client: Emirates Airlines, Dubai 
+         Job type: Contract 
+         Technology: OracleExadata,INFORMATICA, Microstrategy 10.x, Hadoop Ecosystem. 
+          
+         • GAVS Technology (Contracted to Emirates Airlines, Dubai, UAE). 
+          
+         #1. Commercial Business Integration Development 
+         Technology: ORACLE10g,INFORMATICA Power Center 9.6, Hadoop, Micro strategy, Jira & Confluence. 
+          
+         This Project is mainly a development projects which is built from the scratch, which involves pulling 
+         data from more than 10+ sources and integrate the 
+         data to get the complete information of what business needed. 
+         Responsibilities: 
+         • Interact and Gathering requirements from the business team. 
+         • Interact with the diverse people to collect requirements and understand the business difficulties. 
+         • Followed agile methodology in the projects, to meet the continuous delivery of the valuable project. 
+         • Used ETL Informatica tool to build the transformation logic. 
+         • Hadoop Technology is used to store the 
+         data and used the Oracle database for the semantic layer. 
+         • Prepare the ICD, for the sources to make sure which 
+         data is the right source for the requirements. 
+         • Involved in creating the 
+         data model for the semantic layer. 
+         • Analysis of the different sources and having very good knowledge with sources like Omega, ACTS, DMIS etc. 
+         • Develop ETL logic to populate the 
+         data into semantic layer. 
+         • Develop stored procedure, functions etc. in Oracle database. 
+         • Successful completion of the proto type for the OPSBI project. 
+          
+         #2. Commercial Business Integration Teradata Migration 
+         Technology: ORACLE10g, Teradata, INFORMATICA Power Center 9.6 
+          
+         This project is of 
+         data migration project, were in migrating the 
+         data from oracle 10g to Teradata 13.0 database. 
+         Responsibilities: 
+         • As a senior resource, my job role is to prepare strategy to migrate 
+         data from Oracle to Teradata. Select an appropriate tool to migrate the 
+         data between databases. 
+         • Write code to implement the 
+         data migration between databases. 
+         • Ensure 
+         data quality of the migrated 
+         data between the databases. 
+         • Convert the Oracle sql, procedures and functions into Teradata compatible version. 
+         • Compare the performance of the each database and queries. 
+         • Compare the 
+         data in Source version vs the target version. 
+         • Prepare a report to confirm the successful 
+         data migration.

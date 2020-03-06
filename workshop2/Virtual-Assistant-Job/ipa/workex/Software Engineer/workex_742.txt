@@ -1,0 +1,5 @@
+working on mobile application for a major investment bank 
+         Technology: Python, AngularJs, Cordova 
+          
+         Working on tools to streamline developer experience: dependency 
+         management for Apache Cordova, automated dev environment using Ansible& Vagrant

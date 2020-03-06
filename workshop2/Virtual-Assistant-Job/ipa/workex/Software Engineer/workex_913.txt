@@ -1,0 +1,7 @@
+• Assisted with risk monitoring based on the firms' hedge funds and discretionary portfolio mandates 
+         • Reconcile cash and positions, analyse breaks and follow-up 
+         • Daily/weekly/monthly profit-and-loss reporting and analysis of material P&L changes 
+         • Maintenance of database and processing trade/cash transactions, settlements, coupons, payments and corporate actions 
+         • Setting up Bloomberg API and extracting 
+         data using VBA. i.e returns/prices/calculating portfolios exposure/risks 
+         • Initiated a mini project to automate position checks using python, resulting in a reduction of manual overlooked mistakes and improvement of efficiency.

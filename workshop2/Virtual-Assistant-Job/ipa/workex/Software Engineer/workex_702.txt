@@ -1,0 +1,4 @@
+1. J&J VTMF Integration 
+         Organization: Johnson & Johnson, US 
+         Technology: ORACLE10g, Teradata,INFORMATICAPower Center 9.6 
+         Role: ETL Consultant

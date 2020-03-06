@@ -1,0 +1,8 @@
+Project Handling 
+         PROJECT 1: 
+          
+         Client: Celcom, Malaysia 
+         Project: NBA, Digital Transformation, Celcom Agent Adaptive Desktop 
+         Role: NBA Development and Support 
+         Team Size: 10 
+         Environment: IBM Streams 3.2, IBM EMM 8.5, Cognos, DataStage, Netezza, Oracle.

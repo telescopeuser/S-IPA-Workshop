@@ -1,0 +1,12 @@
+Product Support: America's, EMEA, Australia & NZ, APAC region. 
+          
+         This Job involved troubleshooting of highly critical issues like server down, disaster recovery, performance issues in the least amount of time and resolve SQL Server 2000/2005 setup and upgrade issues on cluster and standalone servers Debugging and analysis of memory dumps for access violations, asserts, scheduler hangs and out-of-memory issues. 
+         • Provide L3 Support Microsoft Premier customers on SQL. Server2008, 2005, 2000. 
+         • Communicate with corporate customers via telephone, email, and other electronic communications regarding problems. 
+         • Analyze problems and develop solutions to meet customer needs and share knowledge with other 
+         engineers and develop efficient customer solutions. 
+         • Write technical articles and sample programs for Microsoft's knowledgebase. 
+         • Troubleshoot performance problems like blocking, deadlocks, high CPU, missing indexes and statistics, disk bottlenecks, memory and query execution plan etc. 
+         • Perform point in time recovery, full recovery of databases and fix database corruption issues using DBCC commands. 
+         • Troubleshoot key SQL technologies like Database Mirroring, Log Shipping, SSIS and SSRS. 
+         • Conduct trainings, mentor and coach other subordinates on SQL technologies and new features.

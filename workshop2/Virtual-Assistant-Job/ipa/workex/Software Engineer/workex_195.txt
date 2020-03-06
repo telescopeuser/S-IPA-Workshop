@@ -1,0 +1,17 @@
+Technologies Used: Oracle 10g (PL/SQL) and UNIX Shell Scripting, Informatica 9.0, Business Objects, MSBI SSRS/SSIS, Java, SQL loader 
+         Responsibilities: 
+         ➢ Performed various ETL activities using Informatica Powercenter tool from Open 
+         Data Store to Warehouse and DataMart layer. Sources 
+         data from Datamart layer to end user through various visualization tools. 
+         ➢ Created dimension and measure objects according to business requirements based on business logics. 
+         ➢ Developed complex reports using Business Objects and MSBI reports and provide access to the required users for reporting analysis. 
+         ➢ Created UNIX shell scripts and smoother execution of batch procedures with UNIX wrapper script through Control M job schedules 
+         ➢ Created procedure and functions in Oracle for adhoc report population from Datamart for reporting intermediate table and sourcing 
+         data to BO reports. 
+         ➢ Developed Java component to load incoming files from various sources like T24 interface and loading through JAP process to UNIX file system and further loading to ODS layer through SQL loader. 
+         ➢ Daily 
+         data load activities management and Incident management for any incidents and change request 
+         Management through SNOW requests for the deployments and hot fixes. 
+         ➢ Migration of our environment along with source interface T24 migration activities. 
+         ➢ Adhering to the functional changes with Global Functional change. 
+         ➢ Trained end users in using full client BO and MSBI tool for analysis and reporting.

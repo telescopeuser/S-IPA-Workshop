@@ -1,0 +1,8 @@
+Data 
+         scientist) 
+         • Assisted team in coordination and collating of structured and unstructured 
+         data for purpose of dashboard and trend analysis, sampling and exception reporting; 
+         • Created & enhanced dashboards in Power BI for Audit; Modified 
+         data and built new RBAs using SQL & python; Developed POC for implementing machine learning techniques 
+         • Developed models and performed statistical analysis to identify key areas of risk and predict risk events 
+         • Presented the key findings to management and / or other stakeholders

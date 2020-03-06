@@ -1,0 +1,28 @@
+Project Description: 
+         The use of this product is to maintain IT related Assets operations under one system, which takes care of all the problems currently being faced in Asset Management. Right now 95% of procurement and material is delivered Central IT Asset Team (CIAT). CIAT in turn will check the material against PO, will do primary QC and installation process, stack the material in stores. As on request CIAT will transfer the stock to various locations across the country. AMS wants to map this process in a software system for better operations. The Processes involved in this operation are 
+          
+         • 
+         Data import 
+         • Material In 
+         • Material Out 
+         • Material Receive @ location 
+         • Asset Allocation 
+         • Asset Un-allocation 
+         • Physical Stock verification (Cycle Count) 
+         • Faulty Assets handling 
+         • Material In @ Other location than Central location 
+         • Material Out from other location than Central location 
+         Responsibilities: 
+         • Participating in Requirement calls. 
+         • Analyze and Review the BRS , SRS and Technical Specifications 
+         • Participated in Test plan preparation and Review meeting 
+         • Preparing , Executing the Test Cases and Defect Tracking 
+         • Preparation and review of RTM 
+         • Performed Smoke, Functionality, Re-Testing and Regression Testing. 
+         • Coordination with Onsite team and developers in identification and tracking of Bugs 
+         • Providing training to new recruits. 
+         • Acting as a backup team lead. 
+          
+         Project - 8 Automation of Cash Management System 
+         Environment ASP.net, VB.net, SQL, Server 2000 
+         Tools Used QTP - Automation and Manual Testing

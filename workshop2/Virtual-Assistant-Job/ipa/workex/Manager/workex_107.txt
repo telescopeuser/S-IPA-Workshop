@@ -1,0 +1,9 @@
+Reporting to the engineering 
+         manager plan, and implement the growing 
+         IT infrastructure to support Koe Koe 
+         Tech's operations.Ensure the secure and stable operations of our existing and planned infrastructure.Manage data warehouse plans for a product or a group of products.Co-lead with Security Engineering team management of directory service infrastructure, changes and on-going 
+         operations.Support Koe Koe Tech staff in working with our 
+         IT infrastructure.Work with internal stakeholders to capture the 
+         IT infrastructure need Assess possible solutions to the requirements and 
+         IT security needs.Design, build and launch new data extraction, transformation and loading processes in production.Lead the implementation of 
+         IT infrastructure projects within Koe Koe Tech.Handle incidents, requests, as well as software installations, upgrades, patching, and security compliance.Understand and implement Service Level Agreements for Security Operations and Database Operations.Define and monitor performance and security indices of the existing infrastructure (both, on premise and in the Microsoft Azure Cloud)

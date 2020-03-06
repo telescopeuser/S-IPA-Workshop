@@ -1,0 +1,47 @@
+Project Details: Window Imagery at CEF (Cockpit Environment Facility) 
+          
+         Project Description:- 
+         The Outside Window Imagery (OWI) is PC based real time visualization software, which simulates the outside environment for combat flight simulation. The objective of this project is to study the aircraft behavior, weapon algorithm, avionics system evaluation and pilot training in real time. In this project the real time environment is realized in multi window (135 deg FOV) with multiple levels of details, weather conditions, sea state, day-night and combat effects for weapon implementation. Ethernet interface is provided with various systems namely Aircraft model to update the aircraft position and orientation. Aircrafts are modeled using MutiGenCreator-2.6 and XML configuration file, where the aerodynamic and flight control properties are all defined. Air-to-air attack of enemy targets implementation and evaluation is on progress. 
+         Technologies: C++, Communication Protocol (Ethernet), Windows 2K 
+         Tools Used: MutiGenCreator-2.6, AC3D, Rational Clear Case. 
+          
+         Roles & Responsibilities: 
+         • Developed Standalone SDEF- OWI software for Iron Bird 
+         • Developed interface (Ethernet Communication - Socket Programming) module and low Drag Bomb weapon drop and explosion. 
+         • Developed the code to drop the low drag bomb and explosion 
+         • Improved the code efficiency by splitting the 
+         data file reading which eliminates the flickering of the visual simulation 
+         • Improved Frame rate efficiency by scheduling the modules (different modules updated at different rate), dividing the viewing volume and rendering them separately. 
+         • Fixed light in the aircraft and brighten the runway lights. 
+         • Analyzed the code 
+          
+         Project Details: Synthetic HUD (Head Up Display) implementation 
+          
+         Project Description:- 
+         This project is developed to super impose the synthetic HUD (which is developed using the actual HUD as base line software) on visual simulation display. It provides various pages for pilot navigation say Nav page (navigation), App page (landing), and LB page (weapon). Interface is provided with other LRUs to display the appropriate page and update the reticules. NFTC pilots evaluate the functionality's of the pages. 
+         Technologies: C++, Windows 2K. 
+         Tools Used: OpenGL, Rational Clear Case. 
+          
+         Roles & Responsibilities: 
+         • To meet Indian Air force requirements modified various pages using OpenGL 
+         • Developed interface between various LRUs. 
+         • Understand pilot's requirements. 
+         • Collect the recorded 
+         data base from HAL for simulation purpose. 
+         • Execute the developed code. 
+         • Record the actuals and report it to responsible 
+         scientist for review. 
+         • Close all the review comments. 
+          
+         Project Details: MMR (Multi Mode Radar) PVI functionality CEF 
+         Project Description:- 
+          
+         This project is developed at Cockpit environment facility available in ADA to evaluate the cockpit controls & displays of Radar page for Light Combat Aircraft (Tejas). It provides all the pilot interfaces of Radar from LRU (Line Replacement Unit) power ON stage to power OFF stage. Static target detection and giving priorities among the dynamic targets are implemented. Radar page is developed as per the requirement analysis of IAF. All Radar functionality's are developed as per the IOC list and integrated with other simulated LRUs and the same was evaluated by NFTC pilots. 
+         Technologies: C, Communication Protocol (Ethernet), Windows 2000 
+         Tools Used: 1553B, Rational Clear Case. 
+          
+         Roles & Responsibilities: 
+         • Studied the requirements 
+         • Identified different modules and prepared the architecture. 
+         • Developed priority assignment module for dynamic targets 
+         • Evaluated different functionality's with NFTC pilots.

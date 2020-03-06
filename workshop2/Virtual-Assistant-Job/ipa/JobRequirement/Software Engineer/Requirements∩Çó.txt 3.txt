@@ -1,0 +1,9 @@
+8 + years track record of consistent software development with modern languages
+Must showcase end-to-end production-grade applications which you build or lead in development
+Strong knowledge of the following core technologies : Java,Spring framework, C#
+Good working knowledge in ANY one of the following 3 front end technologies. E.g. Enterprise Web( Angular / React JS, CSS3 / SCSS)
+Solid experience with modern IDEs, Source control and build management tools.
+Would be valuable to have Mobile technology: iOS (Swift / Objective C)
+Worked with teams that embrace agile techniques and approaches to software delivery and deployment tools.
+Incorporated a test driven approach to software components, experienced in modern testing frameworks
+Education: Bachelor of Computer Science, Computer Engineering, Electrical Engineering

@@ -1,0 +1,21 @@
+Project Description: 
+         JP Morgan Chase Bank's strategy is to be a leading provider of liquidity and investment services through comprehensive and innovative product offerings to its customers. TLIP (Tide Liquidity Portal) system is a cohesive application developed by Polaris Software Lab to cater to the requirements of JP Morgan Chase Bank. TLIP consists of Tide module which caters to investment services of JPMC used by the Operations Team, Liquidity module involves with cash management technology and Portal module, a front end solution provided to the customers of JPMC. The applications involved in this product are: 
+          
+         • TIDE 
+         • Liquidity 
+          
+         Responsibilities: 
+         • Study of project requirements, and understanding the Business Scenarios/Execution 
+         • Identifying test scenarios from business requirements & functional specifications 
+         • Involved in preparation of Automation Script. 
+         • Involved in designing of 
+         Data Driven Frame Work. 
+         • Designing and developing Business scripts based on business rule and functional requirements. 
+         • Performed Functional, Re-Testing and Regression Testing. 
+         • Preparation of Test 
+         Data, executing Test Scripts, and preparing weekly status reports. 
+         • Preparing Bug Reports. 
+          
+         Project - 7 Asset Management Systems 
+         Environment ASP.net, SQL Server, Windows 2000 Server 
+         Tools Used QTP - Automation Testing

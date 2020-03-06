@@ -1,0 +1,5 @@
+• Oversee, lead and drive the daily IT & Service Operation in managing our cloud infrastructure and product services to both internal and external clients around the world. 
+         • Responsible for the improvement of the organization infrastructure readiness and resiliency for our UCaaS solution, and the operational systems, processes and best practices. 
+         • Leading the security in the region by setting up a Risk management framework and controls that are documented to mitigate the possibility of a 
+         data leak, financial loss or reputational damage. 
+         • Successfully improve operational processes and setup a vendor management framework to decrease our infrastructure and Telco cost by 15%

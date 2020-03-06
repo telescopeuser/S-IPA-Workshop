@@ -1,0 +1,30 @@
+Knowledge Management & Web Department 
+          
+         1. Served as the Project Manager to set up a new Enterprise Document Management 
+         System using OpenText Content Suite 10.5. This entails content migration from legacy 
+         Documentum 5.3 to OpenText content suite. In the process of upgrading to version 
+         16.3. 
+          
+         2. Led the transformational project of storing staff's personal file into OpenText Archive 
+         server which included back file conversion and mass digitization. 
+          
+         3. Oversee the SharePoint 2010 content migration to Office 365 / SharePoint Online. 
+          
+         4. Responsible for the Knowledge Management Team in charge of Web content 
+         management hosting both Intranet and static Internet sites. 
+          
+         Significant Achievements: 
+         1. Successfully implemented the Enterprise Document Management System using 
+         OpenText Content Suite 10.5. An estimated 1,600 staff from forty 
+         offices/faculties/departments are leveraging this system to manage their unstructured 
+         content. 
+          
+         2. Implemented 4 workflows to facilitate the automation of Personal file management within the OpenText Content Suite. 
+          
+         3. Performed various Cloud assessment for the following cloud SaaS application 
+         supporting Geospatial mapping, Gevme, Poll everywhere, Marketing Cloud of 
+         Salesforce and Building Automation system. 
+         4. Implemented mobile food kiosk and mobile food ordering app for NUS Cashless 
+         Canteen. 
+          
+         5. Review Server vulnerability assessment for Corporate Service Servers.

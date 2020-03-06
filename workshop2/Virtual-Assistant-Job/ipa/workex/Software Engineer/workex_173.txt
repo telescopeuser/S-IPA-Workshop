@@ -1,0 +1,9 @@
+• Drive digital transformations and collaborative engagements for 3 program stream of business across the globe. 
+         • Manage end to end delivery of 6 strategic Artificial Intelligence, Analytics and Machine Learning projects to bring the business value of more than > $50MM. 
+         • Establish best Agile practices and improve team productivity by 25% by streamlining defect tracking, coding standards and continuous delivery using increased transparency, enhanced communication, and collaboration. 
+         • Lead the Digital Innovation team of 9 and collaborate with the remote teams of size > 50 to deliver a suite of solutions for Web and Mobile utilizing Agile and SAFe. 
+         • Drive release planning meetings, design workshops engaging internal and external stakeholders and communicate reports to senior management and stakeholders during the entire software release cycle. 
+         • Orchestrate RFPs, contract negotiations with vendors, business units, and information technology partners. 
+         • Build the ecosystem of tools and services which includes cloud-based applications, standalone Microservices, and Restful APIs. 
+         • Deliver solutions wiring different 
+         data sources using the Presto engine and Python AI prediction models that run on Kubernetized cluster APIs.

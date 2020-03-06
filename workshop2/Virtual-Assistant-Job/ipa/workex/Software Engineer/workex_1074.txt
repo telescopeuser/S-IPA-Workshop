@@ -1,0 +1,21 @@
+Project Description: 
+         Global Transaction Services (GTS) was formed in February 2008 to take advantage of combining the relevant businesses across the existing RBS group with RBS N.V. (formally known as ABN AMRO Bank N.V.) transaction banking capabilities. The combination made GTS a top-five international payments business. GTS offers a wide range of payment solutions to customers to support their commercial payment needs and GTS is now a leading cash management, liquidity management, trade finance and merchant acquiring provider. 
+          
+         GTS ICM plays a vital role in today's global marketplace, companies which deals with more currencies, countries and partners in more time zones and regulatory regimes than ever. The critical business of managing payables and receivables - locally, regionally and globally - has grown increasingly challenging 
+         Responsibilities: 
+          
+         • Executing the Dry Run and finalizing the End to End Test Scenarios. 
+         • Preparing the Release Calendar such as it includes Time for running Three Cycles of executions, Stability Week. 
+         • To have extensive knowledge across the Cash Management and Liquidity Management applications and to work on cross portfolios. 
+         • Involved in E2E testing covering major portfolios like Front Office, Mid Office, Back Office applications, Online Client Service applications and Liquidity Management applications. 
+         • Involved in Preparation of Test Strategy / Plan, Test scenarios, RTM and involved/monitored the test execution for every GTS releases. 
+         • Effort estimation for automation test cases based on the available test cases and complexity 
+         • Involved in Preparation, Review & Execution of Test Automation Framework, Automation Test scripts, Generic functions and Application specific functions 
+         • Preparation and publishing the Dashboard on daily basis - DSR & MI. 
+         • Preparation and publishing the Test Completion Report at end of release. 
+         • Initiating the various payments and tracking the status of payments in different applications. 
+         • Maintenance of Test Automation Suite. 
+          
+         Project - 5 Strategic Cash Management UBS - Singapore 
+         Environment Web Application 
+         Tools Used QTP - Automation Testing

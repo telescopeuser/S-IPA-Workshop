@@ -1,0 +1,10 @@
+• Transition work from Hamburg, Germany and build a similar team in Bangalore 
+         • Managed the staffing needs of the company for different team(s) / project(s) requirements 
+         • Provide knowledge transfer to team members, train staff personnel, provide on the job guidance and mentoring and conduct training sessions to customer personnel when authorized by management 
+         • Project planning and management - Defining the Scope, Objective, Plan of work among the team 
+         • Owns scheduling and directing the efforts of the team members, tracking the progress and communicating issues and results clearly to stake holders on a regular basis. Works with management and project teams to identify requirements and priorities for the entire team 
+         • Reviewing cross-site code / design 
+         • Design; develop new features using Core Java, Java Swings. Follow "Test driven development" using JUnit, Jemmy to have high quality of code 
+         • Creating Design documents [HLD / LLD] and reviewing with all the stakeholders 
+         • Demonstrating the Features / Enhancements to all the Stakeholders including Customers 
+         • Received several awards for driving initiatives, building / setting up team, Quality awards and Best designer award

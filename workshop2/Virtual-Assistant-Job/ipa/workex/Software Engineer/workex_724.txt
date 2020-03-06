@@ -1,0 +1,4 @@
+Worked with Contact Center Team in developing in-house Issue and Pattern Reporting Tool 
+         using MongoDb. This project was to start developing a tool on Sentiment Analysis by reading, 
+         parsing and extracting customer's sentiments from their communications via emails, messages, 
+         contact center interaction notes etc. and help the organization to improve customer satisfaction.

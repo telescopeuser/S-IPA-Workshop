@@ -1,0 +1,16 @@
+- Infrastructure project management. 
+         ● - Sun Solaris Server Administration. 
+         ● - Red hat Linux Server administration. 
+         ● - Sun cluster Administration. 
+         ● - NIS admin/VERITAS volume manager. 
+         ● - Sudo setup and administration. 
+         ● - Unix Shell program writing, Openssh installation and configuration. 
+         ● - Symantec netbackup Administration. 
+         ● - Perform Disaster recovery drill. 
+         ● - Websphere administration (Middleware). 
+         ● - Sybase database administration. 
+         ● - Kondor Support. 
+         ● - MDS and EBS servers administration. 
+         ● - HDS/EVA storage support 
+          
+         Hardware Upgrade, Security policy implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation and support for internal and external auditing, DR preparation and Implementation.

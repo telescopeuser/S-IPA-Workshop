@@ -1,0 +1,8 @@
+Project Description: IQVIA, formerly Quintiles IMS Holdings, Inc., is an American multinational company serving the combined industries of health information technologies and clinical research. 
+         They are currently upgrading from PeopleSoft to Workday and only T&L module retain in PS system and for this doing interface for all hire, rehire and workforce information sync between from Workday to PS. 
+          
+         Roles and Responsibilities: 
+         ❑ Currently working on Application Engine & Component Interface to hire all person & job information's to load into Person & Job component based on the client's requirement. 
+         ❑ Implemented Fluid Application in FSCM 9.2. 
+          
+         PROJECT EXPERIENCE #12

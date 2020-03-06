@@ -1,0 +1,6 @@
+- Setup of 
+         data pipelines with prime brokerage and counterparties 
+         - Analysing daily trades, positions and cash 
+         - Liaison with external parties to ensure good trade settlement 
+         - Preparation and delivery of NAV/commission/borrow fee/OTC reports 
+         - Support the on-boarding of new fund and cash subscriptions/redemption - Work with traders to monitor for trade discrepancies for escalation

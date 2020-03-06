@@ -1,0 +1,38 @@
+Project 1 : Network and Users Administration and Software Distribution for 1000+ users.  
+           
+         Environment: Windows 2000 Server, Windows 2000 Professional, Windows NT Server 4.0, Windows NT Workstation 4.0 and Windows 98/95.  
+           
+         ALZA is a 
+         big pharmaceutical firm with 3 different locations throughout California and more than 1000 users. They are in the process of upgrading from Windows NT 4.0 and Windows 95/98 to Windows 2000 for the servers as well as all the workstations. My job there is to participate in the analysis, design, planning and upgrading process and make sure all the servers are successfully upgraded to Windows 2000. As the old Windows NT 4.0 policies are unable to be used on the new Windows 2000 network, new network policies have to be redefined and implement after the upgrade. Apart from that, I also have to make sure that the integrity of the files still remains and users are able to find their application and 
+         data files without much difficulty.  
+           
+         Another part of my jobs is to make sure all the applications that used to work on the Windows NT 4.0 or Windows 95/98 clients are still able to work on the new Windows 2000 machines and also make use of the new features in Windows 2000 to package and distribute all the applications (nearly 100 or more) that are being used at ALZA Corporation onto any user desktop without any user interference and deploy them in the most efficient manner.  
+           
+         As a Consultant, the responsibilities for this project include:  
+           
+         •      Setting up, evaluating and testing the Windows 2000 and other tools in the test lab to determine the possible situations that will occur before the final upgrade to the new OS.  
+         •      Learning about the current network, design and plan for the new network to determine what is the best way to upgrade all the servers to Windows 2000 with the least disruption to the users.  
+         •      Learning the mechanism (Registry, Policies etc) and tools in the new Microsoft Windows Operating Systems so as to be able to implement new policies and also applications to the servers as well as the workstations.  
+         •      Working with users to make sure they are able to find their files and make sure the security in their files are still there after the upgrade.  
+         •      Package more than 100 application such as Internet Explorer 5/6, Office XP Professional and their service pack using various Wise for Windows Installer, SMS Installer, Winstall etc.  
+         •      Deploy these package using various like SMS, Winbatch, login script etc.  
+         •      Meeting with various vendors to learn about how their applications are being built thus determining the best way of building the deployment software.  
+         •      Work closely with testers/users to test out the deployment package before mass distribution to 1000+ users so as to minimize problems due to the automatic installation.  
+         •      Documentation of how the deployment applications are built as each deployment application is built differently so as for easy maintenance.  
+           
+         Project 2 : Network and Users Administration for 500+ users.  
+           
+         Environment: Windows 2000 Server, Windows 2000 Professional, Windows NT Server 4.0, Windows NT Workstation 4.0 and Windows 98/95, Raptor Firewall, Microsoft Exchange Server.  
+           
+         Angelo Brothers Company is a manufacturing firm with more than 6 different locations throughout United States and Europe more than 500 users. They are in the process of upgrading some of the servers from Windows NT 4.0 and Windows 95/98 to Windows 2000 and also Exchange 5.0 to Exchange 2000. My job there is to participate in the analysis, design, planning and upgrading process and make sure all the servers are successfully upgraded to Windows 2000. I also need to supervise and help the helpdesk and operations members and try to solve their problems so that they are able to help the end-users in the company more efficiently.  
+           
+         Another part of my jobs is to make sure the network is up all the time with several VPNs applications that are running using the Raptor Firewall. I am also in charge of the process of setting up their Europe headquarters servers (Another Raptor Firewall and Exchange Server and creating another VPN between Europe and USA).  
+           
+         As a NT Manager, the responsibilities for this project include:  
+           
+         •      Setting up, evaluating and testing the Windows 2000 and Exchange 2000 in the test lab to try to minimize any problems that will occur before the final upgrade to the new OS and application.  
+         •      Learning about the current network, design and plan for the new network to determine what is the best way to upgrade all the servers to Windows 2000 with the least disruption to the users.  
+         •      Learning the mechanism of the new Exchange 2000 server and try to determine how can it work and communicate with the older versions of the same application.  
+         •      Fine tuning of the network to fix up all the minor faults.  
+         •      Meeting with various vendors to learn about their products and see how it can benefit the organization and recommending and implementing the appropriate solutions into the organization.  
+         •      Supervising of helpdesk and operation subordinates and help them to solve them problems in order to better them in helping the end-users.

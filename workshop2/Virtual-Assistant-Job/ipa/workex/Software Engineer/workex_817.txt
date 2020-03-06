@@ -1,0 +1,6 @@
+PT Mobile Selular Indonesia /MOBISEL is an operator network of NMT-450 in Indonesia. 
+         Successfully completed the following design: 
+         • Network Design of Nokia RBS 450 & Microwave Transmission Planning in expansion 
+         Network from Bandar Lampung (close to South Sumatra) to Java-Bali and Lombok. 
+         • Set-up Cell-cad Planning Tools as RF and Microwave Planning Tools for MOBISEL 
+         NMT network

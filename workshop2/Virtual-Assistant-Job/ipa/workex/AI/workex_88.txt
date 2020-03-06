@@ -1,0 +1,11 @@
+Project: REDW 
+         Data Warehouse 
+         • Architect design for running the Informatica batches. 
+         • Developed the automation script for developing the Informatica workflow for loading the files into Teradata tables. 
+         • Developing Shell script for validating the source files and running the Informatica batches. 
+         • Setting Informatica, Teradata environment for executing shell script. 
+         • Configuring the Zena Scheduler for running the Daily and Monthly batches. 
+         • Configuring Hadoop, Hive and flume Environment in RHEL 6. 
+         • Monitoring, and administering Hadoop clusters and Jobs. 
+         • Converted HDFS unstructured 
+         data into Structured and loading into a Hive tables.

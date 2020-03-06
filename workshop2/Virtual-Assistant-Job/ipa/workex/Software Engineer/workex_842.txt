@@ -1,0 +1,9 @@
+that tracks, forecast, produce information(reports) and supports decision-making. 
+          
+         • Track team productivity, monitor team progress on designated targets per Sprint/Period. 
+          
+         • Formulated and implemented the formula for Sales Forecasting 
+          
+         • Planned and designed the front-end web application with HTML and Bootstrap 
+          
+         • Integrated Front-end to Back-end of the web application

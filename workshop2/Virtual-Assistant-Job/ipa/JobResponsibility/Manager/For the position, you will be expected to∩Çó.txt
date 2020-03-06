@@ -1,0 +1,6 @@
+Manage the Infrastructure department and directly oversee crucial roles like DBAs, Network Engineers and Data Centre operators
+Act as a point of escalation and take responsibility to ensure that business activities are not disrupted in the event of an incident
+Review the existing Infrastructure landscape to ensure adherence to regulatory guidelines
+Function as a lead for Infrastructure enhancements, operations and maintenance
+Plan and collaborate with various department heads to develop strategies which can align with the corporate vision
+Be a subject matter expert for technologies like VMs, Servers, Firewalls, Routers, Operating Systems and related Infrastructures

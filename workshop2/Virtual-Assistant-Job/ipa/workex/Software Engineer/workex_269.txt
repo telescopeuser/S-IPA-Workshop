@@ -1,0 +1,48 @@
+Singapore 
+          
+         Analytics & 
+         Data Science 
+         • Worked on diverse range of key projects as part of 
+         Data Analytics team like the Migration of EDW to Next Gen Cloud Platform, 606 compliance reporting DataMart, Customer Listening & Action System, FairValue reporting dashboards, Book to Bill backlog reporting and minor/major releases for M&A and enhancements and 
+         Data Science Initiatives Customer Churn Prediction, Workforce planning & optimization. 
+         • Implemented 
+         data quality framework with reconciliation engine from different source systems leading to corrective & preventive action based on 
+         data quality matrices. 
+         • Designed Logical 
+         Data model and Physical 
+         Data model for ER Model and Dimensional Model 
+         • Prepared long term roadmap with implementation plan for strategic projects focusing on 
+         Data Governance (Policies, Standards, Roles), 
+         Data Architecture & Meta 
+         data Management. 
+         • Spearheaded ARB (Architecture Review Board) in the company and represented from 
+         Data Analytics team to make sure architecture standards are followed and no duplication of effort/projects. 
+         • Built complex visualizations and generic model to enable self-service for business groups to reduce IT dependency and faster delivery for 
+         data hungry CDO office. 
+         • Managed end to end delivery of projects using contract resources and vendor partners as 
+         Data 
+         Engineers, Reports developers, Business Analyst by effectively bridging the gap as an SME between Dev Team and Business stakeholders. 
+         • Worked on strategy and long-term planning for licensing cost Optimization for Database, BI Tools (Informatica, Tableau and Google Cloud Platform) and talking to vendor partners to get best deals for optimized Capex & Opex split as per company policy. 
+         • Architected ETL framework using Informatica CDC for Micro Batch processing along with Python Pandas and Spark to ingest 
+         data to Google BigQuery platform. 
+         • Lead efforts for Real Time 
+         Data Pipelines to build Enterprise Search for Customer 360 using tools like Confluent Kafka, Elastic Search platform with the Producer as Informatica CDC Publisher pointing to Siebel CRM database. 
+         • Worked on key dashboard/metrics for Cycle time like Quote to Order, Order to Activity completion etc to give visibility on process improvement which helped for higher NPS (Net Promoter Score) and CSAT score. 
+         • Prior to Next Gen has built Enterprise 
+         Data warehouse (EDW) & 
+         Data Mart for reporting KPIs for different functional groups Sales and Marketing, Finance (Tax, Treasury, AP, AR, Billing) and Internal Audits. 
+         • Crafted the foundation 
+         data model considering a Hybrid Approach to get benefits of Peta Byte Scale 
+         Big Query for Performance without compromising the benefits of Enterprise 
+         Data Warehouse. 
+          
+         Hyperion Planning (Workforce, Capex, P&L and Reporting) Appl. Enhancement and Support 
+          
+         • Developed reports/dashboards using Hyperion Financial Reporting for Balance Sheet, Income Statement and P&L reports. Sound knowledge of ASO/BSO Essbase cubes, written Calc scripts and Business Rules for Budgeting/Forecasting using Hyperion planning application 
+         • Acquired sound knowledge in oracle financial modules like AR, AP, FA and GL modules and business process for budget submission, review, approval in working with regional and corporate finance and FP&A team. 
+          
+         Operational 
+         Data Store for ECP/IP 
+         • Lead the design & development of ODS 
+         data model for Customer portal application by integrating eight desperate systems using Tibco, Informatica and Oracle. 
+         • ODS uses complex transformation to derive key metrics to be displayed to portal starting from Order, Fulfilment, finance and other key statistics from mediation on usage.

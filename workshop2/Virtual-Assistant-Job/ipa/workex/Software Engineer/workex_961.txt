@@ -1,0 +1,2 @@
+1. Define the features of multimedia System-On-Chip. Design, implement and test products 
+         2. Using Matlab, C++/C , scripting language, hardware description language and Cadence software

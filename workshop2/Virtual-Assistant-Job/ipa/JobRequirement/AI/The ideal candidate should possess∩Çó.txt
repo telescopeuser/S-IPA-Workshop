@@ -1,0 +1,9 @@
+Have more than 2 years’ experience for data scientist.
+Master degree and above, major Engineering, Math, Statistics, Computer Science or similar field focused on quantitative methods.
+Demonstrated skills for data mining, machine learning, text analytics or streaming data
+Demonstrated leadership and strong analytics skills in applying techniques to deliver actionable insights from data. Has a passion for solving unstructured business problems through analytics.
+Demonstrated strong learning capability on new business knowledge, business processes, analytics tools/techniques and methods.
+Strong written and verbal communication skills to influence business partners to turn insights into actions.
+Demonstrated ability to collaborate within teams.
+Demonstrated ability to handle multiple priorities.
+Knowledge of Hadoop (Cloudera distribution), Hive / Impala, Spark, Python, R, SAS, Greenplum is a plus.

@@ -1,0 +1,70 @@
+Responsible for the SEA (including China) Presales Team (8 solution architects) including 
+         validation of all proposals and demos, agreements with partners and support Sales on technical/functional topics. 
+          
+         Scope of responsibilities: Head of Department 
+         • Regional Presales Strategy and pipeline generation 
+          
+         • Key Stakeholder in Sales Strategy 
+         • KPI on Sales revenues 
+         • Commercial discussions at C-Level 
+         • People management/coaching 
+         • Business development for the region for Asset Management System 
+         Achievements 
+         • Won the first project for ABB Enterprise Software in APAC 
+          
+         • Achieved break-even after the first year 
+          
+         • Built strong communication channel between Global GTM team and SEA Presales team 
+          
+         • Built a cross-countries Presales team in APAC from scratch within 6 months. 
+          
+         Products and Solutions 
+         • EAM (Enterprise Asset Management), ERP (Entreprise Resource Planning), 
+         • Workforce Management System, 
+         • EPM (Energy Portfolio Management), OMS (Operations Management System) 
+         • Monitoring and Predictive Maintenance Systems 
+          
+         Solution Consultant then Project Manager - International onsite projects 
+         Responsible for different Professional Services Teams, on large scale implementation projects from technical and functional design to final delivery. Technical-functional Consultant on projects. 
+          
+         Scope of responsibilities 
+         Project Manager 
+         • Project Delivery and project P&L 
+          
+         • Project Budget and Resources Management 
+          
+         • Steering Committees at C-Level / Client expectations management 
+          
+         • Team management/coaching/training 
+          
+         • Business development by expanding the projects scopes 
+          
+         Solution Consultant 
+         • Leading the functional and technical aspects of projects 
+          
+         • Training, coaching teammates and partners 
+         • Consulting plans and strategy 
+         • Technical and functional review meetings 
+          
+         Projects and Achievements 
+         Customer: CNNC (China National Nuclear Corporation) China - Zhejiang/Beijing 
+          
+         • Ventyx EAM Asset Suite implementation project. (10+MUSD - 30 consultants/6 nationalities) 
+          
+         • Asset Suite (EAM) / (EOM) Localization Project. 
+         (1.2MUSD - 9 consultants - 2200+ screens) 
+          
+         • 
+         Data Strategy for whole nuclear plant EAM system (800KUSD - 10 
+         data scientists) 
+         Customer: EDF (Electricity de France) France - Chatou 
+         • Documentum-EAM(Asset Suite) interfaces design 
+         • Web Services implementation 
+         • Master 
+         Data conversion and migration for Blayais Nuclear Plant Business Analysis 
+         • Support for MCO (Maintenance under Operational Conditions) 
+         Customer: Ethekwini Roads / Ethikwini Electricity - South Africa - Durban 
+         • Integration of Geospatial Information System (GIS) module of Ellipse (EAM) with ArcGIS 
+         • Integration of Ellipse, Asset Management system for Roads and Utilities 
+         Partners: Euriware, Atos, CapGemini ( China, Poland, USA, UK, South Africa) 
+         • Provided technical and Functional Training and Nuclear Asset Management Consultancy

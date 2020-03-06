@@ -1,0 +1,10 @@
+Responsibilities 
+          
+         • Designing, developing and implementing the workflow program, presentation and handling various phases of interface development based on technical specifications. 
+         • Programming GUI Interface codes for implementing with page designs. 
+         • Visualizing, concept building and creating the storyboards with implementation. 
+         • Developing simple, useable, attractive and cross-browser web interfaces that account for speed, file size, readability and accessibility. 
+         • Building full site and integrating with application by following steps like requirement analysis, web banner/page development, creating form using HTML components and usability testing. 
+         • End to end testing using karma. 
+          
+         Technical Environment AngularJs 1.6, Java, Springboot, HTML, Karma, Jasmine

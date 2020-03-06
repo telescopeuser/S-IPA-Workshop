@@ -1,0 +1,2 @@
+Project Lead for Citibank Japan, USA and Mexico Global ESB projects. 
+         • Created, delivered and maintained scalable system architecture to support a high-availability intranet site with various internal applications.

@@ -1,0 +1,11 @@
+Responsibilities 
+         ➢ Prepared design document by referring the requirement specification document. 
+         ➢ Liase with client and other vendor teams to setup the development Env.to perform ETL activities. 
+         ➢ Create the SSIS Package to extract 
+         data from csv files, Oracle and SQL server into SQL Server database (staging area). 
+         ➢ Created SAS DI jobs to perform the ETL operation[Used SQL joiner, append, Lookup, table loader, user written and loop transformations] 
+         ➢ Prepared unit test scripts and participated in UAT. 
+         ➢ SAS DI Jobs scheduling, setup the error handling and security matrix on the DAP system 
+          
+         Project 2: HDB [Housing & Development Board] 
+         Environment: Sql Server Integration Services, SQL Server 2012, SAS VA, Oracle.

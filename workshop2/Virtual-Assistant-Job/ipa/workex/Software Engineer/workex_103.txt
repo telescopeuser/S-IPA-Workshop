@@ -1,0 +1,6 @@
+- Singapore 
+         • Designing the key modules of the application including the database structure 
+         • Designing and developing the business components 
+         • Developing interfaces to integrate the third party systems with the integrated system 
+         • Collecting requirements and preparing the requirement specification for the development team. 
+         • Managing the development platforms.

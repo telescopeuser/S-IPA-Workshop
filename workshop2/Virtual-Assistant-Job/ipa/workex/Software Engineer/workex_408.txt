@@ -1,0 +1,31 @@
+• Working as part of Global team to support of LAN, WAN and firewall environments, including problem isolation and resolution, performances troubleshooting and monitoring, change management, incident management. 
+         • Perform Changes, troubleshooting issues and analyzing traffic on Checkpoint, Sidewinder, Palo Alto, ASA & SonicWALL firewalls 
+         • Maintain, upgrade and ensure security patching of all equipment under management. 
+         • Network planning, Implementing and expand client network based on new requirements and Deliver documentation to build and support deployments 
+         • Monitor and report network activity trends 
+         • Proactively contribute to support documentation, automation and processes 
+         • Implement and support Cisco switches/routers, firewall and other security appliances. 
+         • Experience to capture and analyze traffic 
+         • Ensure proper network hardware and software refreshes. 
+         • Handling different types of network issues from various departments (user, System team, development teams, DBA, vendors, and etc), 
+         • Project related work, as required. Performed tech-refresh (Switches, Routers, ASA & Checkpoint) 
+         • Be part of the technical level support and escalation of network related issues during and outside business hours. 
+         • Configure and troubleshooting of STP, RSTP, VRRP, HSRP, VLAN, PVLAN, VTP, VSS, QoS, Multicasting using IGMP 
+         • Engage with the wider Schroders support teams in the management and resolution of major incidents and problems. 
+         • Conduct Hardening on all Network devices regularly including Firewalls, switches, Routers, Load balancers and CPPM. 
+         • Perform detailed troubleshooting remotely, engage and manage vendors as needed to resolve complex issues• Working as part of Global team to support of LAN, WAN and firewall environments, including problem isolation and resolution, performances troubleshooting and monitoring, change management, incident management. 
+         • Perform Changes, troubleshooting issues and analyzing traffic on Checkpoint, Sidewinder, Palo Alto, ASA & SonicWALL firewalls 
+         • Maintain, upgrade and ensure security patching of all equipment under management. 
+         • Network planning, Implementing and expand client network based on new requirements and Deliver documentation to build and support deployments 
+         • Monitor and report network activity trends 
+         • Proactively contribute to support documentation, automation and processes 
+         • Implement and support Cisco switches/routers, firewall and other security appliances. 
+         • Experience to capture and analyze traffic 
+         • Ensure proper network hardware and software refreshes. 
+         • Handling different types of network issues from various departments (user, System team, development teams, DBA, vendors, and etc), 
+         • Project related work, as required. Performed tech-refresh (Switches, Routers, ASA & Checkpoint) 
+         • Be part of the technical level support and escalation of network related issues during and outside business hours. 
+         • Configure and troubleshooting of STP, RSTP, VRRP, HSRP, VLAN, PVLAN, VTP, VSS, QoS, Multicasting using IGMP 
+         • Engage with the wider Schroders support teams in the management and resolution of major incidents and problems. 
+         • Conduct Hardening on all Network devices regularly including Firewalls, switches, Routers, Load balancers and CPPM. 
+         • Perform detailed troubleshooting remotely, engage and manage vendors as needed to resolve complex issues

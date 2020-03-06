@@ -1,0 +1,36 @@
+Engineering Manager 
+         Projects: Marketing 
+         Data Products, Loyalty Product Singapore 
+         • Extensive hand-on experience in delivering Strategic Business solutions for VISA Marketing services including enhanced loyalty solutions, digital customer experiences and other technology based service solutions for both Consumers and Commercial products using ETL tools(Ab initio, Talend) and 
+         Big 
+         Data tools(Spark, Hive, HQL, Pig, Sqoop, Hbase) 
+         • Lead a team of 
+         data 
+         engineers(7) in Visa to deliver multiple 
+         data pipeline projects as part of Visa product development involving 
+         data modelling, 
+         data ingestion, 
+         data enrichment, 
+         data validation, 
+         data security and 
+         data visualization on the 
+         Big 
+         Data Platform 
+         • Champion operational efficiency and process improvement for product development lifecycle that realized 80% reduction in person-hours (for regression test) with test automation and continuous integration(CICD, JENKINS and SONAR) 
+         • Performed solution architecture for highly complex Visa processes that requires best fit tool choices ( Ingestion, ETL, Automation and Reporting), Disaster Recovery Strategy, Infrastructure and Software license needs. 
+         • Designed and successfully implemented a highly scalable batch application that involves processing of 80 billion transactions globally in less than 2 hours using 
+         Big-
+         data technologies (Spark, Hive, Hbase) for Visa 
+         • Designed the re-architecture of Ab Initio graphs to (
+         Big 
+         Data) solutions(Ab Initio connector, Write Hadoop, Read parallel Hadoop, Hive, Pig, Map reduce, Hive UDF, HQL) for multiple applications in VISA 
+         • Worked on the database server migration(DB2) from AIX to Linux to mitigate risks by deploying vormetrics encryption, introducing security assessment strategy for source code and achieve performance gains 
+         DOMAIN 
+         Build Multi-dimensional Reporting Dashboards (Tableau) that led to revenue generation and improved customer relationships 
+         • Pioneer in evangelizing Agile(Jira, pair programming and Story- point estimation) as part of Visa's 
+         Data platform Strategy for quick turn-around on product delivery 
+         Loyalty Products 
+         Fraud 
+         Marketing Services 
+         Telecom 
+         Banking & Finance

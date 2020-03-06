@@ -1,0 +1,5 @@
+• Implemented a Window based help system for product during internship. 
+         • Developed a banking operation reporting core module on DEC UNIX operating system, Oracle database and Pro*C programming language. 
+         • Executed exhaustive testing process for End-of-Day banking solution. 
+         • Prepared and performed training for users in Thailand. 
+         • Support pre-sales activities in China

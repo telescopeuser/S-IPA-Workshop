@@ -1,0 +1,9 @@
+Degree in Computer Science, Math, Statistics or other quantitative / computational discipline.
+Strong background in statistical concepts and calculations.
+6+ years experience in quantitative analysis.
+6+ years experience with statistical / machine learning / predictive modelling and one or more tools (e.g. R, SPSS, SAS, Python, Progress SQL).
+Data engineering experience, including SQL, ETL and experience manipulating data sets with structured and unstructured data using Hadoop, AWS or other big data platforms.
+Proficient in visualization / dashboard tools (e.g. Tableau, Microstrategy).
+Strong project management and organizational skills.
+Excellent communication skills (verbal, written, visual) to deliver insights (e.g. compelling presentations, easy to understand rationale) to senior management, internal and external stakeholders.
+Motivated and driven, able to work independently and a good team player as part of a multidisciplinary team.

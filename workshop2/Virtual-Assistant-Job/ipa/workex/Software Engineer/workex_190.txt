@@ -1,0 +1,41 @@
+Singapore, April 2018 to present 
+         Project ( International DataWarehouse on ClouderaHadoop) 
+         Technologies Used: 
+         BIG 
+         Data Hadoop on Cloudera, Hive, Sqoop, Spark with Python/Scala, Spark Streaming, Hbase, Flume, Kafka, ETL Oracle, MSBI., Hadoop Admin functionalities. 
+         UNIX Shell Scripting, Tableau. 
+         Responsibilities: 
+         As Lead Hadoop 
+         Data 
+         Engineer with below functionalities. 
+         ⇨ Involved in import and export of 
+         data from/to Oracle to/from HDFS using Sqoop. Created Sqoop jobs to populate 
+         data present in relational databases to hive tables. 
+         ⇨ Involved in creating Hive external tables, loading 
+         data, and writing Hive queries using HiveQL with various file formats like Text, Avro, Parquet, Sequence, JSON etc. 
+         ⇨ Used Hive to form an abstraction on top of structured 
+         data resides in HDFS and Involved in performance tuning of Hive Queries by implementing Dynamic Partitions, buckets in Hive to improve the performance. 
+         ⇨ Created RDDs/DataFrames using SPARK with Python and used various transformation and action and performed in-memory computation capabilities. 
+         ⇨ Designed, developed 
+         data integration programs in a Hadoop environment with NoSQL 
+         data store Hbase for 
+         data access and analysis. 
+         ⇨ Used YARN resource manager to manage the resource in the Hadoop Production/Dev cluster. 
+         ⇨ Sourced 
+         data from HDFS on Tableau to build customized interactive reports, worksheets and dashboards. 
+         ⇨ Created DataFrame through Spark using Python and Scala. 
+         ⇨ Involved in performance tuning of spark jobs using Cache and using complete advantage of cluster environment. 
+         ⇨ Developed the processes to load 
+         data from server logs into HDFS using Flume and also loading from UNIX file system to HDFS. 
+         ⇨ Develop daily/weekly/monthly reports using Business Objects and provide access to the required users for reporting analysis. 
+         ⇨ Sourcing 
+         data from Kafka/Flume to Spark streaming and storing 
+         data in HDFS for further analysis 
+         ⇨ Created dimension and measure objects according to business requirements based on business logics. 
+         ⇨ Visualization of 
+         data through Tableau and R. 
+         ⇨ Development through Agile process using JIRA integrated with Odyssey. 
+         ⇨ 
+         Data Analysis and implementation of Machine learning supervised algorithms with Python. 
+         ⇨ End-to-End Hadoop cluster setup from scratch to production setup. 
+         ⇨ Worked with Cloudera Manager APIs, Rest API on SNOW automation.

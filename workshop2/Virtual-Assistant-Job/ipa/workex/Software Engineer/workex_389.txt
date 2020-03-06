@@ -1,0 +1,4 @@
+• Designed and developed "Share Transfer Module‟, this enabled the company to maintain updated records of shareholders. It reduced application-processing time from 1 hour to 5 minutes. 
+         • Developed "Student Counseling and Placement (HRD)‟ system for Innovation Academy that was marketed to many 
+         software training centers in India. 
+         • Involved in performance optimization and tuning of back end share transfer applications.

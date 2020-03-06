@@ -1,0 +1,21 @@
+Highlights: 
+         • Functioned as Operate Support Lead for Client Technology Applications and Application DBA. 
+         • Played a key role in all P1 incidents and managed all escalations from application teams. 
+         • Successfully delivered 500+ changes per weekend as Change Manager without major impact. 
+         • Significantly reduced the manual work by automating various change and incident processes. 
+         • Efficiently reduced the volume of incident tickets from 18000 to 3500 tickets per month by revising the processes and following best practices. 
+         • Managed and delivered automation projects for installation and patching of databases. 
+         • Successfully set up a new team in Singapore, right from interview process to placing them on BAU. 
+          
+         Responsibilities: 
+         • Provided leadership to the large DBA team to support 13000+database instances globally; managed incidents, changes, problems and events under Global Technology Infrastructure (GIT) organization. 
+         • Managed and resolved global database incidents in coordination with support teams, operations teams, command centers and global incident managers. 
+         • Led a team of 15 DBAs as Incident Manager and a team of 14 DBAs as Change Manager. 
+         • Managed global database changes (over 500 changes per week) by participating in Change Board Meetings, monitoring changes, status updates, resolving issues related to change and controlling change failures. 
+         • Participated in all scheduled and unscheduled Disaster Recovery activities across various regions, 
+         data centers, and events across the organization. 
+         • Ensured successful disaster recovery for all involved databases and updated the operation documents regularly. 
+         • Prioritized incidents, user requests and changes, assigned appropriate DBA resources to resolve incidents, managed escalations, incident bridges and root cause action items. 
+         • Handled end-to-end process for incident management, coordinated with vendors, ensured change completion without fail/miss, escalated to SME and other support teams like UNIX, Backup, etc. (if required) and met all SLAs. 
+         • Earlier worked to support GTI Applications under Client Technology Support Operate Group. 
+         • Implemented large number of monitors by creating and deploying custom Perl scripts which assisted the team to work more proactively.

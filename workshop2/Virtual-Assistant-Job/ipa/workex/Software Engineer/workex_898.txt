@@ -1,0 +1,43 @@
+Technical Competencies 
+         • Language: Java, JEE 
+         • Design Framework: Struts, Spring 
+         • Web Technologies: Servlets, JSP, Java Script OOPs 
+         • Front End: HTML5, JavaScript, JSON, CSS 3.0, AJAX 
+         • ORM Tool: Hibernate 
+         • DBMS: Oracle 11g, MY SQL 
+         • Web and Application Servers: IBM Web sphere 8.0, Apache Tomcat 7.0, JBOSS 4.0.3 
+         • Testing Tool: Junit, Mockito 
+         • Version control tool: CVS, SVN, Git 
+         • IDE: Eclipse, PL/SQL Developer 
+          
+         Key Deliverables across the Tenure 
+          
+         Technical Lead: Doing Individual contributor role and mentoring the team, right from Requirement to Delivery. 
+         • Requirement Analysis 
+         • Design of Modules & Interfaces 
+         • Leading & motivating workforce and divulging continuous on job training for achieving greater operational effectiveness/efficiency. 
+         • Agile Methodology. 
+         • Strictly follows the CICD process for Upoint Thrive Redesign (UTR) Project. 
+          
+         Specialist: Lead a team of 2 to 3 members on few of the Organization's 
+         big initiatives involving the entire Software Engineering practices right from Design to Delivery. 
+         • Requirement Analysis 
+         • Design of Modules & Interfaces 
+         • Development Plan & WBS: Prepared a detailed Development & Testing Plan for the Projects & Deliverables 
+         • Tracking of Metrics & Reporting 
+         • Document & Release Management 
+         • Leading & motivating workforce and divulging continuous on job training for achieving greater operational effectiveness/efficiency. 
+         • Strictly follows the DevOps (Continuous Integration Model) for SDA Tech Tablet Projects. 
+          
+         Requirement Analysis: Before the task is started, the requirement is analysed against the ROI and then moved on further 
+         • Part of this process during Organisation's Transformation of entire SDA Tablet applications. 
+         Design: Was involved in Design phase of many modules 
+         • Part of this process during Organisation's Transformation of entire SDA Tablet applications. 
+         Development: As a developer, was involved all part(s) development of a module. Some of the key items are: 
+         • Worked on JDK 4 & 7 for Java Modules Development [On all projects so far]. 
+         • Worked on module re-engineering from script to Java and Android. 
+         Maintenance: Was involved on the maintenance of the module post-delivery and was also part of maintenance projects as well. 
+         • SDA Tablet and WBN (Work Bench National) applications. 
+          
+         Projects Summary 
+         Project/Product/Team Client Duration Responsibilities

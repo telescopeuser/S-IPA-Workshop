@@ -1,0 +1,9 @@
+• Redesigning the core existing framework to enhance the performance of the overall System 
+         • Complete ownership on the UI from Bangalore 
+         • Mentoring / guiding team members 
+         • Project planning and management - Defining the Scope, Objective, Plan of work among the team 
+         • Reviewing cross-site code / design 
+         • Design; develop new features using Core Java, Java Swings. Follow "Test driven development" using JUnit, Jemmy to have high quality of code 
+         • Creating Design documents [HLD / LLD] and reviewing with all the stakeholders 
+         • Demonstrating the Features / Enhancements to all the Stakeholders including Customers 
+         • Received several appreciations on the Technical presentations / Demos from the Stakeholders

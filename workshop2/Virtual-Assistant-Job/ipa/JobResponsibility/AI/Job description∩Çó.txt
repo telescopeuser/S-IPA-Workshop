@@ -1,0 +1,5 @@
+Understand and solve identified business problems from curated datasets.
+Design analytical solutions and experiments.
+Conduct data exploration, feature engineering, visualization and develop models.
+Model validation and deployment preparation with engineering team.
+Be a thought-leader and drive innovation within the organisation.LI-EN

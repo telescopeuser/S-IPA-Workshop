@@ -1,0 +1,17 @@
+Period: 12th Jul 2007 - 9th Jan 2011 (3 Years, 5 Months) 
+         Horizontal: Process Engineering and Asset Management - Cognizant 2.0 
+         • Hands-on experience in "Eclipse Process Framework" (EPF) process 
+         authoring tool & defined various processes & multiples releases to C2.0 Process 
+         Space. 
+          
+         • Defined & improved the Application Development process packages such as AD- 
+         OOAD/SSAD, Agile (FDD & Scrum), and Reengineering, Application 
+         Extension, AD Security and released to entire organization via C2.0 Process 
+         Space. 
+          
+         • Worked on successful release of security consulting process package called 
+         Digital Security Assessment (DSA) into C2.0 for piloting. Reviewed & refined the process steps, roles, WPs, and activities/ tasks. Customized and retrofitted the DM 4.0 tasks for DSA PP. Coordinated with DSA SMEs for baselining the 
+         SOP. 
+          
+         • Worked on successful release of solution specific process package called AD- 
+         Enterprise Application Integration (EAI) into C2.0 for piloting. Reviewed & refined the process steps, roles, WPs, and activities/ tasks. Customized and

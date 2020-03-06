@@ -1,0 +1,67 @@
+Project Summary 
+         At- Credit Agricole Bank, Singapore 
+         Project - Cash Management Transaction 
+         Project Role: Senior Developer 
+         Project Abstract 
+         The applications Cash Management Transaction where bulk payment is processed for multiple customer through various payment channel. The bulk payment processed by series of phase for correctness and validation of payment 
+         data for successful processed by payment engine. In each step, payment 
+         data will be transformed and validated against referential 
+         data provided to the bank like subscription, entities for identifying the payment details. 
+         Technologies/tools Used: 
+         Apache Kafka, Rest, Java8, Hortonworks, Rabbit MQ, Spring Boot, ElasticSearch, JMS, Hbase, HDFS, Storm, Hadoop, JUnit, Docker, OAuth2, Ignite 
+         Responsibilities 
+         • Gather and Analyze Requirements and document the requirements. 
+         • Developed JMS components to send messages from one application to other application internally. 
+         • Developed monitoring management tools. 
+         • Implemented the complete 
+         Big 
+         data pipeline with real-time processing. 
+         • Initiated a lot of fine tuning mechanisms to tune the database as well as the queries to complete a set of given jobs or tasks in optimal time. 
+         • Written Behavior driven development test cases using Cucumber. 
+         • Launching and Setup of HADOOP/HBASE Cluster which includes configuring different components of Cluster. 
+         • Assist in investigating production issues and provide solutions. 
+         At- Sapient Consulting Pvt. Ltd Bangalore India. 
+         Project - Transaction Banking Operation Service 
+         Client-Australia & New Zealand Bank 
+         Project Abstract 
+         Transaction Banking project of ANZ bank Australia in which all the corporate banking operation takes place. The end user of this project is ANZ corporate customer who will perform banking operation in a batch process manner thereby this module will process, validate, generate report and send it to the core banking system for final payment processing. 
+         Technologies/tools Used: 
+         Java7, Rest, OSGI, JPA, Backbone JS, JMS, Drools, Activity BPM, Oracle, Spring Boot, WebSphere MQ, AWS. 
+         Project Role: Senior Developer 
+         Responsibilities 
+         • Closely partnering with Business Analysts and Developers on application definition, design, development, integration, testing, and support. 
+         • Analyze highly complex business requirements; generate technical specifications to design or redesign rules engine applications and complex software components. 
+         • Developed OSGI components for backend 
+         data retrieval and persistence. 
+         • Independent Hands-on Development - Maintains existing rules engine applications and maybe some web services, and develops new, complex original code and/or rules. 
+         • Used java frameworks such as Multithreading, Exceptions and Collection in an application 
+         At- Capgemini Mumbai, India 
+         Project - Global Transaction System 
+         Client-Citi Bank 
+         Project Abstract 
+         The applications mentioned above are under GTS (Global Transaction System) bucket of CITI Group is an innovative browser-based brokerage application that provides brokerage, investment banking and asset management, Report Generation services to corporations, governments and individuals around the world. Leveraging advances in web-based technology. Depending upon entitlements a client can perform everything from cash management to financial planning, brokerage services, estate planning, block trading. 
+         Technologies/tools Used: 
+         Java7, Spring, Hibernate, Rest, Jenkins, SOAP, Oracle, JMS, WebSphere MQ, Mockito, Junit, JRebel. 
+         Project Role: Developer 
+         Responsibilities 
+         • Participate in system requirements and design reviews along with the requirements leads and the business analyst. 
+         • Developed the pollers using JMS, automated email notification using JMS MQ Series and also involved himself in incorporating business logic in SQL code (stored procedures) using Oracle. 
+         • System Design, Development, Involved in solution and Database design. 
+         • Planning, monitoring and tracking of the project to meet the business functional and non-functional IST Integrated system testing and resolving technical queries on time. 
+         • Written various web service. 
+         • Coordinated the configuration management of the code and artifacts in SVN. 
+          
+         At- ATOS Syntel -Mumbai, India 
+         Project - Service Registry Management 
+         Client -American Express. 
+         Project Abstract 
+         • The aim of this project is to create a service repository where all type of application web service which is developed from various protocols like Soap, Rest, and JMS is registered with name. These services are mapped with specific type of user group in LDAP server. 
+         Technologies/tools Used: 
+         Core Java, Spring MVC, Rest, SOAP, Websphere JQuery, MySQL, LDAP, JMS, ActiveMQ 
+         Project Role: Developer 
+         Responsibilities: 
+         • Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle. 
+         • Developed Consumed WSDL/SOAP based web services. 
+         • Used Core java frameworks such as Multithreading, Exceptions and Collection in development of the application. 
+         • Developed the front-end using JQuery, Javascript, SpringMVC (involving UI design, user generated event handling, incorporation of underlying functionalities as per the laid down specifications) and also involved himself in incorporating business logic 
+         • Involved in integration testing and deployment of the module as part of the overall application.

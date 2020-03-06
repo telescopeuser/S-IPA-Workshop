@@ -1,0 +1,41 @@
+Project Name: My Dashboard Tool (PepsiCo BI) 
+         Project Description: This application is helpful in to Getting the 
+         Data from the HPSM Tools (Ticketing System) and it will be Refresh automatically after 12 hours interval and Producing Different Types of Reports to Team and Customer also. Creating Different Types of Workbooks, Dashboard to Maintain SLA, OLA and KPI's. 
+         Responsibilities: • Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau. 
+         • Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. 
+         • Effectively used 
+         data blending feature in tableau. 
+         • Defined best practices for Tableau report development. 
+         • Administered user, user groups, and scheduled instances for reports in Tableau Server. 
+         • Executed and tested required queries and reports before publishing in Tableau. 
+         • Involved in creating 
+         data visualizations like Bar charts, Cross tab, Tree Maps, Line charts, Scatter plot, Mapping. 
+         • Involved in new KPI generation for Scorecards. 
+         Data collection and leveraging on 
+         data manipulation teams for required 
+         data. 
+         • Developed complex SQL scripts for SQL database for creating BI layer on DW for tableau reporting. 
+         • Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. 
+         • Created actions, parameters, Filter (Local, Global) and calculated sets for preparing dashboards and worksheets using Tableau. 
+         • Effectively used 
+         data blending, quick filters, actions, hierarchy features in tableau. 
+         • Creating Workbooks by Importing 
+         data, Defining Relationships in Tableau Desktop. 
+         • Created List, Drill Down Reports with Quick Filters, Summarized Filters in Tableau Desktop. 
+         • Hands on experience in creating parameters, complex calculated fields, groups and Hierarchy. 
+         • Hands on experience on tableau functions- date, string, numeric. 
+         • Experience in Marks, Action, Filters, Parameters, Cards, Publisher and Security. 
+         • Connecting multiple 
+         data source with 
+         Data Blending technique. 
+         • Strong work experience in Tableau desktop/ server with different versions including 6.x to the newest version 10.x. 
+         • Involved in creating Dashboard using Tableau Desktop, Tableau Server. 
+         • Installation and configuration of tableau server in cluster environment and Upgrade of tableau server to various versions including minor and major upgrades. 
+         • Scheduled frequency and time to refresh 
+         data for the 
+         data sources are publishes or extracted to server. 
+         • Developed formatted, complex reusable formula reports and reports with advanced features such as conditional formatting, built-in/custom functions usage, multiple grouping reports in Tableau. 
+         • Creating different type of Function, Procedure, Trigger, Cursor, package in the SQL and writing complex Query in the T-SQL. 
+         • Creating Different type of Macro using Excel VBA and Different Tools using VBA Front End Forms and Back End MS Access and SQL Server 2012. 
+         Environment: Tableau Desktop, Tableau Server, Oracle, Informatica, SQL, MYSQL, Debug, Tableau Report, 
+         Data modeling.

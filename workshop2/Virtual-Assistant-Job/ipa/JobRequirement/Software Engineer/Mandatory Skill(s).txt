@@ -1,0 +1,9 @@
+Degree in Computer Science, Mathematics, Computer Engineering or relevant disciplines;
+Has minimum 4 years of experience in data engineering and modelling;
+Proficient in hands on data mapping and managing data quality/integrity;
+Good experience in data management process and lifecycle;
+Has strong experience in data management system such as Oracle, Postgres, MSSQL and Netezza;
+Good exposure to ETL and Data Integration tools (e.g. Datastage, SSIS);
+Familiar with big data technologies including Hadoop, Hive and Spark;
+Strong aptitude for numbers and comfortable handling large volumes of data;
+Strong written and verbal communication with emphasis in technical writing skills.

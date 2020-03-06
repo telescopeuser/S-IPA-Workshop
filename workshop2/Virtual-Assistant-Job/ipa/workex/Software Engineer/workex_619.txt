@@ -1,0 +1,20 @@
+-Bangalore India (Software Delivery 
+         Engineer). June-2011 to Nov-2013 
+          
+         Global Customer:- Syntel-Singapore, Telstra, O2 UK, Tricky Mobile etc 
+         ❖ Environment: - Citirix 
+         ❖ Roles and responsibilities: 
+         ❖ Troubleshoot Boot Related issues. 
+         ❖ Having Experience on Solaris 9 & 10 
+         ❖ Replacing hard disk is in SVM and VxVm. 
+         ❖ Hands on Experience on SVM ie.. Creating mirror's and logical disks. 
+         ❖ Hands on Experience NFS & NIS in SOLARIS. 
+         ❖ Handling zfs issues, creating zpool and managing zfs filsystem. 
+         ❖ Creating LUNS and allocating storage capacity to the servers according to the requirements. 
+         ❖ Having Experience in Zoning and Troubleshooting BROCADE switches using CLI. 
+         ❖ Having Experience in CISCO switch using CLI. 
+         ❖ Worked on Ericsson telecom own application OSSRC 10.1,2,3 / 11.1,2,3. 
+         ❖ Having Experience Sybase database and Ericsson own tools. 
+         ❖ Basics of sql queries and Sybase database knowledge. 
+         ❖ Knowledge on IBM WebSphere Ver 6.0 
+         ❖ VMware vSphere client, Virtual vCenter Server.

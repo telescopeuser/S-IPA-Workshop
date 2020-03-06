@@ -1,0 +1,26 @@
+Position 1: Service Delivery and Project 
+         Engineer  
+           
+         •      Provides consultancy services and handle projects, monitor the full procurement process and deploy servers for the different business units.  
+         •      Work closely with customer to reduce their cost and increase their satisfaction level.  
+         •      Work closely with customer to introduce and recommend new services in order to solve customer problem and to increase their company competitiveness.  
+         •      Develop the infrastructure and the necessary services to cope with the planned and growing needs of the customers.  
+         •      Work closely with other teams to contribute to the success of IT services and also to make sure all customer requirements are fulfilled and all SLAs are met.  
+         •      Ensure that all IT operational processes are established, documented and implemented in compliance with quality management standards and business control requirements.  
+         Ensure that all operational problems are resolved satisfactorily and with minimum impact on the availability of the systems to the business users.  
+         •      Prepare all the necessary process and documentation for all types of security audit which includes SOX, BS7799, ISO 9000 etc.  
+           
+         Position 2: Level 3 System 
+         Engineer  
+           
+         •      Leading a team of 
+         engineers to manage more than 1000 servers in the Asia Pacific region.   
+         •      Design and Migration of NT 4.0 and Exchange 5.5 environment to Windows 2000/2003 and Exchange 2000/2003 environment.  
+         •      Installing, Supporting and maintaining of more than 1000 NT 4.0, Windows 2000/2003 servers and more than 50 Exchange 5.5 and Exchange 2000/2003 servers in the Asia pacific region.  
+         •      Administering and monitoring of servers using tools such as Compaq Insight Manager, Patrol Agents, Site scope and Spectrum etc.  
+         •      Writing and maintaining of Login scripts using KIX language.  
+         •      Administering of anti-virus software such as Innoculant, Antigen, and Norton Anti-virus etc.  
+         •      Knowledge of remote management tools such as Terminal services and PCDuo, PCAnywhere etc.  
+         •      Knowledge of backup software that support backup 
+         data library such as Dataprotector, Legato and Veritas Backup Exec.  
+         •      Knowledge of SAN Storage System such as XP Disk.

@@ -1,0 +1,6 @@
+Proficient in setting up components in AWS Cloud
+Route tables, VPC, EC2, RDS and other AWS related services
+Comfortable with handling Linux (Centos & Ubuntu) and Windows systems
+Comfortable in performing system administration with minimal supervision - Centos, Ubuntu, Windows
+Have no issues scripting using Perl/Bash, shell scripting
+Good understanding of TCP/IP and able to handle iptables / firewalls

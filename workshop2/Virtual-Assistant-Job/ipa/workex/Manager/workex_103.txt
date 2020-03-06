@@ -1,0 +1,9 @@
+- Configure and manage system security, including creating and maintaining user roles and profiles, security permissions, and access settings 
+          - Provide day-to-day end-user support on start-up, basic and advanced use of the system and assist users with proactive best practices to enhance and increase their knowledge and effectiveness. 
+          -Manage data integrity by working with the team to ensure data is accurately entered and updated. 
+          - Migrate data between a multitude of systems (imports, exports). 
+          - Identify and coordinate integrations between other applications and systems. 
+          - Assist with chart of account creation and maintenance. 
+          - Support month-, quarter-, and year-end processes and reporting needs. 
+          - Partner with business leaders to resolve technical issues, create new reporting tools, and develop more efficient workflows. 
+          - Work with users to identify training needs and provide one-on-one support in person or over the web.

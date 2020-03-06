@@ -1,0 +1,7 @@
+Key Project Highlights: 
+          
+         eHR Module (Oct, 2018) 
+         • Develop the module as Mobile responsive web application by following the existing application from SAP EHR module. 
+          
+         Technology used: ASP.Net MVC, HTML5 , Jquery , CSS5 , WEBAPI2 (REST) , OWIN2, 
+         SQL SERVER 2014 , Oracle PL SQL.

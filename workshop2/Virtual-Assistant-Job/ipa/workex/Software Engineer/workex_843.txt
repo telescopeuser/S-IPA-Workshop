@@ -1,0 +1,30 @@
+Company Role: Associate Software 
+         Engineer, Accenture-Avanade 
+         May 2018 - Feb 2019 
+          
+         • Provides support to end users such as granting access using Active Directory. 
+         • Provides support regarding the configuration of certain applications such as SharePoint and CRM. 
+         • Provides support for Microsoft Azure and Client's Servers. 
+         • Install, maintain, and support on-premises and off-premises cloud stack. 
+         • Configure, maintain, and support the cloud-related infrastructures(CRM, SharePoint(List Components, Site Collections)) 
+         • Act as a system administrator on different OSes (e.g Windows, Linux) and help teams deploy their application and automate their development and releases on the cloud.. 
+         • Designed and Implemented Project environments(Development, SIT, Pre-prod and Go Live) using Microsoft Azure Cloud and Private Servers. 
+         • Configured CICD Pipeline for Application deployment on private servers and Azure Virtual Machines using TFS2015 
+          
+         • PowerShell scripting on automated change of configurations of values upon deployment 
+          
+         • Load Balancer Configuration(Azure, On-premise) 
+          
+         • Certificate Installation 
+          
+         • IIS Management 
+          
+         • Performed research and implementation on SharePoint(2 nodes) Architectural design and installation 
+          
+         • Performed Dynamics CRM Installation 
+          
+         • Configured and installed MS SQL Server and SQL server management studio 
+          
+         • Performed research on MS SQL Server AlwaysOn Failover Clustering 
+          
+         • TFS Agent Configuration

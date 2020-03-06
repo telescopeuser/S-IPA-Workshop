@@ -1,0 +1,3 @@
+* Liaising with Agents 
+         * Processing of Marine Claims incl. Basic Risk Analysis 
+         * Review of Contracts

@@ -1,0 +1,19 @@
+• Job duties included resolving LAN issues, installation and configurations of routers and Switches at site location. 
+         • Design and implementation of the network setup. 
+         • Maintaining & Configuration of Cisco catalyst Switches and provide Level-1 support. 
+         • Monitoring 
+         Data Traffic using MRTG (Multi Router Traffic Grapher) and HP Open View. 
+         • Implementing VLANs, VTP, VLAN Trunking, Inter VLAN Routing on interfaces 
+         • Implementing Private VLANs, STP, HSRP, and VRRP 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Configuring and Implement Wireless Networks. 
+         • Performing Standard changes. change requests in timely manner and Handling Network Incidents• Job duties included resolving LAN issues, installation and configurations of routers and Switches at site location. 
+         • Design and implementation of the network setup. 
+         • Maintaining & Configuration of Cisco catalyst Switches and provide Level-1 support. 
+         • Monitoring 
+         Data Traffic using MRTG (Multi Router Traffic Grapher) and HP Open View. 
+         • Implementing VLANs, VTP, VLAN Trunking, Inter VLAN Routing on interfaces 
+         • Implementing Private VLANs, STP, HSRP, and VRRP 
+         • Creating and applying Access Control Lists on Router/VLAN interfaces 
+         • Configuring and Implement Wireless Networks. 
+         • Performing Standard changes. change requests in timely manner and Handling Network Incidents

@@ -1,0 +1,28 @@
+In this phase I worked as an engineering project-manager for customer projects. My primary task was to work under tight cost/time limits to fulfill/deliver the contracted product and achieve customer approval for it. In the internal part of my role I was in charge of the developer-team and in the external part, I was interface to customer. My reporting was done internally and externally, including preparation and trend-discussion with internal financial-controllers.  
+          
+         Achievements / Highlights 
+         1. responsible for engineering-operations at average budget 0.75 MEUR p.a. 
+         2. successfully won customer orders after bidding-phase for development-packages 
+         3. accepted leadership of developer-team for project-execution (in matrix-organisation) 
+         4. achieved always good KPIs on the assigned projects 
+          
+         Responsibility 
+         1. full SDLC from acquisition, development and delivery/approval by customer 
+         2. holding daily-meetings with the team to operate in agile fashion 
+         3. interface for my work-package to all internal/external stakeholders 
+         4. moderation of internal and external escalation-meetings, leading the participants efficient to appropriate conclusions (MoMs, task-creation, follow-ups, tracking, enforcing if needed) 
+         5. according to bidding-process the dev-hours and required team-member-roles have been estimated by me. Took part in the 2nd-level of the bid-reviews with line-leadership and financial-controlling (f.e. approval of cash-planes technical background, risk-per-phase definitions, etc) 
+         6. definition of all ready-to-start documents like premises, RASIC, risklist, organigrams, stakeholder-maps, sub work-package-list, measuring fulfillment-grades for financial controlling, creating time-plans and getting relevant approvals, creation of introduction-scenarios and getting the relevant approvals accordingly; maintaining companies SAP database with performance-metrics for constantly learning/extracting measured efforts for forecasting and bidding-improvement  
+         7. identification of know-how laggings in the development-team and definition of proper methods for proper remedials 
+         8. definition of communication-strategies with the customers related to internal targets 
+         9. holding an internal talk-series, where key-players prepared slides of their current-topcis and spread the team a bit accordingly to ensure know-how floating around and not lost when people leave the organisation 
+          
+         Knowledge and skills 
+         1. vehicle E/E Architecture Project Manager for full life-cycle of customer projects 
+         2. software development for safety-critical systems according to ISO26262 
+         3. V-Model process including high conformity to ASPICE required levels 
+         4. list of usually used tools: Greenhills GHS / Windriver Diab, DOORS, HP ALM / Clearquest, Microsoft Office (Word, Excel, PowerPoint), Microsoft Project, Microsoft Sharepoint, MKS Integrity, Eclipse for C/C++, Rhapsody, QAC/Misra, JTAG-Debugger, MS Visual Studio, Vector Informatik CANoe (with CANCase as well as VN89xx) 
+         5. domains which I was involved: E/E-networking, testing-obliations by law, Airbag and Electronic Power-Steering; several shorter phases, when consulting other PMs not mentioned 
+          
+         URL 
+         https://www.silver-atena.com/

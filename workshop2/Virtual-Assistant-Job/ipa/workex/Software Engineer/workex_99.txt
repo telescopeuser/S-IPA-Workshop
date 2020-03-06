@@ -1,0 +1,13 @@
+CapitaLand Limited - Singapore 
+         • SME for both MSSQL and Oracle environment. 
+         • Managing Database servers running in both MSSQL and Oracle environment. 
+         • Doing Impact Analysis on the database related changes scheduled on weekly basis 
+         • Review the changes and recommend the specifications on hardware and security related information 
+         • Manage the functional management team to maintain the BAU operations to run the business smoothly on high availability of Database Servers/Databases 
+         • Review the run book of Server setup, Disaster recovery, Access Control Matrix and all technical documents. 
+         • Supporting the infrastructure for a project on 
+         Data Analytics in MSSQL environment. 
+         • Advice, Design and support the database architecture for applications. 
+         • Take proactive measures and capacity planning on the resources to avoid outage of applications. 
+         • Implement security polices recommended by security team, to minimize the security risks on both server and database level. 
+         • Review both the incident and problem ticket history and do root cause analysis to prevent and fix the repeated cases permanently.

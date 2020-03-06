@@ -1,0 +1,13 @@
+Key Result Areas: 
+         • Managing Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and testing (preparation of test cases with implementation) to maintenance of proposed applications 
+         • Creating and sharing the Daily Status Report (DSR) including key highlights, open defects, number of test cases executed / pending, and so on with the stakeholders 
+         • Coordinating with the QA Team for test environment set-up with post merge scripts 
+         • Developing, testing, troubleshooting and debugging the applications; providing post-implementation, application maintenance and enhancement support to the client with regards to the product/software application 
+         • Designing and writing automated tests; supporting developers in troubleshooting system issues, recording software defects and providing technical descriptions & evidence, reviewing technical & functional design specifications for ensuring understanding of individual deliverables and managing technical aspects such as software design, coding and monitoring critical paths 
+          
+         Significant Accomplishments: 
+         • Successfully performed Electronic Lodgment Services Tests to be recognized as an approved ELS Software Developers by Australian Taxation Office 
+         • Designed and developed 1 component in Apache Pivot GUI Framework to provide Multiple Document Interface behavior like JDesktopPane in Java Swings and replaced IBMMQ with Hornet Queues 
+         • Recipient of awards such as PRIDE DIAMOND for 2018 achievements 
+         • Presented information on LimitManagement & UnsecuredLoans project, initiatives as well as other subjects to peers, teams and upper management that led to benefits such as Better Customer Journey 
+         • Ensured process and service quality across all units; key initiatives included DB migration tools

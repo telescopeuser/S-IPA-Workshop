@@ -1,0 +1,1 @@
+Design, develop, and launch extremely efficient and reliable data pipelines.Solve issues in the existing data pipelines and build their successors.Build modular pipeline to construct features and modelling tables.Maintain data warehouse architecture and relational databases.

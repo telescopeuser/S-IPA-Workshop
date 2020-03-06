@@ -1,0 +1,11 @@
+·      Installing and maintaining of Windows 2008/2012 servers and Virtualization infrastructure.  
+         ·      Maintaining of Microsoft Exchange 2010/2013 Server and Clients.  
+         ·      Attending to daily incidents and requests from users. 
+         ·      Taking care of all backup and retrieving 
+         data and emails from the backup.  
+         ·      Updating documentation for the datacentre and IT Infrastructure.     
+         ·      Provide support to End-user regarding any IT problems.  
+         ·      Migrating 
+         data from Singapore to other 
+         data centres around the world as the Singapore datacentre is shutting down. 
+         ·      Assist in the shutting down of datacentre in Singapore.

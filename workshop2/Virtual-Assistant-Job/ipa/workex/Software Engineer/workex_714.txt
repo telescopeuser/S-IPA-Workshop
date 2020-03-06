@@ -1,0 +1,9 @@
+Responsibilities: 
+         • Worked on different Identity management solutions CyberArk, CA SiteMinder, 2FA, Sun IDM, and as an SME for CyberArk Solution. 
+         • Application Administration: Proactive involvement in administration of the applications with a target to minimize business or operational impact. Application availability and usability are the other important KPIs. 
+         • Release management: Deployment of releases in the managed environments following standard practices and policies within the organization. 
+         • Work closely with different areas of the business and IT, analyze the provided information and make recommendations for change where applicable. 
+         • On-boarding/configuration of systems/applications to the various legacy or strategic IDAM (Identity and Access Management) solutions. 
+         • Liaise with Level 3/Engineering teams to find sustainable solutions. 
+         • Incident and Problem Management: Ensure that application incidents are captured, recorded, analyzed and escalated appropriately. Repeat incidents are captured; Problem management process is kicked off and tracked to closure. 
+         • Documentation: Maintenance of information, support guides and other artefacts for supported applications and underlying infrastructure. Generate ad-hoc compliance and audit relevant reports.

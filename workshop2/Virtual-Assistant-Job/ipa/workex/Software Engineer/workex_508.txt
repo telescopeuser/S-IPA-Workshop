@@ -1,0 +1,5 @@
+JPA(ORM), JBOSS and Linux. (2011) 
+         2. In charge of the development of the company's BI Platform of China Unicom which is used for business analysis, i.e. product marketing and sales. The technology stacks included Freemarker, 
+         Struts, Spring framework, Kettle ETL, Oracle 
+         data warehouse and Oracle BI Suits as report 
+         representation. (2010)

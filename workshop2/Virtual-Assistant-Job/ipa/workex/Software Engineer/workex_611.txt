@@ -1,0 +1,9 @@
+Responsibilities: 
+         • Involved in requirement gathering with stakeholders to understand the business policy. 
+         • Prepared various documents such as functional design document, technical design document, 
+         configuration document, training material and test cases. 
+         • Configured the business rules into the HR product according to the client's requirement. 
+         • Mentored and Assigned the task to four members team. 
+         • Developed and customised various panels/reports. 
+         • In-charge of updating the deliverables in steering commit, raising the product bug to oracle and migrating the projects to respective instance. 
+         • Worked closely with sales team to provide feasibility study on requirements, product demo to the potential clients.

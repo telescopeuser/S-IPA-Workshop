@@ -1,0 +1,7 @@
+You are interested to use technology to improve and drive the business forward
+You are willing to work on the different parts of our technology stack
+Have delivered modern JavaScript applications using frameworks like React, Vue
+You are willing to be involved in end-to-end software development, including gathering of requirements and understanding of pain points from various stakeholders
+You are willing to work in a distributed team across multiple geographic locations and timezones
+You value core software engineering practices (i.e. Testing, Scalability, Clean code)
+You enjoy constantly learning, independence, not afraid of making mistakes along the way and learning from them

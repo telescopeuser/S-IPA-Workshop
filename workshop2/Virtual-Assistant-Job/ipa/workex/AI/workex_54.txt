@@ -1,0 +1,43 @@
+Project Details: B787 Flight Control Electronics V&V for Boeing 787 
+          
+         Project Description:- 
+         The project is under export control act with approved License No. D409843. It is a DO-178B Level A, B and D project, each level corresponding to different software partitions of the Flight Control Electronic. The Project Work involves Component Test Platform (CTP) testing and Requirements Based Testing (RBT).Requirement analysis and problem reporting, test case generation on simulink models using HiLiTE tool(Honeywell Integrated Lifecycle Tool Environment ) and manual Test case generation and target execution on MIPS and PPC for structure coverage analysis are the CTP activities. 
+          
+         Tools used 
+          
+         • CM21 V2.2b1 
+         • Trace Reports Tool Rev 3.1.27.0 
+         • CTPHG V3.3.6 (or higher) CTP Harness generator 
+         • CTPTARGET v2.2.1 
+         • SBHost v.4.1.2.0 
+         • CtpHost v3.5.4 
+         • HiLiTE 6.2.6 - Auto test case generation tool 
+         • Matlab, Simulink 7.1 R14 SP3 
+         • HAM 5.5 and Boeing Flight Control Libraries 
+         • RTRT 
+         • eReviews tool for change management 
+         • eProject 
+         • RTCA/DO-178B standards 
+          
+         Roles and Responsibilities:- 
+         • Project management roles involve, full ownership of the entire model based software testing team activities (AF/ PF partition). 
+         • Understanding the requirements of the assigned partitions to create the project plan and continuous focus on completion. 
+         • Assist with test procedures and documenting test results to ensure software system requirements are met. 
+         • Review and provide inputs to the management to approve and confirm the project/build configuration plan. 
+         • Support the team members to define and implement the Configuration tools to be used to follow the Changes in software Configuration. 
+         • Interaction with the development team to coordinate SCM activities; merging, labeling, and building development source code; creating and enhancing tools and scripts. 
+         • Involved in SQA activities. 
+         • Focus on COPQ and take action on the same to control the defects. 
+         • Conducting mock audit for my team. 
+         • Involved in SDLC phases. Training team on the same. 
+         • Full ownership for weekly onsite co-ordination meeting. 
+         • Report the progress, accomplishments and achievements, upcoming week plan, risk and recovery plan to the customers on the weekly plan. 
+         • Calculate CPI, SPI, EV, and PV of the project and take action accordingly. 
+         • Create RCA report for all defeats and take action plan for all defects. Present the same to customers on every co-ordination meeting. 
+         • Hilite tool technical development and co-ordination meeting. Keep track on all key issues. 
+         • Track on productivity. Implementation and motivation team members for productivity ideas. 
+         • Measure the productivity, create comparison report and present it to higher management. 
+         • Focus to meet the defects goals (technical/non-technical) and take corrective action to minimize the defects. 
+         • Workout on Kaizen with software testing phase. 
+          
+         EXPERIENCE#4

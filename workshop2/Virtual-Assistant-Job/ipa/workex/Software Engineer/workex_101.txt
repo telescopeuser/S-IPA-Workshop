@@ -1,0 +1,5 @@
+- Singapore 
+         • Developing the modules as per the specifications 
+         • Testing the developed modules and integrate with the main system 
+         • Updating the user manual 
+         • Running the routine batch jobs as per business needs.

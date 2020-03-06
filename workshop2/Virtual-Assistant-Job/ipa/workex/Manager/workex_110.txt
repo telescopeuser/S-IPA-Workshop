@@ -1,0 +1,31 @@
+80 Tras Street Singapore 079019 
+          
+         JOB DESCRIPTION: 
+         OFFICE SIN HENG CHAN PTE LTD 
+         • Designed/Creates Nozomi Website under Sin Heng Chan Pte Ltd. 
+         • Designed/Creates Nest at The Hill Agents website for Australia Properties in Melbourne using HTML, PHP, JavaScript and MySql. 
+         • Designed/Creates NestatNest website for Sin Heng Chan Properties using HTML, PHP and JavaScript. 
+         • Responsible for creating user accounts in Active Directory and Ice Warp Mail Server for new employee. 
+         • Assist with diagnosing and resolving problems with network printers, copiers, 
+         fax machines and local area networks. 
+         • Provide help-desk and on-site technical support of hardware and software. 
+         • Interface with users to identify computer related needs and provide 
+         appropriate software/hardware support applicable to those needs. 
+         • Ensure the anti-virus software is always up to date and share 
+         necessary information with users regarding potential risks. 
+         • Track and maintain accurate inventory of all of PC, Printer and other 
+         equipment. 
+         • Responsible for maintaining servers and workstations. 
+         • Ensure routine backups are performed as outlined by the Backup & 
+         Restore Manual. 
+         RETAIL MANAGEMENT SYSTEMS (Point Of Sales System) 
+         • Maintain and support point of sale and back office systems 
+         • Support new store openings, functionality enhancements and upgrades 
+         • Configure and maintain computers, POS peripherals, handheld terminals and networking equipment in retail stores 
+         • Provide first level support to customers' requests 
+         • Resolve customer issues by troubleshooting over the phone with customer contacts 
+         • On site diagnose, repair and upgrade hardware or software as necessary 
+         • Ensure accurate documentation of all calls handled 
+         • Perform follow-up call-backs with customers. 
+         • Create Scanner program in handheld barcode scanner using vb.net 
+         • Install and setup CCTV cameras on shops/store.

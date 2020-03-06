@@ -1,0 +1,87 @@
+IT experience: 1 year 4 months (From October 2017 to February 2019) 
+          
+         Roles & Responsibilities: 
+         ◦ Hands on experience in 
+         Big 
+         Data processing as Hadoop developer and its ecosystems Spark Core, Spark SQL, Kafka, Hive, HDFS, Sqoop, Pig. 
+         ◦ Knowledge on Hadoop architecture. 
+         ◦ Worked on Cloudera 5.9 Distribution of Hadoop. 
+         ◦ In-depth knowledge and hands-on experience in dealing with Apache Hadoop components like HDFS, HiveQL, Pig, Hive and Sqoop. 
+         ◦ Capable of processing large sets of Structured, semi-structure 
+         data. 
+         ◦ Created Hive tables, dynamic partitions, buckets for sampling, and working on them using HiveQL 
+         ◦ Loading 
+         data into the HDFS from dynamically generated files, Relational Database Management systems using SQOOP. 
+         ◦ Developed Pig Latin scripts using operations such as LOAD, STORE, DUMP, FILTER, DISTINCT, FOREACH, GENERATE, GROUP, ORDER, LIMIT, UNION, SPLIT to extract 
+         data from 
+         data files to load into HDFS. 
+         ◦ Created and worked SQOOP jobs with incremental load to populate Hive External tables. 
+         ◦ Extensive experience in writing PIG scripts to transform raw 
+         data from several 
+         data sources into forming baseline 
+         data. 
+         ◦ Hands-on experience in working with Hbase. 
+         ◦ Hands-on experience in MapReduce Integration. 
+         ◦ Loading 
+         data into HBase from Relational Database Management systems, HDFS using SQOOP and HBase commands. 
+         ◦ Working knowledge in Apache Spark and Spark streaming with Kafka as an Input source. 
+         ◦ In depth knowledge and Hands-on experience in Python 
+         Data Science modules (Pandas, Numpy, Matplotlib, Scipy, Scikit-learn) in Jupyter Notebook. 
+         ◦ Hands on Experience in Python packages and database connectivity. 
+         ◦ Working knowledge in 
+         Data Visualization and pre-processing. 
+         ◦ Working knowledge in Statistical 
+         data analysis methods. 
+         ◦ Hands on Experience on prediction of housing rates utilizing Boston pricing 
+         data using the Linear Regression technique. 
+         ◦ Experience in collecting and organizing 
+         data from various sources such as SQL databases, CSV files, web etc. 
+         ◦ Extracting Records - Requirement was to extract records from SQLPlus and using Python DB Module (cx_Oracle) capture count of the stored records for every relation and perform few aggregation operations. 
+         ◦ Ability to learn and adopt new technologies in short time. 
+         ◦ Familiar with UNIX for deployment of application using Win-SCP and Putty. 
+         PROJECT WORK EXPERIENCE 
+         Retail Market Predictive Analysis 
+         Client: Internal POCIT experience: 1 year 4 months (From October 2017 to February 2019) 
+          
+         Roles & Responsibilities: 
+         ◦ Hands on experience in 
+         Big 
+         Data processing as Hadoop developer and its ecosystems Spark Core, Spark SQL, Kafka, Hive, HDFS, Sqoop, Pig. 
+         ◦ Knowledge on Hadoop architecture. 
+         ◦ Worked on Cloudera 5.9 Distribution of Hadoop. 
+         ◦ In-depth knowledge and hands-on experience in dealing with Apache Hadoop components like HDFS, HiveQL, Pig, Hive and Sqoop. 
+         ◦ Capable of processing large sets of Structured, semi-structure 
+         data. 
+         ◦ Created Hive tables, dynamic partitions, buckets for sampling, and working on them using HiveQL 
+         ◦ Loading 
+         data into the HDFS from dynamically generated files, Relational Database Management systems using SQOOP. 
+         ◦ Developed Pig Latin scripts using operations such as LOAD, STORE, DUMP, FILTER, DISTINCT, FOREACH, GENERATE, GROUP, ORDER, LIMIT, UNION, SPLIT to extract 
+         data from 
+         data files to load into HDFS. 
+         ◦ Created and worked SQOOP jobs with incremental load to populate Hive External tables. 
+         ◦ Extensive experience in writing PIG scripts to transform raw 
+         data from several 
+         data sources into forming baseline 
+         data. 
+         ◦ Hands-on experience in working with Hbase. 
+         ◦ Hands-on experience in MapReduce Integration. 
+         ◦ Loading 
+         data into HBase from Relational Database Management systems, HDFS using SQOOP and HBase commands. 
+         ◦ Working knowledge in Apache Spark and Spark streaming with Kafka as an Input source. 
+         ◦ In depth knowledge and Hands-on experience in Python 
+         Data Science modules (Pandas, Numpy, Matplotlib, Scipy, Scikit-learn) in Jupyter Notebook. 
+         ◦ Hands on Experience in Python packages and database connectivity. 
+         ◦ Working knowledge in 
+         Data Visualization and pre-processing. 
+         ◦ Working knowledge in Statistical 
+         data analysis methods. 
+         ◦ Hands on Experience on prediction of housing rates utilizing Boston pricing 
+         data using the Linear Regression technique. 
+         ◦ Experience in collecting and organizing 
+         data from various sources such as SQL databases, CSV files, web etc. 
+         ◦ Extracting Records - Requirement was to extract records from SQLPlus and using Python DB Module (cx_Oracle) capture count of the stored records for every relation and perform few aggregation operations. 
+         ◦ Ability to learn and adopt new technologies in short time. 
+         ◦ Familiar with UNIX for deployment of application using Win-SCP and Putty. 
+         PROJECT WORK EXPERIENCE 
+         Retail Market Predictive Analysis 
+         Client: Internal POC

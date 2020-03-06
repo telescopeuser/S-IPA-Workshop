@@ -1,0 +1,19 @@
+1/Test Lead 
+         Duration: November 7, 2005 - July 27, 2007 
+         Accomplishments: 
+         • Provided process management for development and test team 
+         • Handled and facilitated planning, design and execution of testing activities 
+         • Worked closely with the development team and made recommendations 
+         • Coordinated and monitored team members' task assignments 
+         • Installed and configureed test machine (server) for product deployment 
+         • Reported bugs, track defects, resolve issues with the developers using JIRA 
+         • Provided project reports to project and QA managers 
+         • Conducted trainings and provide technical support to team members 
+         • Provided 2nd level of support on reported issues 
+          
+         PROJECTS: 
+         Role: Test 
+         Engineer/Test Lead 
+         Team size: 21 
+         Projects: Application Loader and Manager Project, SIM Cards Beta testing 
+         Project Description: An application used to communicate with, download applications to, and manage a SIM card without being connected physically to the card.

@@ -1,0 +1,20 @@
+Responsibilities: 
+         • Ensuring Conformance to INFORMATICA coding standards. 
+         • Ensuring Conformance to Cognizant's Quality Process. 
+         • Analyze requirements specification from the business and assess feasibility of implementation. 
+         • Work on ETL and database design approach for the business requirements. 
+         • Conduct design review meetings; prepare requirements specification and design specification documents. 
+         • Estimate time and effort for the coding impact and dependencies. 
+         • Perform coding and unit testing. 
+         • Review documents, code and unit testing results. 
+         • Ensured strict delivery timelines and SLA's of 
+         data refresh and 
+         data delivery. 
+         • Involved in 
+         data analysis and performance analysis. 
+         • Involved in managing, validating and coordinating multiple project integrations to DIF as well as change request migrations. 
+         • Support Integration/System/User Acceptance Testing. 
+         • Support Production Release and perform production qualification checkouts. 
+         • Manage workload and plan delivery of multiple simultaneous requests. 
+         • Involved in Technical Advisory Board and Change Control Board meetings for the change enhancements at Pfizer. 
+         • Tuning INFORMATICA Mappings and Sessions for optimum performance.

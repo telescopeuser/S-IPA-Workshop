@@ -1,0 +1,2 @@
+Reverse engineered existing code to enhance C# web application; resolved issues post Go-Live; 
+         • Received the Most Promising Fresher award in Infosys, Q4, 2010;

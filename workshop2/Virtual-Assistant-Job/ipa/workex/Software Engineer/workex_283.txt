@@ -1,0 +1,21 @@
+Project Handled: 
+         Description: The Project involves in monitoring and troubleshooting the problems related to the applications in Websphere environment 
+         Environment: UNIX and WebSphere ND, Jboss EAP. 
+         Key Deliverables: 
+         ✦ Installed, configured and maintained WebSphere Application Server 6.xND, Base, Plug-in and IBM HTTP Server 6.x on UNIX platforms- AIX, Linux and Windows 
+         ✦ Applied fixes (Refresh packs, fix packs, interim fixes) for WebSphere Application Server, SDK, plug-in and HTTP Server using update installer 
+         ✦ Responsible for Application restart and Rebooting servers in the WAS 
+         ✦ Archived application logs on a regular basis using the automated scripts 
+         ✦ Good experience with security such as firewalls and SSL certificates 
+         ✦ Efficiently created Virtual hosts, JDBC Providers, 
+         Data Sources, shared libraries referenced by the application during runtime 
+         ✦ Utilized wsadmin tool to deploy and administer WebSphere applications resources 
+         ✦ Tuned JVM heap size settings, web container, db connection pool, thread pools, web server parameters to get the maximum performance for applications 
+         ✦ Involved in the documentation 
+          
+         Key Achievements: 
+         ✦ Achieved Fast Learner Award with in the team 
+          
+         PERSONAL SPECIFICS 
+          
+         Languages Known: English, Telugu & Hindi

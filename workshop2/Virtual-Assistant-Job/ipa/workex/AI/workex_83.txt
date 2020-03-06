@@ -1,0 +1,21 @@
+Highlights: 
+         • Successfully managed a major remediation project for Hutchison Mobile (3UK) to decommission 3600+ servers. 
+         • Efficiently designed and implemented a solution to migrate backup from HP 
+         Data Protector to Tivoli Backup across 5 
+         Data Centers for 3UK. 
+         • Led migration of servers from traditional 
+         data centers to external cloud owned by the company and third party for the Co-Operative Bank of UK. 
+         • Led project for transition of support for iSeries Server Stacks from another vendor (Sopra Steria) to IBM for Co-Op Bank of UK. 
+         • Managed a remediation project to resolve audit findings for Co-Op Bank of UK. 
+         • Designed solutions to deliver new banking products of Mobile Banking, Open Banking, SWIFT and Digital Statement Products covering mid-range and mainframe infrastructure. 
+          
+         Responsibilities: 
+         • Accountable as Senior Solution Manager for the Base Growth of The Co-Operative Bank of UK, Three UK (Hutchison Mobile) and Coca Cola European Partners (CCEP). 
+         • Orchestrated the development of complex, custom solutions for clients to ensure consistent delivery of high quality services and/or solutions, meeting client business and technical requirements. 
+         • Interacted with customers, identified and understood their business requirements, and worked with architect and sales team to achieve revenue generating deals. 
+         • Designed solutions for RFP, RFS and PCR from the customer, transformed their business requirements into infrastructure solutions, and prepared SoW detailing the scope, deliverables, risks, plan and cost of the projects. 
+         • Consolidated servers through migration from physical assets to virtual VM. 
+         • Deactivated assets for immediate cost savings, followed by complete decommissioning of servers post migration to Cloud / VM. 
+         • Managed infrastructure service delivery covering OS, database, middleware, network, backup and storage infrastructure in both mid-range and mainframe systems. 
+         • Coordinated with delivery teams, project managers, customers and their application vendors for the successful delivery and implementation of technical solution. 
+         • Liaised and worked closely with Network Service Providers, Systal and AT&T, to provide network design and appliance support to the customers.

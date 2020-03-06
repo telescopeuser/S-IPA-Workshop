@@ -1,0 +1,21 @@
+2018. 
+          
+         • IQVIA - 
+         Data Science module development, design, implementation and analysis 
+          
+         IQVIA, The Human 
+         Data Science Company formerly Quintiles and IMS Health, Inc. is an American multinational 
+         product based company serving the combined industries of health information technologies and clinical research. It is a 
+         provider of biopharmaceutical development and commercial outsourcing services, focused primarily on Phase I-IV 
+         clinical trials and associated laboratory and analytical services, including consulting services. 
+         We are working on to develop a 
+         data science model for their healthcare 
+         data which contains the global medical 
+         prescriptions with different 
+         data formats and languages and variety of sources like flat files, pdf files, images and many 
+         others. The developed modules would be getting used for their globally prescribed 
+         data analysis to define the strategy, 
+         health solutions and further research in healthcare. 
+          
+         Technique: Machine learning, OCR, NLP, Classification 
+         Skills and Tools: Statistics, Python, SQL, EXCEL, T&R

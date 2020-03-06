@@ -1,0 +1,10 @@
+Design and install software solutions for Data Management, Data Visualisation, Data Warehouses or Big Data platforms.
+Collaborate closely with hardware and infrastructure stakeholders to deploy solutions in enterprise environments such as data centres or cloud providers
+Apply security and network design best practices for data analytics solutions to minimise the risk of data exposure
+Integrate data analytics platforms to peripheral applications for monitoring, authentication, alert management and log management etc
+Work closely with project manager and technical leads to provide regular status reporting and support them to refine issues/problem statements and propose/evaluate relevant analytics solutions
+Bring your experience and ideas to effective and innovative engineering, such as automation of routine monitoring and maintenance tasks
+Work in interdisciplinary teams that combine technical, business and data science competencies that deliver work in waterfall or agile software development lifecycle methodologies
+The range of accountability, responsibility and autonomy will depend on your experience and seniority, including:
+Contributing to our internal networks and special interest groups
+Mentoring to upskill peers and juniors

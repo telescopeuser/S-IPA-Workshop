@@ -1,0 +1,19 @@
+Projects: kikiticket.com Gay Travel Service 
+         https://kikiticket.com/ 
+         Website and mobile applications (IOS, Android) for railway and air tickets and tours. 
+         Additional functionality for community members. 
+          
+         Responsibilities: General company management 
+         Cross-platform mobile applications and server development 
+         Technical specifications writing and marketing plans development 
+         Business development 
+          
+         Achievements: Developed and launched web-portal and mobile application for railway tickets sale 
+         (completed all steps to integrate into RZD railways servers) 
+         Produced functional service for air ticket sales (in partnership with GDS Amadeus), 
+         load testing completed 
+         Optimized financial flows in operations 
+         Organized a massive advertising campaign 
+          
+         Key skills: Project Management, Crisis Management, Business Development, Negotiations, 
+         Entrepreneurship, Game Design, Internet Marketing, Business Presentations

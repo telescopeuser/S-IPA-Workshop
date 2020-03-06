@@ -1,0 +1,25 @@
+Fico is a world leader in credit score, I supported a large Unix/Linux Environment that has all flavors of UNIX and manage a team of L2 System Administrators. 
+          
+         Responsibilities: 
+         • Installed, configured and maintained multiple Redhat Linux Servers 
+         • Managed Redhat Enterprise cluster servers. 
+         • Manage dns using inflobox 
+         • Implemented resilient storage solutions using clustered LVM (CLVM) and GFS2. 
+         • Experience in automation and configuration management tools like Puppet. 
+         • Working experience with KVM, Kickstart and Redhat Satellite server. 
+         • Install and upgrade of Single and Dual VIO storage server. 
+         • Configure VIO clients, create Shared Ethernet Adapter, configure virtual Ethernet adapter, allocate LUN and configure disk to VIO clients from VIO servers 
+          
+         4. OracleFico is a world leader in credit score, I supported a large Unix/Linux Environment that has all flavors of UNIX and manage a team of L2 System Administrators. 
+          
+         Responsibilities: 
+         • Installed, configured and maintained multiple Redhat Linux Servers 
+         • Managed Redhat Enterprise cluster servers. 
+         • Manage dns using inflobox 
+         • Implemented resilient storage solutions using clustered LVM (CLVM) and GFS2. 
+         • Experience in automation and configuration management tools like Puppet. 
+         • Working experience with KVM, Kickstart and Redhat Satellite server. 
+         • Install and upgrade of Single and Dual VIO storage server. 
+         • Configure VIO clients, create Shared Ethernet Adapter, configure virtual Ethernet adapter, allocate LUN and configure disk to VIO clients from VIO servers 
+          
+         4. Oracle

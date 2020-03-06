@@ -1,0 +1,20 @@
+Client: Standard Chartered Bank, Singapore 
+         Projects: India GST, GCC Vat tax report & Trade Due Diligence Customer Profile Baselining 
+         Description: Working on Complex 
+         Data analytics across different segments of Bank. 
+         Data pipeline 
+         development, Private 
+         Data Lab, Sourcing, Extraction & Transformation of Critical 
+         data for providing 
+         valuable information out of huge volume of 
+         data. I have been extensively involved in bank's regulatory 
+         big 
+         
+         data projects with critical timelines. I have Provided End to End Solution delivery starting from sourcing to 
+         Transformation & extraction. I got a chance to work on sourcing from 15 different sources & 47 different 
+         countries. 
+         Technologies & Database: Apache Hadoop, HDFS, Apache Hive, Apache NiFi, Oracle, Linux (Shell 
+         Scripting), Apache Spark, MQ, Control-M. 
+         Responsibility: Requirement Gathering, 
+         Data Analysis, Sourcing, Coding, Build & Deployment, Post 
+         Implementation Verification & Support.

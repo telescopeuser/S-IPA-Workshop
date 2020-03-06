@@ -1,0 +1,36 @@
+Scope of Role & Support: 
+         • Windows Operating Systems: WinXP and Win7. Apple Operating Systems: Mac OS X 
+         • Remedy Ticketing System: Guaranteed SLA's were met or exceeded. Managed Change tickets while ensuring minimal impact to users 
+         • Dell Desktop and Laptop Refresh: Led system upgrade of over 900+ machines for APAC region 
+         • Video Conferencing Equipment: Polycom CMA desktop, Polycom HDX systems 
+         • Equipment Disposals: Securely disposed of retired equipment meeting compliance & risk mitigation standards 
+         • Administration: Active Directory, Blackberry Enterprise Server, GOOD for iOS & Android devices 
+         • IT Inventory: Tracked laptops, desktops, MFD's, faxes for APAC region. Deployment, Redeployment, PC retrievals and PC disposals 
+         • Security and Risks: Safeboot for Laptops, MFD print and scan configuration, Sanctuary for USB access, Altiris for software deployment, and McAfee Antivirus 
+         • Software: Market 
+         data applications; Bloomberg, Barcap Point, Reuters 
+         • VPN: Juniper Networks, Remote Desktop Client, Symantec PC Anywhere 
+         • BCP / DR: VPN support for end-users, DR plan with coordinators and end-user facilitators 
+         • User-developed-technologies / Macros support and application deployment for end-users 
+         • Email Programs: Outlook 2010 and Lotus Notes 8.5 daily support, administration and migration 
+         • Server Administration: Windows File and Print server, Virtual print server 
+         • DOS command and VBS scripting for software installation / deployment and end-user support 
+         • Documentation of tips and resolution for Global Service Desk and End-users 
+         • Maintained document processes for APAC; PC refresh, disposal, retrievals, Blackberry procurement, redeployment, retirement 
+         • Vendor management: Dell, Ricoh MFD, Third-party contractors, Equipment disposal vendors, Service providers - Singtel / Starhub 
+          
+         Key Achievements 
+         • Domain Migration 
+         • BES 4 to BES 5 Migration 
+         • File Server Migration - Singapore & Rep Offices 
+         • Lotus Notes to Outlook Migration 
+         • Windows XP to Windows 7 Upgrade 
+         • APAC PC Life Cycle Process - Upgrade / Disposal 
+         • Business Continuity Plan / Disaster Recovery Exercise 
+         • Windows 7 Packaging Server for Rep Offices 
+         • Safeboot Migration 
+         • APAC Network MPLS Migration 
+         • APAC Network MPLS WAN Encryption 
+         • End-User office move and floor expansion projects 
+         • Singapore Virtual Print Server Implementation 
+         • Jakarta Rep Office Move

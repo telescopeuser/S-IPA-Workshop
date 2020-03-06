@@ -1,0 +1,2 @@
+* Worked as Java developer and built inhouse learning management product Human Capital Management system 
+         * Used to support client implementation project to customize the product as per new requirements

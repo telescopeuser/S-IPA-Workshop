@@ -1,0 +1,25 @@
+Responsibilities: 
+         * Installed, configured, administered and supported WebSphere Application Server 5.1.1, 6.0 on Linux RedHat, and AIX environments. 
+         * Configured the Web Server interfaces, session management, virtual hosts and transports for WebSphere Application Servers. 
+         * Monitored WAS logs for application errors and notified development accordingly. 
+         * Installed, configured the Network Deployment Manager, Nodes and Application Servers. Federated multiple Application server nodes to the Deployment Manager. 
+         * Created and configured clusters of servers both vertical and horizontal on federated nodes for load balancing and failover. 
+         * Configured Execute Threads, Connection Pools, and JMS Bridges, etc. for different components of the retailed applications. 
+         * Installed IBM Http Server 2.0.47 and configured it with WebSphere Plug-ins to work with WebSphere Application Server. 
+         * Applied fix packs and cumulative fix packs to upgrade the WebSphere Application server versions. 
+         * Involved in the troubleshooting application server, web server, plug-in logs and analyzed them using Log Analyzer in case of any critical issue. 
+         * Used Resource Analyzer and Log Analyzer for performance tuning and troubleshooting. 
+         * Actively monitoring of all the servers in production and staging environments and fixing any issues with the servers. 
+         * Installed, configured, administered and supported JBOSS on RedHat Linux Environments. 
+         * Installed, configured, administered and supported WebSphere Application Server 5.0 on Solaris and Windows. 
+         * Implemented the Clusters/Server Groups and Cluster Members /clones Vertical scaling horizontal scaling for failover and distribute the workload on WAS. 
+         * Integrating enterprise-wide J2EE applications and deploying them on WebSphere Application Server and managing them through WebSphere administrative console. 
+         * Created user roles and groups using the Local OS registry and secured WebSphere resources. 
+         * Configured JDBC drivers, 
+         Data sources on WebSphere Application Server. 
+         * Used Resource Analyzer and Log Analyzer for performance tuning and troubleshooting. 
+         * Installed fix packs and cumulative fixes to upgrade the version of the WebSphere Application Server 5.0. 
+         * Monitoring all Servers, shutdown and startup, Network Support and Troubleshooting. 
+         * Providing 24x7 production support in a Java environment including management of SLA's and following escalation procedures. 
+         * Deployment of various application packages including JAR, WAR, EAR, and properties using custom scripts in Development. 
+         * Involved in performance and regression testing of the application in the testing environment.

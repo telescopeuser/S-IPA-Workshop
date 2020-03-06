@@ -1,0 +1,7 @@
+Responsibilities 
+          
+         • Analysed user needs and software requirements to determine feasibility of design within time and cost constraints. 
+         • Modified existing logic, design to correct errors and to improve performance. 
+         • Followed Agile methodology as Software Development Life Cycle to design web application. 
+          
+         Technical Environment Java, AngularJs 1.4

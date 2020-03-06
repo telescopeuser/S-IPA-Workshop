@@ -1,0 +1,18 @@
+- 
+         Reason For Leaving: Retrenched (head count freeze) / Company Liquidated 
+          
+         ● Ensure that all network servers, application and web for both staging and production environment is on good health and uptime 
+         ● Conduct daily office support for all staff not limited to just desktop and servers - includes smart phone, remote support, etc 
+         ● Inventory of equipment and vendor management / sourcing 
+         ● Participate in any server related troubleshoot, suggest / share solutions 
+         ● Maintain and support any JIRA / Confluence request such as new functions and suggest alternative add-ons / plugins for user usage 
+         ● Supporting Amazon EC2 Cloud Servers, Juniper Network Equipment a range of Dell and whitebox servers and storage solutions, Ubuntu Linux Server and custom made Java based web apps. 
+         ● Ensuring smooth administration and maintenance of SAN/NAS based on Solaris ZFS Filesystem via NAPP-IT and console administration. Assist in setup of SAN/NAS on adhoc basis during maintenance or migration window 
+          
+         I was also actively involve in assisting Quality Assurance (QA) team with their core task below 
+         ● QA are responsible to find bugs, missing functionality in development environment and to ensure that whatever is deployed to production has minimal bugs / repetitive bugs. 
+         ● Track bugs and escalate base on severity and importance. 
+         ● Have to be meticulous and detailed in reporting to ensure that the developer and product team could understand. 
+         ● Write test cases, possible scenarios and get additional info if product specs are not clear or have possible missing functionality / clarity. 
+         ● Follow through smoke test (regular test routine) before and after deployment to production. 
+         ● Share useful tools for QA team to use to ensure daily QA task improve and simplify to achieve consistent and accurate testing.

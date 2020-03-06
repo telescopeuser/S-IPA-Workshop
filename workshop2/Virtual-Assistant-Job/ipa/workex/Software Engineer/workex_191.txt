@@ -1,0 +1,25 @@
+Singapore, Sept 2017 to March 2018 
+         Project: 
+         Data Analytics, Tech Services, Technology and Operations 
+         Technologies: 
+         BIG 
+         Data Hadoop on Cloudera, Hive, Sentry, Sqoop, Spark SQL , Dataframe , Streaming with 
+         Python, DataScience , Hue , Cloudera Manager, CDH 5.11 , ETL , UNIX Shell Scripting and Puppet, 
+         ELK (Elasticsearch, Logstash, and Kibana) integration. 
+         Responsibilities: 
+         ⇨ Working on platforms/frameworks, BigData, DataScience and Machine Learning 
+         troubleshooting technical issues and provide diagnostic & analytical insights. 
+         ⇨ Working on hadoop automation project, managing application onboarding and taking care of resource distribution and resolving application technical issues on SIT/UAT/Dev/Prod/DR hadoop clusters. 
+         ⇨ Coordinating business/application units across the bank on 
+         data driven initiatives with hadoop technologies. 
+         ⇨ Developed User Interface design/develop with Python PyQt GUI for maintenance of user roles and privileges from Hadoop. 
+         ⇨ Hive/Hue Privillage management through Apache Sentry on top of Kerberos authentication management in hadoop cluster. 
+         ⇨ Capacity management of Yarn resources utilization throughout various applications in bank. 
+         ⇨ Project on User ID automation for bulk id processing in hadoop cluster 
+         ⇨ 
+         Data Pipeline using ELK (Elasticsearch, Logstash, and Kibana) and analysis through visualization. 
+         ⇨ Expert knowledge of database scripting and automation technology Puppet. Resolving various technical and functional application issues 
+         ⇨ Application onboarding into Hadoop environment and management of resource/software distribution. 
+         ⇨ Written Unix Shell and Puppet scripts for automation in hadoop cluster. 
+         ⇨ Design and develop BDR (backup and 
+         data restore strategy) policies and procedures

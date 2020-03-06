@@ -1,0 +1,6 @@
+Continuous integration
+Test-driven development
+CQRS/ES/Actor knowledge
+Linux Knowledge
+NoSQL databases
+Experience in cloud deployment and containers (familiarity with GCP, Docker, and Kubernetes)

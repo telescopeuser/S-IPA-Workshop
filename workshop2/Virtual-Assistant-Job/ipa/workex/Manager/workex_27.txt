@@ -1,0 +1,8 @@
+Run day-to-day system operations on DEC PDP/MicroVax. Manage the system console, monitor 
+         system operations and performance. Perform system/database recovery. 
+         • Generate standard management reports. Perform system backups such as daily, weekly and incremental etc. 
+         • Maintain a tape and disk library and associated documentation. 
+         • Perform daily end-user control functions e.g. downloading of data. 
+         • Attend to end-user PC problems and troubleshooting. 
+         • Direct contact with vendors and clients. Order computer consumables and other administrative 
+         duties.

@@ -1,0 +1,8 @@
+Work closely with stakeholders to gather requirements
+Design overall architecture of the web application
+Build mock-ups/prototypes for the UI
+Design, implement and maintain RESTful APIs
+Design, implement and maintain reusable UI components
+Participate in code and design reviews
+Write unit, integration and end-to-end tests
+Improve and resolve site performance and issues

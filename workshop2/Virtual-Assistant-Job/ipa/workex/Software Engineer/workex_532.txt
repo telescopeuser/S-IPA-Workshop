@@ -1,0 +1,15 @@
+Developers 
+         Projects: British Telecoms, Citi-Bank (Fraud Detection) India 
+         • Responsibilities covered the whole project cycle from initial analysis and design, through actual ETL coding, QA, and production support 
+         • Overseeing multiple ETL 
+         Data Integration and Migration Projects for Citi-Bank & British Telecoms. 
+         • Ensured that all programs were executed within established time period and complied with the defined standards 
+         • Tuning of the PL-SQL code to elevate the performance benchmarks for 
+         Data-warehouse & 
+         data-marts projects 
+         • Creation and review of Low level design documents 
+         • Designed/developed source to target Mappings, transformations and work flows using different ETL tools (Ab-Initio, OWB) and Unix Shell Scripting. 
+         • Interacted with client to Map requirements for custom designed solutions and troubleshooting complex 
+         Data-Warehousing problems 
+         • Built scheduling scripts for running jobs using TWS scheduler 
+         • Mentored NCGs with proper technical expertise to bring them up to speed in terms of application knowledge

@@ -1,0 +1,29 @@
+PMI - Project Management Professional (PMI-PMP) by Casey Ayers 
+         PMI - Agile Certified Practitioner (PMI-ACP) by Chuck Cobb 
+          
+         Agile 
+         Kanban Fundamentals by Steve Smith 
+         
+         Big Scrum by David Starr 
+         Customizing Your Team Workflow with Best of Kanban and Scrum by Milena Pajic 
+         Agile in the Real World by Jeremy Jarrell 
+         Agile Estimation by Stephen Forte 
+         Kanban Development with Jira Agile by Xavier Morera 
+         Bringing Agile to IT Operations by Jeremy Jarrell 
+         Agile for One by Jeremy Jarrell 
+         Scaling Agile for Enterprise: Daikibo by Xavier Morera 
+         Agile Project Management by Paul Bradley 
+          
+         PMI - Business Analysis 
+         Monitoring Requirements & Evaluating Business Analysis Solutions by Casey Ayers 
+         Conducting Business Analysis & Developing Requirements by Casey Ayers 
+         Introduction to Business Analysis & Needs Assessment by Casey Ayers 
+         Discovering Business Analysis Information Through Elicitation by Casey Ayers 
+         Planning for Business Analysis by Casey Ayers 
+          
+         Soft skill trainings 
+         Communications for Leadership Success by Jerome Arcebal from DDI 
+         Effective Presentation Skills from Guthrie Jensen 
+         Writing Effectively from Guthrie Jensen 
+         Listen, Realize and Speak Up from Guthrie Jensen 
+         Conducting Effective Teleconferences from Guthrie Jensen

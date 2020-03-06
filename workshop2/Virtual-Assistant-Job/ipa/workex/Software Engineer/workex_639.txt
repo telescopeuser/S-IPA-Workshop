@@ -1,0 +1,10 @@
+·       Experienced technology and people leader, with 17 years of Support and Service Delivery experience within Global Financial Services organizations.  
+         ·       Responsible for championing successful delivery of cloud solutions portfolio through effective project leadership and thought leadership to help users navigate their journey to the cloud. Manage the development and implementation of the cloud solution and partner with clients to establish an operating model for success in the maintenance of the cloud solution as well as embedding a model for continued innovation in the Cloud. 
+         ·       Educate internal customers of all sizes on the value proposition of AWS and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud. Manage the AWS infrastructure and strategic vendor relationships. Work with internal teams to create the migration process of legacy systems to the AWS cloud. 
+         ·       Good Understanding of the AWS market segment and work with business unit managers to understand project scope, suggest possible alternatives and document each step of the design. Work with Security division to design and manage IAM roles for users, vendors and other third-party vendors 
+         ·       Work with several third-party vendors in 
+         big 
+         data and other areas to support our overall cloud initiative 
+         ·       Working knowledge of programming languages Partner with the sales team, formulate and execute a sales strategy to exceed revenue objectives through the adoption of AWS 
+         ·       Development of automation systems to increase the team’s performance and quality by implementing CICD Pipeline for Continuous Integration and Continuous Deployment (DevOps).  
+         ·       Production services, Incident Management, Problem management, client relationship management, resourcing, change, release and incident management, disaster recovery planning & execution, strategic change, management reporting, stake holder management

@@ -1,0 +1,10 @@
+- Sun Solaris Server Administration 
+         - Leading Infrastructure adhoc projects. 
+         - Linux Server Administration 
+         - Apache Web server Administration 
+         - Hardening UNIX servers, Web servers 
+         - Unix Shell program writing, Openssh installation and configuration 
+         - VERITAS netbackup/Solstice Backup /Legato Networker Backup administration 
+         - Knowledge of SQL and Oracle DBA 
+         - Perform Disaster Recovery 
+         Hardware Upgrade, Security policy creation and implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation for auditing, DR preparation.

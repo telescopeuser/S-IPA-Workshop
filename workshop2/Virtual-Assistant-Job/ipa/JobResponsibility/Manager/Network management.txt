@@ -1,0 +1,4 @@
+Daily management of LAN environment, which includes fault isolation and resolution, performance optimization, monitoring, change management and incident management
+Secure network system by establishing and enforcing policies
+Monitor and report network trends and activities
+Provides support to overseas office and resolve connectivity issues

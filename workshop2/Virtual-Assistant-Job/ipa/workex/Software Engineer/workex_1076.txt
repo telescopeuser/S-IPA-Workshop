@@ -1,0 +1,15 @@
+Project Description: 
+         Automation of Cash Management System will taking care of all the Processes and Workflow like Disbursement and Collection such as Payments, Receipts Register, Account Heads, Clear Cash Register, Report etc., 
+          
+         Automation of Cash Management provides very user friendly and rich user interface and also allows the administrative personnel for customization of the business logic with great ease provides a great customization support for all its business tasks. 
+          
+         Responsibilities: 
+         • Reviewing the Functional Requirements 
+         • Understanding of SRS & Business logics 
+         • Review of Manual methods to design & Execution of Test Cases 
+         • Involving in Regression Testing and exports the results 
+         • Effective Co-ordination between Development Team & Testing Team. 
+          
+         Project - 9 Deal Organization Scheme (D.O.S) 
+         Environment J2EE, JSP, Oracle, Apache Tomcat Server, Windows 98 
+         Tools Used Manual Testing

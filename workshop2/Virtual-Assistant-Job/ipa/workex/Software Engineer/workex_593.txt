@@ -1,0 +1,15 @@
+- Solaris Server Administration. 
+         - Linux Server administration 
+         - Adhoc Infrastructure project leading 
+         - Prime cluster Administration 
+         - VERITAS volume manager 
+         - Power broker and Sudo administration 
+         - Unix Shell program writing, Openssh installation and configuration 
+         - VERITAS netbackup/Solstice Backup /Legato Networker Backup administration 
+         - Perform Disaster recovery drill. 
+         - Apache/IIS Web server administration. 
+         - Windows 2003 and 2000 Servers administration. 
+         - BigIP F5 Load balancer administration 
+         - EMC storage support 
+          
+         Hardware Upgrade, Security policy creation and implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation for auditing, DR preparation.

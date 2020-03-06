@@ -1,0 +1,1 @@
+AWS Glue: 2 years (Required)AWS: 4 years (Preferred)pyspark: 3 years (Preferred)Informatica: 4 years (Preferred)SQL: 5 years (Preferred)Big data: 3 years (Preferred)ETL: 5 years (Preferred)

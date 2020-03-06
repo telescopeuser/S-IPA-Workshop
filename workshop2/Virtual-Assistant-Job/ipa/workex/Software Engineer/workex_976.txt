@@ -1,0 +1,11 @@
+• Responsible for developing and designing Enterprise Server & Storage Architecture and Solutions 
+         • Responsible for developing and designing 
+         big 
+         data solution using scale out NAS (Isilon), high speed virtualized core network (10G) with 
+         data visualization (Palantir) 
+         • Project Management with Oracle-Sun/IBM/HP Server products, Storage Products from HDS, EMC, IBM, Brocade, Symantec 
+         • Provide technical consultation in support of system installation, configurations and administration on Multiple Operating System platforms (e.g. Windows, VMware, UNIX) & storage initiatives and solution development 
+         • Participate in technical interchange discussions with customers, partners and vendors 
+         • Develop baseline analyses of storage infrastructure requirements, demand and total costs associated with networks, servers, storage and applications 
+         • Perform analysis of storage solution designs against the technical requirements ensuring continuity of operations 
+         • Perform analysis of Backup and Recovery Solutions with Netbackup

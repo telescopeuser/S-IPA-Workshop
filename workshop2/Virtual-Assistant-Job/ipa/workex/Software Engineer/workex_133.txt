@@ -1,0 +1,7 @@
+Processor team/SH CPU evaluation team 
+         Target: FPGA development, Compiler evaluation for SH and ARM CPU 
+         • Develop FPGA environment for CA5, CR4 on FPGA board. 
+         • Porting the benchmarking program ( EEMBC, Mibench ) to CA5, CR4 and evaluate ARM CPU performance with various combination: with/without NEON/FPU, GCC or ARMCC, compiler options. 
+         • Optimize ARM assembly program 
+         • Develop C-model simulator for CA5 core 
+         • Evaluate SHX4 performance to feedback the SH4A C compiler team to improve the code generation with EEMBC, Drystone benchmarks

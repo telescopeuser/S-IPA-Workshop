@@ -1,0 +1,27 @@
+Project Title General Electric - Capital Real Estate, France. 
+         Description GE unique perspective as both a lender and an operator benefit their borrowers and tenants in ways that few other 
+         financial institutions can. GE brings insight, knowledge and expertise to every transaction. And as a result, 
+         businesses that work with GE Capital Real Estate benefit from the global know-how and expertise of GE. 
+         Environment Cognos 8.4 
+         Role Lead Cognos BI Developer 
+         Contribution ✓ Interacting with Business users for gathering Business Requirements to develop Cognos Model and publish 
+         packages after this develop reports as per user request 
+         ✓ Design, Development and Deployment of business solutions for corporate reporting needs. 
+         ✓ Understanding Business Requirement and converting the same into Technical Specifications. 
+         ✓ Interacting with Stakeholders for gathering Business Requirements to develop Analysis Framework and publish 
+         reports as per user request. 
+         ✓ Prepare case studies and business cases to determine inefficiencies and areas of improvement. 
+         ✓ Understand the methods of business used in different geographical locations and analyze 
+         data to provide quick 
+         fixes which should have a sizeable impact. 
+         ✓ Do a comparative analysis to distinguish best practices and ways to implement them across different geographical 
+         locations. 
+         ✓ Prepare framework model and publish package with object and 
+         data level security. 
+         ✓ Extensive knowledge in various reporting objects like Facts, Attributes, Hierarchies, Transformations, Filters, 
+         Calculated fields, Sets, Groups, Parameters etc. 
+         ✓ Developed complex reports with user's design format using cascading prompts and calculations in Report Studio. 
+         ✓ Bursting the Reports in Cognos Environment and sending by mail. 
+         ✓ Following/Sharing the issues/clarification list to avoid UAT defects. 
+         ✓ Technical Support to the application support team and Assisting Sr. 
+         Data Warehouse Consultants, in DWH modeling.

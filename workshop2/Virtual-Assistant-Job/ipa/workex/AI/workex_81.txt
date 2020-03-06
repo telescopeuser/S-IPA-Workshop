@@ -1,0 +1,15 @@
+Highlights: 
+         • Efficiently handled multiple high-value customers of the company from Banking, Telecommunication and Government Sector including DBS Bank, National Healthcare Group, Panasonic, KBank (Thailand), Maxis (Malaysia), etc. 
+         • Extensively travelled across South East Asia with regards to firefighting activities for the key customers. 
+         • Remotely managed a team of DBAs from Thailand and Malaysia on service improvement activities. 
+         • Provided assistance in closing the support deal with Maxis (Malaysia) and transition of support from existing vendor. 
+          
+         Responsibilities: 
+         • Rendered Service Delivery of Infrastructure (Database and Middleware) Services support to multiple clients of the company, ensuring high level of client satisfaction. 
+         • Worked as Subject Matter Expert (SME) for Database supporting ASEAN Region practicing IBM LEAN and ITIL. 
+         • Led server migration for NHG from outdated frame to a new virtualized (IBM LPAR) environment with new storage and modifying the Disaster Recovery Strategy for the customer from SAN based replication to Oracle 
+         Data Guard. 
+         • Provided leadership to the team to design, develop and document databases, schemas, tables, functions, triggers, procedures, relationships and other necessary aspects of the database. 
+         • Supported sales teams in closing multiple new projects, extension of support contract and migration activities. 
+         • Engaged in identifying and resolving complex problems relating to product/service installation, update, configuration, operations, performance, or other aspects of IT products and services. 
+         • Performed Quality Control Analyst role for the Global Delivery Framework covering Database Service Delivery.

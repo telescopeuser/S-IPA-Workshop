@@ -1,0 +1,15 @@
+Provide operational support to local and regional customers, monitoring and scheduling 
+         customer equipment on different platforms. To carry out daily operations activities such as schedule, 
+         initiate backups, perform data restorations and checking of backup logs. 
+          
+         • Perform system monitoring of AS/400 and Intel servers and take corrective actions and escalate to 2nd level support when necessary. 
+         • Perform Helpdesk support on problem ticket issues in resolving or escalating to relevant Technical 
+         support teams. 
+         • Assist 
+         IT Analysts in generating general reporting requirements such as security report 
+         review, disk space & job criticality report generation & dissemination, etc 
+         • Provides end-user desktop technical support to PC users on Microsoft Office 2000/3 
+         applications, network connections, internet access, file and print services, and email 
+         system on Lotus Notes client. 
+         • Ensure the physical security, integrity and safety of all the equipment in the Data 
+         Centre.

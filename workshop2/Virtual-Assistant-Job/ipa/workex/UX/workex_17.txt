@@ -1,0 +1,11 @@
+Developed digital transformation strategies for various industries (retail, F&B and events) and problem-solved by leveraging on technical competencies and implementing key solutions, helping SMEs balance TCO and deliver technical roadmaps. 
+          
+         • Architected robust and secure networks. Executed migration for distributed storage and compute resources for secure hosting, optimized on CDN and load balancers. 
+          
+         • Championed and led Agile development methodologies for web development and launch of an e-commerce site. 
+          
+         • Deployed and trained users on Salesforce, reducing response time to 1 day and increased brand’s satisfaction and loyalty (2% of repeat customers). 
+          
+         • Leveraged on data analytics to support key business decisions and improve ROI. 
+          
+         • Worked on web technologies and applied knowledge of HTML, JavaScript, SQL and XML/JSON. Built networks based on TCP/IP and UNIX protocols.

@@ -1,0 +1,10 @@
+• Account 
+         Engineer in charge of DBS managed hosting service with IBM. 
+         • Management and coordination of resources for DBS managed hosting service with IBM. 
+         • Installation and configuration of Enterprise grade hardware for DBS managed hosting account. 
+         • Troubleshooting of hardware and software issues for p5 and p6 servers. 
+         • Installation and configuration of Enterprise grade hardware (p5 and p6). 
+         Installation, configuration and troubleshooting of hardware issue for enterprise grade system P storage - DS4000, DS5000, DS8000. 
+         • Troubleshooting of hardware issue for System P enterprise grade tape storage system. 
+         • Provision of onsite support and installation of AIX OS on IBM pSeries. 
+         • Provide Professional Services to clients.

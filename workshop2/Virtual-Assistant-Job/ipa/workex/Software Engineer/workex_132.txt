@@ -1,0 +1,6 @@
+Vietname (RVC) Processor team/SH CPU evaluation team 
+         Target: Compiler evaluation for SH, benchmark porting, SH-Linux 
+         • Evaluate SuperH CPU performance + SuperH C Compiler + GCC performance 
+         • Develop Pthread library for SH core in OS-less environment 
+         • Port benchmarking program ( EEMBC, MiBench, SPLASH ) to Renesas board 
+         • Develop the demonstration program for SH-Linux

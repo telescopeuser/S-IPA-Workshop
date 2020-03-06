@@ -1,0 +1,10 @@
+Roles and responsibilities: 
+         ❖ Installing Solaris in customer Interactive mode. 
+         ❖ Troubleshoot Boot Related issues in SVM. 
+         ❖ Knowledge in File transfer using ftp from one server to another server. 
+         ❖ Configuring disk using Volume manager/Disk Suite in Solaris Servers and RAID, LVM. 
+         ❖ Knowledge in toad oracle client tool which is used for Oracle 10g database. 
+         ❖ Quota for user using Solaris Volume Manager Soft 
+         ❖ Trouble shouting Disk related issues, Disk Replacement in VERITAS 
+          
+         Worked Experience

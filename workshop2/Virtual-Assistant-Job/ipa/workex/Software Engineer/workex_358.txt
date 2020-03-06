@@ -1,0 +1,10 @@
+Nov, 2017) 
+         • Creation of Navotar Finance module for Grab Rentals, to obtain daily financial 
+         
+         data from their internal recurring billing software (GAMMA) into Navotar through 
+         SFTP. 
+         • Development of automation process that: scans the SFTP file, identifies the correct entries, validates the appropriate 
+         data, compare with assigned logics & algorithms and ensure the correct processes are performed for payment 
+         transactions. 
+         Technology used: Windows Task Scheduler, SQL Jobs, SQL Server 2017, ASP.NET 
+         Web API, .NET CMD Application.

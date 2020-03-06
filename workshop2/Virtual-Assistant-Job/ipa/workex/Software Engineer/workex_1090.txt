@@ -1,0 +1,21 @@
+Description 
+         MD Anderson desires and intends to take its current (Legacy) research administration systems off-line and replace them with contemporary capabilities provided by two application software vendors Click and Velos. During this replacement, MD Anderson has uncovered a need for reporting capabilities beyond those offered by the application packages and desires creation of enhanced reporting capabilities to be provided by a reporting 
+         data mart. 
+          
+         Role Developer 
+         Environment Informatica 9.1, Putty, SQLPlus, PL/SQL, Unix Shell Programming, Oracle 10g database 
+         Responsibilities 
+         • Understanding the Business rules from customer on the requirements and implementing them. 
+         • Involved in developing Mapplets, Mappings and • Extracting 
+         data from different relational databases, Flat files using Informatica Power Center. 
+         • Creating Various Transformations like Expression, Aggregator, Rank, Joiner, Sequence Generator, Lookup, and Update Strategy etc 
+         • Involved in exceptional handling in informatica using bad file from informatica server as a source. 
+         • Involved in migrating the Informatica code from dev environment to test environment using Informatica Repository manager. 
+         • Using Target Load Plan to optimize the performance of the server. 
+         • Identify the bugs in existing mapping by analysing the 
+         data flow. 
+          
+         Projects: 
+         Following are the details of my Projects in TCS company: 
+          
+         Project Reporting Analytics

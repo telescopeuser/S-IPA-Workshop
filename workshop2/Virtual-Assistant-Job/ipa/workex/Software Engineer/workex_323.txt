@@ -1,0 +1,10 @@
+Monitoring daily Inbound and Outbound calls using NACT Vincisoft Call Monitor 
+         ◦ Analysing daily call for quality and destination related issues by using Business Analysis Tool(BAT) 
+         ◦ Managing and generate reports on Clients Calls using NTS Tool 
+         ◦ Daily Testing call qualities over all global destinations 
+         ◦ VOIP Connection Monitoring of Gateways, Switches, Routers 
+         ◦ Managing local Windows 2008 Domain and Client Systems, Networking 
+         ◦ Installation VOIP Adaptor, cable connection and call testing 
+         ◦ Monitoring Network activities remotely during week and weekends 
+          
+         Major Achievements

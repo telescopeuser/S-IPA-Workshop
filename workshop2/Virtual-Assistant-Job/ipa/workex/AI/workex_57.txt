@@ -1,0 +1,25 @@
+Project Details: Boeing 787- SCOE Structural Coverage Analysis 
+          
+         Project Description:- 
+         Developing the testing scripts to test the embedded C Code at unit level using rational test real time (RTRT) with Virtutech Simics for running customer's simulated target environment. For target specific libraries specific TDP (target development port) has been used. This TDP is the technology currently used to test the embedded S/W with RTRT tool. 
+         Technologies: Embedded C and ADA 
+         Tools Used: RTRT .Virtutech Simics for running simulated target 
+          
+         Roles and Responsibilities:- 
+         • Study of low level requirements. 
+         • Responsible for allocated module. 
+         • Write test cases for assigned module. 
+         • Test the code coverage and ensure all the code has been covered with respect to that modified condition/decision coverage (MC/DC). 
+         • Report the defects of code to the developer. 
+         • Attends co-ordination meeting to understand the priority and to report the status of the module. 
+         • Review the test cases created by other team members. 
+         • Generate ideas for productivity. 
+         • Automated tool to increase the productivity. 
+         • Co-ordinate with software quality assurance team to ensure that the quality of the test product and to recover the defects in any case. 
+         • Mentor for fresher's to write test cases. 
+         • Provided Training on C/C++ language. 
+         • Co-ordinate with internal onsite coordinator. 
+         • Submit weekly module report to team lead. 
+         • Share new learning's to all team members. 
+          
+         EXPERIENCE#5

@@ -1,0 +1,13 @@
+Environment: PeopleSoft HCM 9.1, People Tools 8.5x, Oracle 11g 
+         Duration: Oct 2012 to Jan 2013 
+          
+         Project Description: KS Distribution is an integrated one-stop solution provider for customers from the oil & gas, marine & offshore, petrochemical, green energy, mining and other industries. 
+         They implemented PeopleSoft HCM 9.1 and modules are using Core HR, Workforce Development, Absence Management, Time and Labor and Global Payroll. 
+          
+         Roles and Responsibilities: 
+         ❑ Worked with Direct-KS Distribution's clients as a Team member and was supporting SQR reports and XML-Publisher reports. 
+         ❑ Worked in customization of reports using SQR and XML Publisher. 
+         ❑ Worked as a Techno-Functional Consultant and involved in understanding the functionality and requirements and prepared FDD and TDD and Unit Test cases based on the client's requirements. 
+         ❑ Bug fixing and enhancement of SQR reports and newly developed XML-Publisher reports. 
+          
+         PROJECT EXPERIENCE #7

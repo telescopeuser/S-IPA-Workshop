@@ -1,0 +1,16 @@
+A UK based company developing products for telecommunication sector. As a critical resource, involved in all the phases of software development from requirement gathering to implementing the system. Managed the database replication and write complex SQL queries. Projects developed with .Net (Windows application, ASP.Net, C#,ADO.Net) / SharePoint as the intermediate layer, MS SQL as the back-tier along with SSRS/ Crystal reports as the Reporting services. 
+          
+         Chronuss :  
+         A Sales and Stock Control System developed for global telecommunication product resellers in UK consisting of modules like Customer/ Supplier/Security / Stock/ Task / Stock Serial management, Calculating commissions, Sales and Inventory, Stock transfer, Stock adjustment, Banking, Media management, Performance view and much more. 
+          
+         Share Point Integration Module (SIM) : 
+         An integrated system built to facilitate SharePoint task, calendar, and document modules to chronuss, implemented using Share Point API (Object model, client object model, Web services) and WCF Services. 
+          
+         Media Management:  
+         System designed to display weekly offer on all sites on 
+         big screen using media player.  
+         Offers for limited period having an effective time period. System will upload the media file to FTP & delete the out dated files from FTP every day. 
+          
+         Performance View (PV) :  
+         A screen server application which runs on multiple screens to update the sales details to employees and 
+         data is visualized in the form of grids,/tables and charts. The screen properties like Background Color Font style, branches, refresh time and date range can be predefined by the user.

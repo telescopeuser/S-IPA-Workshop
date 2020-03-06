@@ -1,0 +1,20 @@
+Technology 
+         Below is a list of important software products that I have worked with. 
+         Software Products 
+         • ETL Informatica 8.6,9.1Tool 
+         • DataStage (Support) 
+         • EAI SoftwareAG, Webmethods 
+         • Oracle 9i, 10g 
+         • Unix, 
+         • SQL, 
+         • MS Office 
+         • Informatica IDQ concepts, 
+         • 
+         Big 
+         Data concepts, 
+         • Qlikview 
+         • TeamSite - CMS 
+          
+         Most Recent Project:- 
+         Project 
+         Data Integration Dev/Support Team (24/7)

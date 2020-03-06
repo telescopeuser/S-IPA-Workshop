@@ -1,0 +1,10 @@
+Capital Markets, London - Software 
+         Engineer 
+         NOVEMBER 2013 - NOVEMBER 2014 
+         Working in an international team with developers based in India and Tunisia for a Mid-Back Office 
+         system. Main focus is on web-based middleware which runs on Oracle Weblogic. My role there 
+         entailed to get trained by and take over the responsibilities of the architect. 
+         ● Developed features in both front-end and back-end. 
+         ● Developed components/tags which were used by other developers 
+         ● Release management of dev and release branches (CVS, Git). 
+         ● Executed dev meetings focusing on coding standards, improvement of unit testing and processes.

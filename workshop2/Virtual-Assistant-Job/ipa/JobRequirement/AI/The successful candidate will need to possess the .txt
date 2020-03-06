@@ -1,0 +1,8 @@
+Ph.D. (or MS with at least 3 years’ experience) in engineering, or the sciences. Research experience with machine learning techniques (unsupervised machine learning, neural networks/support vector machines/…) is essential.
+Experience with Big Data frameworks (Hadoop/Spark/…)
+Superior analytical skills, a sound knowledge of statistics, and a history of creative data analysis work.
+Experience with programmatic data analysis (using Matlab/Python/R/…) is essential.
+Intellectual honesty and a sense of urgency in driving projects to completion.
+Clear communication skills, with the ability to present technical material both to working-level peers and to senior management both within Nanometrics and at the customer site.
+Ability to travel up to 30%.
+Experience in the semiconductor or other manufacturing industry is preferred.

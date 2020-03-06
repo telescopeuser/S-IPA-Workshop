@@ -1,0 +1,5 @@
+Part of 
+         big project team to develop a computer system for Singareni Collieries Company Limited, Indian Govt organization. The objective of the system is to computerize all the departments of the company 
+          
+         Worked on Machine maintenance management module to computerize all the machine maintenance activities 
+         Developed input forms & MIS reports using Microsoft Visual Basic

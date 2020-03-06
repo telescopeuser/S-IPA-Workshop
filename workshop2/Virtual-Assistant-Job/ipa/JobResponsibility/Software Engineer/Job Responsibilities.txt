@@ -1,0 +1,3 @@
+Study business and application specific requirements, review corporate technology to design and implement the big data architecture and solution to meet business requirements.
+Provide big data analysis consultancy and advisory to customers in the areas of cyber security, application monitoring, networking monitoring, infrastructure monitoring or business analytics.
+Conduct proof of concept/value on big data analytics related solution

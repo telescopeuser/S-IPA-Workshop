@@ -1,0 +1,5 @@
+Minimum Bachelor’s Degree in Computer Science, Data Science or Analytics with 3 to 4 years working experience.
+Experience in database management systems e.g. MySQL, PostgreSQL, MongoDB, MS SQL Server
+Experience in R and Python, including numerical libraries e.g. NumPy and scikit-learn
+Experience in installing, configuring and testing Hadoop ecosystem components (e.g.
+Experience in data visualization tools or libraries e.g. Tableau, Power BI, Python (ggplot, matplotlib, pandas, pygal) and JavaScript (Leaflet, D3)

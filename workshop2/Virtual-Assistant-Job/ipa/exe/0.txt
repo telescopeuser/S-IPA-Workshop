@@ -1,0 +1,152 @@
+             Job Opening: Spring Boot - Java Back End Developer
+
+Interested candidates, please contact JAGADEESH BALAKRISHNAN
+<jagadeesh.balakrishnan@singtel.com>
+
+                                            Who we are:
+
+The advertised role is for the Digital Technologies department of Singtel. Digital Technologies is
+front-runner within Singtel featuring self-organising Build-Run teams that take end-to-end ownership
+of a business domain and corresponding applications. DT works in an agile manner and is adopting a
+Tribes & Squads model in close cooperation with the rest of IT. Our teams take ownership across the
+lifecycle and our motto is “You build it, you run it, you own it, you love it!”
+
+Our new technology stack focusses on Spring Boot deployed on AWS and React / React Native on
+the client side. We aim to automate repetitive actions where possible. In the infra-side, we let AWS do
+the heavy-lifting for us so we can focus on delivering business value. We need your help to onboard
+more applications on to the same stack!
+
+                            Why work for Singtel Digital Technologies?
+
+   •   Agile environment with persistent Build-Run teams accountable across the life cycle
+   •   Strong alignment with business and KPIs centered around business
+   •   Open office space with teams co-located together with Product owner
+   •   All new things go to AWS and follow latest best practices in the industry
+   •   Attention to technical excellence
+   •   Culture of learning, coaching and mentoring together with an agile mindset
+   •   Customer-facing environment with challenging scalability requirements
+   •   Career growth path as engineer: engineers may earn more than their manager
+   •   Dynamic organisation where change is the only constant
+   •   Innovation is part of the yearly KPIs
+   •   An incentive scheme with generous rewards for high-performers
+
+                                   Summary of Candidate Profile
+
+You are a strong Senior Software Engineer; you love to be hands-on the majority of the time. You are
+always looking for new ways to improve your solutions: you master the shortcuts of your favorite
+editor, pick up a new tools and libraries when valuable and continue learning best practices and
+design patterns that improve the quality of your application.
+
+You are eager to solve problems. You take initiative to structurally improve the software you are
+working on. You guide, coach and mentor your fellow team mates to help them achieve the next level.
+Together with the team, you help set and maintain quality standards and periodically raise the bar
+where feasible.
+
+
+
+
+_________________________________________________________________________________________
+                                                                                           Page 1 of 3
+                                            Job Description
+
+ Job Title                             Senior Software Engineer
+ Business Entity                       ☒ Singtel    ☐ NCS    ☐ Optus    ☐ Others: Enter entity name
+ GBU / BU / Division / Department      GCIO / SG Group IT Off / DT / Development Management
+                                       ☐ New Role     ☒ Existing Role – Update
+ Reason for Submission
+                                       ☐ Others: Enter reasons
+ Reporting to                          Development Director
+ Working Location                      Country: Singapore                 State: Singapore
+ Job Level / Grade                     P4
+ HR Business Partner                   Georgina Tan Ming Hwa
+
+SECTION A:      POSITION SUMMARY
+
+ DT requires strong engineers for the Build-Run teams across grades. For day-to-day work, engineers are
+ positioned inside the multi-disciplinary teams and work to achieve business goals. In addition, engineers
+ are part of the development practice, specialized in areas like Java, Front-end, AEM, DevOps and in future
+ perhaps others.
+ Refer to front page for additional detail.
+
+SECTION B:      KEY RESPONSIBILITIES AND RESULTS
+
+                                 Generic responsibilities (across grades)
+
+ 1.     Contribute to Singtel's Build-Run team from design to go-live and beyond.
+ 2.     Design and develop new components
+ 3.     Take ownership of the solutions, their architecture and non-functional qualities in production.
+ 4.     Work as part of a Build-Run team, including teams of external vendors, developers and architects to
+        guide and assist in delivering business requirements
+ 5.     Have close interaction with the business
+ 6.     Contribute to common development practices of Singtel DT
+ 7.     Help identify new talent in the market
+ 8.     Inspiring and mentoring developers by being a role-model as you work together in the Build-Run
+        team
+ 9.     Continuous improvement of technology and process
+ 10.    Work with in-house and external stakeholders
+
+SECTION C:      MAJOR CHALLENGES / TYPICAL PROBLEMS ENCOUNTERED
+
+ 1.    Move traditional software to a modern setup (e.g. Microservices / Cloud)
+ 2.    Reduce complexity that has grown over time
+ 3.    Achieve results that cross department boundaries when needed
+ 4.    Combine structural improvements with continuous BAU load
+ 5.    Set, maintain and increase standards for development
+_________________________________________________________________________________________
+                                                                                                  Page 2 of 3
+ 6.   Generate attention to long-term quality with short-term focused feature-requesters
+ 7.   Follow the “you build it, you run it” principle, sharing responsibility for the development pipeline and
+      the final delivered software.
+ 8.   Foresee and troubleshoot problems, with focus and diligence, resolving with urgency and awareness /
+      ownership to escalate
+
+Markets and Customers
+
+ Target markets / segments         Potentially all customer facing Digital channels for “Singapore market”
+                                   under Consumer SG, IG and GE
+ Impact on customers               High. Software developed by DT is typically used as unassisted channel by
+                                   Singtel’s end consumer.
+ Customer type                     ☒ Mainly internal ☐ Mainly external ☐ Both internal and external
+                                   Internal business Product Owner drives business demand towards DT.
+
+Staff Under Management:
+
+SECTION D:       QUALIFICATIONS / EXPERIENCE / KNOWLEDGE REQUIRED
+
+ Category                                    Essential for this role                   Good to have
+                                      BSc in Computer Science or           MSc/PhD in Computer Science or
+ Education and Qualifications
+                                      similar technical                    similar technical
+                                      Mobile App Software Engineer
+ Technical / Professional Skills
+ Please provide at least 3            1.   JavaScript (ES6 and up)         1.   GraphQL
+                                      2.   React Native                    2.   Backend (Spring / Spring Boot)
+                                      3.   Redux & Redux Saga              3.   AEM
+                                      4.   Jest unit test                  4.   RESTFUL API design
+                                      5.   Swift & ObjectiveC for iOS /    5.   Test Automation
+                                           Java & Kotlin for Android
+
+                                      Strong hands-on coder                Leadership
+                                      Communication                        Presentation
+                                      Decisiveness                         Negotiation
+                                      Modelling skills (UML)               Assertiveness
+                                      Conceptual thinking                  Challenges the status quo
+                                      Attention to quality                 Contributes to the wider
+                                      Get stuff done                       department
+                                      Lifelong learner                     Proactively pitch technical
+                                      Shares knowledge with others         capabilities before business asks
+                                      Seeks to understand underlying       Coaching and mentoring other
+                                      requirements and business            engineers in the team
+                                      rationale
+                                      Appreciation of business domains     Telco-background
+                                      in general
+ Non-Technical / Soft Skills
+                                      Considers Software Architecture
+                                      as part of development
+ Other Task-Specific Knowledge
+
+
+
+_________________________________________________________________________________________
+                                                                                                    Page 3 of 3
+

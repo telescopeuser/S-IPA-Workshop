@@ -1,0 +1,24 @@
+Responsibilities: 
+         * Responsible for installation, configuration, and administration of WAS 8.5, 7.0, 8.5 on AIX and Red hat for highly available environments. 
+         * Configured WebSphere container resources JDBC, JMS, JNDI, J2C Alias etc. 
+         * Migrated applications running on AIX to and also migrated the applications from version 7.0 to v8.5. Responsible for maintenance and support of internet and intranet applications Configured and deployed web applications on multiple servers. 
+         * Developed WSADMIN scripts for updating of 
+         data sources, log path details for JVMs and MQ resources, etc. 
+         * Created J2C authentication 
+         data entries and configured the 
+         data source to test database connection from the WebSphere administrative console. 
+         * Configured Service Integration Technologies by configuring SIB by creating buses and adding servers/clusters to buses links, messaging engines that application using message-based and service-oriented architectures. 
+         * Worked on performance tuning of application server using Wily Introscope by setting optimal values for timeouts, connection pools, JVM heap size, and tuning garbage collector. 
+         * Configured and setup Secure Sockets Layers SSL for 
+         data encryption and client authentication. Used WebSphere Application Server key management utility iKeyman, for managing keys and certificates. 
+         * Defined synchronized and persistent IBM MQ Series Queue manager, Channel Managers and Queues. 
+         * Monitored health of the applications using WILY and also used WILY for load tests and send the load test results to the testing and application teams. 
+         * Expertise in enabling the global security to Websphere environment and SSL security generating self-signed certificates using the ikeyman tool. 
+         * Applied Fix packs / e Fixes / Refresh packs / Cumulative fix packs for WAS using Update Installer, Installation Manager and automating it. 
+         * Configured web Server Interfaces, Session Management, Virtual Hosts for WebSphere Application Server. 
+         * Well versed in different stages of implementing the workload Management WLM and failover using vertical, horizontal and hybrid clustering for efficient use of resources on single and multiple machines. 
+         * Experience with issue management tracking tools and change management tools. 
+         * Configured and administered JDBC Connection pools, JMS Connection Factories, queues, and topics and implemented other services like JTA, JNDI, and SNMP. 
+          
+         Environment:IBM WebSphere AppServer 8.5,8.0,7.0,6.1,5.1,4.0, AIX, , DB2, Oracle, IBM HTTP Server , IBM Support assistant ISA 4.1,5.0, Tivoli directory server, MQ 7.0,6.0, site minder, F5 
+         Big-IP Load Balancers, BMC Remedy Action Request System 7.0, veritas, Wily/CA Introscope7.2Apache, Iplanet, Sun one LDAP 5.2.4, LDAP v 2/3, Netegrity, Site Minder, Policy Server 5.5/6.0, Microsoft Active Directory.

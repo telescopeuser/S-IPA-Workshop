@@ -1,0 +1,15 @@
+Environment: PeopleSoft HCM 9.1, People Tools 8.5x, Oracle 11g 
+         Duration: June 2013 to Jan 2014 
+          
+         Project Description: The RBS Group is a large international banking and financial services company. The Group serves over 30 million customers in the United Kingdom, Europe, the Middle East, the Americas and Asia. Their brands operate around the globe to provide banking services for individuals, businesses and institutions. 
+          
+         They were using PS HRMS 8.8 for US region and PS HCM 9.1 for UK region and they decided to merge ePerformance module bring to new single instance for separate maintain PS EPM system for their US and UK employees. We have done re-implementation to accomplish this, and have done retrofit from source to target system. 
+         Roles and Responsibilities: 
+         ❑ Involved in 
+         Data conversion from source system to target system as a Team Member. 
+         ❑ Done retrofit to bring customizations from source to target system. 
+         ❑ Worked in customizations for reports using SQR and XML Publisher. 
+         ❑ Worked as a Techno-Functional Consultant and involved in understanding the functionality and requirements and prepared FDD and TDD and Unit Test cases based on the client's requirements. 
+         ❑ Bug fixing and enhancement of SQR reports and newly developed XML-Publisher reports. 
+          
+         PROJECT EXPERIENCE #8

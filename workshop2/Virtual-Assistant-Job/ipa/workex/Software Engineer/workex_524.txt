@@ -1,0 +1,2 @@
+* Implemented EAI based solution for Fidelity Investments built on webMethods 
+         * Led the team of 5 members and developed Documentum content management system for SwissRe

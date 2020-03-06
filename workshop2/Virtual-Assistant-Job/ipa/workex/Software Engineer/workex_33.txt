@@ -1,0 +1,25 @@
+• Instrumental in the preparation of RFP deals for the Singapore Government/Commercial sector in the areas of IOT, AI, 
+         Big 
+         Data analytics, Cloud, Microsoft Dynamics CRM and bespoke applications. 
+         • Involved in the definition of key offerings and go-to-market strategies along with sales & delivery teams 
+         • Collaborate closely with delivery and practice teams to build comprehensive solutions based on business opportunity and client requirements 
+         • Accompany sales team in qualifying new opportunities and demonstrating key capabilities & experiences to potential new / existing client teams. 
+         • Support practice and consulting teams in POCs and R&D activities technically and bringing in market / client insights 
+         • Prepare and maintain presales / sales collateral of key offerings, differentiators and experiences with case studies 
+         • Solutioning for the customer requirements and preparation of proposal for RFP's / RFQ's, coordinating efforts with internal stakeholders and partners, and ensuring proposals are in accordance with prescribed guidelines, comply with RFP requirements, and showcase our strengths / differentiators 
+         • Regular meeting with customers and technology partners and engaged in solution clarification/technology presentation to both senior level technical and business personnel. 
+         • Involved in the Operation Improvement Review, Process streamlining and Initiatives. 
+          
+         Infinity, Lenovo, Japan 
+         Role: Solution Architect 
+         • As Solution Architect, involved in the design and development of the POC for the Infinity System which is used the test execution and defect management of the product assurance 
+         • Technologies used: MEAN Stack, Node.js, MongoDB, Express.js, Angular 
+          
+         Innspire, Innosys, India 
+         Role: Technical Project Manager/Solution Architect 
+         • Responsible for design and development of the Innspire Operational System for the end-to-end operations of the Innosys IOT Operations 
+         • Involved in the Business process definition and setup of Service Desk for a major Banking sector customer 
+         • Responsible to drive adoption and rollout of Agile and modern software design and engineering practices such as test-driven development, continuous integration and release automation (CI/RA), and automated testing; 
+         • Working closely with Operations in Sprint/Release planning to prioritize and ship minimum viable product (MVP) constantly through multiple releases (instead of 
+         big bang rollout). 
+         • Technologies used: .Net, MVC, Entity Framework, SQL Server

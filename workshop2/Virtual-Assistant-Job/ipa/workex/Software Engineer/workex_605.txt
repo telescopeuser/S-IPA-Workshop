@@ -1,0 +1,84 @@
+Responsibility: 
+         • Handle, Mentor, set goals and lead a team of 6 
+         Data 
+         Engineers and Analysts, to work cordially and encourage each other to reach the target with the set timeline. 
+         • To conceptualize and implement the 
+         data product by leveraging cutting edge 
+         big 
+         data technologies, 
+         ML and AI. 
+         • Perform in-depth analysis of research information for the purpose of identifying opportunities, 
+         developing proposals and recommendation to enhance business. 
+         • Engage in development and support of statistical dashboards using tableau that encompass key 
+         metrics based on the client requirement and insight enhance the business. 
+         • Provided valuable input into project plans and schedules, translating business requirements into conceptual, logical and physical 
+         data models 
+         • Engage with the pre-sales team to analyse the feasibility of the client requirements 
+         • Work closely with the project managers and the sales team to collectively propose the overall project 
+         costing, resource planning, infrastructure costing and the project timelines in a feasible manner. 
+         • Organize regular tech sharing sessions and team-building activities to motivate better interaction within the team members. 
+         • Accountable for team deliveries by following agile methodology and track weekly sprint activity. 
+         • Translate the business requirement into FDD and TDD and prepare the test script. 
+         • Establish Devops practice to implement CI/CD to ease the deployment process in production and dockerizing the application. 
+         • Accountable for maintain 
+         data dictionaries, 
+         data governance policy. 
+         • Act as 
+         Big 
+         Data Architect to design the entire architecture to support the business insight. 
+         • Design and build high HA 
+         data warehouse or 
+         data mart to store the insights. 
+          
+         Project Name: Commuter Analytics 
+         Client: MooveMedia, Singapore 
+          
+         Active Project Lead integrating with the in-house team of 
+         data 
+         engineers, 
+         data analyst and vendor to develop the 
+         data driven analytic product for the client, which mainly focus on providing insight to the 
+         client to understand commuter movement and interest in various assets (MRT, bus routes and bus hub) across the Singapore region. And with an in-built recommendation engine to guide the end users to analyse their customers behaviour and helps to display the ads in appropriate location to attain highest 
+         customer reach. 
+          
+         Project Name: Geolocation and Geo-Fencing 
+         Data Product 
+         Led the inhouse team of 
+         data 
+         engineers to build the near real time 
+         data driven product to allow the clients to identify the people by providing given the geographical coordinates, so as to allow the fencing of the restricted/highly secured area preventing the intruder and alerting the client through email or transmit the 
+         
+         data through API to client server. 
+         Gokulanath Lead 
+         Data Analytical 
+         Engineer 
+         Gokulanath 
+         Lead 
+         Data 
+         Engineer 
+         Data Analyst ML 
+         Engineer 
+         Project Name: Consumer Surf and POI analytics 
+         Client: OCBC, Singapore 
+          
+         Managed team of 
+         data 
+         engineers to build the statistical model to generate the consumer's surfing 
+         behaviours of various categories and POI visit (Person of Interest), which enables the client to introduce 
+         new scheme for credit card holders by understanding behaviours. 
+          
+         Project Name: Consumer Viewership Analytics 
+         Work collectively with team of 
+         data 
+         engineers and 
+         data analysts to deliver the consumer viewership 
+         analytics on setup box and fixed broad band by adopting cutting edge technology such as spark and ML to allow business to make a decision to improve the consumer experience and company growth. 
+          
+         Achievement: 
+         • Insights helped business to optimize value packs for consumer which increased consumer 
+         headcount by 10% and increased the revenue by selling event log with advertising partners. 
+         • Increased entity revenue by 13% by selling the 
+         data products. 
+         • Effectively used in designing marketing campaigns and promotions. 
+         • Team achieved best performer award and has been an active revenue generator entity of the company with Yearly revenue of about 2.4 million. 
+         • On-time delivery of insights with high accuracy attain 100% client satisfaction.

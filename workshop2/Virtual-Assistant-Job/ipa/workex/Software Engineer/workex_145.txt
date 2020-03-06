@@ -1,0 +1,2 @@
+Data Migration from Legacy servers to target serve for Creating RAC databases, configuring the instances, 
+         Configuring & registering the instances, Database migration using logical backups and RMAN.

@@ -1,0 +1,19 @@
+JOB DESCRIPTION: 
+         • Designed, developed and implemented Inventory System in Production Control Department. Created and used objects in classes and forms using Visual Basic 6.0. 
+          
+         • Created databases with table and views, build relational database. Imported reports from Microsoft Access to crystal reports in a SQL server Data Warehouse. 
+         • Developed and implement an in-house program (Lens Monitoring System) in the production to determine and reduce the defective optical lens of the company. 
+         • Responsible for system, database, file and email backups. Daily/Weekly Schedule. 
+         • Provides seminars, technical assistance and training to all computer appropriate computer personnel on hardware/software features associated with the computer installation, operation and maintenance. 
+         • Responsible for maintaining Local Area Network of company. Giving new accounts for new employee in Windows 2000 Server. Backup mail server, file server and SQL server. 
+         Professional Know-How: 
+         • Fluency in English (both written and verbal). 
+         • Strong knowledge of Windows server/client operating systems, PC hardware and local area networking 
+         • Knowledge on MySQL, Microsoft SQL and .NET application. VB.NET, Dreamweaver and PHP. 
+         Specific Competencies: 
+         • Ability to work in a multinational/multicultural environment 
+         • Able to travel frequently locally and abroad 
+         • Excellent troubleshooting skills 
+         • Excellent customer service and interpersonal skills 
+         • Ability to think logically and work within a team environment 
+         • Team player and strong in communication

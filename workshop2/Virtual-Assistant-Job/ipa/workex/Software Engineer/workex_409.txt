@@ -1,0 +1,41 @@
+• Maintain, Configuration and troubleshooting of Cisco Switches, Routers, Multi-vendor Firewalls, Load balancer, Aruba clear pass, Alcatel switches 
+         • Configure and troubleshooting of STP, RSTP, VRRP, HSRP, VLAN, PVLAN, VTP, VSS, QoS, Multicasting using IGMP 
+         • Configure and troubleshooting of routing protocols (Static, RIP, EIGRP, OSPF & BGP) 
+         • Perform Changes, troubleshooting issues and analyzing traffic on Checkpoint, Sidewinder, Palo Alto, ASA & SonicWALL firewalls 
+         • Set up and troubleshooting Load Balancing issues related to Server Farm network with different Load balancers (
+         BIG-IP, Cisco Content Switching Module (CSM) and Server Iron(Napoleon)) 
+         • 802.1x implementation for wired and wireless using Aruba clearpass manager (CPPM) 
+         • Configure and troubleshooting IPSec VPN tunnels. 
+         • Perform maintenance including Updating rules/Access Lists for CISCO FWSM and Juniper Netscreen Firewall ISG 2000 based on the user requirement. 
+         • Implement Wireless network in complex client environment and troubleshooting issues related to Wi-Fi 
+         • Closely working with Clients on new projects planning and implementations based network requirement. Meeting customer regularly and gather requirements and working towards SLA of the Company 
+         • Performing patches for all network devices based on latest and stable patched available 
+         • Network planning, Implementing and expand client network based on new requirements 
+         • Handling security incidents, analyze and take action to meet SLA. 
+         • Implementing Standard & Emergency change requests in timely manner and Handling Network Incidents working towards SLA. 
+         • Perform troubleshooting on network connectivity issues in complex client environments. 
+         • Monitoring 
+         Data Traffic using SOLARWINDS, CACTI and Spectrum. 
+         • Assisting Network audits conducted by external Auditors. 
+         • Perform firewall rules review quarterly and submit to client for an endorsement. 
+         • Perform monthly backups and store in central server.• Maintain, Configuration and troubleshooting of Cisco Switches, Routers, Multi-vendor Firewalls, Load balancer, Aruba clear pass, Alcatel switches 
+         • Configure and troubleshooting of STP, RSTP, VRRP, HSRP, VLAN, PVLAN, VTP, VSS, QoS, Multicasting using IGMP 
+         • Configure and troubleshooting of routing protocols (Static, RIP, EIGRP, OSPF & BGP) 
+         • Perform Changes, troubleshooting issues and analyzing traffic on Checkpoint, Sidewinder, Palo Alto, ASA & SonicWALL firewalls 
+         • Set up and troubleshooting Load Balancing issues related to Server Farm network with different Load balancers (
+         BIG-IP, Cisco Content Switching Module (CSM) and Server Iron(Napoleon)) 
+         • 802.1x implementation for wired and wireless using Aruba clearpass manager (CPPM) 
+         • Configure and troubleshooting IPSec VPN tunnels. 
+         • Perform maintenance including Updating rules/Access Lists for CISCO FWSM and Juniper Netscreen Firewall ISG 2000 based on the user requirement. 
+         • Implement Wireless network in complex client environment and troubleshooting issues related to Wi-Fi 
+         • Closely working with Clients on new projects planning and implementations based network requirement. Meeting customer regularly and gather requirements and working towards SLA of the Company 
+         • Performing patches for all network devices based on latest and stable patched available 
+         • Network planning, Implementing and expand client network based on new requirements 
+         • Handling security incidents, analyze and take action to meet SLA. 
+         • Implementing Standard & Emergency change requests in timely manner and Handling Network Incidents working towards SLA. 
+         • Perform troubleshooting on network connectivity issues in complex client environments. 
+         • Monitoring 
+         Data Traffic using SOLARWINDS, CACTI and Spectrum. 
+         • Assisting Network audits conducted by external Auditors. 
+         • Perform firewall rules review quarterly and submit to client for an endorsement. 
+         • Perform monthly backups and store in central server.

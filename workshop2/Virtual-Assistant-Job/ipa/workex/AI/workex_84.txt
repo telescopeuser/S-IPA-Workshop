@@ -1,0 +1,19 @@
+Highlights: 
+         • Successfully delivered Avaloq Banking Suite environment for a major European Bank (Deutsche Bank) as PaaS model. 
+         • Delivered the pilot project of infrastructure services delivery for Avaloq in coordination with the remote Avaloq development and engineering teams in Zurich. 
+         • Successfully managed 
+         data migration using Oracle 
+         Data Integrator (ODI). 
+         • Implemented QRadar across the entire Stack of Avaloq and participated in penetration tests. 
+         • Revamped the current database infrastructure and performed hardware refresh for Land Transport Authority (LTA). 
+          
+         Responsibilities: 
+         • Infrastructure Service Delivery Manager for deployment of Avaloq Banking Suite for a major European Bank as Platform as a Service (PaaS) and support. 
+         • Set up new 
+         data centers for Primary and DR, designed the server/components and ensured service delivery as per the specifications worked out with application provider and in compliance with the security standards of the bank. 
+         • Configured Disaster Recovery solutions and demonstrated DR within the agreed SLA, ensuring client satisfaction. 
+         • Coordinated and worked with various security and penetration test parties engaged by application provider and end customer while ensuring compliance with the security requirements. 
+         • Oversaw end-to-end service delivery process, fulfilled customer requests and managed queries and communications in a consistent and timely manner 
+         • Consistently promoted the customer service ethic to maintain a high degree of customer service for all support queries while adhering to all service management principles. 
+         • Service Delivery of Infrastructure Support for Oracle, DB2, SQL Server and LDAP databases for Land Transport Authority (LTA) of Singapore Government through a high-performing team of DBAs. 
+         • Managed new projects, service improvement initiatives and streamlining of process flow by partnering with LTA.

@@ -1,0 +1,24 @@
+Environment: PeopleSoft HCM 9.1, People Tools 8.53, Oracle 11g 
+         Duration: June 2015 to Dec 2016 
+          
+         Project Description: Children's Hospital Los Angeles, is a non-profit hospital that cares for more than 107, 000 infants, children and young adults each year, with physician expertise in over 100 pediatric specialties and subspecialties. 
+         They are currently using PeopleSoft HCM 9.0/ Portal 9.0 and using ESS, MSS, WFA, BenAdmin, T&L, AM and NA Payroll modules. 
+          
+         Roles and Responsibilities: 
+         ❑ I have involved preparing weekly status sheet for reported to Manager to get overall status list of Incidents & SRs provided to business. 
+         ❑ Handled tickets in Time Admin Failure, Retro Payroll, Exceptions Handling, Ben Admin process analysis and Leave Accrual process. 
+         ❑ Developed SQR reports that displayed Leave Accrual information by leave plan and employee. It included information such as plan year eligibility hours, carryover hours earned year-to-date, hours taken year-to-date and remaining leave balances 
+         ❑ Daily monitoring for reports/processes status and make them to Success mode if any failure status, especially take care of five different paygoups of TL_TIMEADMIN processes. 
+         ❑ Handled HIGH Volume of HIGH Severity Tickets and based on the SLA breach. 
+         ❑ Sign-off of HCM Bundles 3 to 6 in SIT and UAT testing phases and closed all the major issues. 
+         ❑ Led the HCM 9.0 Bundle 26 and Tax Updates 15-A, B, C, D, E, 
+         ❑ Recently applied 8 bundles in single shot and successfully launched in prod instance. 
+         ❑ Handled critical issues by technically/functionally and resolved by 16/5 support. 
+         ❑ Daily monitoring the process which is running successfully or not in prod instance and immediately do fix whenever issue occurs based on the priority. 
+         ❑ Worked as a Techno-Functional Consultant and involved in understanding the functionality and requirements and prepared FDD and TDD and Unit Test cases based on the client's requirements 
+         ❑ Developed custom Pagelets using Page let Wizard, Application Designer & People Code and Provided Security for the configured Pagelets using Maintain Security. 
+         ❑ Manage/Handle the issues within the agreed SLA time. 
+         ❑ UAT Support 
+         ❑ Go-live support 
+          
+         PROJECT EXPERIENCE #10

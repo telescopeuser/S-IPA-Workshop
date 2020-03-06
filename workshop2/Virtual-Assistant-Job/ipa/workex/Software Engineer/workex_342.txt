@@ -1,0 +1,8 @@
+Worked on the Detailed Design of RC & Steel structures with rigorous design optimization approach to achieve the Strong, stable and most economical structures. Performed structural Analysis by software, designed them by hand calculations &/or using in-house developed Excel Spread Sheets.  
+          
+         Projects: 
+         1. Domestic Airport of Udaipur – Airport Authority of India Design and detailing of Technical Block Building and other structures.  
+         2. Delhi Metro Rail - Yamuna depot – Design and detailing of Workshop and Stabling shade. 
+         3. Delhi Metro Rail Corporation – Najafgharh Depot & Workshop Design and detailing. 
+         4. D. T. C. Bus Depot Delhi – Design and detailing of Admin building, Workshop and Bus Stabling shade. 
+         5. Multi-storeyed residential apartment named as J.P. Greens at Greater Noida.

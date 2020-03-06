@@ -1,0 +1,13 @@
+Responsible for Head/Media qualification and defining the best fit for Hard 
+         disk drives manufacturing at Production with high yield & output. 
+         * To ensure high yield at production through failure analysis of failure drives 
+         in identifying parts mismatched inside the components of the Hard disk 
+         drives. 
+         * Lead a team of technical support Engineering Assistant/technicians in meeting the demand and high volume at Production. 
+         * Responsible for new product transfer to Penang Plant through implementation of processes and setting up in the Cleanroom. 
+         * Initiate Cost Reduction Program through continuous improvement plan to increase efficiency/productivity and effectiveness. 
+         * Implement Yield Improvement and Recycle program on tear down components in reducing the company's overall scrap cost. 
+         Examples: 
+         a. Design a Disk Protector to prevent damage to the disk surface. 
+         b. Develop Electrical detection circuitry as a detecting tool when headstacks come in contact with the disk surfaces. 
+         c. Failure analysis on the HDD level to determine the root cause of the failure as a continuous yield improvement.

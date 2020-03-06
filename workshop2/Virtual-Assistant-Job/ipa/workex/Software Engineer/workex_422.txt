@@ -1,0 +1,5 @@
+Global CIO of Chaumet, reporting to Global CFO. Created the SAP Competency Center for jewelry Brands of LVMH Watches & Jewelry Division, servicing Chaumet, FRED and DeBeers 
+         brands of LVMH. Moved forward the Application foundations of Chaumet, based on SAP and a Jewelry retail system. Developed a retail web application integrated to SAP, Helped the digital team on the implementation of the new website for hosting, caching and optimization. Led the implementation of the Hong Kong logistic platform Information 
+         System (extension of SAP and Retail systems), and also deployed our Information System in Korea. Transformed IT processes and implemented ITIL standards, implemented 
+         Blackberry infrastructure, IT rooms in France & Switzerland, NAS replication for DRP, 
+         Monitoring for network and servers.

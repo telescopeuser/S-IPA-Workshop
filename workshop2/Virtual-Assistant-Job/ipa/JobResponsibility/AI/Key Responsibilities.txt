@@ -1,0 +1,6 @@
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Design, build, test, validate, and deploy statistical and machine learning models to answer business needs and increase operational efficiency.
+Develop custom data models and algorithms to apply to data sets.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Actively engage in the creation of new disruptive and transformational products and services through an understanding of the end user’s requirements and operating environment.
+Participate in the building and enhancement of a robust pipeline to support the automation of various development associated tasks to achieve continuous integration and delivery.

@@ -1,0 +1,42 @@
+Project Title MUFG (Bank of Tokyo) - OVS MIS - Regulatory Reports Migration and Automation 
+         Description Automations and standardization of Regulatory reporting process for all regional bank offices worldwide. Project is 
+         part of bank wide program for legacy core system migration to a new system, with my project focusing on implementation of new regulatory report applications, as currently the regulatory reports are generated manually by business operations. 
+         Environment Cognos Analytics (Cognos 11.X), OBIEE, REGLA, OneSumX 
+         Role 
+         Data Analytics/BI Lead 
+         summary • Scrum Master 
+         • Business Analyst 
+         • 
+         Data Analyst 
+         • Technical guidance 
+         • Technical review 
+         Contribution As a BA 
+         ✓ Closely working with business user (various depts.) to understand the report requirement (Content, Format, etc.) 
+         based on the instructions of the regulatory bank of the country. 
+         ✓ Document the complete process flow to describe program development, logic, testing, implementation, application 
+         integration and coding. 
+         ✓ Understanding Reporting requirement, Analyzing As-Is mapping and perform the required To-be mapping for the required report and defining the source to target 
+         data mappings, business rules and 
+         data definitions as per 
+         regulator's requirement. 
+         ✓ Responsible for defining the functional requirement documents for each source to target interface along with key 
+         identifiers for each mapping/interface. 
+         ✓ Worked with internal technical counterparts of current and target state 
+         data architectures and improvement plans for performances. 
+         ✓ Development of Test Strategies and providing assistance to end user in UAT phase to resolve 
+         data 
+         related(extraction) queries. 
+         ✓ Preparation of Business Requirement Document (BRD) and user Signoff on BRD. Preparation of Functional 
+         Specification Document (FSD) Basis Reporting Tool. 
+         ✓ Provide Weekly status Update to higher management. 
+         As a 
+         Data Analyst/Cognos Report Author 
+         ✓ Understanding OBIEE (As Is) report logic and create a BRD and Mapping to develop same in Cognos. 
+         ✓ Understanding Business Requirement and converting the same into Technical Specifications. 
+         ✓ Interacting with report users to understand end to end analysis they perform after extracting results from OBIEE and document same in technical specification document. 
+         ✓ Prepare case studies and business cases to determine inefficiencies and areas of improvement. 
+         ✓ Developed reports with As Is or user's design format using cascading prompts and calculations in Cognos. 
+         ✓ Supervise a midsize team while making independent decisions. Strong problem solving and negotiation skills. 
+         ✓ Following/Sharing the issues/clarification list to avoid UAT defects. 
+         ✓ Technical Support to the application support team and Assisting Sr. 
+         Data Warehouse Consultants, in DWH modeling

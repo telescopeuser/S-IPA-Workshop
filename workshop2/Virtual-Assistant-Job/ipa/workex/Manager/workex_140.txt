@@ -1,0 +1,111 @@
+Responsibilities 
+         • Project related 
+         IT network support work in the implementation of Technology 
+         • Maintenance and enhancement of current network infrastructure 
+         • Network infrastructure monitoring, capacity planning and reporting 
+         • Network routers and switches administration and control 
+         • Network equipment and firewall configuration backup 
+         • Overseeing region MPLS networks and local domestic WAN, with traffic acceleration and compression technologies and products such as Riverbed Steelhead. 
+         • Review and update Network devices Maintenance Contract 
+         • Installation, implementation and maintenance of network connectivity and cabling structure 
+         • Manage the 
+         IT procurement process and ensure compliance to corporate policies 
+         • Assist in hardware & software inventory tracking 
+         • Firewalls administration and control for ensuring all Network security (i.e. Cisco FWSM, CheckPoint, Palo Alto & Monowall firewall) 
+         • Support Annual DR exercises for Singapore, Malaysia & Hong Kong offices. 
+         • Involve in internal and external 
+         IT audit and remediation exercise. 
+         • Monitor individual performance of network engineers, including providing feedback, coaching and/or training where necessary. 
+         • Ensure maximum productivity from the 
+         IT Network Support team in order to achieve operational requirements and internal service delivery. 
+         • Reviews 
+         IT services, contracts and external vendors. 
+         • Ensure compliance to Asia and Group Network standards 
+         • Assuring that the technical design of delivered solutions match the requirements in terms of efficiency, reliability, availability, security, scalability and be cost effective. 
+         • Communicate with entities stakeholders on their requirement and proposed solution based on their needs. 
+         • Team lead for 
+         IT Infrastructure support teams supporting 
+         IT projects. 
+         • Lead and manage a team of 2 engineers to provide level 1, 2 supports to local and overseas offices in MY, ID, HK, CN, KR. 
+         • Manage 
+         IT outsourced projects to ensure contractual obligations are delivered by service providers 
+         • Provide 2nd level Network and Technical assistance for 
+         IT Helpdesk Services. 
+          
+         Key Outputs 
+         • Network monitoring, capacity review, performance 
+         • Formulate operational procedures 
+         • Reliable and quality Network operations and 
+         IT Infrastructure Services 
+         • Systems error rates & service level 
+         • Efficient systems Upgrade, Implementation & Maintenance 
+         • Sound technical and operational competency 
+         • Technical Support, Trouble-Shooting and problem resolution 
+          
+         Achievements 
+         • Played a key role in Data Center Migration, provide management advice and managed external vendors and offshore support team for Singapore and all Asia Pacific offices. 
+         • Project Lead for the successful Technology Refresh Project for all major critical application systems i.e. AS400, AIX & Lotus Notes servers to IBM p570 and blade servers. 
+         • Project Lead for the successful Network Revamp project for the network infrastructure through new network design. This includes the deployment of new Cisco core & edge switches, FWSMs and Palo Alto perimeter firewall 
+         • Network Technical design for Office Shifting Project which includes network switches physical topology & new VLAN segments design and implementation. 
+         • Network migration and cut-over for Hong Kong office to our Group UK, GCE network link connection. 
+         • Network migration and cut-over for Dubai, Indonesia, Vietnam, Korea & Malaysia offices to SingTel ConnectPlus IPVPN network cloud. 
+         • Network infrastructure design and IP address scheme for Indonesia & Vietnam offices 
+         • Asia Pacific Mesh Topology preparation and implementation for Singapore, Hong Kong, India & China offices 
+         • Network migration and cut-over for all 3 Singapore local offices to StarHub SWE network cloud. 
+         • Riverbed steelhead network traffic optimizer deployment and implementation between local offices and Hong Kong office 
+         • Bandwidth upgrades of WAN link between Singapore & Taiwan offices and DMZ incoming internet link.Responsibilities 
+         • Project related 
+         IT network support work in the implementation of Technology 
+         • Maintenance and enhancement of current network infrastructure 
+         • Network infrastructure monitoring, capacity planning and reporting 
+         • Network routers and switches administration and control 
+         • Network equipment and firewall configuration backup 
+         • Overseeing region MPLS networks and local domestic WAN, with traffic acceleration and compression technologies and products such as Riverbed Steelhead. 
+         • Review and update Network devices Maintenance Contract 
+         • Installation, implementation and maintenance of network connectivity and cabling structure 
+         • Manage the 
+         IT procurement process and ensure compliance to corporate policies 
+         • Assist in hardware & software inventory tracking 
+         • Firewalls administration and control for ensuring all Network security (i.e. Cisco FWSM, CheckPoint, Palo Alto & Monowall firewall) 
+         • Support Annual DR exercises for Singapore, Malaysia & Hong Kong offices. 
+         • Involve in internal and external 
+         IT audit and remediation exercise. 
+         • Monitor individual performance of network engineers, including providing feedback, coaching and/or training where necessary. 
+         • Ensure maximum productivity from the 
+         IT Network Support team in order to achieve operational requirements and internal service delivery. 
+         • Reviews 
+         IT services, contracts and external vendors. 
+         • Ensure compliance to Asia and Group Network standards 
+         • Assuring that the technical design of delivered solutions match the requirements in terms of efficiency, reliability, availability, security, scalability and be cost effective. 
+         • Communicate with entities stakeholders on their requirement and proposed solution based on their needs. 
+         • Team lead for 
+         IT Infrastructure support teams supporting 
+         IT projects. 
+         • Lead and manage a team of 2 engineers to provide level 1, 2 supports to local and overseas offices in MY, ID, HK, CN, KR. 
+         • Manage 
+         IT outsourced projects to ensure contractual obligations are delivered by service providers 
+         • Provide 2nd level Network and Technical assistance for 
+         IT Helpdesk Services. 
+          
+         Key Outputs 
+         • Network monitoring, capacity review, performance 
+         • Formulate operational procedures 
+         • Reliable and quality Network operations and 
+         IT Infrastructure Services 
+         • Systems error rates & service level 
+         • Efficient systems Upgrade, Implementation & Maintenance 
+         • Sound technical and operational competency 
+         • Technical Support, Trouble-Shooting and problem resolution 
+          
+         Achievements 
+         • Played a key role in Data Center Migration, provide management advice and managed external vendors and offshore support team for Singapore and all Asia Pacific offices. 
+         • Project Lead for the successful Technology Refresh Project for all major critical application systems i.e. AS400, AIX & Lotus Notes servers to IBM p570 and blade servers. 
+         • Project Lead for the successful Network Revamp project for the network infrastructure through new network design. This includes the deployment of new Cisco core & edge switches, FWSMs and Palo Alto perimeter firewall 
+         • Network Technical design for Office Shifting Project which includes network switches physical topology & new VLAN segments design and implementation. 
+         • Network migration and cut-over for Hong Kong office to our Group UK, GCE network link connection. 
+         • Network migration and cut-over for Dubai, Indonesia, Vietnam, Korea & Malaysia offices to SingTel ConnectPlus IPVPN network cloud. 
+         • Network infrastructure design and IP address scheme for Indonesia & Vietnam offices 
+         • Asia Pacific Mesh Topology preparation and implementation for Singapore, Hong Kong, India & China offices 
+         • Network migration and cut-over for all 3 Singapore local offices to StarHub SWE network cloud. 
+         • Riverbed steelhead network traffic optimizer deployment and implementation between local offices and Hong Kong office 
+         • Bandwidth upgrades of WAN link between Singapore & Taiwan offices and DMZ incoming internet link.

@@ -1,0 +1,5 @@
+Job Responsibilities 
+         - Present, recommend and design Network Security solution 
+         - Support Sun Solaris 
+         - Implement and troubleshoot security products  
+         - Conduct Technical training to customer

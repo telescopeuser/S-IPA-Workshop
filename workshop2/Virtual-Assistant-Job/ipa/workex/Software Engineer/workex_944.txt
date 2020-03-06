@@ -1,0 +1,45 @@
+Project Summary: Migration of website from Joomla to Drupal platform. (Role: QA Test 
+         Engineer) 
+         Management decided to migrate their website from Joomla platform to Drupal to avoid much impact to clients a like to like environment was setup in Drupal and 
+         Big bang approach was utilized to migrate the portals from Joomla to Drupal. Co-ordinate with vendor development team and implemented and executed quality assurance and quality control methodologies. 
+          
+         - Testing desktop of the web application in QA and production environments. 
+         - Develop flow-based test cases under test plan. 
+         - Identify functional modules structure and logic for the testing the system internals. 
+         - Develop and execute test cases and test suites for various functionalities. 
+         - Performed cross browser testing across chrome, IE, Firefox, safari etc. 
+         - Performed functional, regression and UAT on new website. 
+         - Oversee implementation of new website including QA testing, risk mitigation, defect resolution, quality assurance, error handling, and 
+         data architecture. 
+          
+         Project Summary: Launch of New Mobile App in IOS and Android. (Role: QA Test 
+         Engineer) 
+         Management decided to launch a new mobile Application. This will assist the organization to improve the client communication and send mass communication to their clients via mobile app. 
+          
+         - Write SQA test documentation such as test plans, test cases, test matrices, check lists. 
+         - Test Mobile app's behavior under various interruptions: battery strength (full/medium/low), incoming calls, SMS, video calls. 
+         - Perform QA Smoke, Acceptance, Regression, Function, UI, Usability and Compatibility Testing 
+         - Run Compatibility Testing (Android/ iOS platforms, cross browsers, cross mobile devices - phones, tablets, iPads etc) 
+         - Actively participate in regular team meetings to discuss SQA testing process and suggest improvements to the application design and features.Project Summary: Migration of website from Joomla to Drupal platform. (Role: QA Test 
+         Engineer) 
+         Management decided to migrate their website from Joomla platform to Drupal to avoid much impact to clients a like to like environment was setup in Drupal and 
+         Big bang approach was utilized to migrate the portals from Joomla to Drupal. Co-ordinate with vendor development team and implemented and executed quality assurance and quality control methodologies. 
+          
+         - Testing desktop of the web application in QA and production environments. 
+         - Develop flow-based test cases under test plan. 
+         - Identify functional modules structure and logic for the testing the system internals. 
+         - Develop and execute test cases and test suites for various functionalities. 
+         - Performed cross browser testing across chrome, IE, Firefox, safari etc. 
+         - Performed functional, regression and UAT on new website. 
+         - Oversee implementation of new website including QA testing, risk mitigation, defect resolution, quality assurance, error handling, and 
+         data architecture. 
+          
+         Project Summary: Launch of New Mobile App in IOS and Android. (Role: QA Test 
+         Engineer) 
+         Management decided to launch a new mobile Application. This will assist the organization to improve the client communication and send mass communication to their clients via mobile app. 
+          
+         - Write SQA test documentation such as test plans, test cases, test matrices, check lists. 
+         - Test Mobile app's behavior under various interruptions: battery strength (full/medium/low), incoming calls, SMS, video calls. 
+         - Perform QA Smoke, Acceptance, Regression, Function, UI, Usability and Compatibility Testing 
+         - Run Compatibility Testing (Android/ iOS platforms, cross browsers, cross mobile devices - phones, tablets, iPads etc) 
+         - Actively participate in regular team meetings to discuss SQA testing process and suggest improvements to the application design and features.

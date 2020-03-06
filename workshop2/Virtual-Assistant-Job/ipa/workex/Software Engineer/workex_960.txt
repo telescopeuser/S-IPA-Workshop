@@ -1,0 +1,16 @@
+Singapore Aug 2018- 
+         Lead the research team and 
+         data team at video intelligence group. Define the application features, investigate the state-of-the-art technologies, propose and implement new algorithms. 
+         Focus on the intelligent video surveillance/analytics of Smart Nation based on deep learning, such as human detection/recognition, human attribute recognition, even detection, car detection, car license plate recognition. 
+         1. Camera-based Automatic Number Plate Recognition (ANPR) algorithm for Smart Nation Step 2018 - 
+         Goal: to develop fast and high accuracy ANPR algorithm based on camera. 
+         Role: propose/implement algorithms to detect vehicle/plate and recognize the vehicle attribute and plate char/number from video/images. Challenges: camera view angle, background, lighting environment, motion blur, video compression, cumulative error (multiple steps processing error, any wrong char will make the whole plate wrong). 
+         Results: An end-to-end deep learning algorithm is proposed. It can global optimize the performance and reduce the separated steps and cumulative error. It does not need to segment each char, can reduce char segmentation error and recognition error and reduce labelling time. Based on the advance framework, it has better accuracy than the state-of-the-art algorithm and the existing productions. The algorithm can run very fast even with high resolution image. 
+         2. Human/face detection/recognition for surveillance cameras Aug 2018 - 
+         Goal: to support human-centered camera surveillance applications, develop robust and high performance human/face detection/recognition system for Smart Nation. 
+         Role: investigate the actual challenges of human/face detection/recognition for surveillance cameras. Propose/implement algorithms to address the challenges, e.g., multiple faces in single frame, difference face sizes single frame, various poses, occlusion, expression, illumination. Need to balance the speed and accuracy. 
+         Results: A proposed framework combined with optimized face detection and recognition is developed. The training of face recognition includes the non-ideal factor of face detection. Based on the fast and high accuracy face detection, the system can be easy to support other face/human applications, e.g., face attributes. 
+         3. General detection framework Apr 2018 - 
+         Goal: to develop an in house general detection framework. Object detection is the fundamental processing of surveillance camera system, e.g., human, face, vehicle, dog. An easy detection framework/tool is very import to support quick development for various applications. 
+         Role: brake down the detection framework to small modules and standardize the function interface. 
+         Results: A first version is developed.

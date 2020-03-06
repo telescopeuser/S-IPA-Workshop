@@ -1,0 +1,19 @@
+May 2015 to Aug 2017) 
+         Technologies Used: 
+         BIG 
+         Data Hadoop on Cloudera Ecosystem, Hive, Sqoop, Spark with Python/Scala, Hbase, 
+         ETL Oracle 10g (PL/SQL) , and UNIX Shell Scripting, Tableau, Business Objects. 
+         Responsibilities: 
+         As Hadoop developer with below functionalities. 
+         ⇨ Involved in import and export of 
+         data from/to Oracle to/from HDFS using Sqoop. Created Sqoop jobs to populate 
+         data present in relational databases to hive tables. 
+         ⇨ Involved in creating Hive external tables, loading 
+         data, and writing Hive queries using HiveQL with various file formats like Text, Avro, Parquet, Sequence, JSON etc. 
+         ⇨ Used Hive to form an abstraction on top of structured 
+         data resides in HDFS and Involved in performance tuning of Hive Queries by implementing Dynamic Partitions, buckets in Hive to improve the performance. 
+         ⇨ Created RDDs using SPARK with Scala/Python and used various transformation and action and performed in-memory computation capabilities. 
+         ⇨ Designed, developed 
+         data integration programs in a Hadoop environment with NoSQL 
+         data store Hbase for 
+         data access and analysis.

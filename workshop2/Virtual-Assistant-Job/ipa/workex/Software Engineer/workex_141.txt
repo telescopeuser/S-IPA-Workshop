@@ -1,0 +1,3 @@
+• Installation, Creation & configuration of databases on Oracle (11g and 10g Cluser), MS SQL server (2005/2000), MYSQL and PostgreSQL 
+         • Formulated Backup strategies and performed numerous Recovery operations. Performed backup and recovery using Recovery manager (RMAN) for taking backup cold & hot backups of the database. 
+         • Maintained database security, auditing, profiles and resources.

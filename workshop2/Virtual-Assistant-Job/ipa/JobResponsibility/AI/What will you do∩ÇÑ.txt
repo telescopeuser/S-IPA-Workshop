@@ -1,0 +1,6 @@
+Implement new statistical or other mathematical methodologies and devise possible solutions from data analytics as needed for specific projects.
+Collaborate with third parties to research and develop statistical learning models for data analysis.
+To deploy an in-house data platform and operationalize analytic models on it.
+To take ownership and lead development role on the current end-to-end technology stack (back-end) and scale to enterprise level.
+Communicate results and ideas to key decision makers (CTO and business sector).
+To guide and collaborate with data engineer and oversee the project progress.

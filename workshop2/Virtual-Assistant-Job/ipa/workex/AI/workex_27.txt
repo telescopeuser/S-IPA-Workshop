@@ -1,0 +1,5 @@
+Financial 
+         Data Analyst Intern 
+         • Analyzed trends of monthly key performance indicators for Audit; Developed new dashboards using SQL Server and Power BI 
+         • Enhanced existing models (auto encoders in pytorch) for classification of Risk Based Assessment (RBA) using Audit 
+         data

@@ -1,0 +1,6 @@
+Apply your expertise in data science, quantitative analysis, data mining and the presentation of data to derive insights that value-add to business decision making (e.g. hypothesis testing, development of MVPs etc).
+Lead enterprise data analytics and major data projects.
+Develop predictive models for passenger and cargo traffic forecasts.
+Drive the development of customer segmentation models.
+Partner with users in various internal teams to solve problems and identify trends / opportunities.
+Develop metrics and dashboards to support decision-making.

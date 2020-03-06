@@ -1,0 +1,8 @@
+Responsible for design, development and implementation of various business functionalities.
+Design, develop and maintain mission-critical systems, delivering high-availability and performance.
+Work on development of new products iteratively by building quick POCs and converting ideas into real products.
+Develop high quality code using all proactive code validation techniques and mentor junior developers to ensure the deliveries on time, within budget.
+Have a passion for delivering zero defect high quality code, with proactive mindset
+Own end to end delivery responsibility for modules, participate in Continuous Integration activities, automation frameworks for testing and deployments, and other related items in addition to contributing to core product code.
+Interact with both business and technical stakeholders to deliver high quality products and services that meet business requirements and expectations.
+Present technical solutions, capabilities, and features in business and technology terms. Effectively communicate status, issues, and risks in a precise and timely manner.

@@ -1,0 +1,19 @@
+Duration: June 6, 2011 - July 17, 2013 
+         Accomplishments: 
+         • Worked closely with the R&D Director for the new requirements and change requests 
+         • Transformed teams and senior management to adapt to an agile mindset 
+         • Ensured that scrum team members understood the value of each scrum events (Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective) and are happening 
+         • Provided Development team's effort estimates directly to R&D Director 
+         • Coordinated and collaborated with project manager, system architects and developers in Philippines and in France 
+         • Communicated with project manager, product manager, global technical supports and developers to deliver expected output on time and issues encountered during the test implementations 
+         • Participated in weekly project meetings and quality meetings 
+         • Ensured adherence to Quality processes, manage time to meet predefined schedules, define testing strategies and adhere to project and organizational processes and procedures 
+         • Handled and facilitated planning, design and execution of testing activities 
+         • Conducted interviews and made recommendations 
+          
+         PROJECTS: 
+         Role: Senior Test 
+         Engineer/Test Lead 
+         Team size: 16 
+         Projects: AuthentIC WebPack, OT Certificate Synchronizer, Public Key Infrastructure (PKI) 
+         Project Description: It is a suite of software/middleware used to interface with various Oberthur smartcards and devices. Recent projects handled also involved creation of system software for management of certificates for use with MRTD (Machine Readable Travel Documents) PKI systems.

@@ -1,0 +1,9 @@
+Covered topics such as exploratory 
+         data analysis, statistical modelling, machine learning, natural language processing and neural networks. 
+          
+         Intensive hands-on approach that produced 4 projects using various models such as linear and logistic regression, random forests, XGBoost, K- nearest neighbours, neural networks with tools such as NumPy, SQL, Pandas, Scikit-Learn, and Tensorflow. 
+          
+         Capstone Project: 
+         - Music Genre Detection & Sample Recommendation Project 
+               
+         Deployed a convolution neural network on AWS for musicians to use a website for a song genre prediction. Utilising signal processing, the model predicts a song’s genre, and a recommender system will proceed to provide audio samples that are ready to be used in any digital audio workstation for production.

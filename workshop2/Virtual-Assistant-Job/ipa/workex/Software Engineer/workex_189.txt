@@ -1,0 +1,10 @@
+Main duties 
+          
+         (a) On Interface to PABX 
+          
+         - Develop and maintain the Calls Accounting System that is marketed with the ROLM PABX; 
+         - Develop and implement interface links between computer systems and PABX. Experienced in PC interface to the Property Management System (PMS) of ROLM PABX and NEC ASTRA 350 interface to NEC PABX (for a hotel in Malaysia). 
+          
+          (b) On In House Applications Systems 
+          
+         - Develop and maintain the in-house Inventory Management System, Telephone Configurations System and Faults Controls System.

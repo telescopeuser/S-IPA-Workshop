@@ -1,0 +1,45 @@
+Responsibilities: 
+         • Led a million-dollar project to implemented PeopleSoft payroll and absence management module across the globe. 
+         • Handled on-shore and off-shore team of 8 members. 
+         • Interacted with various countries HR to gather the business requirement and translated it to functional 
+         design document. 
+         • Configured the business rules into payroll and absence modules. 
+         • facilitated the stakeholders to conduct the UAT. 
+         • In-charge of preparing project scope, resource schedule, user material and road map. 
+         • Suggested and implemented the industry best practice to incorporate the business policy into the system. 
+         • Periodically updating the project status to c-level management. 
+         • Designed and Built the ETL pipeline using various transformation in Informatica to load 
+         data from 
+         PeopleSoft system to DataMart. 
+         • Designed and Built the various dimension and fact tables in DataMart. 
+          
+         Project Name: 
+         Data Migration 
+         Client Name: Noble Resources, Singapore 
+         Team Size: 2 
+          
+         Acted as ETL developer to migrate the recruitment candidate information from PeopleSoft system to 
+         Taleo system, which demands to use the Informatica as a ETL tool to transform the 
+         data securely and loaded into Taleo system. 
+          
+         Project Name: Implementing Absence Management 
+         Client Name: Noble Resources, Singapore 
+         Team Size:8 (onshore and offshore) 
+         Gokulanath Lead 
+         Data Analytical 
+         Engineer 
+         Gokulanath 
+         Lead 
+         Data 
+         Engineer 
+         Data Analyst ML 
+         Engineer 
+          
+         Acted as a lead functional consultant to manage onshore and offshore team to implement the absence 
+         management in PeopleSoft for various countries. 
+          
+         Achievement: 
+         • Successfully migrated 
+         data to taleo system ahead of the schedule with no production issue. 
+         • Successfully rolled out the Leave Management ahead of the schedule with no production issue. 
+         • All enhancements are delivered ahead the schedule.

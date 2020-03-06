@@ -1,0 +1,16 @@
+Involve in planning, supporting and managing end user computing services, infrastructure architecture, network, resource planning, infrastructure performance and system hosting environment focusing on Hardware Infrastructure, Operating Systems, Virtualization, Software Distribution System, Storage, data replicatoin and Backup in support of existing and new application systems.
+Provide technical consultation to team leaders. Work with them and outsourced service providers to plan, manage and deliver projects to upkeep, strengthen or create new infrastructure services to enhance service satisfaction and delivery.
+Execute projects to achieve standardisation of infrastructure services across SATS to reduce operations overheads.
+Monitor and maintain system/network services and work with outsourced service providers to attend to issues, problems and request for changes.
+Understand systems operations environment and drive Technical Architecture Review and ITIL compliant processes to ensure smooth and sustainable operations.
+Establish and maintain the strategy, policy, guidelines, standards and procedures for end user computing to meet customer and business requirements.
+Ensure that operational procedures and processes are developed, implemented & maintained to support Service Level Agreement requirements.
+Ensure operational compliance with all security policies and procedures by ensuring security measures, monitoring and reporting are in place and adhered to for end user technologies and applications.
+Ensure incidents are responded to and resolved in accordance with customer Service Levels Agreements and service requirements.
+Investigate and manage problems with end user computing services, software, systems, and communications technologies.
+Identifying and exploring suitable technologies, strategies and solutions to meet operational and organization needs.Degree in Computer Science, Computer or Electronics Engineering or Information Technology.
+At least 8 years of relevant IT experience in designing, deployment and management of infrastructure solutions and services for enterprise level application systems, network and system infrastructure (Certifications such as ITILv3, MCSE, CCNA, CISSP, or equivalent will be an added advantage).
+Good knowledge of both application and infrastructure security in servers, network, client computing and ICT operations to effectively manage vendors.
+Strong project, vendor and contract management skills.
+Excellent communication (both oral and written) as well as strong project, vendor and contract management skills.
+Pro-active, dynamic, dedicated and responsible self-starter with strong customer orientation and multi-tasking capabilities.

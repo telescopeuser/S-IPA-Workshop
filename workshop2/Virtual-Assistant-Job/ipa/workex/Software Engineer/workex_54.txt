@@ -1,0 +1,6 @@
+Joined an agile team of 6 at Gamesys which maintains highly transactional gaming website 
+         (whitelabel) such as JackpotJoy. Later on I moved to their iOS team where I became a bridge 
+         between their mobile and web team. 
+         ● Developed features for and maintained the whitelabel Tapestry 5 based platform. 
+         ● Gained beginner level experience in iOS development. 
+         ● Developed a micro-service which allowed users to gain access to the platform from different clients (mobile, web, flash).

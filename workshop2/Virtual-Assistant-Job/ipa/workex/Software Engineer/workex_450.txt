@@ -1,0 +1,8 @@
+Project: Tax 
+         Data Mart 
+         • Developing and Automate the source files validation using shell script. 
+         • Developed automate script for error table validation from Hive tables. 
+         • Loaded xml files into a Hive table and parsed the xml file using Hive UDF functions. 
+         • Developed Scala code for connecting Hive environment and running the Hive mapping queries. 
+         • Reading binary files (xlsx) into a Unix environment and Validating and loading into a Hive tables. 
+         • Configuring Control-M jobs for running the daily batch.

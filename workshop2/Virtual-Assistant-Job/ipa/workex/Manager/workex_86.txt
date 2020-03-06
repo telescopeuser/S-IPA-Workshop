@@ -1,0 +1,7 @@
+- Provides daily technical support to end users on database, network, server management and Active Directory/Office 365 for the organization 
+         - Handles all internet connectivity issues to all Treetops apartment guests 
+         - Act as the support/contact person for all the 3rd party applications and systems used in the company to all the vendors 
+         - Handles hardware and software inventory 
+         - FIrst and second line support for server and desktop related issues 
+         - Perfom other 
+         IT or system related tasks assigned by management

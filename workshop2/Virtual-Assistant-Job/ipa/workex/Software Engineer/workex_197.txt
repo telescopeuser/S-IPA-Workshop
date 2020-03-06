@@ -1,0 +1,6 @@
+Team Size: 6 ~ Platform Used: Oracle 10g (PL/SQL)/ Forms and reports 
+         Responsibilities: Development of this project is based on the Clinical Research Technology, developing various reports for the smooth functioning of the product developed by eRT. The intensive support is given to the client present in the USA with the help of development of the reports with connected to the client. 
+          
+         Panchayat Account Monitoring System DRDA , Ganjam, Jul 2004 to Aug 2005 
+         Organization: Dept of Panchayraj, Orissa Govt ~ Team Size: 10 ~ Platform Used: Oracle Forms/D2K Reports 
+         Responsibilities: Implementation and support for the project wise scheme wise and account monitoring system to the District Hqtrs as well as Block Hqtrs. It helps the citizens for observing the current status of the project functioning in the rural areas and that creates the awareness among the citizen which covers objective of the "e-Governance" of the Govt. of Orissa.

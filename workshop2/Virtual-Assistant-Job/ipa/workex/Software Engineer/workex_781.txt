@@ -1,0 +1,14 @@
+Responsibilities include: 
+         • Project Management / Development - DISHA-SCHOOL/INSTITUTE - Web based education software for Indian curriculum. Requirements Gathering, System study, design, development, testing, process improvement, implementation and production support. 
+         ◦ Development Activities - This comprises of the Customization & Development of the base Struts MVC Java Framework, Spring based MVC Java Framework, Coding Development of Modules likes Masters, Students, Curriculum, Virtual Class room etc.. Log4J for logging, using the JUnit for testing the completed Modules. Deployment of the Application in Apache/Tomcat Server in Linux/Windows. Migration of the Codes to the Spring Framework. 
+         ◦ Support Activities - This comprises of documenting and updating the process support documentation in the form of Support and Monitoring Guide. Developed new processes for internal and external users. Utilized knowledge base to transfer technical & business knowledge to team members. 
+         • Project Management / Development - EMPOWER - Web based Voter/Constituency Management software for political parties in India - Requirements Gathering, System study, development, 
+         big 
+         data management, process improvement and production support. 
+         ◦ Development Activities - This comprises of the Customization of the base Struts MVC Java Framework, Coding Development of Modules likes Masters, Constituencies, People, Candidates etc.. Log4J for logging, using the JUnit for testing the completed Modules. Deployment of the Application in Apache/Tomcat Server in Linux/Windows. 
+         ◦ Support Activities - This comprises of documenting and updating the Trouble shooting Guide and Support and Monitoring Guide. Provided constant technical support for applications to ensure optimal durability and reliability - Investigated and resolved technical operational issues of the applications. 
+         Accomplishments: 
+         • EMPOWER - A unique Web Based Voter/Constituency Management, first of its kind in India. 
+         • DISHA - An improvised version of the Education Management, capable of being localized and customized to any types of institute. 
+         Technologies: 
+         • JAVA 6, 7, 8 Oracle 12.x, MSSQL , My-SQL, Struts, MVC Framework , JavaScript, HTML/CSS, JUnit, JQuery, PHP 5.X, 6.X , JSP, Spring Framework, Spring boot, Apache/Tomcat

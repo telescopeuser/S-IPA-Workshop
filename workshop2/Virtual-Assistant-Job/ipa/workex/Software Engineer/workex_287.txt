@@ -1,0 +1,11 @@
+Worked On AI and Hadoop ecosystem platform for the deployment of multiple spark master 
+         jobs on docker containers orchestrated on Mesos Marathon 
+         Was also the part of the team in which have created SMACK architecture pipeline which require to uplift the work load of publisher subscriber model 
+         Well managed Cassandra cluster with multi node repair tool for 
+         Data chunk and optimization 
+         Managed pool of mongo db servers for 
+         Big 
+         data programming, have also written RDD for spark cluster to fetch and render execution sets on master node of kubernetes control 
+         plane. 
+          
+         Personal dossair

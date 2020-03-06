@@ -1,0 +1,8 @@
+Responsibilities include: 
+         • Project Management / Development - DISHA-COLLEGE - Web based education software for Indian curriculum. Requirements Gathering, System study, design, development, testing, process improvement, implementation and production support. 
+         ◦ Development Activities - This comprises of the Customization & Development of the base Spring based MVC Java Framework, Coding Development of Modules likes Masters, Students, Curriculum, Virtual Class room etc.. Log4J for logging, using the JUnit for testing the completed Modules. Deployment of the Application in Apache/Tomcat Server in Linux/Windows. Migration of the Codes to the Spring Framework. 
+         ◦ Support Activities - This comprises of providing application software support for the Web. Analyze system errors and troubleshoot network, server, and database errors. Document system bugs; report to Development team. Increased knowledge and allowed for quicker turnaround on incoming requests by providing process and procedure documentation for users for software applications being supported, which led to better understanding of application and functionality. Ensured reported issues were resolved more quickly by documenting and tracking application issues, using Agile Methodology, which assisted with prioritization of issues. 
+         Accomplishments: 
+         • DISHA - An improvised version of the Education Management, capable of being localized and customized to any types of institute. i.e. Schools, Colleges, Educational Institutes. 
+         Technologies: 
+         • JAVA 6, 7, 8 Oracle 12.x, MSSQL , My-SQL, Struts, MVC Framework , JavaScript, HTML/CSS, JUnit, JQuery, JSP, Spring Framework, Spring boot, Apache/Tomcat

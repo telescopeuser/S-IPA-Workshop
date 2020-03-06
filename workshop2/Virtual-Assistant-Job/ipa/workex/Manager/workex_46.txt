@@ -1,0 +1,19 @@
+Duties Include: 
+         • Configuration and Maintenance Windows Server 2008 
+         • Configuration and Maintenance Cisco 2801 Router, Cisco ASA 5520 Firewall and Cisco Catalyst 2960 Switches 
+         • Planning of Network Infrastructure (NCS, ChengDu and SuZhou) 
+         • Network Supporting and Troubleshooting on Cisco Router, Firewall and Switches from LAN Port to Patch Panel of Server Rack 
+         • Configure newly added Cisco Catalyst 2960 Switches for Company expanding 
+         • Configuration User Laptop to join AD Domain 
+         • Create New Staff User Account in Active Directory User and Computer 
+         • Create Group Folder and Access Right for Different Support Team 
+         • Configure Disk Quota in File Server Resource 
+         Manager 
+         • Check and Assign IP Address from DHCP 
+         • Configuration and Maintenance of Symantec Backup Exec Servers Tape Backup 
+         • Setup Network and Local Printer for user laptop 
+         • Install of Standard Project Applications for User 
+         • Supporting Dev and Prod Citrix Servers 
+         • Supporting Dev and Prod Citrix Servers 
+         • Deploy TrendMirco Officescan from Server to User Laptop 
+         Reason for leaving: Looking better job prospects

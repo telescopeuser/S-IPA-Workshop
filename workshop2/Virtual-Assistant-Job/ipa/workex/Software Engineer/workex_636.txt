@@ -1,0 +1,4 @@
+Responsibilities 
+         • To provide technical support for Compaq and HP operations via phone call /chat and Email. 
+         Technology 
+         OS and Languages WebSphere, Weblogic, IIS, J2EE, MQ, UNIX and Java, Linux, VMWARE

@@ -1,0 +1,32 @@
+Working on MAP (Marketing Automation Platform) - MAP ensure dealer's business 
+         will get noticed, reviewed, and located and that dealers repurchases, referrals and 
+          
+         retention will increase. Creo360 got the chance to develop the marketing application 
+         platform on behalf of Search Optics. 
+          
+         Technology used for application: 
+         • C#(MVC5 - • JQuery • SQL • HTML5/CSS with ASP.NET) 
+         • XMPIE API • 
+          
+         Did deployment for MAP project using windows server 2012 
+          
+         Functions solely worked on: 
+         o Quote Algorithm 
+         o XMPIE Email marketing engine integrate 
+         o Google map supported with 
+         big 
+         data 
+          
+         GOT BEST INTERN AWARD FOR 2014 - 2015. (CREO360) 
+          
+         ACADEMIC BASED PROJECTS 
+         FINAL YEAR PROJECT (IIT) 
+         • A smart eye testing application with voice interaction. Worked on android mobile 
+         application on this project. This project is helping to test user's basic level eye 
+         sight power. 
+         • Technology used - image processing, text to speech, speech recognition. 
+          
+         ROBOTIC COMPETITION (MORATUWA UNI)- 
+         • There are two kind of robots. First is Automatic and second one is manual. 
+         Automatic is a path finding robot with some other extra features like arm will grab the object which is in-front of it and it also can find the objects. 
+         • Manual should work with remote it also has an Arm and Shooting gun.

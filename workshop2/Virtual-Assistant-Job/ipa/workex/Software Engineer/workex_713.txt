@@ -1,0 +1,16 @@
+Provided support for installation of Windows XP SP2 - patching, upgrades and maintenance of Operating Systems on IBM, DELL and HP PCs 
+         • Supported Market 
+         Data applications including Bloomberg, Reuters and Nextview 
+         • Set-up and Configuration of Email Client - Lotus Notes (R5 and R7) and Microsoft Outlook 
+         • Support of Desktop related matters for Disaster Recovery and for Business Continuity Plan 
+         • Handled Service Request for PC purchase/setup and ensures that there are backup PC's for users 
+         • Norton/Symantec Ghost back-up and restore of image of Operating Systems of PCs and Notebooks 
+         • Troubleshooting of Network related problems and configuration of IP addresses 
+         • Ensured McAfee Antivirus updates were conducted on all PCs 
+         • Hardware information such as CPU, RAM, HDD, Network and Bios 
+         • Set-up and configuration of Desktop Software application for Blackberry 
+         • Conducted regular checks, monitoring of logs using SSH Client from Unix/Linux/SQL Servers 
+         • Commands for SSH Client, SQL server, Linux/ Unix Server, Windows 2000 and 2003 Server 
+         • Demonstrated strong Vendor management skills for replacement of Hardware parts and support of various Bank Applications 
+         • Night operator jobs for monitoring UNIX server through SSH Client by executing commands to check on the logs and the status on the server 
+         • Setup and Installed Windows 2003 Server under GL segment for security purposes

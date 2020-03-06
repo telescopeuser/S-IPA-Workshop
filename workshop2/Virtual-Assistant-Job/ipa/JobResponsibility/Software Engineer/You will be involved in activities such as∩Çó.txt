@@ -1,0 +1,5 @@
+Developing high scale cloud-based solutions in FinTech
+Delivering end-user facing payment experiences, client-facing service and operations platforms, and internal-facing tools to scale the business
+Designing and implementing low latency, high availability, and high-performance services
+Developing in a dynamic environment which provides the ability to learn and implement new technologies
+Working both with global teams and local teams to deliver solutions for Rapyd’s global customer base.

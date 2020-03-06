@@ -1,0 +1,10 @@
+- Sun Solaris UNIX Server Administration 
+         - HP-UX Server administration 
+         - AIX-Unix server administration 
+         - Hardening UNIX servers, NT servers, Web servers 
+         - Shell script writing 
+         - VERITAS Netbackup Administration 
+         - VERITAS volume manager/Meta device administration 
+         - Messaging Server administration 
+         - Apache web server administration 
+         Capacity planning, Hardware Upgrade, Security policy creation and implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation for auditing, DR preparation.

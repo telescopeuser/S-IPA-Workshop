@@ -1,0 +1,6 @@
+• Liaise among BA, Architects, and other teams, act as a sole point of contact to deliver multiple projects for the client with full oversight for design, development, deployment, and production. 
+         • Drive the team with a vision of the project objectives. Document detailed analysis of E2E business processes, functional designs, workflows, action items, issues, risks, and ensure information is accurate and complete. 
+         • Provide estimates, prepare analysis & technical design document for the application development. Design Use case diagrams, Class diagrams and Sequence diagrams using UML. 
+         • Familiarize the team with the customer needs, specifications, design targets, the development process, design standards, techniques and tools to support task performance. 
+         • Automate the periodical email batch process to eliminate the manual process of generating and emailing the user reports using shell scripts. Involve in other several Spikes/POCs and MVPs required for the business. 
+         • Manage and mentor a team of 12 and involve in the process of reviewing their performance and development.

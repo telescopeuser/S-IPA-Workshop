@@ -1,0 +1,49 @@
+Malaysia 
+          
+         Started its operations in mid-1999 and it was inaugurated as a Multimedia Super Corridor (MSC) status company in Malaysia. The center's domain of excellence includes software applications and network management solutions in 2G, 2.5G and 3G Wireless Communication Systems, embedded test software applications for portable wireless devices as well as automotive. The Software Centre is a SEI-CMM® Level 5 organization, having achieved the highest level of software maturity as assessed by the Software Engineering Institute (SEI) from the Carnegie Mellon University in the USA. 
+          
+         Role 
+         : Software Development 
+         Engineer (J2SE) 
+          
+         Involved in Configuration Management Suite (CMS) project development, a suite of applications that enables BTS Reparenting (creating, reconfiguring) and parameter auditing / neighbour tuning of a commercial CDMA OMCR MIB. 
+          
+         Responsibility 
+         : Developer(Java) 
+         • Study and understand the functional customer requirement. 
+         • Develop module based on the functional customer requirement by using Eclipse as the development environment. 
+         • Conduct unit/integration testing for the developed module and capture the expected test result. 
+         • Conduct code inspection/review (involved 1 Moderator, 3 Inspectors) for the developed module, this to make sure that the module is meets the customer requirement and the coding is in a standard and optimized way. 
+         • Capture and manage the default/defect by using the Rational ClearQuest for "Defect and Change Tracking". 
+         • Manage the module version by using the Rational ClearCase for "version control". 
+         • Send weekly status report to Project Manager to provide the progress/update for the developed module. 
+          
+         : Feature Leader 
+         • Have meeting and communicate with the customer to determine and confirm the feature requirement. 
+         • Prepare the budget estimation and impact analysis once the requirement finalized. 
+         • Separate/split the feature into modules and assign it to the feature team. 
+         • Monitoring the feature development progress and submit the weekly status report to project manager. This to make sure that the feature is delivered on time.Malaysia 
+          
+         Started its operations in mid-1999 and it was inaugurated as a Multimedia Super Corridor (MSC) status company in Malaysia. The center's domain of excellence includes software applications and network management solutions in 2G, 2.5G and 3G Wireless Communication Systems, embedded test software applications for portable wireless devices as well as automotive. The Software Centre is a SEI-CMM® Level 5 organization, having achieved the highest level of software maturity as assessed by the Software Engineering Institute (SEI) from the Carnegie Mellon University in the USA. 
+          
+         Role 
+         : Software Development 
+         Engineer (J2SE) 
+          
+         Involved in Configuration Management Suite (CMS) project development, a suite of applications that enables BTS Reparenting (creating, reconfiguring) and parameter auditing / neighbour tuning of a commercial CDMA OMCR MIB. 
+          
+         Responsibility 
+         : Developer(Java) 
+         • Study and understand the functional customer requirement. 
+         • Develop module based on the functional customer requirement by using Eclipse as the development environment. 
+         • Conduct unit/integration testing for the developed module and capture the expected test result. 
+         • Conduct code inspection/review (involved 1 Moderator, 3 Inspectors) for the developed module, this to make sure that the module is meets the customer requirement and the coding is in a standard and optimized way. 
+         • Capture and manage the default/defect by using the Rational ClearQuest for "Defect and Change Tracking". 
+         • Manage the module version by using the Rational ClearCase for "version control". 
+         • Send weekly status report to Project Manager to provide the progress/update for the developed module. 
+          
+         : Feature Leader 
+         • Have meeting and communicate with the customer to determine and confirm the feature requirement. 
+         • Prepare the budget estimation and impact analysis once the requirement finalized. 
+         • Separate/split the feature into modules and assign it to the feature team. 
+         • Monitoring the feature development progress and submit the weekly status report to project manager. This to make sure that the feature is delivered on time.

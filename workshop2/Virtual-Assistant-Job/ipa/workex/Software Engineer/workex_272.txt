@@ -1,0 +1,14 @@
+India 
+          
+         New Product Development - DI Framework for Enterprise Healthcare Analytics 
+          
+         • Worked closely with Product Management group to understand business-reporting requirements to create logical and physical 
+         data model, maintain versioning of 
+         data models using VSS. 
+         • Worked on proof of concept and prototyping activities to assess whether the proposed architecture and database components meet the non-functional requirements like reliability, scalability, performance and maintainability. 
+          
+         New Product Development- Operating Room Analytics 
+         • Worked on creating source to target mapping for dimensions and fact tables, created rule based code generator using java API for creation of Informatica mappings, session, workflows based on metadata. 
+         • Customized and developed RPD (Physical, Business model and Presentation Layer), configured metadata objects and Web Catalog Objects, developed many reports/dashboards Analytic views (Pivot Tables, Charts, Cross tabs). 
+         • Created ETL framework for Initial, incremental load, exception handling, meta 
+         data management for EHA product suite.

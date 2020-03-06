@@ -1,0 +1,27 @@
+Risk Management 
+         The Operational Risk Framework (ORF) provides the Group with a foundation for anticipating, surfacing, treating and reporting operational 
+         risks. 
+          
+         Risk Identification, Assessment and Evaluation 
+         → Identified Potential Threats and Vulnerabilities for business purposes, associate data and supporting capabilities to assisted in the evaluation. 
+         → Correlated identified risks to relevant business processes to assist in identifying risk ownership. 
+         → Analysed risks, incidents and inter dependencies to determine their impact on business objectives 
+         → Created and maintained a risk register to ensure that all identified risks are accounted for. 
+         → Assembled risk scenarios to estimate likelihood and impact of significant risk to the organization. 
+         → Validated risk Appetite and tolerance with senior leadership and key stakeholders to ensure alignment. 
+         → Developed a risk awareness program and conducted training to ensure stakeholders understand risk and contributed to the risk 
+         management process and to promote a risk-aware culture. 
+          
+         Control & Indicators Design and Implementation 
+         → Designed controls/indicators in consultation with the process owners to ensure alignment with business needs and objectives. 
+         → Implemented Controls/Indicators to mitigate risk. 
+         → Ensured all controls are assigned control owners to establish accountability 
+         → Provided progress report on implementation of controls 
+         → Collected and validated Control measurement details (KCI and Sample Testing) 
+         → Monitored and communicated Key breaches 
+          
+         Risk Monitoring 
+         → Identified and reported on compliance to initiate corrective action and meet regulatory requirements 
+         → Facilitated independent risk assessments and risk management process review 
+          
+         Professional Profile @ Standard Chartered Bank Malaysia

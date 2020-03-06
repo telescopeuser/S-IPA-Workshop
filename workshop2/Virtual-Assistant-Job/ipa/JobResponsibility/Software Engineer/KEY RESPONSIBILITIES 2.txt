@@ -1,0 +1,4 @@
+You will own the data architecture design sessions as well as the implementation projects
+You will manage the entire big data projects as well as building the analytical pipelines
+You will design the Technical architecture and application customization
+You will be the bridge between the needs of the organization and the data engineers/ scientists/analysts

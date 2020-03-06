@@ -1,0 +1,40 @@
+Malaysia 
+         Project: Report generation in LifeAsian and policy submission 
+         Environment: UiPath 
+         Project Duration: 2 months (Sep 2017 - Oct 2017) 
+          
+         Roles and Responsibilities: 
+         • Requirement Gathering 
+         • Access AS 400 system and generate the report 
+         • Convert Ascii file generated to .xls file 
+         • Enter policy details and create a profile for a new customer based on existing 
+         data 
+         • Created Schedules and Triggers for the Tasks 
+         • Automated Image Reading 
+          
+         • Worked as Software 
+         Engineer in i2s Business solutions Sdn Bhd Malaysia from July 2013 to June 2017. 
+          
+         PROJECT 1: 
+         Client: DTAC, Thailand 
+         Project: CMP (Contextual Marketing Platform) 
+         Role: Streams & Campaign Developer 
+         Team Size: 7 
+         Environment: IBM Streams, IBM Unica Campaign, Interact, Oracle, IBM Power System. 
+         Project Duration: July 2013 - December 2013 
+          
+         Roles and Responsibilities: 
+         • Design, development, and support for the real-time campaign, batch and interact campaign. 
+         • The order handling process in DTAC will be integrating with CMP for choosing the relevant campaign for the subscriber at the time of ordering a DTAC Product. 
+         • Responsible for processing the 
+         data from the set of sources defined as part of the scope and performs aggregation and analytical operation on the 
+         data to trigger events. 
+         • Create, execute and monitor campaigns. 
+         • Publish dashboard on a daily basis which includes a summary of all campaigns launched 
+          
+         PROJECT 2: 
+         Client: Celcom, Malaysia 
+         Project: Next Best Action 
+         Role: NBA Development and Support 
+         Team Size: 15 
+         Environment: IBM Streams 3.2, IBM EMM 8.5, Cognos, DataStage, Netezza, Oracle.

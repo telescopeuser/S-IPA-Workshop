@@ -1,0 +1,15 @@
+Responsibilities: 
+          
+         • Involved in developing Admin Module for users of DBS bank. 
+         • Working in Agile Methodology to develop UI screens and then integrating with REST Web API's. 
+         • Delivering user stories in various sprints and providing status to scrum master on daily stand up calls. 
+         • Involved in deploying developed code onto PCF and then testing over DBS network. 
+         • Also, involved in developing Spring Batch and Spring Boot Microservice for Manulife insurance and Chubb general insurance to integrate with DBS internet banking. 
+          Migrating DBS insurance 
+         data to ADA (
+         Big 
+         Data) using Confluent Kafka. 
+         • End to End testing using Junit, Mockito, karma and Mocha Chai. 
+          
+         Technical Environment 
+         Angularjs 7, ReactJs, SpringBoot, SpringBatch, Pivotal Cloud Foundry, Amazon Web services, REST API, UI design, Junit, Mockito, Karma, Mocha Chai.

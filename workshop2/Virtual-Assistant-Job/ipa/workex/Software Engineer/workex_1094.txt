@@ -1,0 +1,37 @@
+HYDERABAD 
+         Customer Bank of America 
+         Period Aug 2010 - Dec 2013 
+         Description 
+         BOA is one of the huge client for TCS and has multiple verticals for ecommerce line of business. To create web pages for the BOA new online application teamsite content management system and xman tools are used. 
+         CMS operations team acts as admin for the teamsite tool. 
+          
+         Role Support 
+         Environment Unix, Teamsite 
+         Responsibilities 
+         • Handling cms admin activities 
+         • Creating user access 
+         • Creating release branches 
+         • Handling the cms related issues 
+         • Handling the tickets raised by the development teams on cms and XMAN issues. 
+         • Creating CMS assets (DCR's)in Teamsite 
+         • Creating & publishing Modules in XMAN 
+         • Creating & publishing pages in XMAN 
+         • Creating rules for the modules/pages 
+          
+         ETL - Informatica Tool 
+         • Oracle concepts 
+         • Sql queries 
+         • 
+         Data Warehousing concepts 
+         • Powercenter Informatica Tool 
+         • Powercenter Informatica Workflow Manager 
+         • Powercenter Informatica Repository Manager 
+         • Creating Mapping 
+         • Creating Transformations 
+         • Creating Session 
+          
+         Trained graduates/ new joiners on 
+         
+         Data warehousing concepts, 
+         ETL Informatica Powercenter and 
+         Personality development sessions apart from the project assignment in CSC India Pvt Ltd

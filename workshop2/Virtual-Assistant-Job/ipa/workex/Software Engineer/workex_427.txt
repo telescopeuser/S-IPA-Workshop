@@ -1,0 +1,5 @@
+SharePoint and SQL Server 2005, 2008) 
+         Job Scope: 
+         • Responsible for SharePoint (MOSS) and related SQL Server (2000,2005) technical Support of Internet Based Service (IBS) team of Microsoft Global Technical Service Center (GTSC). 
+         • Handled more than a thousand technical cases about various SharePoint and SQL Server technics, including topology and architecture planning; installation; T-SQL script; backup/restore planning; database upgrade and migration; log maintaining; high availability (fail-over); security planning; structure planning and tuning; server and database level configuration; performance monitoring and optimization. Respond to all sorts of global customers, troubleshoot for them and provide solutions for their requirement or issues. 
+         • Completed 10% more work volume (answered cases) than annual business target and get the most complements in my team. Therefore, Won Microsoft Ready to Show prize and Microsoft Champion Team prize according to my prominent contribution and performance.

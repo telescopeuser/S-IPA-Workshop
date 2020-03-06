@@ -1,0 +1,15 @@
+fine-tune weak point to improve PPA 
+         Micro-architecture of L3$ (Prefetch module) to utilize 100% DDR burst size. Previously generation can utilize 50% DDR burst size only. 
+         Micro-architecture of DTU (
+         Data Transfer Unit) to free 100% CPU resource for memcpy()/memset() function. 
+         Micro- architecture of clock gate architecture in SCU (Snooped Controller Unit) module to enable removing 100% dynamic power while read transaction is on-going in bus system. 
+         Micro-architecture of Way Prediction Buffer to reduce L1$ SRAM access in order to saving dynamic power of L1$ 
+         Design custom instructions to improve CPU performance. 
+         Supervisor role of other members to take over legacy 4G designs. 
+          
+         Next 5G(mmWave ++ ) Generation: high performance, lower power. On-going. 
+         MTK technical lead and micro-architecture of next CPU arch of joint project between Wave Computing ( Previously MIPS company) and MTK. 
+         Micro-architecture of expanding up to 16 WAY L2$ design to improve L2$ performance. 
+         Micro-architecture of new L2$ batch operations to support partial power down L2$ TAG + DataRAM. 
+         Micro-arch and DE owner of new address aware joint coherence scheme in Snooped Controller Unit to reduce latency of snooped/intervention transaction due to increasing number of CPU# + introducing DVFS in CPU cluster. 
+         Micro-arch of I$ prefetcher module to improve I$ hit rate hence reduce I$ stall cycle.

@@ -1,0 +1,11 @@
+- Sun Solaris Server Administration. 
+         ● - HP-UX Servers Administration 
+         ● - Infrastructure IT project Leading 
+         ● - Linux servers administration. 
+         ● - Unix Shell program writing, Openssh installation and configuration. 
+         ● - EMC Legato Networker and HP Dataprotector administration(Enterprise Backup) 
+         ● - Storage administration 
+         ● - Perform Disaster recovery drill. 
+         ● - Weblogic Servers administration 
+          
+         Hardware Upgrade, Security policy implementation, Monitoring patch release from vendor and install up to date. Training new staff, attending meetings, documentation of installation and configuration procedures. Preparation and support for internal and external auditing, DR preparation and Implementation.

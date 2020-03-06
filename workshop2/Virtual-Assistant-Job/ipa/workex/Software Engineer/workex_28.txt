@@ -1,0 +1,29 @@
+QlikView/QlikSense 
+         ● Manage and consolidate 
+         data from different tables and sources to be integrated into dashboard interfaces. 
+         ● Creating sheets and sheet objects and dashboards, including 
+         data modeling, functions, 
+         data loading and application structure. 
+         ● Work with QlikView 
+         data structure, and working with the script editor and the debugger. 
+         ● Create analytical visualizations dashboards in Qlik, using SQL and other scripting languages, 
+         data modelling, 
+         data visualization. 
+         ● Develop a real-time project using QlikView 
+          
+         Cognos 
+         ● Ability to independently develop Framework Manager Models and advanced Report Studio and/or Analysts Studio reports is required. 
+         ● Experienced in engaging business users to ensure that appropriate business needs are clearly defined, communicated and delivered at or above expectations 
+         ● Deep knowledge of 
+         data structures, 
+         data base design, 
+         data warehouses, business intelligence/analytic tools (Qlik, Tableau, Cognos), SQL, ETL tool (Informatica) 
+         ● Strong oral and written communication skills with proven ability to communicate and build relationships cross-functionally. 
+         ● Experienced in training and supporting Cognos end users (information consumers and power users) on basic navigation in Cognos Connection, Business Insight Advanced, and report/package usage 
+         ● Familiarity with "
+         big 
+         data" and analytics 
+         ● Experience in configuration management and deployment of developed code. 
+         ● Experience with requirements gathering, design documentation, test case development, system & integration testing, user acceptance testing and deployment 
+         ● Ability to troubleshoot in Cognos application regarding Access controls, Dashboard issues etc. 
+         ● Knowledge in proper start-up and restart sequence of Cognos Services from the Gateway, Reporting and Content Management servers.

@@ -1,0 +1,8 @@
+• Architected and delivered a Greenfield project for monitoring and troubleshooting the mobile networks. 
+         • Expanded the new development team from ground zero to meet the demanding business needs. 
+         • Improved the application performance to 85% by identifying and eliminating the critical bottlenecks. 
+         • Volunteered to take on the role of Agile Project Manager for the full implementation of Agile methodology to lead Agile continuous process improvement by being the Scrum Master for our Community of Practice. 
+         • Introduced new Agile tools and CI/CD processes to streamline code promotion, increased team velocity by 40%. 
+         • Work collaboratively in a multidisciplinary team on product roadmaps, cross-platform feature implementation, scrum iterations and also on Continuous Integration (CI) and Continuous Delivery (CD). 
+         • Work closely with 
+         engineers, product managers, and QA teams to negotiate, prioritize, troubleshoot, and resolve all issues.

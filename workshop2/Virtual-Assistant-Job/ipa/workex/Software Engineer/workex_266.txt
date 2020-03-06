@@ -1,0 +1,27 @@
+Customer: One of the 
+         big four banks in Australia 
+         Description: Deploy Unix/Linux servers, perform Disaster Recovery test and setup Cloud infrastructure 
+          
+         Responsibilities: 
+         * Performed many Disaster Recovery (DR) tests- which includes recovery and Restoration. 
+         * Created shell scripts to automate repetitive server build tasks, monitor system health, package installation and Server hardening. 
+         * Installed and managed several Linux and IBM AIX and Solaris, systems which include disk setup, network configuration, performance management, tuning, security, backup/recovery and OS patching. 
+         * Deployed High availability systems using Veritas cluster and IBM PowerHA 
+         * Trouble shoot Cluster files system and other cluster related issues 
+         * Mentoring and provide training to junior members of the team and effectively and swiftly onboard them 
+         * Good Understanding of security and reliability implications of financial services or similar industry 
+          
+         3 FICOCustomer: One of the 
+         big four banks in Australia 
+         Description: Deploy Unix/Linux servers, perform Disaster Recovery test and setup Cloud infrastructure 
+          
+         Responsibilities: 
+         * Performed many Disaster Recovery (DR) tests- which includes recovery and Restoration. 
+         * Created shell scripts to automate repetitive server build tasks, monitor system health, package installation and Server hardening. 
+         * Installed and managed several Linux and IBM AIX and Solaris, systems which include disk setup, network configuration, performance management, tuning, security, backup/recovery and OS patching. 
+         * Deployed High availability systems using Veritas cluster and IBM PowerHA 
+         * Trouble shoot Cluster files system and other cluster related issues 
+         * Mentoring and provide training to junior members of the team and effectively and swiftly onboard them 
+         * Good Understanding of security and reliability implications of financial services or similar industry 
+          
+         3 FICO

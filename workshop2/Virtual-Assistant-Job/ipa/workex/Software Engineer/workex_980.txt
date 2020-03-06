@@ -1,0 +1,9 @@
+• Account IDS in charge of MayBank's storage facilities 
+         • Project coordination and implementation for storage migration 
+         • Installation, configuration of enterprise grade SAN storage(CX and DMX) and NAS (NX) 
+         • Installation, configuration of enterprise grade Virtual Tape Library (
+         Data Domain, DL4000 series) 
+         • Perform integration of enterprise grade storage with Unix, windows and Linux hosts. 
+         • Provide consultation on storage integration with IBM AIX and Linux systems. 
+         • Was assign a major customer within three months of joining the company 
+         • Achieved ITIL(v3) and EMCISA within 3 months of joining the company

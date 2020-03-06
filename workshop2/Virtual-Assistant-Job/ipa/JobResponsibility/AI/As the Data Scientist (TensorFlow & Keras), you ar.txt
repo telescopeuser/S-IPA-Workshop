@@ -1,0 +1,1 @@
+Analysing data and identifying key prediction and classification problemsFormulating machine learning algorithms and building predictive models in accordance to business metricsResearching the outcomes from existing predictive models to measure the impact of the technologies

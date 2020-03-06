@@ -1,0 +1,9 @@
+▪ Evaluated candidates eligibility for loan approval based on personal particulars. Built and trained various machine 
+         learning/ deep learning models(SVM, CNN, Random forests, Naive Bayes) 
+         ▪ Performed 
+         data cleaning, 
+         data preprocessing and exploratory 
+         data analysis using python(sklearn, pandas, numpy) that 
+         outperformed the current business process of the sales organization. 
+         ▪ Developed complicated SQL scripts to join different tables in Order to Cash and Procure to Pay modules to built BI reports. 
+         ▪ Developed complicated SQL scripts for Customer Relationship management module to integrate the Databases with the Salesforce for millions of records.

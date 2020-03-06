@@ -1,0 +1,6 @@
+Proficient in RDBMS such as PostgresQL or MySQL; and statistical programming in languages like R, Python, Java, C++ or SAS
+Experience in ETL, feature selections, modeling, model validation and conducting data analyses using R, SQL, Python or any JVM languages
+Deep understanding and implementation experience of predictive modeling algorithms such as logistic regression, neural networks, forward propagation, decision trees and heuristic models, with familiarity dealing with trade offs between model performance and business needs
+Experience in interfacing with other teams and departments to deliver impact solutions for organisation
+Self-motivated, independent learner, and enjoy sharing knowledge with team members
+Detail-oriented and efficient time manager in a dynamic and fast-paced working environment
