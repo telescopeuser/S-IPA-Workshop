@@ -25,40 +25,44 @@ text_dataset_vectorize_code = '''
 
 exercise_one = '''
     t.init()
-	t.url("https://www.iss.nus.edu.sg/")
-	t.wait(5)
-	t.hover('//a[@id="about"]')
-	t.click('//a[contains(@href,"teaching-staff")]')
-	t.wait(3)
-	while t.present("//a[contains(@class,'catalogue_pagination_bttn pagination_next')]"):
-		current_page_num = t.count("//div[@class='block-profile-thumb']")
-		for i in range(1,current_page_num+1):
-			name = hover_and_read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@href,'/about-us/staff/detail')]")
-			email_text = t.read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@onclick,'sendemail')]/@onclick")
-			email = eval(email_text.replace('sendemail',''))[0] + '@' + eval(email_text.replace('sendemail',''))[1]
-			iss_profile_link = t.read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@href,'/about-us/staff/detail')]/@href")
-			print(name)
-			print(email)
-			print(iss_profile_link)
-			print()
-			
-			lectures.append({'name':name,
-						 'email':email,
-						 'iss_profile_link':'https://www.iss.nus.edu.sg' + iss_profile_link})
-		t.click("//a[contains(@class,'catalogue_pagination_bttn pagination_next')]")
-		t.wait(3)
-	t.close()
+    t.url("https://www.iss.nus.edu.sg/")
+    t.wait(5)
+    t.hover('//a[@id="about"]')
+    t.click('//a[contains(@href,"teaching-staff")]')
+    t.wait(3)
 
-	selected_lectures = lectures[:10]
+    while True:
+        current_page_num = t.count("//div[@class='block-profile-thumb']")
+        for i in range(1,current_page_num+1):
+            name = hover_and_read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@href,'/about-us/staff/detail')]")
+            email_text = t.read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@onclick,'sendemail')]/@onclick")
+            email = eval(email_text.replace('sendemail',''))[0] + '@' + eval(email_text.replace('sendemail',''))[1]
+            iss_profile_link = t.read(f"(//div[@class='block-profile-thumb'])[{i}]//a[contains(@href,'/about-us/staff/detail')]/@href")
+            print(name)
+            print(email)
+            print(iss_profile_link)
+            print()
 
-	t.init()
-	for lecture in selected_lectures:
-		t.url(lecture['iss_profile_link'])
-		t.wait(3)
-		t.snap('page', ('exercise_1/' + lecture['name'] + '_profile.png').replace(' ',''))
-		lecture['snapshot_location'] = ('exercise_1/' + lecture['name'] + '_profile.png').replace(' ','')
-	t.close()
+            lectures.append({'name':name,
+                         'email':email,
+                         'iss_profile_link':'https://www.iss.nus.edu.sg' + iss_profile_link})
+        if t.present("//a[contains(@class,'catalogue_pagination_bttn pagination_next')]"): # the xpath of next page button
+            t.click("//a[contains(@class,'catalogue_pagination_bttn pagination_next')]")
+            t.wait(3)
+        else:
+            break
+    t.close()
 
+    selected_lectures = lectures[:10]
+    # selected_lectures = lectures
+
+    t.init()
+    for lecture in selected_lectures:
+        t.url(lecture['iss_profile_link'])
+        t.wait(3)
+        t.snap('page', ('exercise_1/' + lecture['name'] + '_profile.png').replace(' ',''))
+        lecture['snapshot_location'] = ('exercise_1/' + lecture['name'] + '_profile.png').replace(' ','')
+    t.close()
 '''
 
 exercise_two='''

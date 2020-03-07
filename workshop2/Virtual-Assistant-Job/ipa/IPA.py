@@ -20,6 +20,8 @@ from lxml import html
 import nltk
 from nltk.stem import WordNetLemmatizer
 
+np.random.seed(1234)
+
 class util:
     def __init__(self):
         self.output=[]
@@ -63,7 +65,7 @@ class Resume:
             print('Error converting files')    
         
     def extract_projects(self,documents,htmlfile=None,txtfile=None):
-        TfidfVec = StemmedTfidfVectorizer(min_df=1,stop_words='english',analyzer='word')
+        TfidfVec = StemmedTfidfVectorizer(stop_words=None,analyzer='word',encoding='utf-8')
         
         RE_INT = re.compile(r'[0-9]{4}$')
         print('Extracting project information...')
@@ -130,26 +132,37 @@ class Resume:
             for jobtyp,desc in documents.items():
                 projectsScore=[]
                 for k,v in mapping.items():
-                    desc.append('.'.join(mapping[k]))
-                    tfidf=TfidfVec.fit_transform(desc)
-                    similarityval=np.average(cosine_similarity(tfidf[-1],tfidf)[:,:-1])
-                    # print(similarityval)
-                    if(similarityval>=0.01):
-                        projectsScore.append((k,similarityval))
-                    desc=desc[:-1]
+                    try:
+                        desc.append('.'.join(mapping[k]))
+                        tfidf=TfidfVec.fit_transform(desc)
+                        similarityval=np.average(cosine_similarity(tfidf[-1],tfidf)[:,:-1])
+                        # print(similarityval)
+                        if(similarityval>=0.01):
+                            projectsScore.append((k,similarityval))
+                        desc=desc[:-1]
+                    except:
+                        similarityval=np.nanmean(cosine_similarity(tfidf[-1],tfidf)[:,:-1])
+                        # print(similarityval)
+                        if(similarityval>=0.01):
+                            projectsScore.append((k,similarityval))
+                        desc=desc[:-1]
                 projtypScore[jobtyp]=projectsScore.copy()
         
             typscores=[]
             for idx,scores in projtypScore.items():
                 typscores.append(np.average([float(s[1]) for s in scores]))
+            
             maxIndx=np.argmax(typscores)
+            
             self.resumeType= list(projtypScore.keys())[maxIndx]
             if(np.max(typscores)<0.01):
                 self.resumeType='other'
-    #        print(typscores)
-    #        print(self.resumeType)
+#             print(typscores)
+#             print(self.resumeType)
             if(self.resumeType!='other'):
                 self.projects=projtypScore[self.resumeType]
+                
+            
 
             self.mapping={}
             for k,v in mapping.items():
@@ -167,7 +180,10 @@ class Resume:
                     self.mapping[k]=('-'.join(dates),v)#.replace('•','.').replace('','.')
         except Exception as e:
             print(e)
-            print('Error extracting project information')            
+            raise(e)
+            print('Error extracting project information')
+        if not self.resumeType :
+            self.resumeType = 'AI'
 
         return self.resumeType,self.mapping
     
@@ -257,17 +273,18 @@ class ApplicantDB:
         os.chdir(folderLoc)
         self.documents={}
         thisdir = os.getcwd()
-        for subdir in os.listdir(thisdir):    
-            for item in os.walk(subdir):
-                files=item[2]
-                workex=[]
-                for file in files:
-                    if(file.startswith('workex') and file.endswith('.txt')):
-                        with open(subdir + '/'+ file,'r',encoding='utf-8') as f:
-                            text=f.read()
-                            if(text not in workex):
-                                workex.append(text)                                
-                self.documents[subdir]=workex.copy() 
+        for subdir in os.listdir(thisdir):  
+            if subdir[0] != '.':
+                for item in os.walk(subdir):
+                    files=item[2]
+                    workex=[]
+                    for file in files:
+                        if(file.startswith('workex') and file.endswith('.txt')):
+                            with open(subdir + '/'+ file,'r',encoding='utf-8') as f:
+                                text=f.read()
+                                if(text not in workex):
+                                    workex.append(text)                                
+                    self.documents[subdir]=workex.copy() 
 
 class JobDB:
     def __init__(self,folderLoc):
@@ -277,17 +294,18 @@ class JobDB:
         self.documents={}
         thisdir = os.getcwd()
         for subdir in os.listdir(thisdir):
-            if(subdir!='Manager'):
-                for item in os.walk(subdir):
-                    files=item[2]
-                    jobDesc=[]
-                    for file in files:
-                        if(file.endswith('.txt')):
-                            with open(subdir + '/'+ file,'r',encoding="unicode_escape") as f:
-                                text=f.read()
-                                if(text not in jobDesc):
-                                    jobDesc.append(text)                                
-                    self.documents[subdir]=jobDesc.copy()
+            if subdir[0] != '.':
+                if(subdir!='Manager'):
+                    for item in os.walk(subdir):
+                        files=item[2]
+                        jobDesc=[]
+                        for file in files:
+                            if(file.endswith('.txt')):
+                                with open(subdir + '/'+ file,'r',encoding="unicode_escape") as f:
+                                    text=f.read()
+                                    if(text not in jobDesc):
+                                        jobDesc.append(text)                                
+                        self.documents[subdir]=jobDesc.copy()
 
 class Job:
     def __init__(self,jobFilePath,fileFormat='pdf'):

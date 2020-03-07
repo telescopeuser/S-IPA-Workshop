@@ -15,8 +15,6 @@ applicationDB = ApplicantDB(os.path.join(IPA_EXECUTE_PATH, "workex/"))
 roleDB=JobDB(os.path.join(IPA_EXECUTE_PATH, "JobResponsibility"))
 reqDB=JobDB(os.path.join(IPA_EXECUTE_PATH, "JobRequirement"))
 
-company_emails = ['liyingxujiachen@gmail.com']
-
 class CoverLetterGenerator(object):
     
 
@@ -83,6 +81,7 @@ class CoverLetterGenerator(object):
         resume_data['project_experience'] = str(project_infos)
         resume_data['education_experience'] = str(education_infos)
         print("Processing the resume done")
+        print("Resume Type:" + resume_data['type'])
         return resume_data
 
 
@@ -98,12 +97,12 @@ class CoverLetterGenerator(object):
         jobtype,role,req = _job.extract(roleDB.documents,reqDB.documents)
 
         job_data = {}
-        job_data['email'] = random.choice(company_emails)
+        job_data['email'] = ''
         job_data['description'] = str(req)
         job_data['requirement'] = str(role)
         job_data['type'] = jobtype
         os.chdir(SCRIPT_PATH)
-        
+        print("Job Type:" + job_data['type'])
         return job_data
 
     @staticmethod

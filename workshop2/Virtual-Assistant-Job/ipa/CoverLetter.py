@@ -18,6 +18,8 @@ import string
 from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize
 
+np.random.seed(123)
+
 class CoverLetter:
 
     def __init__(self,para1,para2,para3,para4):
@@ -278,6 +280,10 @@ class CoverLetter:
                         para2=para2.replace(key,str(self.__dict__[key[1:][:-1]]))
                         para3=para3.replace(key,str(self.__dict__[key[1:][:-1]]))
                         para4=para4.replace(key,str(self.__dict__[key[1:][:-1]]))
+                    para1=para1.replace('[workexline2]','')
+                    para2=para2.replace('[workexline2]','')
+                    para3=para3.replace('[workexline2]','')
+                    para4=para4.replace('[workexline2]','')
 
                 cover_letters.append({'letter':[para1,para2,para3,para4]})
     
