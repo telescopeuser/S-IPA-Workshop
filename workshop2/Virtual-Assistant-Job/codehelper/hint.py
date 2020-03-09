@@ -150,7 +150,7 @@ ipa_exercise_one = '''
             t.click('//button[@aria-label="Search"]')
             t.wait(3)
             num_email=t.count('//div[@class="_1hHMVrN7VV4d6Ylz-FsMuP _18LAllQi61d4a4XNAr9prg"]')
-            print('The number of job opportunity emails from luminus is: ',num_email)
+            print('The number of job opportunity emails is: ',num_email)
             jd_files=[]
             for n in range(1,num_email+1):
                 t.click(f'(//div[@class="_1hHMVrN7VV4d6Ylz-FsMuP _18LAllQi61d4a4XNAr9prg"])[{n}]')

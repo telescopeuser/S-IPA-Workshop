@@ -1,5 +1,0 @@
-Reporting to the CTO, earned the position of team lead and successfully delivered a simulation system worth SGD$50 million for the Singapore Armed Forces. Understudied and transferred knowledge from technology leader during an overseas stint in Israel for 2 years. 
-          
-         • Engineered network APIs using C and JavaScript, based on Agile methodologies. 
-          
-         • Project managed and ensured deliverables were within specs / budget / time during the SDLC. Conducted successful UAT for clients.
